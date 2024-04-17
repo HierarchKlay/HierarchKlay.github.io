@@ -1,0 +1,31 @@
+== 搭建 GitHub 博客
+ [https://blog.csdn.net/qq_34106574/article/details/82704883 \[参考，CSDN - 搭建自己的github.io博客\]] \n
+. 新建一个命名为 +{YOUR_NAME}.github.io+ 代码库
+. 进入 \"设置（setting）\" -> \"页面（Pages）\" 完成配置
+. 当页面显示 +\"Your site is published at https://{YOUR_NAME}.github.io/\"+ 时，便可直接访问该域名。
+
+== 编辑基于 jemdoc 的学术风格博客页面
+. 拉取仓库代码到本地，进入该项目目录，准备编辑（原来的初始化仓库时生成的文件都可以删掉）
+. 从 [http://jemdoc.jaboc.net/index.html jemdoc 官网] 下载 [http://jemdoc.jaboc.net/dist/jemdoc.py jemdoc.py] 和 [http://jemdoc.jaboc.net/dist/jemdoc.css jemdoc.css] 两个文件，存到项目目录下
+. 创建空的模板文件 +index.jemdoc+，按照[https://github.com/Y-boy/Y-boy.github.io/blob/master/example.jemdoc 示例模板]或[http://jemdoc.jaboc.net/example.html 教程]的案例编辑内容
+. 执行命令 +\# python2 jemdoc.py index.jemdoc+，将编译得到最终使用的 +html+ 文件（每次更新了 +.jemdoc+ 模板文件后都要执行一次该命令以刷新 +html+ 文件）
+. 将更新的文件提交到 GitHub 仓库上，重新访问博客页面 （+https://{YOUR_NAME}.github.io+）
+
+== 附：一些细节
+=== 关于图片
+在项目目录下创建 +/pictures+ 目录，用于存放所有图片，当图片上传至 GitHub 仓库之后可以查看该图片的 URL，之后再写到文档模板中，可参考[https://github.com/Y-boy/Y-boy.github.io/blob/master/example.jemdoc 示例模板]中关于插入图片的语句。\n
+
+=== 关于菜单
+- 创建空的菜单文件 +MENU+ ，编辑内容如下
+~~~
+{}{}
+menu 1
+  home      [index.html]
+  about me  [me.html]
+menu 2 
+  link      [http://jemdoc.jaboc.net/]
+~~~
+- 在需要关联菜单的 +.jemdoc+ 模板文件上，首行使用语句 +jemdoc: menu{MENU} {CURRENT_FILE_NAME.html}+ ，表示在所生成的 +html+文件中附上菜单
+
+=== 格式
+（*文字加粗*、/文字斜体/、+文字高亮+） \n
