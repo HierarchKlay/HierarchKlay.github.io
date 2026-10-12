@@ -1,3 +1,11 @@
+## 2026-10-13 · Anthropic compatibility test
+
+- At the user's explicit request, removed application-level subscription key/domain rejection.
+- Automatically route `/apps/anthropic` to Messages and preserve the existing Responses/search path for OpenAI-compatible URLs.
+- First Anthropic test supports plain text Q&A and conversation/card context; requires web search to be unchecked. No client impersonation or permission-rejection retries.
+- Retained user authentication, member allowlist, daily quotas, and secret isolation; reject credential-bearing URLs and redirects. Provider errors expose HTTP status without raw diagnostic bodies.
+- Mock endpoint tests pass for both protocols, search labeling, error handling, and auth/quota enforcement. No real model key was received or invoked. Supabase must be redeployed by its owner.
+
 ## 2026-10-13 · User Supabase project configuration
 
 - Configured the public project URL and publishable key supplied by the user.

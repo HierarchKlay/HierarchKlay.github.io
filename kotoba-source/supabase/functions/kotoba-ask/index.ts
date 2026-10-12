@@ -1,4 +1,4 @@
-import {buildRequest,normalizeResponse} from './logic.mjs';
+import {buildRequest,normalizeResponse,resolveProvider} from './logic.mjs';
 
 Deno.serve(async (req: Request) => {
   const allowed=(Deno.env.get('ALLOWED_ORIGINS')||'https://hierarchklay.github.io,https://kotoba-daily-demo.hierarch-klay.chatgpt.site').split(',').map(s=>s.trim());
@@ -20,16 +20,18 @@ Deno.serve(async (req: Request) => {
     if(!auth.ok)return json({error:'登录已过期，请重新登录。'},401);
     const user=await auth.json();
     if(!user.id||user.is_anonymous)return json({error:'请使用已开通的学习账号。'},403);
-    const apiKey=Deno.env.get('DASHSCOPE_API_KEY')||'';
-    const base=Deno.env.get('QWEN_BASE_URL')||'';
+    const apiKey=(Deno.env.get('DASHSCOPE_API_KEY')||'').trim();
+    const base=(Deno.env.get('QWEN_BASE_URL')||'').trim();
     if(!apiKey||!base)return json({error:'日语问答尚未配置百炼接口。'},503);
-    if(apiKey.startsWith('sk-sp-')||/token-plan|coding[.-]/i.test(base))return json({error:'网页问答需要普通百炼 API Key 和通用接口，不能使用 Coding Plan 接口。'},503);
-    const endpoint=new URL(base.replace(/\/$/,'')+'/responses');
-    if(endpoint.protocol!=='https:'||!/(^|\.)(maas\.aliyuncs\.com|dashscope\.aliyuncs\.com|dashscope-intl\.aliyuncs\.com)$/.test(endpoint.hostname))return json({error:'百炼接口地址配置有误。'},503);
+    // Protocol follows the configured endpoint; subscription/key prefixes are
+    // not an application-level rejection rule. Provider authorization still applies.
+    let provider;
+    try{provider=resolveProvider(base);}
+    catch{return json({error:'百炼接口地址配置有误，请填写不带请求路径的 Base URL。'},503);}
     const raw=await req.text();
     if(new TextEncoder().encode(raw).length>24000)return json({error:'问题或对话过长，请开始新对话。'},413);
     let request;
-    try{request=buildRequest(JSON.parse(raw),Deno.env.get('QWEN_MODEL')||'qwen3.8-max');}
+    try{request=buildRequest(JSON.parse(raw),Deno.env.get('QWEN_MODEL')||'qwen3.8-max',provider.kind);}
     catch(e){return json({error:e instanceof SyntaxError?'请求格式有误。':e instanceof Error?e.message:'请求格式有误。'},400);}
     const limit=Math.max(1,Math.min(200,Number(Deno.env.get('AI_DAILY_LIMIT'))||40));
     const quota=await fetch(supabaseUrl+'/rest/v1/rpc/kotoba_take_ai_quota',{
@@ -37,8 +39,15 @@ Deno.serve(async (req: Request) => {
       body:JSON.stringify({p_user:user.id,p_limit:limit}),signal:AbortSignal.timeout(10000)});
     if(!quota.ok)return json({error:'问答权限尚未配置完成。'},503);
     if(await quota.json()!==true)return json({error:'此账号尚未开通问答，或今日提问次数已用完。'},429);
-    const upstream=await fetch(endpoint,{method:'POST',headers:{Authorization:'Bearer '+apiKey,'Content-Type':'application/json'},body:JSON.stringify(request),signal:AbortSignal.timeout(65000)});
-    if(!upstream.ok)return json({error:upstream.status===429?'模型服务繁忙或额度不足，请稍后重试。':'百炼调用未成功，请检查模型、地域、通用 Key 和账户余额。',upstreamStatus:upstream.status},502);
-    return json(normalizeResponse(await upstream.json()));
+    const providerHeaders:Record<string,string>={Authorization:'Bearer '+apiKey,'Content-Type':'application/json'};
+    if(provider.kind==='anthropic')providerHeaders['anthropic-version']='2023-06-01';
+    const upstream=await fetch(provider.endpoint,{method:'POST',headers:providerHeaders,body:JSON.stringify(request),redirect:'error',signal:AbortSignal.timeout(65000)});
+    if(!upstream.ok){
+      const hint=upstream.status===429?'模型服务繁忙或额度不足。':
+        [401,403].includes(upstream.status)?'请检查 Key、接口权限及套餐使用范围。':
+        upstream.status===404?'请检查接口地址及模型名称。':'请检查模型、接口参数、地域和账户状态。';
+      return json({error:`百炼调用未成功（HTTP ${upstream.status}）。${hint}`,upstreamStatus:upstream.status},502);
+    }
+    return json(normalizeResponse(await upstream.json(),provider.kind));
   }catch(e){return json({error:e instanceof Error&&e.name==='TimeoutError'?'查询超时，请稍后重试。':'查询暂时失败，请稍后重试。'},502);}
 });
