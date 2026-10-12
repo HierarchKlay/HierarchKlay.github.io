@@ -1,3 +1,9 @@
+## 2026-10-13 · User Supabase project configuration
+
+- Configured the public project URL and publishable key supplied by the user.
+- Verified Auth settings respond successfully. The progress table and Qwen function were not yet present; live sync and model calls remain pending user-side initialization.
+- Updated the setup guide with this project's deployment command. No administrative/model secrets were received or committed.
+
 ## 2026-10-13 · v0.5 cloud integration preparation
 
 - Added Supabase email/password sign-in and per-item offline progress merging; practice event IDs deduplicate copied backups and retries.

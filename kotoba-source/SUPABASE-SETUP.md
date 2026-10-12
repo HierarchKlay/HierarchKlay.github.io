@@ -1,6 +1,6 @@
 # 日々ことば：连接 Supabase 与 Qwen
 
-当前状态：网页入口、进度合并代码、数据库迁移和问答函数已准备好。`cloud-config.json` 仍为空，尚未连接任何 Supabase 项目，也没有配置模型密钥。完成下面配置后才会实际同步、产生问答调用。
+当前状态（2026-10-13）：网站已填写用户提供的 Supabase 项目 `mtszdktdpjipjvbspetr` 和 publishable key。Auth 接口验证通过；检查时学习表 `kotoba_progress` 尚未创建，`kotoba-ask` 函数尚未部署。继续完成第 2、4、5 步即可；建项目和填写网页公开配置已经完成。尚未验证真实登录后的同步或 Qwen 调用。
 
 ## 1. 创建你的 Supabase 项目
 
@@ -73,11 +73,13 @@ https://你的WorkspaceId.cn-beijing.maas.aliyuncs.com/compatible-mode/v1
 
 ## 5. 部署问答函数
 
-从仓库检出最新代码，在 `kotoba-source/` 目录执行（本地 Node.js 20 或更新）：
+首次部署可以在终端执行下面命令（本地需有 Git、Node.js 20 或更新；选择不存在的本地目录名 `kotoba-setup`）：
 
 ```bash
+git clone --depth 1 https://github.com/HierarchKlay/HierarchKlay.github.io.git kotoba-setup
+cd kotoba-setup/kotoba-source
 npx supabase login
-npx supabase functions deploy kotoba-ask --project-ref 你的项目编号
+npx supabase functions deploy kotoba-ask --project-ref mtszdktdpjipjvbspetr
 ```
 
 `supabase/config.toml` 已设置函数入口不使用旧式网关 JWT 校验；函数内部会通过 Supabase Auth `/user` 验证每次访问令牌，并通过服务端权限表与额度检查决定是否调用模型。不能删除这些验证或把函数改成公开代理。

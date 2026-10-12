@@ -1,5 +1,5 @@
 {
-  "supabaseUrl": "",
-  "publishableKey": "",
+  "supabaseUrl": "https://mtszdktdpjipjvbspetr.supabase.co",
+  "publishableKey": "sb_publishable_VEWsC3FXgQvfgYCD9zsSPg_2JXMu14C",
   "questionFunction": "kotoba-ask"
 }
