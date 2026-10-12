@@ -48,6 +48,6 @@ Deno.serve(async (req: Request) => {
         upstream.status===404?'请检查接口地址及模型名称。':'请检查模型、接口参数、地域和账户状态。';
       return json({error:`百炼调用未成功（HTTP ${upstream.status}）。${hint}`,upstreamStatus:upstream.status},502);
     }
-    return json(normalizeResponse(await upstream.json(),provider.kind));
+    return json(normalizeResponse(await upstream.json(),provider.kind,!!request.tools?.length));
   }catch(e){return json({error:e instanceof Error&&e.name==='TimeoutError'?'查询超时，请稍后重试。':'查询暂时失败，请稍后重试。'},502);}
 });

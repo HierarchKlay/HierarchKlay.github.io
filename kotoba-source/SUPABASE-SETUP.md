@@ -1,6 +1,6 @@
 # 日々ことば：连接 Supabase 与 Qwen
 
-当前状态（2026-10-13）：网站已配置用户提供的 Supabase 项目 `mtszdktdpjipjvbspetr` 和 publishable key。用户已完成 `kotoba-ask` 首次部署；只读检查确认函数响应、未登录请求被拒绝，学习表已存在且匿名访问被拒绝。真实登录后的跨端同步和 Qwen 调用仍未验证。本次增加 Anthropic 普通问答兼容性测试，需要拉取新代码后重新部署函数。
+当前状态（2026-10-13）：用户已确认 Token Plan + `qwen3.8-max` 的普通问答能正常回复。最新代码增加 Anthropic 联网搜索验证、Markdown 渲染和日语助教预设。前端随网站发布生效；后端需要拉取并重新部署 `kotoba-ask`。真实联网检索仍等待使用用户现有 Key 验证，不能把普通问答成功或模拟测试通过当作联网成功。跨端同步仍需实际账号验证。
 
 ## 1. 创建你的 Supabase 项目
 
@@ -51,7 +51,7 @@ on conflict do nothing;
 
 私密配置只放 Supabase → Edge Functions → Secrets，不写入网页、GitHub、聊天或截图。
 
-### 本次：用现有 Token Plan Key 验证普通问答
+### 本次：沿用现有 Token Plan Key 验证联网搜索
 
 用户明确要求先移除应用对套餐类型的硬拦截并验证技术兼容性。当前代码不再按 `sk-sp-` 前缀或套餐域名拒绝请求；会根据 Base URL 自动选择协议。你提供的 `token-plan.../apps/anthropic` 在官方文档中属于 Token Plan。应用不会冒充 Claude Code，也不会绕过提供方实际返回的认证、权限或额度限制。
 
@@ -67,15 +67,23 @@ on conflict do nothing;
 
 `SUPABASE_URL` 和 `SUPABASE_SERVICE_ROLE_KEY` 由 Supabase 托管函数提供。Key 只由服务端发给配置的百炼域名，浏览器收不到模型 Key。
 
-代码会发送到 `/apps/anthropic/v1/messages`。先使用最小普通问答配置：非流式、关闭深度思考、不带搜索工具。网站提问前必须取消“联网检索”，可以保留“带上当前词卡”；多轮对话照常传递。未取消联网时会在调用模型前提示，不会偷偷改为未联网回答。
+代码会发送到 `/apps/anthropic/v1/messages`。不勾选联网时保持此前已实测成功的普通问答配置。勾选联网时，按百炼官方《联网搜索》的 SDK/HTTP 示例添加 `web_search_20250305` 服务端工具及其要求的 system 兼容标记，单次最多 3 次搜索。没有模拟其他客户端的 User-Agent，也不会在提供方拒绝请求后换身份重试。
 
 测试步骤：
 
-1. 按第 5 步拉取并重新部署函数。
-2. 保存上述 Secrets，打开学习网站并登录已开通的账号。
-3. 取消“联网检索”，提问：`用中文简短解释「迎える」，并给一个日语例句。`
-4. 若有真实回答，说明本次请求在该 Key、模型和运行环境下成功；还不能据此认定联网功能或长期可用性已经验证。
-5. 若显示 `HTTP 401/403/404/429`，记录完整网页错误文字。应用不会自动改客户端身份或换地址重试；不要把 Key 发出来。
+1. 按第 5 步拉取并重新部署函数；现有三个 Qwen Secrets 不需要改。
+2. 刷新学习网站并登录，勾选“联网检索”，模式保持“日语助教”。
+3. 提问：`请联网查日语词典中「迎える」的常用义，给两个例句，并附实际检索到的来源链接。`
+4. 回答下方应显示“已联网检索”和来源链接。成功状态仅根据结构化检索结果、引用、工具调用计数判断，回答正文中的“我查到了”或普通链接不算证据。
+5. 若显示“未触发联网检索”“未收到成功结果”或“联网检索失败”，记录具体状态；不要把这次回答当作已联网核实。部分成功会单独标注。若显示 `HTTP 401/403/404/429`，记录网页错误文字，不要发送 Key。
+
+`server_tool_use` 只表示发起检索，不能单独证明成功；工具返回错误时不能因计数大于零就标成成功。来源来自 `web_search_tool_result` / 结构化引用，去重并只保留 HTTP(S) 链接。未完成的模型输出会提示继续追问。
+
+### 日语助教与 Markdown
+
+默认系统提示词在 `supabase/functions/kotoba-ask/prompts.mjs`。每次请求自动附加，不需要用户重复说明是在学日语。包含：中文讲解、常用写法、例句读音与译文、搭配和语体、声调不猜测、检索来源与不确定性说明、简洁 Markdown。前端可选“日语助教 / 词义辨析 / 语法解析 / 句子纠错”；未知模式会回退默认，不能从浏览器注入任意系统提示词。
+
+网页内置 Marked + DOMPurify，支持标题、加粗、列表、引用、代码和表格。表格可横向滚动。原始 HTML 和图片作为惰性文本处理，危险链接不可点击；这些库随网站自托管，不依赖外部 CDN。
 
 官方目前对 Token Plan/Coding Plan 的自建后端使用有范围限制。技术连通性测试结果和套餐允许范围应分别判断，见文末的 Base URL 与“更多工具”官方说明。
 
@@ -111,7 +119,7 @@ npx supabase functions deploy kotoba-ask --project-ref mtszdktdpjipjvbspetr
 
 不需要再次创建数据库或复制学习进度。仅保存 Secrets 不会把旧函数代码更新成新版，必须完成上面的重新部署。
 
-如果在 Dashboard 编辑器部署，需同时添加 `index.ts` 和同目录 `logic.mjs`，并保持同样的 JWT 配置。
+如果在 Dashboard 编辑器部署，需同时添加 `index.ts`、同目录 `logic.mjs` 和 `prompts.mjs`，并保持同样的 JWT 配置。
 
 ## 6. 接通后检查
 
@@ -121,17 +129,20 @@ npx supabase functions deploy kotoba-ask --project-ref mtszdktdpjipjvbspetr
 4. 网页底部提问，确认真实回答和来源；没有执行搜索时会明确显示，而不会伪装为已联网。
 5. 检查浏览器网络请求和仓库：只能看到 publishable key 与当前用户会话令牌，不能出现百炼 Key 或 Supabase 管理密钥。
 
-问答历史只保留在当前页面，点击新对话或刷新后清空；不会自动同步聊天记录。界面默认联网开启；Anthropic 兼容性测试需取消，Responses 模式可以保留，但模型可能判断无需搜索。页面以服务端返回的真实搜索调用/来源为依据标记状态。
+问答历史只保留在当前页面，点击新对话或刷新后清空；不会自动同步聊天记录。界面默认联网开启；Anthropic 和 Responses 两种模式均请求实际检索，但模型可能未触发工具，或工具可能失败。页面以服务端返回的真实搜索调用/来源为依据标记状态。
 
 ## 验证与维护
 
-已提供 `test_cloud.mjs`、`test_endpoint.mjs` 和 `test_database.mjs`。数据库测试使用嵌入式 PostgreSQL（PGlite），验证合并、账号隔离和额度；接口测试使用模拟模型响应。仅通过模拟接口测试，不能据此声称真实 Key 或百炼端到端调用已通过。
+已提供 `test_cloud.mjs`、`test_endpoint.mjs`、`test_tutor.mjs` 和 `test_database.mjs`。数据库测试使用嵌入式 PostgreSQL（PGlite），验证合并、账号隔离和额度；接口测试使用模拟模型响应。仅通过模拟接口测试，不能据此声称真实 Key 或百炼端到端调用已通过。
 
 ```bash
 node test_core.mjs
 node test_app.mjs
 node test_cloud.mjs
 node test_endpoint.mjs
+# Markdown 的 DOM 安全验证（Node.js 24，测试依赖不在浏览器中使用）
+npm install --no-save --ignore-scripts jsdom@30.1.2
+node test_tutor.mjs
 # 可选数据库验证依赖；不在浏览器中使用
 npm install --no-save @electric-sql/pglite
 node test_database.mjs

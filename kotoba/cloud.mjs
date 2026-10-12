@@ -1,4 +1,5 @@
 import {emptyDocument,capture,snapshot,mergeDocuments,applyDocument} from './sync-model.mjs';
+import {renderMarkdown,searchLabel} from './markdown.mjs';
 const DOC_KEY='kotoba.cloud.document.v1',OWNER_KEY='kotoba.cloud.owner.v1',DEVICE_KEY='kotoba.cloud.device.v1';
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -36,7 +37,7 @@ export function attachCloud(ctx){
     $('#accountLabel').textContent=user?.email||'';
     $('#askInput').disabled=!ready||!user;
     $('#askSubmit').disabled=!ready||!user||asking;
-    $('#askStatus').textContent=!ready?'问答待接入；课程学习可正常使用。':!user?'登录后可向日语助教提问。':'默认开启联网检索，回答会注明是否实际检索。';
+    $('#askStatus').textContent=!ready?'问答待接入；课程学习可正常使用。':!user?'登录后可向日语助教提问。':'已设为日语助教。开启联网后，会显示实际检索状态与来源。';
   }
   async function sync(){
     if(!ready||!user)return;
@@ -102,8 +103,9 @@ export function attachCloud(ctx){
   $('#askForm').addEventListener('submit',async e=>{
     e.preventDefault();if(!ready||!user||asking)return;
     const question=$('#askInput').value.trim();if(!question)return;
+    const search=$('#searchOnline').checked,mode=$('#askMode').value;
     const id=++requestId;asking=true;$('#askSubmit').disabled=true;
-    $('#askStatus').textContent=$('#searchOnline').checked?'正在查询，可能需要几十秒…':'正在整理回答…';
+    $('#askStatus').textContent=search?'正在查询，可能需要几十秒…':'正在整理回答…';
     const bubble=document.createElement('article');bubble.className='ask-exchange';
     bubble.innerHTML=`<p class="ask-question">${esc(question)}</p><div class="ask-answer" aria-live="polite">正在整理回答…</div>`;
     $('#askMessages').appendChild(bubble);
@@ -111,14 +113,14 @@ export function attachCloud(ctx){
       const {data:{session}}=await client.auth.getSession();if(!session)throw Error('请重新登录。');
       const res=await fetch(config.supabaseUrl+'/functions/v1/'+encodeURIComponent(config.questionFunction||'kotoba-ask'),{
         method:'POST',headers:{'Content-Type':'application/json',apikey:config.publishableKey,Authorization:'Bearer '+session.access_token},
-        body:JSON.stringify({question,history:conversation.slice(-6),search:$('#searchOnline').checked,context:$('#includeCard').checked?ctx.card():''}),signal:AbortSignal.timeout(80000)});
+        body:JSON.stringify({question,history:conversation.slice(-6),search,mode,context:$('#includeCard').checked?ctx.card():''}),signal:AbortSignal.timeout(80000)});
       const data=await res.json();if(!res.ok)throw Error(data.error||'查询暂时失败，请稍后重试。');
       if(id!==requestId)return;
-      const answer=bubble.querySelector('.ask-answer');answer.textContent=data.answer;
-      const metadata=document.createElement('p');metadata.className='ask-meta';metadata.textContent=(data.searched?'已联网检索':'本次未返回已执行检索的证据')+(data.incomplete?' · 回答未完整生成，可继续追问':'');bubble.appendChild(metadata);
+      const answer=bubble.querySelector('.ask-answer');renderMarkdown(answer,data.answer);
+      const metadata=document.createElement('p');metadata.className='ask-meta';metadata.textContent=searchLabel(data,search)+(data.incomplete?' · 回答未完整生成，可继续追问':'');bubble.appendChild(metadata);
       if(data.sources?.length){
         const links=document.createElement('div');links.className='ask-sources';
-        for(const s of data.sources){let url;try{url=new URL(s.url);}catch{continue;}if(!['http:','https:'].includes(url.protocol))continue;
+        for(const s of data.sources){let url;try{url=new URL(s.url);}catch{continue;}if(!['http:','https:'].includes(url.protocol)||url.username||url.password)continue;
           const a=document.createElement('a');a.href=url.href;a.target='_blank';a.rel='noopener noreferrer';a.textContent=s.title||url.hostname;links.appendChild(a);}
         bubble.appendChild(links);
       }

@@ -35,4 +35,4 @@ The companion private ChatGPT Site is updated through the Sites workflow. Public
 
 ## Optional cloud sync and Japanese tutor
 
-See [SUPABASE-SETUP.md](SUPABASE-SETUP.md) for project setup, private study accounts, progress merging and the Qwen Responses API proxy and Anthropic plain-Q&A compatibility test. Until `cloud-config.json` is filled, progress remains local and the new controls show their pending status. Do not commit real model/admin credentials.
+See [SUPABASE-SETUP.md](SUPABASE-SETUP.md) for project setup, private study accounts, progress merging and the Qwen Responses API proxy and Anthropic web-search compatibility test, Japanese tutor presets and safe Markdown rendering. Until `cloud-config.json` is filled, progress remains local and the new controls show their pending status. Do not commit real model/admin credentials.

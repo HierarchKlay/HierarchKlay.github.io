@@ -23,7 +23,8 @@
     <section class="ask-panel" aria-labelledby="askTitle">
       <div class="cloud-heading"><div><p class="eyebrow">A QUESTION ALONG THE WAY</p><h2 id="askTitle">日语，随时问。</h2></div><button class="text-button" id="newQuestion">新对话</button></div>
       <div id="askMessages" class="ask-messages"></div>
-      <form id="askForm"><label for="askInput" class="sr-only">输入日语问题</label><textarea id="askInput" rows="2" maxlength="2000" placeholder="例如：迎える 和 歓迎する 有什么区别？" disabled required></textarea><div class="ask-tools"><label><input id="searchOnline" type="checkbox" checked> 联网检索</label><label><input id="includeCard" type="checkbox"> 带上当前词卡</label><button id="askSubmit" class="control primary" disabled>提问 ↗</button></div></form>
+      <p class="cloud-help ask-preset-note">中文讲解 · 例句附读音与译文 · 声调不猜测</p>
+      <form id="askForm"><label for="askInput" class="sr-only">输入日语问题</label><textarea id="askInput" rows="2" maxlength="2000" placeholder="例如：迎える 和 歓迎する 有什么区别？" disabled required></textarea><div class="ask-tools"><label class="ask-mode" for="askMode">模式 <select id="askMode"><option value="tutor">日语助教</option><option value="compare">词义辨析</option><option value="grammar">语法解析</option><option value="correction">句子纠错</option></select></label><label><input id="searchOnline" type="checkbox" checked> 联网检索</label><label><input id="includeCard" type="checkbox"> 带上当前词卡</label><button id="askSubmit" class="control primary" disabled>提问 ↗</button></div></form>
       <p id="askStatus" class="cloud-help" role="status">问答待接入；课程学习可正常使用。</p>
     </section>
     <section class="method"><span class="mini-seal" lang="ja">習</span><p><b>看见 → 理解 → 回想</b><br>本机自动存档；云同步接入后，同一账号可跨设备继续学习。</p><button id="aboutBtn" class="text-button">说明与来源 ↗</button></section>

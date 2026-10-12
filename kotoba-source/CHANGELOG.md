@@ -1,3 +1,11 @@
+## 2026-10-13 · Tutor search, Markdown and presets
+
+- User confirmed real Token Plan plain Q&A works. Actual native web search remains pending user-side verification after redeploy.
+- Added provider-documented Anthropic search tool configuration (up to 3 uses), structured sources and distinct success / partial / failed / unconfirmed / not-triggered states.
+- Added locally hosted Marked 18.1.1 and DOMPurify 3.4.17 with licenses; answers render headings, lists and responsive tables while blocking scripts, remote images and unsafe links.
+- Expanded the server-side Japanese tutor prompt with Chinese explanations, common orthography, example readings/translations and evidence requirements; added comparison, grammar and correction modes.
+- Core, app, cloud, mocked endpoint and DOM-based Markdown/search-evidence checks pass. Browser layout and real search credentials are not available in this environment.
+
 ## 2026-10-13 · Anthropic compatibility test
 
 - At the user's explicit request, removed application-level subscription key/domain rejection.
