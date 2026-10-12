@@ -1,0 +1,3 @@
+[functions.kotoba-ask]
+# The function validates the user's access token with Supabase Auth itself.
+verify_jwt = false

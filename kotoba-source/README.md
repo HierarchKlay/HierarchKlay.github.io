@@ -4,7 +4,7 @@ Study at https://hierarchklay.github.io/kotoba/ . This directory contains source
 
 ## Local checks
 
-Use Node.js 20+ and Python 3.11+. From `kotoba-source/`, copy the deployed frontend into a disposable build directory first:
+Use Node.js 24+ (for the TypeScript endpoint test) and Python 3.11+. From `kotoba-source/`, copy the deployed frontend into a disposable build directory first:
 
 ```sh
 cp -R ../kotoba ./dist
@@ -25,10 +25,14 @@ PDF rebuilding also requires reportlab and fontTools; `build_v3_pdf.py --out dis
 - Accent evidence is attached to each verified record. Missing accent evidence stays explicitly unavailable.
 - Audio sprites are synthesized with Open JTalk, not recorded by a human teacher, and do not validate dictionary accents. Preserve `audio/ATTRIBUTION.txt` and its license notice.
 - Lessons contain original study examples and translations, not a transcript or an exact frequency ranking from the referenced video.
-- Course content is public. Personal learning history remains in the browser, not GitHub.
+- Course content is public. Personal learning history remains local until optional Supabase sync is configured; it is never committed to GitHub.
 
 ## Publication
 
 The existing repository publishes its main branch root with GitHub Pages. Copy reviewed frontend outputs from `dist/` to `../kotoba/`, then commit with source changes. Do not modify the personal homepage outside `kotoba/` and `kotoba-source/`.
 
-The companion private ChatGPT Site is updated through the Sites workflow. Public and private hosts have different browser storage origins; use export/import to move progress.
+The companion private ChatGPT Site is updated through the Sites workflow. Public and private hosts have different browser storage origins; configure the same Supabase project for both hosts or use export/import to move progress.
+
+## Optional cloud sync and Japanese tutor
+
+See [SUPABASE-SETUP.md](SUPABASE-SETUP.md) for project setup, private study accounts, progress merging and the Qwen Responses API proxy. Until `cloud-config.json` is filled, progress remains local and the new controls show their pending status. Do not commit real model/admin credentials.

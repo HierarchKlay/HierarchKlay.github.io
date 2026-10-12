@@ -1,3 +1,4 @@
+const eventMeta=()=>({eventId:globalThis.crypto?.randomUUID?.()||Date.now().toString(36)+'-'+Math.random().toString(36).slice(2),at:new Date().toISOString()});
 export const RATINGS = ['again','familiar','known'];
 export function shuffled(ids, random=Math.random){
   const out=[...ids];
@@ -17,7 +18,7 @@ export function restoreState(raw,course){
   const kids=new Set((course.kanji||[]).map(k=>k.id));
   const kanjiRatings=Object.fromEntries(Object.entries(o.kanjiRatings||{}).filter(([id,v])=>kids.has(id)&&RATINGS.includes(v)));
   const kanjiReviews=Object.fromEntries(Object.entries(o.kanjiReviews||{}).filter(([id,v])=>kids.has(id)&&v&&/^\d{4}-\d{2}-\d{2}$/.test(v.due)).map(([id,v])=>[id,{due:v.due,level:Math.max(0,Math.min(6,Number(v.level)||0)),lastReviewed:v.lastReviewed||null}]));
-  const events=(Array.isArray(o.events)?o.events:[]).filter(e=>e&&/^\d{4}-\d{2}-\d{2}$/.test(e.date)&&['word','kanji'].includes(e.kind)&&(e.kind==='word'?ids:kids).has(e.id)&&RATINGS.includes(e.rating)).map(e=>({date:e.date,kind:e.kind,id:e.id,rating:e.rating,first:e.first===true,objective:e.objective===true,correct:e.correct===true,mode:String(e.mode||'self')}));
+  const events=(Array.isArray(o.events)?o.events:[]).filter(e=>e&&/^\d{4}-\d{2}-\d{2}$/.test(e.date)&&['word','kanji'].includes(e.kind)&&(e.kind==='word'?ids:kids).has(e.id)&&RATINGS.includes(e.rating)).map(e=>({...((typeof e.eventId==='string'&&e.eventId.length<4096)?{eventId:e.eventId}:{}),...(typeof e.at==='string'?{at:e.at}:{}),date:e.date,kind:e.kind,id:e.id,rating:e.rating,first:e.first===true,objective:e.objective===true,correct:e.correct===true,mode:String(e.mode||'self')}));
   return {version:4,selectedDay:course.days.some(d=>d.id===o.selectedDay)?o.selectedDay:course.days[0].id,days,ratings,mastered,reviews,kanjiRatings,kanjiReviews,events,furigana:o.furigana!==false};
 }
 export function ensureDay(state,course,dayId){
@@ -45,10 +46,10 @@ function schedule(prior,value,today){
 export function rateWord(state,id,value,today=dayStamp(),meta={}){
   if(state.mastered[id]||!RATINGS.includes(value))return;
   const first=!state.ratings[id];state.reviews[id]=schedule(state.reviews[id],value,today);state.ratings[id]=value;
-  state.events.push({date:today,kind:'word',id,rating:value,first,mode:meta.mode||'self',objective:meta.objective===true,correct:meta.correct===true});
+  state.events.push({...eventMeta(),date:today,kind:'word',id,rating:value,first,mode:meta.mode||'self',objective:meta.objective===true,correct:meta.correct===true});
 }
 export function dueIds(state,today=dayStamp()){return Object.keys(state.ratings).filter(id=>!state.mastered[id]&&(!state.reviews[id]||state.reviews[id].due<=today)).sort((a,b)=>(state.reviews[a]?.due||'').localeCompare(state.reviews[b]?.due||''));}
-export function rateKanji(state,id,value,today=dayStamp(),meta={}){if(!RATINGS.includes(value))return;const first=!state.kanjiRatings[id];state.kanjiReviews[id]=schedule(state.kanjiReviews[id],value,today);state.kanjiRatings[id]=value;state.events.push({date:today,kind:'kanji',id,rating:value,first,mode:meta.mode||'self',objective:meta.objective===true,correct:meta.correct===true});}
+export function rateKanji(state,id,value,today=dayStamp(),meta={}){if(!RATINGS.includes(value))return;const first=!state.kanjiRatings[id];state.kanjiReviews[id]=schedule(state.kanjiReviews[id],value,today);state.kanjiRatings[id]=value;state.events.push({...eventMeta(),date:today,kind:'kanji',id,rating:value,first,mode:meta.mode||'self',objective:meta.objective===true,correct:meta.correct===true});}
 export function dueKanjiIds(state,today=dayStamp()){return Object.keys(state.kanjiRatings).filter(id=>!state.kanjiReviews[id]||state.kanjiReviews[id].due<=today).sort((a,b)=>(state.kanjiReviews[a]?.due||'').localeCompare(state.kanjiReviews[b]?.due||''));}
 export function quizPool(state,current,source='daily',today=dayStamp(),limit=10){
   const due=dueIds(state,today),eligible=current.filter(id=>!state.mastered[id]);
@@ -61,7 +62,8 @@ export function quizPool(state,current,source='daily',today=dayStamp(),limit=10)
   return chosen.slice(0,limit);
 }
 export function activity(state,today=dayStamp()){
-  return Array.from({length:7},(_,i)=>{const date=afterDays(today,i-6),events=state.events.filter(e=>e.date===date),objective=events.filter(e=>e.objective);return {date,words:new Set(events.filter(e=>e.kind==='word').map(e=>e.id)).size,kanji:new Set(events.filter(e=>e.kind==='kanji').map(e=>e.id)).size,newWords:new Set(events.filter(e=>e.kind==='word'&&e.first).map(e=>e.id)).size,tests:objective.length,correct:objective.filter(e=>e.correct).length};});
+  const firstDates=new Map();for(const e of state.events)if(e.kind==='word'&&e.first&&(!firstDates.has(e.id)||e.date<firstDates.get(e.id)))firstDates.set(e.id,e.date);
+  return Array.from({length:7},(_,i)=>{const date=afterDays(today,i-6),events=state.events.filter(e=>e.date===date),objective=events.filter(e=>e.objective);return {date,words:new Set(events.filter(e=>e.kind==='word').map(e=>e.id)).size,kanji:new Set(events.filter(e=>e.kind==='kanji').map(e=>e.id)).size,newWords:new Set(events.filter(e=>e.kind==='word'&&e.first&&firstDates.get(e.id)===date).map(e=>e.id)).size,tests:objective.length,correct:objective.filter(e=>e.correct).length};});
 }
 export function normalizeKana(value){return String(value).normalize('NFKC').trim().replace(/\s/g,'').replace(/[ァ-ヶ]/g,ch=>String.fromCharCode(ch.charCodeAt(0)-0x60));}
 export function checkReading(input,reading){return normalizeKana(input)===normalizeKana(reading);}

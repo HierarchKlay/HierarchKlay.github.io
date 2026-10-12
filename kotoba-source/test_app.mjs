@@ -39,3 +39,5 @@ for(const fn of listeners.submit)fn({target:{id:'kanjiReadingForm'},preventDefau
 await click({tab:'stats'});assert(html().includes('近 7 天学习量'));assert(html().includes('客观题正确率'));assert(state().events.length>0);
 await click({tab:'review'});await click({quizSource:'due'});assert(html().includes('data-quiz-source="due"'));
 console.log('PASS app integration: load, compact card, master/refill, restore, days, kanji, reading, cloze, mixed, progress');
+
+assert(els.get("#cloudStatus").textContent.includes("待接入"));assert(els.get("#askSubmit").disabled);console.log("PASS unconfigured cloud remains clearly disabled; local study still works");

@@ -1,3 +1,11 @@
+## 2026-10-13 · v0.5 cloud integration preparation
+
+- Added Supabase email/password sign-in and per-item offline progress merging; practice event IDs deduplicate copied backups and retries.
+- Added a footer Japanese tutor with optional card context, web search, source links and follow-up questions.
+- Added RLS/member allowlist, atomic merge RPC, server-only Qwen proxy and daily request cap. Model is qwen3.8-max via ordinary Responses API; Coding Plan credentials are rejected.
+- Configuration remains blank pending the user’s Supabase project and ordinary model API credentials. No real cloud/account/provider call has been verified.
+- Added setup guide and merge, PostgreSQL/RLS and mocked endpoint tests.
+
 # Changes
 
 ## 2026-10-13 · 0.4

@@ -14,7 +14,19 @@
     <p id="shortfall" class="notice" hidden></p>
     <nav class="tabs" aria-label="学习区域"><button data-tab="study" class="active" aria-current="page">01 <span>词卡学习</span></button><button data-tab="list">02 <span>词汇一览</span></button><button data-tab="kanji">03 <span>汉字手帖</span></button><button data-tab="review">04 <span>回想练习</span><em id="reviewCount">0</em></button><button data-tab="stats">05 <span>学习记录</span></button></nav>
     <div id="workspace" aria-live="off"><p class="loading">正在打开学习手帖…</p></div>
-    <section class="method"><span class="mini-seal" lang="ja">習</span><p><b>看见 → 理解 → 回想</b><br>进度只保存在当前浏览器，换设备前可导出备份。</p><button id="aboutBtn" class="text-button">说明与来源 ↗</button></section>
+    <section class="cloud-panel" aria-labelledby="cloudTitle">
+      <div class="cloud-heading"><div><p class="eyebrow">YOUR NOTEBOOK, EVERYWHERE</p><h2 id="cloudTitle">接着上次学。</h2></div><p id="cloudStatus" role="status">本机存档 · 云同步待接入</p></div>
+      <p id="cloudSetup" class="cloud-help">云同步正在准备中。现有进度继续保存在本机，也可以导出备份。</p>
+      <form id="loginForm" class="login-form"><label>邮箱<input id="loginEmail" type="email" autocomplete="username" required placeholder="学习账号邮箱"></label><label>密码<input id="loginPassword" type="password" autocomplete="current-password" required placeholder="学习账号密码"></label><button id="loginSubmit" class="control" disabled>登录并同步</button></form>
+      <div id="cloudAccount" class="cloud-account" hidden><span id="accountLabel"></span><button id="cloudSync" class="text-button">立即同步</button><button id="cloudLogout" class="text-button">退出登录</button></div>
+    </section>
+    <section class="ask-panel" aria-labelledby="askTitle">
+      <div class="cloud-heading"><div><p class="eyebrow">A QUESTION ALONG THE WAY</p><h2 id="askTitle">日语，随时问。</h2></div><button class="text-button" id="newQuestion">新对话</button></div>
+      <div id="askMessages" class="ask-messages"></div>
+      <form id="askForm"><label for="askInput" class="sr-only">输入日语问题</label><textarea id="askInput" rows="2" maxlength="2000" placeholder="例如：迎える 和 歓迎する 有什么区别？" disabled required></textarea><div class="ask-tools"><label><input id="searchOnline" type="checkbox" checked> 联网检索</label><label><input id="includeCard" type="checkbox"> 带上当前词卡</label><button id="askSubmit" class="control primary" disabled>提问 ↗</button></div></form>
+      <p id="askStatus" class="cloud-help" role="status">问答待接入；课程学习可正常使用。</p>
+    </section>
+    <section class="method"><span class="mini-seal" lang="ja">習</span><p><b>看见 → 理解 → 回想</b><br>本机自动存档；云同步接入后，同一账号可跨设备继续学习。</p><button id="aboutBtn" class="text-button">说明与来源 ↗</button></section>
     <div class="progress-tools"><button class="text-button" data-action="export">导出进度</button><button class="text-button" data-action="import">导入进度</button><input id="importInput" type="file" accept="application/json,.json" hidden><span>学习时间 · 北京时间 12:40</span></div>
   </main>
   <footer class="footer"><span lang="ja">自分のペースで。</span><span>按自己的节奏来。</span><span class="storage-note" id="storageNote">进度保存在当前浏览器</span></footer>

@@ -1,0 +1,37 @@
+// npm install --no-save @electric-sql/pglite, then node test_database.mjs
+// Embedded PostgreSQL checks syntax, roles and RLS without touching a live project.
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+const {PGlite}=await import(process.env.PGLITE_MODULE||'@electric-sql/pglite');
+const db=new PGlite();
+const owner='11111111-1111-4111-8111-111111111111',other='22222222-2222-4222-8222-222222222222';
+await db.exec(`create role anon; create role authenticated; create role service_role bypassrls;
+  create schema auth; create table auth.users(id uuid primary key);
+  create function auth.uid() returns uuid language sql stable as $$select nullif(current_setting('request.jwt.claim.sub',true),'')::uuid$$;
+  grant usage on schema auth to authenticated,anon,service_role;
+  insert into auth.users values('${owner}'),('${other}');`);
+await db.exec(fs.readFileSync(new URL('./supabase/migrations/202610120001_cloud.sql',import.meta.url),'utf8'));
+await db.exec(`insert into public.kotoba_members values('${owner}');set role authenticated;select set_config('request.jwt.claim.sub','${owner}',false);`);
+const merge=async d=>(await db.query('select public.kotoba_merge($1,$2::jsonb) as doc',['week01-v1',JSON.stringify(d)])).rows[0].doc;
+const doc=(records={},events={})=>({version:1,clock:0,records,events});
+await merge(doc({'word:a':{at:100,actor:'phone',value:{rating:'known'}}},{one:{eventId:'one'}}));
+let result=await merge(doc({'word:b':{at:200,actor:'desktop',value:{rating:'again'}}},{two:{eventId:'two'}}));
+assert.equal(Object.keys(result.records).length,2);assert.equal(Object.keys(result.events).length,2);
+result=await merge(doc({'word:a':{at:0,actor:'old',value:null}},{one:{eventId:'one'}}));assert(result.records['word:a'].value);
+result=await merge(doc({'word:a':{at:300,actor:'phone',value:null}}));assert.equal(result.records['word:a'].value,null);
+assert.equal(Object.keys(result.events).length,2);
+await assert.rejects(()=>merge(doc({'word:a':{at:'oops',actor:'x',value:null}})));
+console.log('PASS PostgreSQL migration, per-record merge, retries, stale snapshot and tombstone');
+await db.exec(`select set_config('request.jwt.claim.sub','${other}',false);`);
+assert.equal((await db.query('select * from public.kotoba_progress')).rows.length,0);
+await assert.rejects(()=>merge(doc()));
+await assert.rejects(()=>db.exec(`insert into public.kotoba_members values('${other}')`));
+await assert.rejects(()=>db.exec(`select public.kotoba_take_ai_quota('${owner}',40)`));
+await db.exec('reset role;set role anon');
+await assert.rejects(()=>db.query('select * from public.kotoba_progress'));
+await assert.rejects(()=>merge(doc()));
+console.log('PASS unauthorized, other-account and anonymous access denied; no self-enrollment or client quota bypass');
+await db.exec('reset role;set role service_role');
+const quota=async uid=>(await db.query('select public.kotoba_take_ai_quota($1,2) as allowed',[uid])).rows[0].allowed;
+assert.equal(await quota(owner),true);assert.equal(await quota(owner),true);assert.equal(await quota(owner),false);assert.equal(await quota(other),false);
+console.log('PASS server-only daily quota and member allowlist');await db.close();
