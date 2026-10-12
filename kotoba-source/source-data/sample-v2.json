@@ -1,0 +1,655 @@
+{
+  "id": "sample-01-v1",
+  "title": "从身边的词开始",
+  "subtitle": "读一遍，用一句，再回想一次。",
+  "version": "0.2.0",
+  "words": [
+    {
+      "id": "jibun",
+      "word": "自分",
+      "reading": "じぶん",
+      "mora": [
+        "じ",
+        "ぶ",
+        "ん"
+      ],
+      "accent": 0,
+      "category": "名词",
+      "meaning": "自己",
+      "example": [
+        [
+          "自分",
+          "じぶん"
+        ],
+        [
+          "のペースで"
+        ],
+        [
+          "勉強",
+          "べんきょう"
+        ],
+        [
+          "します。"
+        ]
+      ],
+      "translation": "按照自己的节奏学习。",
+      "tip": "一起记：自分のペース（自己的节奏）。",
+      "related": "自分で = 自己来、独自完成",
+      "sourceWord": "自分",
+      "sourceReading": "ジブン",
+      "corpus": {
+        "dataset": "BCCWJ-SUW-v1.1",
+        "rank": 87,
+        "frequency": 111079,
+        "raw_lemma": "自分",
+        "raw_pos": "名詞-普通名詞-一般",
+        "source_line": 88
+      },
+      "accentSource": "OJAD 单词检索",
+      "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%87%AA%E5%88%86"
+    },
+    {
+      "id": "ima",
+      "word": "今",
+      "reading": "いま",
+      "mora": [
+        "い",
+        "ま"
+      ],
+      "accent": 1,
+      "category": "名词",
+      "meaning": "现在；此刻",
+      "example": [
+        [
+          "今",
+          "いま"
+        ],
+        [
+          "、"
+        ],
+        [
+          "駅",
+          "えき"
+        ],
+        [
+          "にいます。"
+        ]
+      ],
+      "translation": "我现在在车站。",
+      "tip": "先记“现在”这个独立词义，再学 今から（从现在起）。",
+      "related": "今から / 今まで",
+      "sourceWord": "今",
+      "sourceReading": "イマ",
+      "corpus": {
+        "dataset": "BCCWJ-SUW-v1.1",
+        "rank": 99,
+        "frequency": 95114,
+        "raw_lemma": "今",
+        "raw_pos": "名詞-普通名詞-副詞可能",
+        "source_line": 100
+      },
+      "accentSource": "OJAD 单词检索",
+      "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BB%8A"
+    },
+    {
+      "id": "tsuki",
+      "word": "月",
+      "reading": "つき",
+      "mora": [
+        "つ",
+        "き"
+      ],
+      "accent": 2,
+      "category": "名词",
+      "meaning": "月亮；月",
+      "example": [
+        [
+          "今夜",
+          "こんや"
+        ],
+        [
+          "は"
+        ],
+        [
+          "月",
+          "つき"
+        ],
+        [
+          "がきれいです。"
+        ]
+      ],
+      "translation": "今晚的月亮很美。",
+      "tip": "本卡先记“月亮”。同一个字在不同词里，读法会变。",
+      "related": "月（つき） / 一月（いちがつ） / 来月（らいげつ）",
+      "sourceWord": "月",
+      "sourceReading": "ツキ",
+      "corpus": {
+        "dataset": "BCCWJ-SUW-v1.1",
+        "rank": 1101,
+        "frequency": 8613,
+        "raw_lemma": "月",
+        "raw_pos": "名詞-普通名詞-助数詞可能",
+        "source_line": 1103
+      },
+      "accentSource": "OJAD 单词检索",
+      "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9C%88"
+    },
+    {
+      "id": "ie",
+      "word": "家",
+      "reading": "いえ",
+      "mora": [
+        "い",
+        "え"
+      ],
+      "accent": 2,
+      "category": "名词",
+      "meaning": "家；房屋",
+      "example": [
+        [
+          "家",
+          "いえ"
+        ],
+        [
+          "で"
+        ],
+        [
+          "日本語",
+          "にほんご"
+        ],
+        [
+          "を"
+        ],
+        [
+          "勉強",
+          "べんきょう"
+        ],
+        [
+          "します。"
+        ]
+      ],
+      "translation": "我在家学习日语。",
+      "tip": "一起记：家で（在家里）。本卡采用 いえ 这个读法。",
+      "related": "家に帰る（回家）",
+      "sourceWord": "家",
+      "sourceReading": "イエ",
+      "corpus": {
+        "dataset": "BCCWJ-SUW-v1.1",
+        "rank": 258,
+        "frequency": 33587,
+        "raw_lemma": "家",
+        "raw_pos": "名詞-普通名詞-一般",
+        "source_line": 259
+      },
+      "accentSource": "OJAD 单词检索",
+      "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AE%B6"
+    },
+    {
+      "id": "iu",
+      "word": "言う",
+      "reading": "いう",
+      "mora": [
+        "い",
+        "う"
+      ],
+      "accent": 0,
+      "category": "动词",
+      "meaning": "说；称作",
+      "example": [
+        [
+          "日本語",
+          "にほんご"
+        ],
+        [
+          "で"
+        ],
+        [
+          "何",
+          "なん"
+        ],
+        [
+          "と"
+        ],
+        [
+          "言",
+          "い"
+        ],
+        [
+          "いますか。"
+        ]
+      ],
+      "translation": "这用日语怎么说？",
+      "tip": "从一个能直接用的问句开始：日本語で何と言いますか。",
+      "related": "言う → 言います",
+      "sourceWord": "言う",
+      "sourceReading": "イウ",
+      "corpus": {
+        "dataset": "BCCWJ-SUW-v1.1",
+        "rank": 18,
+        "frequency": 803148,
+        "raw_lemma": "言う",
+        "raw_pos": "動詞-一般",
+        "source_line": 19
+      },
+      "accentSource": "OJAD 单词检索",
+      "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A8%80%E3%81%86"
+    },
+    {
+      "id": "suru",
+      "word": "する",
+      "reading": "する",
+      "mora": [
+        "す",
+        "る"
+      ],
+      "accent": 0,
+      "category": "动词",
+      "meaning": "做；进行",
+      "rare": "（少见汉字写法：為る）",
+      "example": [
+        [
+          "毎朝",
+          "まいあさ"
+        ],
+        [
+          "、"
+        ],
+        [
+          "散歩",
+          "さんぽ"
+        ],
+        [
+          "をします。"
+        ]
+      ],
+      "translation": "我每天早晨散步。",
+      "tip": "通常写「する」。先用 散歩をする 记一个具体用法。",
+      "related": "する → します",
+      "sourceWord": "為る",
+      "sourceReading": "スル",
+      "corpus": {
+        "dataset": "BCCWJ-SUW-v1.1",
+        "rank": 8,
+        "frequency": 2563860,
+        "raw_lemma": "為る",
+        "raw_pos": "動詞-非自立可能",
+        "source_line": 9
+      },
+      "accentSource": "OJAD 单词检索",
+      "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%99%E3%82%8B"
+    },
+    {
+      "id": "ooi",
+      "word": "多い",
+      "reading": "おおい",
+      "mora": [
+        "お",
+        "お",
+        "い"
+      ],
+      "accent": 1,
+      "category": "い形容词",
+      "meaning": "多；数量大",
+      "example": [
+        [
+          "この"
+        ],
+        [
+          "町",
+          "まち"
+        ],
+        [
+          "は"
+        ],
+        [
+          "坂",
+          "さか"
+        ],
+        [
+          "が"
+        ],
+        [
+          "多",
+          "おお"
+        ],
+        [
+          "いです。"
+        ]
+      ],
+      "translation": "这座城镇的坡道很多。",
+      "tip": "常用搭配：人が多い。表达“很多人”时可用 多くの人。",
+      "related": "人が多い / 多くの人",
+      "sourceWord": "多い",
+      "sourceReading": "オオイ",
+      "corpus": {
+        "dataset": "BCCWJ-SUW-v1.1",
+        "rank": 158,
+        "frequency": 55818,
+        "raw_lemma": "多い",
+        "raw_pos": "形容詞-一般",
+        "source_line": 159
+      },
+      "accentSource": "OJAD 单词检索",
+      "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A4%9A%E3%81%84"
+    },
+    {
+      "id": "takai",
+      "word": "高い",
+      "reading": "たかい",
+      "mora": [
+        "た",
+        "か",
+        "い"
+      ],
+      "accent": 2,
+      "category": "い形容词",
+      "meaning": "高；贵",
+      "example": [
+        [
+          "この"
+        ],
+        [
+          "店",
+          "みせ"
+        ],
+        [
+          "のコーヒーは"
+        ],
+        [
+          "少",
+          "すこ"
+        ],
+        [
+          "し"
+        ],
+        [
+          "高",
+          "たか"
+        ],
+        [
+          "いです。"
+        ]
+      ],
+      "translation": "这家店的咖啡有点贵。",
+      "tip": "说高度时是“高”，说价格时是“贵”。用语境区分。",
+      "related": "背が高い / 値段が高い",
+      "sourceWord": "高い",
+      "sourceReading": "タカイ",
+      "corpus": {
+        "dataset": "BCCWJ-SUW-v1.1",
+        "rank": 203,
+        "frequency": 40495,
+        "raw_lemma": "高い",
+        "raw_pos": "形容詞-一般",
+        "source_line": 204
+      },
+      "accentSource": "OJAD 单词检索",
+      "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%AB%98%E3%81%84"
+    },
+    {
+      "id": "hitsuyou",
+      "word": "必要",
+      "reading": "ひつよう",
+      "mora": [
+        "ひ",
+        "つ",
+        "よ",
+        "う"
+      ],
+      "accent": 0,
+      "category": "な形容词",
+      "meaning": "必要；必需",
+      "example": [
+        [
+          "海外旅行",
+          "かいがいりょこう"
+        ],
+        [
+          "にはパスポートが"
+        ],
+        [
+          "必要",
+          "ひつよう"
+        ],
+        [
+          "です。"
+        ]
+      ],
+      "translation": "出国旅行需要护照。",
+      "tip": "一起记：必要なもの（必需品）。例句里也常见 ～が必要です。",
+      "related": "必要だ / 必要なもの",
+      "sourceWord": "必要",
+      "sourceReading": "ヒツヨウ",
+      "corpus": {
+        "dataset": "BCCWJ-SUW-v1.1",
+        "rank": 128,
+        "frequency": 70606,
+        "raw_lemma": "必要",
+        "raw_pos": "名詞-普通名詞-形状詞可能",
+        "source_line": 129
+      },
+      "accentSource": "OJAD 单词检索",
+      "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%BF%85%E8%A6%81"
+    },
+    {
+      "id": "jiyuu",
+      "word": "自由",
+      "reading": "じゆう",
+      "mora": [
+        "じ",
+        "ゆ",
+        "う"
+      ],
+      "accent": 2,
+      "category": "な形容词",
+      "meaning": "自由；不受拘束",
+      "example": [
+        [
+          "午後",
+          "ごご"
+        ],
+        [
+          "は"
+        ],
+        [
+          "自由",
+          "じゆう"
+        ],
+        [
+          "な"
+        ],
+        [
+          "時間",
+          "じかん"
+        ],
+        [
+          "があります。"
+        ]
+      ],
+      "translation": "下午有可以自由支配的时间。",
+      "tip": "修饰名词常用 な，修饰动作可用 に：自由に話す。",
+      "related": "自由な時間 / 自由に話す",
+      "sourceWord": "自由",
+      "sourceReading": "ジユウ",
+      "corpus": {
+        "dataset": "BCCWJ-SUW-v1.1",
+        "rank": 463,
+        "frequency": 19427,
+        "raw_lemma": "自由",
+        "raw_pos": "名詞-普通名詞-形状詞可能",
+        "source_line": 464
+      },
+      "accentSource": "OJAD 单词检索",
+      "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%87%AA%E7%94%B1"
+    },
+    {
+      "id": "sukoshi",
+      "word": "少し",
+      "reading": "すこし",
+      "mora": [
+        "す",
+        "こ",
+        "し"
+      ],
+      "accent": 2,
+      "category": "副词",
+      "meaning": "稍微；一点儿",
+      "example": [
+        [
+          "少",
+          "すこ"
+        ],
+        [
+          "し"
+        ],
+        [
+          "休",
+          "やす"
+        ],
+        [
+          "みましょう。"
+        ]
+      ],
+      "translation": "稍微休息一下吧。",
+      "tip": "可以修饰动作，也能表示程度：少し高い（有点贵）。",
+      "related": "少し休む / 少し高い",
+      "sourceWord": "少し",
+      "sourceReading": "スコシ",
+      "corpus": {
+        "dataset": "BCCWJ-SUW-v1.1",
+        "rank": 246,
+        "frequency": 35257,
+        "raw_lemma": "少し",
+        "raw_pos": "副詞",
+        "source_line": 247
+      },
+      "accentSource": "OJAD 单词检索",
+      "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%B0%91%E3%81%97"
+    },
+    {
+      "id": "yukkuri",
+      "word": "ゆっくり",
+      "reading": "ゆっくり",
+      "mora": [
+        "ゆ",
+        "っ",
+        "く",
+        "り"
+      ],
+      "accent": 3,
+      "category": "拟态词",
+      "meaning": "慢慢地；从容地",
+      "example": [
+        [
+          "もう"
+        ],
+        [
+          "少",
+          "すこ"
+        ],
+        [
+          "しゆっくり"
+        ],
+        [
+          "話",
+          "はな"
+        ],
+        [
+          "してください。"
+        ]
+      ],
+      "translation": "请再说慢一点。",
+      "tip": "小「っ」也占一拍。把“再慢一点”整句记下来，很实用。",
+      "related": "ゆっくり話す / ゆっくり休む",
+      "sourceWord": "ゆっくり",
+      "sourceReading": "ユックリ",
+      "accentSource": "Wiktionary（页面引 NHK 与大辞林）",
+      "accentUrl": "https://en.wiktionary.org/wiki/ゆっくり",
+      "corpus": {
+        "dataset": "BCCWJ-SUW-v1.1",
+        "rank": 1174,
+        "frequency": 8216,
+        "raw_lemma": "ゆっくり",
+        "raw_pos": "副詞",
+        "source_line": 1175
+      }
+    }
+  ],
+  "kanji": [
+    {
+      "char": "月",
+      "on": "ゲツ・ガツ",
+      "kun": "つき",
+      "meaning": "月亮、月份",
+      "hook": "一字多读，放回词里记。",
+      "examples": [
+        [
+          "月",
+          "つき",
+          "月亮"
+        ],
+        [
+          "一月",
+          "いちがつ",
+          "一月"
+        ],
+        [
+          "来月",
+          "らいげつ",
+          "下个月"
+        ]
+      ],
+      "note": "月份名称常用 ガツ；来月、今月等词用 ゲツ。这里列的是本次要学习的常用读法。"
+    },
+    {
+      "char": "言",
+      "on": "ゲン・ゴン",
+      "kun": "い-う・こと",
+      "meaning": "说、语言",
+      "hook": "从「言う」扩展到熟悉的词。",
+      "examples": [
+        [
+          "言う",
+          "いう",
+          "说"
+        ],
+        [
+          "言語",
+          "げんご",
+          "语言"
+        ],
+        [
+          "伝言",
+          "でんごん",
+          "口信"
+        ]
+      ],
+      "note": "音读会随词固定下来：言語读 ゲン，伝言读 ゴン。不要只凭单字猜整个词的读音。"
+    }
+  ],
+  "notes": [
+    "本示例为12词、2汉字的形式小样；选词经过人工搭配，并非严格的词频前12名。",
+    "大字采用常用写法；少见汉字形式只作旁注。例句和中文提示为本样课编写。",
+    "声调为东京式辞书形示意，数字表示第几拍后下降，0表示平板型；句中连读可能变化。",
+    "浏览器试听使用设备提供的日语合成语音，与辞书声调示意不保证完全一致。",
+    "记忆状态仅保存在当前浏览器。打乱顺序与随机抽查不改变这份PDF的固定词目。"
+  ],
+  "sources": [
+    [
+      "词频参考：NINJAL BCCWJ 短单位 v1.1",
+      "https://doi.org/10.15084/00003219"
+    ],
+    [
+      "声调：OJAD 单词检索（ゆっくり除外）",
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/"
+    ],
+    [
+      "ゆっくり 声调：Wiktionary",
+      "https://en.wiktionary.org/wiki/ゆっくり"
+    ],
+    [
+      "汉字音训：文化庁 常用漢字表",
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+日々ことば：预生成日语合成音频
+
+这批音频由本地开源 Open JTalk 引擎生成，不依赖浏览器的日语语音包，
+没有调用非官方 Edge/Google 等在线语音接口。
+音频是合成朗读辅助，不是真人录音，也不是声调词典或声调校验依据。
+引擎预测的连读、重音和语调仍可能不自然，不能据此修改词卡已核实的声调。
+
+制作方式
+- Python 包：pyopenjtalk 0.4.1，MIT 许可。
+- Open JTalk：Modified BSD 许可。
+- 词典：open_jtalk_dic_utf_8-1.11，随包保留其 COPYING。
+- 声源：HTS Voice NIT ATR503 M001，版本 1.05。
+- 声源许可：Creative Commons Attribution 3.0 / CC BY 3.0。
+  注意：1.05 并非旧版本曾采用的 BSD 许可。
+- 该语音由 HTS Working Group 发布；版权所有：
+  Nagoya Institute of Technology, Department of Computer Science (2003–2012)；
+  Tokyo Institute of Technology, Interdisciplinary Graduate School of
+  Science and Engineering (2003–2008)。
+- 声源及发布者没有为本学习站或其学习内容背书。
+
+来源与许可
+https://sourceforge.net/projects/open-jtalk/files/HTS%20voice/hts_voice_nitech_jp_atr503_m001-1.05/
+https://creativecommons.org/licenses/by/3.0/
+https://github.com/r9y9/pyopenjtalk
+https://github.com/r9y9/open_jtalk
+
+变更说明
+使用原始模型合成本站自编的词汇/例句；词语速度为 0.88，例句为 0.95；
+短暂裁切首尾空白并保留语音边缘，调整音量，转码为单声道 24 kHz / 64 kbps MP3。
+为处理文本多音歧义，少量合成输入以假名替代汉字，原始展示文本不变。
+制作时保留了合成输入与读音审计。此部署版的片段定位与文件哈希见 manifest.json。
+
+交付与网站集成
+- mp3/<id>.mp3：词语读音。
+- mp3/<id>-example.mp3：整句朗读。
+- day-01.mp3 至 day-07.mp3：按每日 35 核心词＋10 备用词打包，
+  每天 90 段（每词与例句各一段），48 kbps / 单声道 / 24 kHz。
+- manifest.json 的 clips 对象按 id / id-example 给出
+  {file,start,end}，起止时间单位为秒，包含每片段前后各 0.20 秒静音。
+  起止时间按拼接 PCM 样本数累计，sprite 编码后再次解码检查每段非静音
+  及整体时间轴对齐。MP3 容器尾部可能存在不足 5 ms 的舍入补样，
+  不影响各段起始时间；实际差值和波形相关性记录在 manifest.files 中。
+- 发布时应保留本说明、原声源 COPYING，并在站点提供可访问的署名/许可说明。
+- licenses/ 中是原始许可文本；不要把合成音包装成真人或官方示范音。
+- generate_audio.py 及 vendor/python 目录仅用于本地生成，不需要发布到网站。
+
+验收边界
+所有词语对照词卡假名检查 Open JTalk 文本前端读音；例句对照现有注音，
+排查多音词、时间和数量读法。每个 MP3 都回读解码，检查持续时间、
+非静音、有限样本值和峰值。该检查证明文件有有效音频，不等同于真人听审。

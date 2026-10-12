@@ -1,0 +1,725 @@
+[
+  {
+    "id": "hitsuyou",
+    "accent": 0,
+    "mora": [
+      "ひ",
+      "つ",
+      "よ",
+      "う"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%BF%85%E8%A6%81",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "jiyuu",
+    "accent": 2,
+    "mora": [
+      "じ",
+      "ゆ",
+      "う"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%87%AA%E7%94%B1",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "kanou",
+    "accent": 0,
+    "mora": [
+      "か",
+      "の",
+      "う"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%8F%AF%E8%83%BD",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "juuyou",
+    "accent": 0,
+    "mora": [
+      "じゅ",
+      "う",
+      "よ",
+      "う"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%87%8D%E8%A6%81",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "shizen_na",
+    "accent": 0,
+    "mora": [
+      "し",
+      "ぜ",
+      "ん"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%87%AA%E7%84%B6",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "suki",
+    "accent": 2,
+    "mora": [
+      "す",
+      "き"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A5%BD%E3%81%8D",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "kirai",
+    "accent": 0,
+    "mora": [
+      "き",
+      "ら",
+      "い"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AB%8C%E3%81%84",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "kantan",
+    "accent": 0,
+    "mora": [
+      "か",
+      "ん",
+      "た",
+      "ん"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%B0%A1%E5%8D%98",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "benri",
+    "accent": 1,
+    "mora": [
+      "べ",
+      "ん",
+      "り"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BE%BF%E5%88%A9",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "fuben",
+    "accent": 1,
+    "mora": [
+      "ふ",
+      "べ",
+      "ん"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%B8%8D%E4%BE%BF",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "shizuka",
+    "accent": 1,
+    "mora": [
+      "し",
+      "ず",
+      "か"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%9D%99%E3%81%8B",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "nigiyaka",
+    "accent": null
+  },
+  {
+    "id": "kirei",
+    "accent": 1,
+    "mora": [
+      "き",
+      "れ",
+      "い"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%8D%E3%82%8C%E3%81%84",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "genki",
+    "accent": 1,
+    "mora": [
+      "げ",
+      "ん",
+      "き"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%85%83%E6%B0%97",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "shinsetsu",
+    "accent": 1,
+    "mora": [
+      "し",
+      "ん",
+      "せ",
+      "つ"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A6%AA%E5%88%87",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "teinei",
+    "accent": 1,
+    "mora": [
+      "て",
+      "い",
+      "ね",
+      "い"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%B8%81%E5%AF%A7",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "anzen",
+    "accent": 0,
+    "mora": [
+      "あ",
+      "ん",
+      "ぜ",
+      "ん"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AE%89%E5%85%A8",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "kiken",
+    "accent": 0,
+    "mora": [
+      "き",
+      "け",
+      "ん"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%8D%B1%E9%99%BA",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "yuumei",
+    "accent": 0,
+    "mora": [
+      "ゆ",
+      "う",
+      "め",
+      "い"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9C%89%E5%90%8D",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "tokubetsu",
+    "accent": 0,
+    "mora": [
+      "と",
+      "く",
+      "べ",
+      "つ"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%89%B9%E5%88%A5",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "taisetsu",
+    "accent": 0,
+    "mora": [
+      "た",
+      "い",
+      "せ",
+      "つ"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A4%A7%E5%88%87",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "daijoubu",
+    "accent": 3,
+    "mora": [
+      "だ",
+      "い",
+      "じょ",
+      "う",
+      "ぶ"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A4%A7%E4%B8%88%E5%A4%AB",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "joubu",
+    "accent": 0,
+    "mora": [
+      "じょ",
+      "う",
+      "ぶ"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%B8%88%E5%A4%AB",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "jouzu",
+    "accent": 3,
+    "mora": [
+      "じょ",
+      "う",
+      "ず"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%B8%8A%E6%89%8B",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "heta",
+    "accent": 2,
+    "mora": [
+      "へ",
+      "た"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%B8%8B%E6%89%8B",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "nesshin",
+    "accent": 1,
+    "mora": [
+      "ね",
+      "っ",
+      "し",
+      "ん"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%86%B1%E5%BF%83",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "majime",
+    "accent": 0,
+    "mora": [
+      "ま",
+      "じ",
+      "め"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%9C%9F%E9%9D%A2%E7%9B%AE",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "fukuzatsu",
+    "accent": 0,
+    "mora": [
+      "ふ",
+      "く",
+      "ざ",
+      "つ"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A4%87%E9%9B%91",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "seikaku",
+    "accent": 0,
+    "mora": [
+      "せ",
+      "い",
+      "か",
+      "く"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%AD%A3%E7%A2%BA",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "yutaka",
+    "accent": 1,
+    "mora": [
+      "ゆ",
+      "た",
+      "か"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%B1%8A%E3%81%8B",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "zannen",
+    "accent": 3,
+    "mora": [
+      "ざ",
+      "ん",
+      "ね",
+      "ん"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%AE%8B%E5%BF%B5",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "muri",
+    "accent": 1,
+    "mora": [
+      "む",
+      "り"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%84%A1%E7%90%86",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "juubun",
+    "accent": 3,
+    "mora": [
+      "じゅ",
+      "う",
+      "ぶ",
+      "ん"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%8D%81%E5%88%86",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "suteki",
+    "accent": 0,
+    "mora": [
+      "す",
+      "て",
+      "き"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%B4%A0%E6%95%B5",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "kaiteki",
+    "accent": 0,
+    "mora": [
+      "か",
+      "い",
+      "て",
+      "き"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%BF%AB%E9%81%A9",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "sukoshi",
+    "accent": 2,
+    "mora": [
+      "す",
+      "こ",
+      "し"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%B0%91%E3%81%97",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "totemo",
+    "accent": null
+  },
+  {
+    "id": "kanari",
+    "accent": null
+  },
+  {
+    "id": "motto",
+    "accent": null
+  },
+  {
+    "id": "zutto",
+    "accent": null
+  },
+  {
+    "id": "chotto",
+    "accent": null
+  },
+  {
+    "id": "yoku",
+    "accent": null
+  },
+  {
+    "id": "itsumo",
+    "accent": null
+  },
+  {
+    "id": "tokidoki",
+    "accent": null
+  },
+  {
+    "id": "tamani",
+    "accent": null
+  },
+  {
+    "id": "amari",
+    "accent": null
+  },
+  {
+    "id": "zenzen",
+    "accent": null
+  },
+  {
+    "id": "mou",
+    "accent": null
+  },
+  {
+    "id": "mada",
+    "accent": null
+  },
+  {
+    "id": "sugu",
+    "accent": null
+  },
+  {
+    "id": "sakini",
+    "accent": null
+  },
+  {
+    "id": "atode",
+    "accent": null
+  },
+  {
+    "id": "isshoni",
+    "accent": null
+  },
+  {
+    "id": "zehi",
+    "accent": null
+  },
+  {
+    "id": "kitto",
+    "accent": null
+  },
+  {
+    "id": "tabun",
+    "accent": null
+  },
+  {
+    "id": "mochiron",
+    "accent": null
+  },
+  {
+    "id": "kanarazu",
+    "accent": null
+  },
+  {
+    "id": "tokuni",
+    "accent": null
+  },
+  {
+    "id": "daitai",
+    "accent": null
+  },
+  {
+    "id": "hotondo",
+    "accent": null
+  },
+  {
+    "id": "mazu",
+    "accent": null
+  },
+  {
+    "id": "tsugini",
+    "accent": null
+  },
+  {
+    "id": "kyuuni",
+    "accent": null
+  },
+  {
+    "id": "yahari",
+    "accent": null
+  },
+  {
+    "id": "choudo",
+    "accent": null
+  },
+  {
+    "id": "chokusetsu",
+    "accent": 0,
+    "mora": [
+      "ちょ",
+      "く",
+      "せ",
+      "つ"
+    ],
+    "accentSource": "OJAD 字典形（本卡采用一项所列读法）",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%9B%B4%E6%8E%A5",
+    "accentStatus": "已核对"
+  },
+  {
+    "id": "hontouni",
+    "accent": null
+  },
+  {
+    "id": "narubeku",
+    "accent": null
+  },
+  {
+    "id": "sakki",
+    "accent": null
+  },
+  {
+    "id": "yukkuri",
+    "accent": null
+  },
+  {
+    "id": "hakkiri",
+    "accent": null
+  },
+  {
+    "id": "shikkari",
+    "accent": null
+  },
+  {
+    "id": "chanto",
+    "accent": null
+  },
+  {
+    "id": "kichinto",
+    "accent": null
+  },
+  {
+    "id": "dokidoki",
+    "accent": null
+  },
+  {
+    "id": "wakuwaku",
+    "accent": null
+  },
+  {
+    "id": "iraira",
+    "accent": null
+  },
+  {
+    "id": "gussuri",
+    "accent": null
+  },
+  {
+    "id": "sukkiri",
+    "accent": null
+  },
+  {
+    "id": "bikkuri",
+    "accent": null
+  },
+  {
+    "id": "nikoniko",
+    "accent": null
+  },
+  {
+    "id": "pikapika",
+    "accent": null
+  },
+  {
+    "id": "fuwafuwa",
+    "accent": null
+  },
+  {
+    "id": "sarasara",
+    "accent": null
+  },
+  {
+    "id": "zaazaa",
+    "accent": null
+  },
+  {
+    "id": "pokapoka",
+    "accent": null
+  },
+  {
+    "id": "perapera",
+    "accent": null
+  },
+  {
+    "id": "kotsukotsu",
+    "accent": null
+  },
+  {
+    "id": "guruguru",
+    "accent": null
+  },
+  {
+    "id": "urouro",
+    "accent": null
+  },
+  {
+    "id": "barabara",
+    "accent": null
+  },
+  {
+    "id": "girigiri",
+    "accent": null
+  },
+  {
+    "id": "sorosoro",
+    "accent": null
+  },
+  {
+    "id": "ohayou",
+    "accent": null
+  },
+  {
+    "id": "konnichiwa",
+    "accent": null
+  },
+  {
+    "id": "konbanwa",
+    "accent": null
+  },
+  {
+    "id": "arigatou",
+    "accent": null
+  },
+  {
+    "id": "sumimasen",
+    "accent": null
+  },
+  {
+    "id": "itadakimasu",
+    "accent": null
+  },
+  {
+    "id": "gochisousama",
+    "accent": null
+  },
+  {
+    "id": "tadaima",
+    "accent": null
+  },
+  {
+    "id": "okaeri",
+    "accent": null
+  },
+  {
+    "id": "oyasumi",
+    "accent": null
+  },
+  {
+    "id": "sayounara",
+    "accent": null
+  }
+]

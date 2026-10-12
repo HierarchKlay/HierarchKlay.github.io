@@ -1,0 +1,743 @@
+[
+  {
+    "id": "n044",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=9",
+    "accentEvidence": {
+      "word": "ご飯",
+      "reading": "ごはん",
+      "sourceHeadword": "ごはん",
+      "sourceKanji": "ご飯",
+      "pdfPage": 9,
+      "pdfVersion": "2023/6/6",
+      "notation": "ご￢はん",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "n053",
+    "accent": 2,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=14",
+    "accentEvidence": {
+      "word": "卵",
+      "reading": "たまご",
+      "sourceHeadword": "たまご",
+      "sourceKanji": "卵",
+      "pdfPage": 14,
+      "pdfVersion": "2023/6/6",
+      "notation": "たま￢ご",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      2
+    ]
+  },
+  {
+    "id": "n054",
+    "accent": 2,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=21",
+    "accentEvidence": {
+      "word": "店",
+      "reading": "みせ",
+      "sourceHeadword": "みせ",
+      "sourceKanji": "店",
+      "pdfPage": 21,
+      "pdfVersion": "2023/6/6",
+      "notation": "みせ￢",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      2
+    ]
+  },
+  {
+    "id": "nigiyaka",
+    "accent": 2,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=17",
+    "accentEvidence": {
+      "word": "にぎやか",
+      "reading": "にぎやか",
+      "sourceHeadword": "にぎやか(な)",
+      "sourceKanji": "",
+      "pdfPage": 17,
+      "pdfVersion": "2023/6/6",
+      "notation": "にぎ￢やか",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      2
+    ]
+  },
+  {
+    "id": "totemo",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=16",
+    "accentEvidence": {
+      "word": "とても",
+      "reading": "とても",
+      "sourceHeadword": "とても／とっても",
+      "sourceKanji": "",
+      "pdfPage": 16,
+      "pdfVersion": "2023/6/6",
+      "notation": "とても￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  },
+  {
+    "id": "kanari",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=6",
+    "accentEvidence": {
+      "word": "かなり",
+      "reading": "かなり",
+      "sourceHeadword": "かなり",
+      "sourceKanji": "",
+      "pdfPage": 6,
+      "pdfVersion": "2023/6/6",
+      "notation": "か￢なり",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "motto",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=22",
+    "accentEvidence": {
+      "word": "もっと",
+      "reading": "もっと",
+      "sourceHeadword": "もっと",
+      "sourceKanji": "",
+      "pdfPage": 22,
+      "pdfVersion": "2023/6/6",
+      "notation": "も￢っと",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "zutto",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=12",
+    "accentEvidence": {
+      "word": "ずっと",
+      "reading": "ずっと",
+      "sourceHeadword": "ずっと",
+      "sourceKanji": "",
+      "pdfPage": 12,
+      "pdfVersion": "2023/6/6",
+      "notation": "ずっと￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  },
+  {
+    "id": "chotto",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=15",
+    "accentEvidence": {
+      "word": "ちょっと",
+      "reading": "ちょっと",
+      "sourceHeadword": "ちょっと",
+      "sourceKanji": "",
+      "pdfPage": 15,
+      "pdfVersion": "2023/6/6",
+      "notation": "ちょ￢っと",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "yoku",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=23",
+    "accentEvidence": {
+      "word": "よく",
+      "reading": "よく",
+      "sourceHeadword": "よく",
+      "sourceKanji": "",
+      "pdfPage": 23,
+      "pdfVersion": "2023/6/6",
+      "notation": "よ￢く",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "itsumo",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=2",
+    "accentEvidence": {
+      "word": "いつも",
+      "reading": "いつも",
+      "sourceHeadword": "いつも",
+      "sourceKanji": "",
+      "pdfPage": 2,
+      "pdfVersion": "2023/6/6",
+      "notation": "い￢つも",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "tokidoki",
+    "accent": 4,
+    "accentSource": "国際交流基金『まるごと』初中級（A2/B1）語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/pre_intermediate/MarugotoPre-IntermediateVocabularyIndex_EN.pdf#page=16",
+    "accentEvidence": {
+      "word": "時々",
+      "reading": "ときどき",
+      "sourceHeadword": "ときどき",
+      "sourceKanji": "時々",
+      "pdfPage": 16,
+      "pdfVersion": "2024/7/8",
+      "notation": "ときどき￢",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      4
+    ]
+  },
+  {
+    "id": "amari",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=2",
+    "accentEvidence": {
+      "word": "あまり",
+      "reading": "あまり",
+      "sourceHeadword": "あまり（～ない）",
+      "sourceKanji": "",
+      "pdfPage": 2,
+      "pdfVersion": "2023/6/6",
+      "notation": "あまり￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  },
+  {
+    "id": "zenzen",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=13",
+    "accentEvidence": {
+      "word": "全然",
+      "reading": "ぜんぜん",
+      "sourceHeadword": "ぜんぜん（～ない）",
+      "sourceKanji": "全然～ない",
+      "pdfPage": 13,
+      "pdfVersion": "2023/6/6",
+      "notation": "ぜんぜん￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  },
+  {
+    "id": "mada",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=21",
+    "accentEvidence": {
+      "word": "まだ",
+      "reading": "まだ",
+      "sourceHeadword": "まだ",
+      "sourceKanji": "",
+      "pdfPage": 21,
+      "pdfVersion": "2023/6/6",
+      "notation": "ま￢だ",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "sugu",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=12",
+    "accentEvidence": {
+      "word": "すぐ",
+      "reading": "すぐ",
+      "sourceHeadword": "すぐ(に)",
+      "sourceKanji": "",
+      "pdfPage": 12,
+      "pdfVersion": "2023/6/6",
+      "notation": "す￢ぐ",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "isshoni",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=2",
+    "accentEvidence": {
+      "word": "一緒に",
+      "reading": "いっしょに",
+      "sourceHeadword": "いっしょに",
+      "sourceKanji": "",
+      "pdfPage": 2,
+      "pdfVersion": "2023/6/6",
+      "notation": "いっしょに￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  },
+  {
+    "id": "zehi",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=13",
+    "accentEvidence": {
+      "word": "ぜひ",
+      "reading": "ぜひ",
+      "sourceHeadword": "ぜひ",
+      "sourceKanji": "",
+      "pdfPage": 13,
+      "pdfVersion": "2023/6/6",
+      "notation": "ぜ￢ひ",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "tabun",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=14",
+    "accentEvidence": {
+      "word": "たぶん",
+      "reading": "たぶん",
+      "sourceHeadword": "たぶん",
+      "sourceKanji": "",
+      "pdfPage": 14,
+      "pdfVersion": "2023/6/6",
+      "notation": "た￢ぶん",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "mochiron",
+    "accent": 2,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=22",
+    "accentEvidence": {
+      "word": "もちろん",
+      "reading": "もちろん",
+      "sourceHeadword": "もちろん",
+      "sourceKanji": "",
+      "pdfPage": 22,
+      "pdfVersion": "2023/6/6",
+      "notation": "もち￢ろん",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      2
+    ]
+  },
+  {
+    "id": "kanarazu",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=6",
+    "accentEvidence": {
+      "word": "必ず",
+      "reading": "かならず",
+      "sourceHeadword": "かならず",
+      "sourceKanji": "必ず",
+      "pdfPage": 6,
+      "pdfVersion": "2023/6/6",
+      "notation": "かならず￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  },
+  {
+    "id": "tokuni",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=16",
+    "accentEvidence": {
+      "word": "特に",
+      "reading": "とくに",
+      "sourceHeadword": "とくに",
+      "sourceKanji": "特に",
+      "pdfPage": 16,
+      "pdfVersion": "2023/6/6",
+      "notation": "と￢くに",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "mazu",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=21",
+    "accentEvidence": {
+      "word": "まず",
+      "reading": "まず",
+      "sourceHeadword": "まず",
+      "sourceKanji": "",
+      "pdfPage": 21,
+      "pdfVersion": "2023/6/6",
+      "notation": "ま￢ず",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "choudo",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=15",
+    "accentEvidence": {
+      "word": "ちょうど",
+      "reading": "ちょうど",
+      "sourceHeadword": "ちょうど",
+      "sourceKanji": "",
+      "pdfPage": 15,
+      "pdfVersion": "2023/6/6",
+      "notation": "ちょうど￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  },
+  {
+    "id": "hontouni",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=21",
+    "accentEvidence": {
+      "word": "本当に",
+      "reading": "ほんとうに",
+      "sourceHeadword": "ほんとうに",
+      "sourceKanji": "",
+      "pdfPage": 21,
+      "pdfVersion": "2023/6/6",
+      "notation": "ほんとうに￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  },
+  {
+    "id": "sakki",
+    "accent": 1,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=10",
+    "accentEvidence": {
+      "word": "さっき",
+      "reading": "さっき",
+      "sourceHeadword": "さっき",
+      "sourceKanji": "",
+      "pdfPage": 10,
+      "pdfVersion": "2023/6/6",
+      "notation": "さ￢っき",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      1
+    ]
+  },
+  {
+    "id": "bikkuri",
+    "accent": 3,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=19",
+    "accentEvidence": {
+      "word": "びっくり",
+      "reading": "びっくり",
+      "sourceHeadword": "びっくり",
+      "sourceKanji": "",
+      "pdfPage": 19,
+      "pdfVersion": "2023/6/6",
+      "notation": "びっく￢り",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      3
+    ]
+  },
+  {
+    "id": "konnichiwa",
+    "accent": 5,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=9",
+    "accentEvidence": {
+      "word": "こんにちは",
+      "reading": "こんにちは",
+      "sourceHeadword": "こんにちは",
+      "sourceKanji": "",
+      "pdfPage": 9,
+      "pdfVersion": "2023/6/6",
+      "notation": "こんにちは￢",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      5
+    ]
+  },
+  {
+    "id": "arigatou",
+    "accent": 2,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=2",
+    "accentEvidence": {
+      "word": "ありがとう",
+      "reading": "ありがとう",
+      "sourceHeadword": "ありがとう",
+      "sourceKanji": "",
+      "pdfPage": 2,
+      "pdfVersion": "2023/6/6",
+      "notation": "あり￢がとう",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      2
+    ]
+  },
+  {
+    "id": "sumimasen",
+    "accent": 4,
+    "accentSource": "国際交流基金『まるごと』初級2（A2）りかい・語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/elementary2_c/MarugotoElementary2CompetencesVocabularyIndex_EN.pdf#page=12",
+    "accentEvidence": {
+      "word": "すみません",
+      "reading": "すみません",
+      "sourceHeadword": "すみません",
+      "sourceKanji": "",
+      "pdfPage": 12,
+      "pdfVersion": "2023/6/6",
+      "notation": "すみませ￢ん",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      4
+    ]
+  },
+  {
+    "id": "itadakimasu",
+    "accent": 5,
+    "accentSource": "国際交流基金『まるごと』初中級（A2/B1）語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/pre_intermediate/MarugotoPre-IntermediateVocabularyIndex_EN.pdf#page=2",
+    "accentEvidence": {
+      "word": "いただきます",
+      "reading": "いただきます",
+      "sourceHeadword": "いただきます",
+      "sourceKanji": "",
+      "pdfPage": 2,
+      "pdfVersion": "2024/7/8",
+      "notation": "いただきま￢す",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      5
+    ]
+  },
+  {
+    "id": "kitto",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初中級（A2/B1）語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/pre_intermediate/MarugotoPre-IntermediateVocabularyIndex_EN.pdf#page=7",
+    "accentEvidence": {
+      "word": "きっと",
+      "reading": "きっと",
+      "sourceHeadword": "きっと",
+      "sourceKanji": "",
+      "pdfPage": 7,
+      "pdfVersion": "2024/7/8",
+      "notation": "きっと￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  },
+  {
+    "id": "daitai",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初中級（A2/B1）語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/pre_intermediate/MarugotoPre-IntermediateVocabularyIndex_EN.pdf#page=13",
+    "accentEvidence": {
+      "word": "だいたい",
+      "reading": "だいたい",
+      "sourceHeadword": "だいたい",
+      "sourceKanji": "",
+      "pdfPage": 13,
+      "pdfVersion": "2024/7/8",
+      "notation": "だいたい￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  },
+  {
+    "id": "hotondo",
+    "accent": 2,
+    "accentSource": "国際交流基金『まるごと』初中級（A2/B1）語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/pre_intermediate/MarugotoPre-IntermediateVocabularyIndex_EN.pdf#page=20",
+    "accentEvidence": {
+      "word": "ほとんど",
+      "reading": "ほとんど",
+      "sourceHeadword": "ほとんど",
+      "sourceKanji": "",
+      "pdfPage": 20,
+      "pdfVersion": "2024/7/8",
+      "notation": "ほと￢んど",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      2
+    ]
+  },
+  {
+    "id": "hakkiri",
+    "accent": 3,
+    "accentSource": "国際交流基金『まるごと』初中級（A2/B1）語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/pre_intermediate/MarugotoPre-IntermediateVocabularyIndex_EN.pdf#page=18",
+    "accentEvidence": {
+      "word": "はっきり",
+      "reading": "はっきり",
+      "sourceHeadword": "はっきり",
+      "sourceKanji": "",
+      "pdfPage": 18,
+      "pdfVersion": "2024/7/8",
+      "notation": "はっき￢り",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      3
+    ]
+  },
+  {
+    "id": "chanto",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初中級（A2/B1）語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/pre_intermediate/MarugotoPre-IntermediateVocabularyIndex_EN.pdf#page=14",
+    "accentEvidence": {
+      "word": "ちゃんと",
+      "reading": "ちゃんと",
+      "sourceHeadword": "ちゃんと",
+      "sourceKanji": "",
+      "pdfPage": 14,
+      "pdfVersion": "2024/7/8",
+      "notation": "ちゃんと￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  },
+  {
+    "id": "kichinto",
+    "accent": 2,
+    "accentSource": "国際交流基金『まるごと』初中級（A2/B1）語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/pre_intermediate/MarugotoPre-IntermediateVocabularyIndex_EN.pdf#page=7",
+    "accentEvidence": {
+      "word": "きちんと",
+      "reading": "きちんと",
+      "sourceHeadword": "きちんと",
+      "sourceKanji": "",
+      "pdfPage": 7,
+      "pdfVersion": "2024/7/8",
+      "notation": "きち￢んと",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      2
+    ]
+  },
+  {
+    "id": "ohayou",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初中級（A2/B1）語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/pre_intermediate/MarugotoPre-IntermediateVocabularyIndex_EN.pdf#page=5",
+    "accentEvidence": {
+      "word": "おはよう",
+      "reading": "おはよう",
+      "sourceHeadword": "おはよう",
+      "sourceKanji": "",
+      "pdfPage": 5,
+      "pdfVersion": "2024/7/8",
+      "notation": "おはよう￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  },
+  {
+    "id": "gochisousama",
+    "accent": 0,
+    "accentSource": "国際交流基金『まるごと』初中級（A2/B1）語彙索引",
+    "accentUrl": "https://marugoto.jpf.go.jp/assets/docs/download/pre_intermediate/MarugotoPre-IntermediateVocabularyIndex_EN.pdf#page=9",
+    "accentEvidence": {
+      "word": "ごちそうさま",
+      "reading": "ごちそうさま",
+      "sourceHeadword": "ごちそうさま",
+      "sourceKanji": "",
+      "pdfPage": 9,
+      "pdfVersion": "2024/7/8",
+      "notation": "ごちそうさま￣",
+      "method": "按原表下降记号转换为音拍位置；￣表示平板。只取此词本身，括号中的语法提示不计入音拍。"
+    },
+    "variants": [
+      0
+    ]
+  }
+]

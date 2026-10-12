@@ -1,0 +1,1966 @@
+[
+  {
+    "id": "jibun",
+    "word": "自分",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "じ",
+      "ぶ",
+      "ん"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%87%AA%E5%88%86",
+    "accentEvidence": {
+      "heading": "自分",
+      "row": "word_6831",
+      "reading": "じぶん"
+    }
+  },
+  {
+    "id": "ima",
+    "word": "今",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "い",
+      "ま"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BB%8A",
+    "accentEvidence": {
+      "heading": "今",
+      "row": "word_3980",
+      "reading": "いま"
+    }
+  },
+  {
+    "id": "tsuki",
+    "word": "月",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "つ",
+      "き"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9C%88",
+    "accentEvidence": {
+      "heading": "月",
+      "row": "word_8722",
+      "reading": "つき"
+    }
+  },
+  {
+    "id": "ie",
+    "word": "家",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "い",
+      "え"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AE%B6",
+    "accentEvidence": {
+      "heading": "家",
+      "row": "word_3805",
+      "reading": "いえ"
+    }
+  },
+  {
+    "id": "mondai",
+    "word": "問題",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "も",
+      "ん",
+      "だ",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%95%8F%E9%A1%8C",
+    "accentEvidence": {
+      "heading": "問題",
+      "row": "word_11337",
+      "reading": "もんだい"
+    }
+  },
+  {
+    "id": "kodomo",
+    "word": "子供",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "こ",
+      "ど",
+      "も"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AD%90%E4%BE%9B",
+    "accentEvidence": {
+      "heading": "子供",
+      "row": "word_6206",
+      "reading": "こども"
+    }
+  },
+  {
+    "id": "jikan",
+    "word": "時間",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "じ",
+      "か",
+      "ん"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%99%82%E9%96%93",
+    "accentEvidence": {
+      "heading": "時間",
+      "row": "word_6619",
+      "reading": "じかん"
+    }
+  },
+  {
+    "id": "n001",
+    "word": "人",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ひ",
+      "と"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BA%BA",
+    "accentEvidence": {
+      "heading": "人",
+      "row": "word_10099",
+      "reading": "ひと"
+    }
+  },
+  {
+    "id": "n002",
+    "word": "名前",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "な",
+      "ま",
+      "え"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%90%8D%E5%89%8D",
+    "accentEvidence": {
+      "heading": "名前",
+      "row": "word_9360",
+      "reading": "なまえ"
+    }
+  },
+  {
+    "id": "n003",
+    "word": "友達",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "と",
+      "も",
+      "だ",
+      "ち"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%8F%8B%E9%81%94",
+    "accentEvidence": {
+      "heading": "友達",
+      "row": "word_9226",
+      "reading": "ともだち"
+    }
+  },
+  {
+    "id": "n004",
+    "word": "家族",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "か",
+      "ぞ",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AE%B6%E6%97%8F",
+    "accentEvidence": {
+      "heading": "家族",
+      "row": "word_4822",
+      "reading": "かぞく"
+    }
+  },
+  {
+    "id": "n005",
+    "word": "父",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ち",
+      "ち"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%88%B6",
+    "accentEvidence": {
+      "heading": "父",
+      "row": "word_8504",
+      "reading": "ちち"
+    },
+    "accentVariants": [
+      2,
+      1
+    ],
+    "accentNote": "OJAD 收录多种字典形声调；此处采用页面首个变体。"
+  },
+  {
+    "id": "n006",
+    "word": "母",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "は",
+      "は"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%AF%8D",
+    "accentEvidence": {
+      "heading": "母",
+      "row": "word_9852",
+      "reading": "はは"
+    }
+  },
+  {
+    "id": "n007",
+    "word": "兄",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "あ",
+      "に"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%85%84",
+    "accentEvidence": {
+      "heading": "兄",
+      "row": "word_3710",
+      "reading": "あに"
+    }
+  },
+  {
+    "id": "n008",
+    "word": "姉",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "あ",
+      "ね"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A7%89",
+    "accentEvidence": {
+      "heading": "姉",
+      "row": "word_3713",
+      "reading": "あね"
+    }
+  },
+  {
+    "id": "n009",
+    "word": "弟",
+    "accent": 4,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "お",
+      "と",
+      "う",
+      "と"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%BC%9F",
+    "accentEvidence": {
+      "heading": "弟",
+      "row": "word_4428",
+      "reading": "おとうと"
+    }
+  },
+  {
+    "id": "n010",
+    "word": "妹",
+    "accent": 4,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "い",
+      "も",
+      "う",
+      "と"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A6%B9",
+    "accentEvidence": {
+      "heading": "妹",
+      "row": "word_3989",
+      "reading": "いもうと"
+    }
+  },
+  {
+    "id": "n011",
+    "word": "先生",
+    "accent": 3,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "せ",
+      "ん",
+      "せ",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%85%88%E7%94%9F",
+    "accentEvidence": {
+      "heading": "先生",
+      "row": "word_7951",
+      "reading": "せんせい"
+    }
+  },
+  {
+    "id": "n012",
+    "word": "学生",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "が",
+      "く",
+      "せ",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AD%A6%E7%94%9F",
+    "accentEvidence": {
+      "heading": "学生",
+      "row": "word_4733",
+      "reading": "がくせい"
+    }
+  },
+  {
+    "id": "n013",
+    "word": "会社員",
+    "accent": 3,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "か",
+      "い",
+      "しゃ",
+      "い",
+      "ん"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BC%9A%E7%A4%BE%E5%93%A1",
+    "accentEvidence": {
+      "heading": "会社員",
+      "row": "word_4613",
+      "reading": "かいしゃいん"
+    }
+  },
+  {
+    "id": "n014",
+    "word": "仕事",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "し",
+      "ご",
+      "と"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BB%95%E4%BA%8B",
+    "accentEvidence": {
+      "heading": "仕事",
+      "row": "word_6666",
+      "reading": "しごと"
+    }
+  },
+  {
+    "id": "n015",
+    "word": "会社",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "か",
+      "い",
+      "しゃ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BC%9A%E7%A4%BE",
+    "accentEvidence": {
+      "heading": "会社",
+      "row": "word_4612",
+      "reading": "かいしゃ"
+    }
+  },
+  {
+    "id": "n016",
+    "word": "学校",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "が",
+      "っ",
+      "こ",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AD%A6%E6%A0%A1",
+    "accentEvidence": {
+      "heading": "学校",
+      "row": "word_4867",
+      "reading": "がっこう"
+    }
+  },
+  {
+    "id": "n017",
+    "word": "大学",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "だ",
+      "い",
+      "が",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A4%A7%E5%AD%A6",
+    "accentEvidence": {
+      "heading": "大学",
+      "row": "word_8167",
+      "reading": "だいがく"
+    }
+  },
+  {
+    "id": "n018",
+    "word": "教室",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "きょ",
+      "う",
+      "し",
+      "つ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%95%99%E5%AE%A4",
+    "accentEvidence": {
+      "heading": "教室",
+      "row": "word_5404",
+      "reading": "きょうしつ"
+    }
+  },
+  {
+    "id": "n019",
+    "word": "授業",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "じゅ",
+      "ぎょ",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%8E%88%E6%A5%AD",
+    "accentEvidence": {
+      "heading": "授業",
+      "row": "word_7023",
+      "reading": "じゅぎょう"
+    }
+  },
+  {
+    "id": "n020",
+    "word": "宿題",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "しゅ",
+      "く",
+      "だ",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AE%BF%E9%A1%8C",
+    "accentEvidence": {
+      "heading": "宿題",
+      "row": "word_7031",
+      "reading": "しゅくだい"
+    }
+  },
+  {
+    "id": "n021",
+    "word": "試験",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "し",
+      "け",
+      "ん"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A9%A6%E9%A8%93",
+    "accentEvidence": {
+      "heading": "試験",
+      "row": "word_6644",
+      "reading": "しけん"
+    }
+  },
+  {
+    "id": "n022",
+    "word": "日本語",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "に",
+      "ほ",
+      "ん",
+      "ご"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%97%A5%E6%9C%AC%E8%AA%9E",
+    "accentEvidence": {
+      "heading": "日本語",
+      "row": "word_9468",
+      "reading": "にほんご"
+    }
+  },
+  {
+    "id": "n023",
+    "word": "英語",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "え",
+      "い",
+      "ご"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%8B%B1%E8%AA%9E",
+    "accentEvidence": {
+      "heading": "英語",
+      "row": "word_4179",
+      "reading": "えいご"
+    }
+  },
+  {
+    "id": "n024",
+    "word": "言葉",
+    "accent": 3,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "こ",
+      "と",
+      "ば"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A8%80%E8%91%89",
+    "accentEvidence": {
+      "heading": "言葉",
+      "row": "word_6204",
+      "reading": "ことば"
+    }
+  },
+  {
+    "id": "n025",
+    "word": "意味",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "い",
+      "み"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%84%8F%E5%91%B3",
+    "accentEvidence": {
+      "heading": "意味",
+      "row": "word_3983",
+      "reading": "いみ"
+    }
+  },
+  {
+    "id": "n026",
+    "word": "漢字",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "か",
+      "ん",
+      "じ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%BC%A2%E5%AD%97",
+    "accentEvidence": {
+      "heading": "漢字",
+      "row": "word_5082",
+      "reading": "かんじ"
+    }
+  },
+  {
+    "id": "n027",
+    "word": "本",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ほ",
+      "ん"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9C%AC",
+    "accentEvidence": {
+      "heading": "本",
+      "row": "word_10815",
+      "reading": "ほん"
+    }
+  },
+  {
+    "id": "n028",
+    "word": "新聞",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "し",
+      "ん",
+      "ぶ",
+      "ん"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%96%B0%E8%81%9E",
+    "accentEvidence": {
+      "heading": "新聞",
+      "row": "word_7471",
+      "reading": "しんぶん"
+    }
+  },
+  {
+    "id": "n029",
+    "word": "手紙",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "て",
+      "が",
+      "み"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%89%8B%E7%B4%99",
+    "accentEvidence": {
+      "heading": "手紙",
+      "row": "word_8829",
+      "reading": "てがみ"
+    }
+  },
+  {
+    "id": "n030",
+    "word": "電話",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "で",
+      "ん",
+      "わ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%9B%BB%E8%A9%B1",
+    "accentEvidence": {
+      "heading": "電話",
+      "row": "word_8993",
+      "reading": "でんわ"
+    }
+  },
+  {
+    "id": "n031",
+    "word": "お金",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "お",
+      "か",
+      "ね"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%8A%E9%87%91",
+    "accentEvidence": {
+      "heading": "お金",
+      "row": "word_4343",
+      "reading": "おかね"
+    }
+  },
+  {
+    "id": "n032",
+    "word": "財布",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "さ",
+      "い",
+      "ふ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%B2%A1%E5%B8%83",
+    "accentEvidence": {
+      "heading": "財布",
+      "row": "word_6389",
+      "reading": "さいふ"
+    }
+  },
+  {
+    "id": "n033",
+    "word": "鍵",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "か",
+      "ぎ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%8D%B5",
+    "accentEvidence": {
+      "heading": "鍵",
+      "row": "word_4704",
+      "reading": "かぎ"
+    }
+  },
+  {
+    "id": "n034",
+    "word": "机",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "つ",
+      "く",
+      "え"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9C%BA",
+    "accentEvidence": {
+      "heading": "机",
+      "row": "word_8732",
+      "reading": "つくえ"
+    }
+  },
+  {
+    "id": "n035",
+    "word": "椅子",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "い",
+      "す"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%A4%85%E5%AD%90",
+    "accentEvidence": {
+      "heading": "椅子",
+      "row": "word_3870",
+      "reading": "いす"
+    }
+  },
+  {
+    "id": "n036",
+    "word": "部屋",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "へ",
+      "や"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%83%A8%E5%B1%8B",
+    "accentEvidence": {
+      "heading": "部屋",
+      "row": "word_10617",
+      "reading": "へや"
+    }
+  },
+  {
+    "id": "n037",
+    "word": "窓",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ま",
+      "ど"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%AA%93",
+    "accentEvidence": {
+      "heading": "窓",
+      "row": "word_10935",
+      "reading": "まど"
+    }
+  },
+  {
+    "id": "n038",
+    "word": "玄関",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "げ",
+      "ん",
+      "か",
+      "ん"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%8E%84%E9%96%A2",
+    "accentEvidence": {
+      "heading": "玄関",
+      "row": "word_5769",
+      "reading": "げんかん"
+    }
+  },
+  {
+    "id": "n039",
+    "word": "台所",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "だ",
+      "い",
+      "ど",
+      "こ",
+      "ろ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%8F%B0%E6%89%80",
+    "accentEvidence": {
+      "heading": "台所",
+      "row": "word_8225",
+      "reading": "だいどころ"
+    }
+  },
+  {
+    "id": "n040",
+    "word": "トイレ",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ト",
+      "イ",
+      "レ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%83%88%E3%82%A4%E3%83%AC",
+    "accentEvidence": {
+      "heading": "トイレ",
+      "row": "word_9015",
+      "reading": "といれ"
+    }
+  },
+  {
+    "id": "n041",
+    "word": "風呂",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ふ",
+      "ろ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%A2%A8%E5%91%82",
+    "accentEvidence": {
+      "heading": "風呂",
+      "row": "word_10495",
+      "reading": "ふろ"
+    }
+  },
+  {
+    "id": "n042",
+    "word": "水",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "み",
+      "ず"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%B0%B4",
+    "accentEvidence": {
+      "heading": "水",
+      "row": "word_11019",
+      "reading": "みず"
+    }
+  },
+  {
+    "id": "n043",
+    "word": "お茶",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "お",
+      "ちゃ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%8A%E8%8C%B6",
+    "accentEvidence": {
+      "heading": "お茶",
+      "row": "word_4414",
+      "reading": "おちゃ"
+    }
+  },
+  {
+    "id": "n044",
+    "word": "ご飯",
+    "accent": null,
+    "accentStatus": "待核对",
+    "auditStatus": "unmatched"
+  },
+  {
+    "id": "n045",
+    "word": "パン",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "パ",
+      "ン"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%83%91%E3%83%B3",
+    "accentEvidence": {
+      "heading": "パン",
+      "row": "word_9899",
+      "reading": "ぱん"
+    }
+  },
+  {
+    "id": "n046",
+    "word": "コーヒー",
+    "accent": 3,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "コ",
+      "ー",
+      "ヒ",
+      "ー"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC",
+    "accentEvidence": {
+      "heading": "コーヒー",
+      "row": "word_6322",
+      "reading": "こーひー"
+    }
+  },
+  {
+    "id": "n047",
+    "word": "牛乳",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ぎゅ",
+      "う",
+      "にゅ",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%89%9B%E4%B9%B3",
+    "accentEvidence": {
+      "heading": "牛乳",
+      "row": "word_5375",
+      "reading": "ぎゅうにゅう"
+    }
+  },
+  {
+    "id": "n048",
+    "word": "料理",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "りょ",
+      "う",
+      "り"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%96%99%E7%90%86",
+    "accentEvidence": {
+      "heading": "料理",
+      "row": "word_11753",
+      "reading": "りょうり"
+    }
+  },
+  {
+    "id": "n049",
+    "word": "野菜",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "や",
+      "さ",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%87%8E%E8%8F%9C",
+    "accentEvidence": {
+      "heading": "野菜",
+      "row": "word_11380",
+      "reading": "やさい"
+    }
+  },
+  {
+    "id": "n050",
+    "word": "果物",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "く",
+      "だ",
+      "も",
+      "の"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9E%9C%E7%89%A9",
+    "accentEvidence": {
+      "heading": "果物",
+      "row": "word_5524",
+      "reading": "くだもの"
+    }
+  },
+  {
+    "id": "n051",
+    "word": "肉",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "に",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%82%89",
+    "accentEvidence": {
+      "heading": "肉",
+      "row": "word_9422",
+      "reading": "にく"
+    }
+  },
+  {
+    "id": "n052",
+    "word": "魚",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "さ",
+      "か",
+      "な"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%AD%9A",
+    "accentEvidence": {
+      "heading": "魚",
+      "row": "word_6410",
+      "reading": "さかな"
+    }
+  },
+  {
+    "id": "n053",
+    "word": "卵",
+    "accent": null,
+    "accentStatus": "待核对",
+    "auditStatus": "error"
+  },
+  {
+    "id": "n054",
+    "word": "店",
+    "accent": null,
+    "accentStatus": "待核对",
+    "auditStatus": "error"
+  },
+  {
+    "id": "n055",
+    "word": "駅",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "え",
+      "き"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%A7%85",
+    "accentEvidence": {
+      "heading": "駅",
+      "row": "word_4200",
+      "reading": "えき"
+    }
+  },
+  {
+    "id": "n056",
+    "word": "電車",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "で",
+      "ん",
+      "しゃ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%9B%BB%E8%BB%8A",
+    "accentEvidence": {
+      "heading": "電車",
+      "row": "word_8952",
+      "reading": "でんしゃ"
+    }
+  },
+  {
+    "id": "n057",
+    "word": "バス",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "バ",
+      "ス"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%83%90%E3%82%B9",
+    "accentEvidence": {
+      "heading": "バス",
+      "row": "word_9761",
+      "reading": "ばす"
+    }
+  },
+  {
+    "id": "n058",
+    "word": "車",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "く",
+      "る",
+      "ま"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%BB%8A",
+    "accentEvidence": {
+      "heading": "車",
+      "row": "word_5575",
+      "reading": "くるま"
+    }
+  },
+  {
+    "id": "n059",
+    "word": "自転車",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "じ",
+      "て",
+      "ん",
+      "しゃ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%87%AA%E8%BB%A2%E8%BB%8A",
+    "accentEvidence": {
+      "heading": "自転車",
+      "row": "word_6795",
+      "reading": "じてんしゃ"
+    }
+  },
+  {
+    "id": "n060",
+    "word": "道",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "み",
+      "ち"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%81%93",
+    "accentEvidence": {
+      "heading": "道",
+      "row": "word_11042",
+      "reading": "みち"
+    }
+  },
+  {
+    "id": "n061",
+    "word": "地図",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ち",
+      "ず"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%9C%B0%E5%9B%B3",
+    "accentEvidence": {
+      "heading": "地図",
+      "row": "word_8500",
+      "reading": "ちず"
+    }
+  },
+  {
+    "id": "n062",
+    "word": "町",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ま",
+      "ち"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%94%BA",
+    "accentEvidence": {
+      "heading": "町",
+      "row": "word_10912",
+      "reading": "まち"
+    }
+  },
+  {
+    "id": "n063",
+    "word": "国",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "く",
+      "に"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%9B%BD",
+    "accentEvidence": {
+      "heading": "国",
+      "row": "word_5538",
+      "reading": "くに"
+    }
+  },
+  {
+    "id": "n064",
+    "word": "旅行",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "りょ",
+      "こ",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%97%85%E8%A1%8C",
+    "accentEvidence": {
+      "heading": "旅行",
+      "row": "word_11762",
+      "reading": "りょこう"
+    }
+  },
+  {
+    "id": "n065",
+    "word": "切符",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "き",
+      "っ",
+      "ぷ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%88%87%E7%AC%A6",
+    "accentEvidence": {
+      "heading": "切符",
+      "row": "word_5280",
+      "reading": "きっぷ"
+    }
+  },
+  {
+    "id": "n066",
+    "word": "空港",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "く",
+      "う",
+      "こ",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%A9%BA%E6%B8%AF",
+    "accentEvidence": {
+      "heading": "空港",
+      "row": "word_5510",
+      "reading": "くうこう"
+    }
+  },
+  {
+    "id": "n067",
+    "word": "飛行機",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ひ",
+      "こ",
+      "う",
+      "き"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%A3%9B%E8%A1%8C%E6%A9%9F",
+    "accentEvidence": {
+      "heading": "飛行機",
+      "row": "word_10023",
+      "reading": "ひこうき"
+    }
+  },
+  {
+    "id": "n068",
+    "word": "ホテル",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ホ",
+      "テ",
+      "ル"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%83%9B%E3%83%86%E3%83%AB",
+    "accentEvidence": {
+      "heading": "ホテル",
+      "row": "word_10791",
+      "reading": "ほてる"
+    }
+  },
+  {
+    "id": "n069",
+    "word": "荷物",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "に",
+      "も",
+      "つ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%8D%B7%E7%89%A9",
+    "accentEvidence": {
+      "heading": "荷物",
+      "row": "word_9480",
+      "reading": "にもつ"
+    }
+  },
+  {
+    "id": "n070",
+    "word": "場所",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ば",
+      "しょ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A0%B4%E6%89%80",
+    "accentEvidence": {
+      "heading": "場所",
+      "row": "word_9756",
+      "reading": "ばしょ"
+    }
+  },
+  {
+    "id": "n071",
+    "word": "朝",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "あ",
+      "さ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9C%9D",
+    "accentEvidence": {
+      "heading": "朝",
+      "row": "word_3646",
+      "reading": "あさ"
+    }
+  },
+  {
+    "id": "n072",
+    "word": "昼",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ひ",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%98%BC",
+    "accentEvidence": {
+      "heading": "昼",
+      "row": "word_10217",
+      "reading": "ひる"
+    }
+  },
+  {
+    "id": "n073",
+    "word": "夜",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "よ",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A4%9C",
+    "accentEvidence": {
+      "heading": "夜",
+      "row": "word_11619",
+      "reading": "よる"
+    }
+  },
+  {
+    "id": "n074",
+    "word": "今日",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "きょ",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BB%8A%E6%97%A5",
+    "accentEvidence": {
+      "heading": "今日",
+      "row": "word_5386",
+      "reading": "きょう"
+    }
+  },
+  {
+    "id": "n075",
+    "word": "明日",
+    "accent": 3,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "あ",
+      "し",
+      "た"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%98%8E%E6%97%A5",
+    "accentEvidence": {
+      "heading": "明日",
+      "row": "word_3668",
+      "reading": "あした"
+    }
+  },
+  {
+    "id": "n076",
+    "word": "昨日",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "き",
+      "の",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%98%A8%E6%97%A5",
+    "accentEvidence": {
+      "heading": "昨日",
+      "row": "word_5293",
+      "reading": "きのう"
+    },
+    "accentVariants": [
+      2,
+      0
+    ],
+    "accentNote": "OJAD 收录多种字典形声调；此处采用页面首个变体。"
+  },
+  {
+    "id": "n077",
+    "word": "毎日",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ま",
+      "い",
+      "に",
+      "ち"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%AF%8E%E6%97%A5",
+    "accentEvidence": {
+      "heading": "毎日",
+      "row": "word_10879",
+      "reading": "まいにち"
+    }
+  },
+  {
+    "id": "n078",
+    "word": "週末",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "しゅ",
+      "う",
+      "ま",
+      "つ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%80%B1%E6%9C%AB",
+    "accentEvidence": {
+      "heading": "週末",
+      "row": "word_7008",
+      "reading": "しゅうまつ"
+    }
+  },
+  {
+    "id": "n079",
+    "word": "来週",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ら",
+      "い",
+      "しゅ",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9D%A5%E9%80%B1",
+    "accentEvidence": {
+      "heading": "来週",
+      "row": "word_11628",
+      "reading": "らいしゅう"
+    }
+  },
+  {
+    "id": "n080",
+    "word": "天気",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "て",
+      "ん",
+      "き"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A4%A9%E6%B0%97",
+    "accentEvidence": {
+      "heading": "天気",
+      "row": "word_8927",
+      "reading": "てんき"
+    }
+  },
+  {
+    "id": "n081",
+    "word": "雨",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "あ",
+      "め"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%9B%A8",
+    "accentEvidence": {
+      "heading": "雨",
+      "row": "word_3737",
+      "reading": "あめ"
+    }
+  },
+  {
+    "id": "n082",
+    "word": "雪",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ゆ",
+      "き"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%9B%AA",
+    "accentEvidence": {
+      "heading": "雪",
+      "row": "word_11471",
+      "reading": "ゆき"
+    }
+  },
+  {
+    "id": "n083",
+    "word": "風",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "か",
+      "ぜ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%A2%A8",
+    "accentEvidence": {
+      "heading": "風",
+      "row": "word_4812",
+      "reading": "かぜ"
+    }
+  },
+  {
+    "id": "n084",
+    "word": "春",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "は",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%98%A5",
+    "accentEvidence": {
+      "heading": "春",
+      "row": "word_9885",
+      "reading": "はる"
+    }
+  },
+  {
+    "id": "n085",
+    "word": "夏",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "な",
+      "つ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A4%8F",
+    "accentEvidence": {
+      "heading": "夏",
+      "row": "word_9334",
+      "reading": "なつ"
+    }
+  },
+  {
+    "id": "n086",
+    "word": "秋",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "あ",
+      "き"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%A7%8B",
+    "accentEvidence": {
+      "heading": "秋",
+      "row": "word_3622",
+      "reading": "あき"
+    }
+  },
+  {
+    "id": "n087",
+    "word": "冬",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ふ",
+      "ゆ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%86%AC",
+    "accentEvidence": {
+      "heading": "冬",
+      "row": "word_10437",
+      "reading": "ふゆ"
+    }
+  },
+  {
+    "id": "n088",
+    "word": "体",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "か",
+      "ら",
+      "だ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BD%93",
+    "accentEvidence": {
+      "heading": "体",
+      "row": "word_4989",
+      "reading": "からだ"
+    }
+  },
+  {
+    "id": "n089",
+    "word": "病院",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "びょ",
+      "う",
+      "い",
+      "ん"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%97%85%E9%99%A2",
+    "accentEvidence": {
+      "heading": "病院",
+      "row": "word_10181",
+      "reading": "びょういん"
+    }
+  },
+  {
+    "id": "n090",
+    "word": "薬",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "く",
+      "す",
+      "り"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%96%AC",
+    "accentEvidence": {
+      "heading": "薬",
+      "row": "word_5523",
+      "reading": "くすり"
+    }
+  },
+  {
+    "id": "n091",
+    "word": "服",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "ふ",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9C%8D",
+    "accentEvidence": {
+      "heading": "服",
+      "row": "word_10315",
+      "reading": "ふく"
+    }
+  },
+  {
+    "id": "n092",
+    "word": "靴",
+    "accent": 2,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "く",
+      "つ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%9D%B4",
+    "accentEvidence": {
+      "heading": "靴",
+      "row": "word_5534",
+      "reading": "くつ"
+    }
+  },
+  {
+    "id": "n093",
+    "word": "写真",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "しゃ",
+      "し",
+      "ん"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%86%99%E7%9C%9F",
+    "accentEvidence": {
+      "heading": "写真",
+      "row": "word_6887",
+      "reading": "しゃしん"
+    }
+  },
+  {
+    "id": "n094",
+    "word": "音楽",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "お",
+      "ん",
+      "が",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%9F%B3%E6%A5%BD",
+    "accentEvidence": {
+      "heading": "音楽",
+      "row": "word_4527",
+      "reading": "おんがく"
+    }
+  },
+  {
+    "id": "n095",
+    "word": "映画",
+    "accent": 1,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "え",
+      "い",
+      "が"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%98%A0%E7%94%BB",
+    "accentEvidence": {
+      "heading": "映画",
+      "row": "word_4166",
+      "reading": "えいが"
+    },
+    "accentVariants": [
+      1,
+      0
+    ],
+    "accentNote": "OJAD 收录多种字典形声调；此处采用页面首个变体。"
+  },
+  {
+    "id": "n096",
+    "word": "休み",
+    "accent": 3,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "や",
+      "す",
+      "み"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BC%91%E3%81%BF",
+    "accentEvidence": {
+      "heading": "休み",
+      "row": "word_11385",
+      "reading": "やすみ"
+    }
+  },
+  {
+    "id": "n097",
+    "word": "予定",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "よ",
+      "て",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BA%88%E5%AE%9A",
+    "accentEvidence": {
+      "heading": "予定",
+      "row": "word_11597",
+      "reading": "よてい"
+    }
+  },
+  {
+    "id": "n098",
+    "word": "約束",
+    "accent": 0,
+    "accentStatus": "已核对",
+    "auditStatus": "verified",
+    "mora": [
+      "や",
+      "く",
+      "そ",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%B4%84%E6%9D%9F",
+    "accentEvidence": {
+      "heading": "約束",
+      "row": "word_11367",
+      "reading": "やくそく"
+    }
+  }
+]

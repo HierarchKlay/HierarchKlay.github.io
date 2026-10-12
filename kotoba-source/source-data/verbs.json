@@ -1,0 +1,5081 @@
+[
+  {
+    "id": "iu",
+    "word": "言う",
+    "reading": "いう",
+    "category": "动词",
+    "meaning": "说；表达",
+    "example": [
+      [
+        "日本語",
+        "にほんご"
+      ],
+      [
+        "で"
+      ],
+      [
+        "何",
+        "なん"
+      ],
+      [
+        "と"
+      ],
+      [
+        "言",
+        "い"
+      ],
+      [
+        "いますか。"
+      ]
+    ],
+    "translation": "用日语怎么说？",
+    "tip": "～と言う：说……",
+    "kanjiNote": "言：音 ゲン／训 い-う；说。",
+    "cloze": {
+      "before": "日本語で何と",
+      "after": "か。",
+      "answer": "言います"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "い",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A8%80%E3%81%86",
+    "accentEvidence": {
+      "heading": "言う・言います",
+      "row": "word_738"
+    }
+  },
+  {
+    "id": "suru",
+    "word": "する",
+    "reading": "する",
+    "category": "动词",
+    "meaning": "做；进行",
+    "example": [
+      [
+        "毎朝",
+        "まいあさ"
+      ],
+      [
+        "、"
+      ],
+      [
+        "散歩",
+        "さんぽ"
+      ],
+      [
+        "をします。"
+      ]
+    ],
+    "translation": "每天早晨散步。",
+    "tip": "散歩をする：散步。通常用假名。",
+    "kanjiNote": "",
+    "cloze": {
+      "before": "毎朝、散歩を",
+      "after": "。",
+      "answer": "します"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "rare": "（少见汉字写法：為る）",
+    "mora": [
+      "す",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%99%E3%82%8B",
+    "accentEvidence": {
+      "heading": "する・します",
+      "row": "word_2317"
+    }
+  },
+  {
+    "id": "v001",
+    "word": "ある",
+    "reading": "ある",
+    "category": "动词",
+    "meaning": "有；在（事物）",
+    "example": [
+      [
+        "机",
+        "つくえ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "鍵",
+        "かぎ"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "桌上有钥匙。",
+    "tip": "事物用「ある」，人或动物通常用「いる」。",
+    "kanjiNote": "",
+    "cloze": {
+      "before": "机の上に鍵が",
+      "after": "。",
+      "answer": "あります"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "あ",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%82%E3%82%8B",
+    "accentEvidence": {
+      "heading": "ある・あります",
+      "row": "word_66"
+    }
+  },
+  {
+    "id": "v002",
+    "word": "いる",
+    "reading": "いる",
+    "category": "动词",
+    "meaning": "有；在（人或动物）",
+    "example": [
+      [
+        "あそこに"
+      ],
+      [
+        "猫",
+        "ねこ"
+      ],
+      [
+        "がいます。"
+      ]
+    ],
+    "translation": "那里有只猫。",
+    "tip": "人・动物＋がいる。",
+    "kanjiNote": "",
+    "cloze": {
+      "before": "あそこに猫が",
+      "after": "。",
+      "answer": "います"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "い",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%84%E3%82%8B",
+    "accentEvidence": {
+      "heading": "居る・居ます",
+      "row": "word_1428"
+    },
+    "accentNote": "展示采用常用假名；OJAD 对应词头「居る・居ます」。"
+  },
+  {
+    "id": "v003",
+    "word": "できる",
+    "reading": "できる",
+    "category": "动词",
+    "meaning": "会；能做到",
+    "example": [
+      [
+        "ここで"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "い"
+      ],
+      [
+        "物",
+        "もの"
+      ],
+      [
+        "ができます。"
+      ]
+    ],
+    "translation": "这里可以买东西。",
+    "tip": "～ができる：能做……。",
+    "kanjiNote": "",
+    "cloze": {
+      "before": "ここで買い物が",
+      "after": "。",
+      "answer": "できます"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "で",
+      "き",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%A7%E3%81%8D%E3%82%8B",
+    "accentEvidence": {
+      "heading": "出来る・出来ます",
+      "row": "word_1261"
+    },
+    "accentNote": "展示采用常用假名；OJAD 对应词头「出来る・出来ます」。"
+  },
+  {
+    "id": "v004",
+    "word": "なる",
+    "reading": "なる",
+    "category": "动词",
+    "meaning": "变成；成为",
+    "example": [
+      [
+        "もうすぐ"
+      ],
+      [
+        "春",
+        "はる"
+      ],
+      [
+        "になります。"
+      ]
+    ],
+    "translation": "马上就到春天了。",
+    "tip": "名词＋になる：成为……。",
+    "kanjiNote": "",
+    "cloze": {
+      "before": "もうすぐ春に",
+      "after": "。",
+      "answer": "なります"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "な",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%AA%E3%82%8B",
+    "accentEvidence": {
+      "heading": "なる・なります",
+      "row": "word_497"
+    }
+  },
+  {
+    "id": "v005",
+    "word": "思う",
+    "reading": "おもう",
+    "category": "动词",
+    "meaning": "想；认为",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "方法",
+        "ほうほう"
+      ],
+      [
+        "がいいと"
+      ],
+      [
+        "思",
+        "おも"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "我觉得这个方法不错。",
+    "tip": "～と思う：觉得……。",
+    "kanjiNote": "思：音 シ／训 おも-う；想。",
+    "cloze": {
+      "before": "この方法がいいと",
+      "after": "。",
+      "answer": "思います"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "も",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%80%9D%E3%81%86",
+    "accentEvidence": {
+      "heading": "思う・思います",
+      "row": "word_172"
+    }
+  },
+  {
+    "id": "v006",
+    "word": "見る",
+    "reading": "みる",
+    "category": "动词",
+    "meaning": "看；观看",
+    "example": [
+      [
+        "週末",
+        "しゅうまつ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "映画",
+        "えいが"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "周末看电影。",
+    "tip": "映画を見る：看电影。",
+    "kanjiNote": "見：音 ケン／训 み-る；看。",
+    "cloze": {
+      "before": "週末に映画を",
+      "after": "。",
+      "answer": "見ます"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "み",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A6%8B%E3%82%8B",
+    "accentEvidence": {
+      "heading": "見る・見ます",
+      "row": "word_1371"
+    }
+  },
+  {
+    "id": "v007",
+    "word": "聞く",
+    "reading": "きく",
+    "category": "动词",
+    "meaning": "听；询问",
+    "example": [
+      [
+        "毎朝",
+        "まいあさ"
+      ],
+      [
+        "、ラジオを"
+      ],
+      [
+        "聞",
+        "き"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "每天早晨听广播。",
+    "tip": "音楽を聞く；人に聞く。",
+    "kanjiNote": "聞：音 ブン／训 き-く；听。",
+    "cloze": {
+      "before": "毎朝、ラジオを",
+      "after": "。",
+      "answer": "聞きます"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "き",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%81%9E%E3%81%8F",
+    "accentEvidence": {
+      "heading": "聞く・聞きます",
+      "row": "word_801"
+    }
+  },
+  {
+    "id": "v008",
+    "word": "話す",
+    "reading": "はなす",
+    "category": "动词",
+    "meaning": "说；交谈",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "と"
+      ],
+      [
+        "日本語",
+        "にほんご"
+      ],
+      [
+        "で"
+      ],
+      [
+        "話",
+        "はな"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "和朋友用日语交谈。",
+    "tip": "人と話す：与某人交谈。",
+    "kanjiNote": "話：音 ワ／训 はな-す；说话。",
+    "cloze": {
+      "before": "友達と日本語で",
+      "after": "。",
+      "answer": "話します"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "は",
+      "な",
+      "す"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A9%B1%E3%81%99",
+    "accentEvidence": {
+      "heading": "話す・話します",
+      "row": "word_561"
+    }
+  },
+  {
+    "id": "v009",
+    "word": "読む",
+    "reading": "よむ",
+    "category": "动词",
+    "meaning": "读",
+    "example": [
+      [
+        "電車",
+        "でんしゃ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "読",
+        "よ"
+      ],
+      [
+        "みます。"
+      ]
+    ],
+    "translation": "在电车上读书。",
+    "tip": "本を読む：读书。",
+    "kanjiNote": "読：音 ドク／训 よ-む；读。",
+    "cloze": {
+      "before": "電車で本を",
+      "after": "。",
+      "answer": "読みます"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "よ",
+      "む"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%AA%AD%E3%82%80",
+    "accentEvidence": {
+      "heading": "読む・読みます",
+      "row": "word_711"
+    }
+  },
+  {
+    "id": "v010",
+    "word": "書く",
+    "reading": "かく",
+    "category": "动词",
+    "meaning": "写",
+    "example": [
+      [
+        "ここに"
+      ],
+      [
+        "名前",
+        "なまえ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "書",
+        "か"
+      ],
+      [
+        "いてください。"
+      ]
+    ],
+    "translation": "请在这里写上名字。",
+    "tip": "名前を書く：写名字。",
+    "kanjiNote": "書：音 ショ／训 か-く；写。",
+    "cloze": {
+      "before": "ここに名前を",
+      "after": "ください。",
+      "answer": "書いて"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "か",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9B%B8%E3%81%8F",
+    "accentEvidence": {
+      "heading": "書く・書きます",
+      "row": "word_192"
+    }
+  },
+  {
+    "id": "v011",
+    "word": "食べる",
+    "reading": "たべる",
+    "category": "动词",
+    "meaning": "吃",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "はパンを"
+      ],
+      [
+        "食",
+        "た"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "早上吃面包。",
+    "tip": "朝ご飯を食べる：吃早饭。",
+    "kanjiNote": "食：音 ショク／训 た-べる；吃。",
+    "cloze": {
+      "before": "朝はパンを",
+      "after": "。",
+      "answer": "食べます"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "た",
+      "べ",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%A3%9F%E3%81%B9%E3%82%8B",
+    "accentEvidence": {
+      "heading": "食べる・食べます",
+      "row": "word_1238"
+    }
+  },
+  {
+    "id": "v012",
+    "word": "飲む",
+    "reading": "のむ",
+    "category": "动词",
+    "meaning": "喝",
+    "example": [
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "を"
+      ],
+      [
+        "一杯",
+        "いっぱい"
+      ],
+      [
+        "飲",
+        "の"
+      ],
+      [
+        "みます。"
+      ]
+    ],
+    "translation": "喝一杯水。",
+    "tip": "薬を飲む也表示吃药。",
+    "kanjiNote": "飲：音 イン／训 の-む；喝。",
+    "cloze": {
+      "before": "水を一杯",
+      "after": "。",
+      "answer": "飲みます"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "の",
+      "む"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%A3%B2%E3%82%80",
+    "accentEvidence": {
+      "heading": "飲む・飲みます",
+      "row": "word_534"
+    }
+  },
+  {
+    "id": "v013",
+    "word": "行く",
+    "reading": "いく",
+    "category": "动词",
+    "meaning": "去",
+    "example": [
+      [
+        "明日",
+        "あした"
+      ],
+      [
+        "、"
+      ],
+      [
+        "図書館",
+        "としょかん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "行",
+        "い"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "明天去图书馆。",
+    "tip": "場所に行く：去某地。",
+    "kanjiNote": "行：音 コウ／训 い-く；去、行动。",
+    "cloze": {
+      "before": "明日、図書館に",
+      "after": "。",
+      "answer": "行きます"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "い",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A1%8C%E3%81%8F",
+    "accentEvidence": {
+      "heading": "行く・行きます",
+      "row": "word_740"
+    }
+  },
+  {
+    "id": "v014",
+    "word": "来る",
+    "reading": "くる",
+    "category": "动词",
+    "meaning": "来",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "が"
+      ],
+      [
+        "家",
+        "いえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "来",
+        "き"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "朋友要来我家。",
+    "tip": "不规则变化：来る→来ます（きます）。",
+    "kanjiNote": "来：音 ライ／训 く-る；来。",
+    "cloze": {
+      "before": "友達が家に",
+      "after": "。",
+      "answer": "来ます"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "く",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9D%A5%E3%82%8B",
+    "accentEvidence": {
+      "heading": "来る・来ます",
+      "row": "word_1853"
+    }
+  },
+  {
+    "id": "v015",
+    "word": "帰る",
+    "reading": "かえる",
+    "category": "动词",
+    "meaning": "回去；回家",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "早",
+        "はや"
+      ],
+      [
+        "く"
+      ],
+      [
+        "家",
+        "いえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "帰",
+        "かえ"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "今天早点回家。",
+    "tip": "家に帰る：回家。",
+    "kanjiNote": "帰：音 キ／训 かえ-る；返回。",
+    "cloze": {
+      "before": "今日は早く家に",
+      "after": "。",
+      "answer": "帰ります"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "か",
+      "え",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%B8%B0%E3%82%8B",
+    "accentEvidence": {
+      "heading": "帰る・帰ります",
+      "row": "word_14"
+    }
+  },
+  {
+    "id": "v016",
+    "word": "寝る",
+    "reading": "ねる",
+    "category": "动词",
+    "meaning": "睡觉；躺下",
+    "example": [
+      [
+        "毎晩",
+        "まいばん"
+      ],
+      [
+        "、"
+      ],
+      [
+        "十一時",
+        "じゅういちじ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "寝",
+        "ね"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "每晚十一点睡觉。",
+    "tip": "寝る前に：睡前。",
+    "kanjiNote": "寝：音 シン／训 ね-る；睡。",
+    "cloze": {
+      "before": "毎晩、十一時に",
+      "after": "。",
+      "answer": "寝ます"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "ね",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AF%9D%E3%82%8B",
+    "accentEvidence": {
+      "heading": "寝る・寝ます",
+      "row": "word_1545"
+    }
+  },
+  {
+    "id": "v017",
+    "word": "起きる",
+    "reading": "おきる",
+    "category": "动词",
+    "meaning": "起床；起来",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "七時",
+        "しちじ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "起",
+        "お"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "早上七点起床。",
+    "tip": "起きる／寝る：起床／睡觉。",
+    "kanjiNote": "起：音 キ／训 お-きる；起。",
+    "cloze": {
+      "before": "朝七時に",
+      "after": "。",
+      "answer": "起きます"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "き",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%B5%B7%E3%81%8D%E3%82%8B",
+    "accentEvidence": {
+      "heading": "起きる・起きます",
+      "row": "word_1108"
+    }
+  },
+  {
+    "id": "v018",
+    "word": "働く",
+    "reading": "はたらく",
+    "category": "动词",
+    "meaning": "工作",
+    "example": [
+      [
+        "姉",
+        "あね"
+      ],
+      [
+        "は"
+      ],
+      [
+        "病院",
+        "びょういん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "働",
+        "はたら"
+      ],
+      [
+        "いています。"
+      ]
+    ],
+    "translation": "姐姐在医院工作。",
+    "tip": "場所で働く：在某处工作。",
+    "kanjiNote": "働：音 ドウ／训 はたら-く；工作。",
+    "cloze": {
+      "before": "姉は病院で",
+      "after": "います。",
+      "answer": "働いて"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "は",
+      "た",
+      "ら",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%83%8D%E3%81%8F",
+    "accentEvidence": {
+      "heading": "働く・働きます",
+      "row": "word_957"
+    }
+  },
+  {
+    "id": "v019",
+    "word": "休む",
+    "reading": "やすむ",
+    "category": "动词",
+    "meaning": "休息；请假",
+    "example": [
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "休",
+        "やす"
+      ],
+      [
+        "みましょう。"
+      ]
+    ],
+    "translation": "休息一下吧。",
+    "tip": "会社を休む：请假不上班。",
+    "kanjiNote": "休：音 キュウ／训 やす-む；休息。",
+    "cloze": {
+      "before": "少し",
+      "after": "。",
+      "answer": "休みましょう"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "や",
+      "す",
+      "む"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BC%91%E3%82%80",
+    "accentEvidence": {
+      "heading": "休む・休みます",
+      "row": "word_690"
+    }
+  },
+  {
+    "id": "v020",
+    "word": "買う",
+    "reading": "かう",
+    "category": "动词",
+    "meaning": "买",
+    "example": [
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "で"
+      ],
+      [
+        "切符",
+        "きっぷ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "在车站买票。",
+    "tip": "物を買う：买东西。",
+    "kanjiNote": "買：音 バイ／训 か-う；买。",
+    "cloze": {
+      "before": "駅で切符を",
+      "after": "。",
+      "answer": "買います"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "か",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%B2%B7%E3%81%86",
+    "accentEvidence": {
+      "heading": "買う・買います",
+      "row": "word_780"
+    }
+  },
+  {
+    "id": "v021",
+    "word": "売る",
+    "reading": "うる",
+    "category": "动词",
+    "meaning": "卖",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "では"
+      ],
+      [
+        "野菜",
+        "やさい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "売",
+        "う"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "这家店卖蔬菜。",
+    "tip": "買う／売る：买／卖。",
+    "kanjiNote": "売：音 バイ／训 う-る；卖。",
+    "cloze": {
+      "before": "この店では野菜を",
+      "after": "います。",
+      "answer": "売って"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "う",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A3%B2%E3%82%8B",
+    "accentEvidence": {
+      "heading": "売る・売ります",
+      "row": "word_756"
+    }
+  },
+  {
+    "id": "v022",
+    "word": "使う",
+    "reading": "つかう",
+    "category": "动词",
+    "meaning": "使用",
+    "example": [
+      [
+        "このペンを"
+      ],
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "ってもいいですか。"
+      ]
+    ],
+    "translation": "可以用这支笔吗？",
+    "tip": "～を使う：使用……。",
+    "kanjiNote": "使：音 シ／训 つか-う；使用。",
+    "cloze": {
+      "before": "このペンを",
+      "after": "もいいですか。",
+      "answer": "使って"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "つ",
+      "か",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BD%BF%E3%81%86",
+    "accentEvidence": {
+      "heading": "使う・使います",
+      "row": "word_883"
+    }
+  },
+  {
+    "id": "v023",
+    "word": "作る",
+    "reading": "つくる",
+    "category": "动词",
+    "meaning": "做；制作",
+    "example": [
+      [
+        "週末",
+        "しゅうまつ"
+      ],
+      [
+        "にカレーを"
+      ],
+      [
+        "作",
+        "つく"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "周末做咖喱。",
+    "tip": "料理を作る：做菜。",
+    "kanjiNote": "作：音 サク／训 つく-る；制作。",
+    "cloze": {
+      "before": "週末にカレーを",
+      "after": "。",
+      "answer": "作ります"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "つ",
+      "く",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BD%9C%E3%82%8B",
+    "accentEvidence": {
+      "heading": "作る・作ります",
+      "row": "word_411"
+    }
+  },
+  {
+    "id": "v024",
+    "word": "待つ",
+    "reading": "まつ",
+    "category": "动词",
+    "meaning": "等待",
+    "example": [
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "待",
+        "ま"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "我在车站前等着。",
+    "tip": "人を待つ：等人。",
+    "kanjiNote": "待：音 タイ／训 ま-つ；等待。",
+    "cloze": {
+      "before": "駅の前で",
+      "after": "います。",
+      "answer": "待って"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "ま",
+      "つ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%BE%85%E3%81%A4",
+    "accentEvidence": {
+      "heading": "待つ・待ちます",
+      "row": "word_640"
+    }
+  },
+  {
+    "id": "v025",
+    "word": "会う",
+    "reading": "あう",
+    "category": "动词",
+    "meaning": "见面；遇见",
+    "example": [
+      [
+        "日曜日",
+        "にちようび"
+      ],
+      [
+        "に"
+      ],
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "に"
+      ],
+      [
+        "会",
+        "あ"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "星期天和朋友见面。",
+    "tip": "人に会う：见某人。",
+    "kanjiNote": "会：音 カイ／训 あ-う；会面。",
+    "cloze": {
+      "before": "日曜日に友達に",
+      "after": "。",
+      "answer": "会います"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "あ",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BC%9A%E3%81%86",
+    "accentEvidence": {
+      "heading": "会う・会います",
+      "row": "word_37"
+    }
+  },
+  {
+    "id": "v026",
+    "word": "知る",
+    "reading": "しる",
+    "category": "动词",
+    "meaning": "知道；得知",
+    "example": [
+      [
+        "その"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "知",
+        "し"
+      ],
+      [
+        "っていますか。"
+      ]
+    ],
+    "translation": "你知道那家店吗？",
+    "tip": "「知道」通常用知っている。",
+    "kanjiNote": "知：音 チ／训 し-る；知道。",
+    "cloze": {
+      "before": "その店を",
+      "after": "いますか。",
+      "answer": "知って"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "し",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%9F%A5%E3%82%8B",
+    "accentEvidence": {
+      "heading": "知る・知ります",
+      "row": "word_846"
+    }
+  },
+  {
+    "id": "v027",
+    "word": "分かる",
+    "reading": "わかる",
+    "category": "动词",
+    "meaning": "懂；明白",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "言葉",
+        "ことば"
+      ],
+      [
+        "の"
+      ],
+      [
+        "意味",
+        "いみ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "分",
+        "わ"
+      ],
+      [
+        "かりますか。"
+      ]
+    ],
+    "translation": "你明白这个词的意思吗？",
+    "tip": "～が分かる：懂得……。",
+    "kanjiNote": "分：音 ブン／训 わ-かる；分辨、明白。",
+    "cloze": {
+      "before": "この言葉の意味が",
+      "after": "か。",
+      "answer": "分かります"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "わ",
+      "か",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%88%86%E3%81%8B%E3%82%8B",
+    "accentEvidence": {
+      "heading": "分かる・分かります",
+      "row": "word_718"
+    }
+  },
+  {
+    "id": "v028",
+    "word": "教える",
+    "reading": "おしえる",
+    "category": "动词",
+    "meaning": "教；告诉",
+    "example": [
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "への"
+      ],
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "教",
+        "おし"
+      ],
+      [
+        "えてください。"
+      ]
+    ],
+    "translation": "请告诉我去车站的路。",
+    "tip": "人に～を教える：教／告诉某人……。",
+    "kanjiNote": "教：音 キョウ／训 おし-える；教。",
+    "cloze": {
+      "before": "駅への道を",
+      "after": "ください。",
+      "answer": "教えて"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "し",
+      "え",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%95%99%E3%81%88%E3%82%8B",
+    "accentEvidence": {
+      "heading": "教える・教えます",
+      "row": "word_1448"
+    }
+  },
+  {
+    "id": "v029",
+    "word": "習う",
+    "reading": "ならう",
+    "category": "动词",
+    "meaning": "学习（向人学）",
+    "example": [
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "にピアノを"
+      ],
+      [
+        "習",
+        "なら"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "正在跟老师学钢琴。",
+    "tip": "人に習う：跟某人学。",
+    "kanjiNote": "習：音 シュウ／训 なら-う；学习。",
+    "cloze": {
+      "before": "先生にピアノを",
+      "after": "います。",
+      "answer": "習って"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "な",
+      "ら",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%BF%92%E3%81%86",
+    "accentEvidence": {
+      "heading": "習う・習います",
+      "row": "word_495"
+    }
+  },
+  {
+    "id": "v030",
+    "word": "覚える",
+    "reading": "おぼえる",
+    "category": "动词",
+    "meaning": "记住；学会",
+    "example": [
+      [
+        "毎日",
+        "まいにち"
+      ],
+      [
+        "、"
+      ],
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "単語",
+        "たんご"
+      ],
+      [
+        "を"
+      ],
+      [
+        "覚",
+        "おぼ"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "每天记新单词。",
+    "tip": "覚える／忘れる：记住／忘记。",
+    "kanjiNote": "覚：音 カク／训 おぼ-える；记住。",
+    "cloze": {
+      "before": "毎日、新しい単語を",
+      "after": "。",
+      "answer": "覚えます"
+    },
+    "accent": 3,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "ぼ",
+      "え",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A6%9A%E3%81%88%E3%82%8B",
+    "accentEvidence": {
+      "heading": "覚える・覚えます",
+      "row": "word_1121"
+    }
+  },
+  {
+    "id": "v031",
+    "word": "忘れる",
+    "reading": "わすれる",
+    "category": "动词",
+    "meaning": "忘记",
+    "example": [
+      [
+        "傘",
+        "かさ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "忘",
+        "わす"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "我忘带伞了。",
+    "tip": "～を忘れる：忘记……。",
+    "kanjiNote": "忘：音 ボウ／训 わす-れる；忘。",
+    "cloze": {
+      "before": "傘を",
+      "after": "。",
+      "answer": "忘れました"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "わ",
+      "す",
+      "れ",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%BF%98%E3%82%8C%E3%82%8B",
+    "accentEvidence": {
+      "heading": "忘れる・忘れます",
+      "row": "word_1593"
+    }
+  },
+  {
+    "id": "v032",
+    "word": "考える",
+    "reading": "かんがえる",
+    "category": "动词",
+    "meaning": "思考；考虑",
+    "example": [
+      [
+        "旅行",
+        "りょこう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "計画",
+        "けいかく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "考",
+        "かんが"
+      ],
+      [
+        "えています。"
+      ]
+    ],
+    "translation": "正在考虑旅行计划。",
+    "tip": "考える：认真思考、斟酌。",
+    "kanjiNote": "考：音 コウ／训 かんが-える；思考。",
+    "cloze": {
+      "before": "旅行の計画を",
+      "after": "います。",
+      "answer": "考えて"
+    },
+    "accent": 4,
+    "accentStatus": "已核对",
+    "mora": [
+      "か",
+      "ん",
+      "が",
+      "え",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%80%83%E3%81%88%E3%82%8B",
+    "accentEvidence": {
+      "heading": "考える・考えます",
+      "row": "word_1145"
+    },
+    "accentVariants": [
+      4,
+      3
+    ],
+    "accentNote": "OJAD 收录多种字典形声调；此处采用页面首个变体。"
+  },
+  {
+    "id": "v033",
+    "word": "始める",
+    "reading": "はじめる",
+    "category": "动词",
+    "meaning": "开始（做某事）",
+    "example": [
+      [
+        "そろそろ"
+      ],
+      [
+        "勉強",
+        "べんきょう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "始",
+        "はじ"
+      ],
+      [
+        "めましょう。"
+      ]
+    ],
+    "translation": "差不多该开始学习了。",
+    "tip": "～を始める：开始做……。",
+    "kanjiNote": "始：音 シ／训 はじ-める；开始。",
+    "cloze": {
+      "before": "そろそろ勉強を",
+      "after": "。",
+      "answer": "始めましょう"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "は",
+      "じ",
+      "め",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A7%8B%E3%82%81%E3%82%8B",
+    "accentEvidence": {
+      "heading": "始める・始めます",
+      "row": "word_1548"
+    }
+  },
+  {
+    "id": "v034",
+    "word": "終わる",
+    "reading": "おわる",
+    "category": "动词",
+    "meaning": "结束",
+    "example": [
+      [
+        "会議",
+        "かいぎ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "五時",
+        "ごじ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "終",
+        "お"
+      ],
+      [
+        "わります。"
+      ]
+    ],
+    "translation": "会议五点结束。",
+    "tip": "～が終わる：某事结束。",
+    "kanjiNote": "終：音 シュウ／训 お-わる；结束。",
+    "cloze": {
+      "before": "会議は五時に",
+      "after": "。",
+      "answer": "終わります"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "わ",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%B5%82%E3%82%8F%E3%82%8B",
+    "accentEvidence": {
+      "heading": "終わる・終わります",
+      "row": "word_779"
+    }
+  },
+  {
+    "id": "v035",
+    "word": "開ける",
+    "reading": "あける",
+    "category": "动词",
+    "meaning": "打开",
+    "example": [
+      [
+        "窓",
+        "まど"
+      ],
+      [
+        "を"
+      ],
+      [
+        "開",
+        "あ"
+      ],
+      [
+        "けてもいいですか。"
+      ]
+    ],
+    "translation": "可以打开窗户吗？",
+    "tip": "窓を開ける：打开窗户。",
+    "kanjiNote": "開：音 カイ／训 あ-ける；打开。",
+    "cloze": {
+      "before": "窓を",
+      "after": "もいいですか。",
+      "answer": "開けて"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "あ",
+      "け",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%96%8B%E3%81%91%E3%82%8B",
+    "accentEvidence": {
+      "heading": "開ける・開けます",
+      "row": "word_1410"
+    }
+  },
+  {
+    "id": "v036",
+    "word": "閉める",
+    "reading": "しめる",
+    "category": "动词",
+    "meaning": "关上",
+    "example": [
+      [
+        "ドアを"
+      ],
+      [
+        "閉",
+        "し"
+      ],
+      [
+        "めてください。"
+      ]
+    ],
+    "translation": "请关上门。",
+    "tip": "開ける／閉める：打开／关上。",
+    "kanjiNote": "閉：音 ヘイ／训 し-める；关闭。",
+    "cloze": {
+      "before": "ドアを",
+      "after": "ください。",
+      "answer": "閉めて"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "し",
+      "め",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%96%89%E3%82%81%E3%82%8B",
+    "accentEvidence": {
+      "heading": "閉める・閉めます",
+      "row": "word_1196"
+    }
+  },
+  {
+    "id": "v037",
+    "word": "入れる",
+    "reading": "いれる",
+    "category": "动词",
+    "meaning": "放入",
+    "example": [
+      [
+        "かばんに"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "把书放进包里。",
+    "tip": "容器に物を入れる：把东西放入容器。",
+    "kanjiNote": "入：音 ニュウ／训 い-れる；放入。",
+    "cloze": {
+      "before": "かばんに本を",
+      "after": "。",
+      "answer": "入れます"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "い",
+      "れ",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%85%A5%E3%82%8C%E3%82%8B",
+    "accentEvidence": {
+      "heading": "入れる・入れます",
+      "row": "word_1429"
+    }
+  },
+  {
+    "id": "v038",
+    "word": "出る",
+    "reading": "でる",
+    "category": "动词",
+    "meaning": "出来；离开",
+    "example": [
+      [
+        "八時",
+        "はちじ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "家",
+        "いえ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "八点出门。",
+    "tip": "家を出る：离开家。",
+    "kanjiNote": "出：音 シュツ／训 で-る；出来。",
+    "cloze": {
+      "before": "八時に家を",
+      "after": "。",
+      "answer": "出ます"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "で",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%87%BA%E3%82%8B",
+    "accentEvidence": {
+      "heading": "出る・出ます",
+      "row": "word_1263"
+    }
+  },
+  {
+    "id": "v039",
+    "word": "入る",
+    "reading": "はいる",
+    "category": "动词",
+    "meaning": "进入",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "入",
+        "はい"
+      ],
+      [
+        "りましょう。"
+      ]
+    ],
+    "translation": "进这家店吧。",
+    "tip": "場所に入る：进入某处。",
+    "kanjiNote": "入：音 ニュウ／训 はい-る；进入。",
+    "cloze": {
+      "before": "この店に",
+      "after": "。",
+      "answer": "入りましょう"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "は",
+      "い",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%85%A5%E3%82%8B",
+    "accentEvidence": {
+      "heading": "入る・入ります",
+      "row": "word_8"
+    }
+  },
+  {
+    "id": "v040",
+    "word": "座る",
+    "reading": "すわる",
+    "category": "动词",
+    "meaning": "坐",
+    "example": [
+      [
+        "ここに"
+      ],
+      [
+        "座",
+        "すわ"
+      ],
+      [
+        "ってください。"
+      ]
+    ],
+    "translation": "请坐在这里。",
+    "tip": "椅子に座る：坐在椅子上。",
+    "kanjiNote": "座：音 ザ／训 すわ-る；坐。",
+    "cloze": {
+      "before": "ここに",
+      "after": "ください。",
+      "answer": "座って"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "す",
+      "わ",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%BA%A7%E3%82%8B",
+    "accentEvidence": {
+      "heading": "座る・座ります",
+      "row": "word_855"
+    }
+  },
+  {
+    "id": "v041",
+    "word": "立つ",
+    "reading": "たつ",
+    "category": "动词",
+    "meaning": "站立",
+    "example": [
+      [
+        "入口",
+        "いりぐち"
+      ],
+      [
+        "に"
+      ],
+      [
+        "人",
+        "ひと"
+      ],
+      [
+        "が"
+      ],
+      [
+        "立",
+        "た"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "入口处站着一个人。",
+    "tip": "立つ／座る：站／坐。",
+    "kanjiNote": "立：音 リツ／训 た-つ；站立。",
+    "cloze": {
+      "before": "入口に人が",
+      "after": "います。",
+      "answer": "立って"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "た",
+      "つ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%AB%8B%E3%81%A4",
+    "accentEvidence": {
+      "heading": "立つ・立ちます",
+      "row": "word_377"
+    }
+  },
+  {
+    "id": "v042",
+    "word": "歩く",
+    "reading": "あるく",
+    "category": "动词",
+    "meaning": "步行；走路",
+    "example": [
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "まで"
+      ],
+      [
+        "歩",
+        "ある"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "走到车站。",
+    "tip": "～まで歩く：步行到……。",
+    "kanjiNote": "歩：音 ホ／训 ある-く；步行。",
+    "cloze": {
+      "before": "駅まで",
+      "after": "。",
+      "answer": "歩きます"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "あ",
+      "る",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%AD%A9%E3%81%8F",
+    "accentEvidence": {
+      "heading": "歩く・歩きます",
+      "row": "word_68"
+    }
+  },
+  {
+    "id": "v043",
+    "word": "走る",
+    "reading": "はしる",
+    "category": "动词",
+    "meaning": "跑",
+    "example": [
+      [
+        "毎朝",
+        "まいあさ"
+      ],
+      [
+        "、"
+      ],
+      [
+        "公園",
+        "こうえん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "走",
+        "はし"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "每天早晨在公园跑步。",
+    "tip": "公園を走る：在公园跑步。",
+    "kanjiNote": "走：音 ソウ／训 はし-る；跑。",
+    "cloze": {
+      "before": "毎朝、公園を",
+      "after": "。",
+      "answer": "走ります"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "は",
+      "し",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%B5%B0%E3%82%8B",
+    "accentEvidence": {
+      "heading": "走る・走ります",
+      "row": "word_557"
+    }
+  },
+  {
+    "id": "v044",
+    "word": "乗る",
+    "reading": "のる",
+    "category": "动词",
+    "meaning": "乘坐；登上",
+    "example": [
+      [
+        "次",
+        "つぎ"
+      ],
+      [
+        "のバスに"
+      ],
+      [
+        "乗",
+        "の"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "乘下一班公交车。",
+    "tip": "乗り物に乗る：乘交通工具。",
+    "kanjiNote": "乗：音 ジョウ／训 の-る；乘坐。",
+    "cloze": {
+      "before": "次のバスに",
+      "after": "。",
+      "answer": "乗ります"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "の",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%B9%97%E3%82%8B",
+    "accentEvidence": {
+      "heading": "乗る・乗ります",
+      "row": "word_947"
+    }
+  },
+  {
+    "id": "v045",
+    "word": "降りる",
+    "reading": "おりる",
+    "category": "动词",
+    "meaning": "下（车等）",
+    "example": [
+      [
+        "次",
+        "つぎ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "で"
+      ],
+      [
+        "降",
+        "お"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "在下一站下车。",
+    "tip": "電車を降りる：下电车。",
+    "kanjiNote": "降：音 コウ／训 お-りる；下来。",
+    "cloze": {
+      "before": "次の駅で",
+      "after": "。",
+      "answer": "降ります"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "り",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%99%8D%E3%82%8A%E3%82%8B",
+    "accentEvidence": {
+      "heading": "降りる・降ります",
+      "row": "word_1124"
+    }
+  },
+  {
+    "id": "v046",
+    "word": "持つ",
+    "reading": "もつ",
+    "category": "动词",
+    "meaning": "拿；持有",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "荷物",
+        "にもつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "持",
+        "も"
+      ],
+      [
+        "ちます。"
+      ]
+    ],
+    "translation": "我来拿这件行李。",
+    "tip": "荷物を持つ：拿行李。",
+    "kanjiNote": "持：音 ジ／训 も-つ；持有。",
+    "cloze": {
+      "before": "この荷物を",
+      "after": "。",
+      "answer": "持ちます"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "も",
+      "つ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%8C%81%E3%81%A4",
+    "accentEvidence": {
+      "heading": "持つ・持ちます",
+      "row": "word_674"
+    }
+  },
+  {
+    "id": "v047",
+    "word": "取る",
+    "reading": "とる",
+    "category": "动词",
+    "meaning": "拿；取",
+    "example": [
+      [
+        "その"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "取",
+        "と"
+      ],
+      [
+        "ってください。"
+      ]
+    ],
+    "translation": "请拿一下那本书。",
+    "tip": "写真用「撮る」，不是「取る」。",
+    "kanjiNote": "取：音 シュ／训 と-る；拿取。",
+    "cloze": {
+      "before": "その本を",
+      "after": "ください。",
+      "answer": "取って"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "と",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%8F%96%E3%82%8B",
+    "accentEvidence": {
+      "heading": "取る・取ります",
+      "row": "word_478"
+    }
+  },
+  {
+    "id": "v048",
+    "word": "置く",
+    "reading": "おく",
+    "category": "动词",
+    "meaning": "放置",
+    "example": [
+      [
+        "かばんを"
+      ],
+      [
+        "椅子",
+        "いす"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "置",
+        "お"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "把包放在椅子上。",
+    "tip": "物を場所に置く：把东西放在某处。",
+    "kanjiNote": "置：音 チ／训 お-く；放置。",
+    "cloze": {
+      "before": "かばんを椅子の上に",
+      "after": "。",
+      "answer": "置きます"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%BD%AE%E3%81%8F",
+    "accentEvidence": {
+      "heading": "置く・置きます",
+      "row": "word_761"
+    }
+  },
+  {
+    "id": "v049",
+    "word": "送る",
+    "reading": "おくる",
+    "category": "动词",
+    "meaning": "发送；送",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "にメールを"
+      ],
+      [
+        "送",
+        "おく"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "给朋友发邮件。",
+    "tip": "人に～を送る：给某人发送……。",
+    "kanjiNote": "送：音 ソウ／训 おく-る；送。",
+    "cloze": {
+      "before": "友達にメールを",
+      "after": "。",
+      "answer": "送ります"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "く",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%80%81%E3%82%8B",
+    "accentEvidence": {
+      "heading": "送る・送ります",
+      "row": "word_763"
+    }
+  },
+  {
+    "id": "v050",
+    "word": "もらう",
+    "reading": "もらう",
+    "category": "动词",
+    "meaning": "得到；收到",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "にお"
+      ],
+      [
+        "土産",
+        "みやげ"
+      ],
+      [
+        "をもらいました。"
+      ]
+    ],
+    "translation": "从朋友那里收到了礼物。",
+    "tip": "人に／から～をもらう：从某人处收到……。",
+    "kanjiNote": "",
+    "cloze": {
+      "before": "友達にお土産を",
+      "after": "。",
+      "answer": "もらいました"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "も",
+      "ら",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%82%82%E3%82%89%E3%81%86",
+    "accentEvidence": {
+      "heading": "もらう・もらいます",
+      "row": "word_1027"
+    }
+  },
+  {
+    "id": "v051",
+    "word": "あげる",
+    "reading": "あげる",
+    "category": "动词",
+    "meaning": "给（别人）",
+    "example": [
+      [
+        "妹",
+        "いもうと"
+      ],
+      [
+        "に"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "をあげました。"
+      ]
+    ],
+    "translation": "我给了妹妹一本书。",
+    "tip": "人に物をあげる：把东西给别人。",
+    "kanjiNote": "",
+    "cloze": {
+      "before": "妹に本を",
+      "after": "。",
+      "answer": "あげました"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "あ",
+      "げ",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%82%E3%81%92%E3%82%8B",
+    "accentEvidence": {
+      "heading": "上げる・上げます",
+      "row": "word_1413",
+      "spellingMeaningSource": "https://www.kanjipedia.jp/kotoba/0003479600"
+    },
+    "accentNote": "展示采用常用假名；OJAD 对应词头「上げる・上げます」。"
+  },
+  {
+    "id": "v052",
+    "word": "くれる",
+    "reading": "くれる",
+    "category": "动词",
+    "meaning": "给我（或我方）",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "が"
+      ],
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "をくれました。"
+      ]
+    ],
+    "translation": "朋友给了我照片。",
+    "tip": "从给的一方说：别人给我／我方。",
+    "kanjiNote": "",
+    "cloze": {
+      "before": "友達が写真を",
+      "after": "。",
+      "answer": "くれました"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "く",
+      "れ",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%8F%E3%82%8C%E3%82%8B",
+    "accentEvidence": {
+      "heading": "くれる・くれます",
+      "row": "word_1478"
+    }
+  },
+  {
+    "id": "v053",
+    "word": "借りる",
+    "reading": "かりる",
+    "category": "动词",
+    "meaning": "借入；租用",
+    "example": [
+      [
+        "図書館",
+        "としょかん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "借",
+        "か"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "在图书馆借书。",
+    "tip": "借りる／貸す：借入／借出。",
+    "kanjiNote": "借：音 シャク／训 か-りる；借入。",
+    "cloze": {
+      "before": "図書館で本を",
+      "after": "。",
+      "answer": "借ります"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "か",
+      "り",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%80%9F%E3%82%8A%E3%82%8B",
+    "accentEvidence": {
+      "heading": "借りる・借ります",
+      "row": "word_1464"
+    }
+  },
+  {
+    "id": "v054",
+    "word": "貸す",
+    "reading": "かす",
+    "category": "动词",
+    "meaning": "借出；出租",
+    "example": [
+      [
+        "ペンを"
+      ],
+      [
+        "貸",
+        "か"
+      ],
+      [
+        "してください。"
+      ]
+    ],
+    "translation": "请借我一支笔。",
+    "tip": "人に物を貸す：把东西借给某人。",
+    "kanjiNote": "貸：音 タイ／训 か-す；借出。",
+    "cloze": {
+      "before": "ペンを",
+      "after": "ください。",
+      "answer": "貸して"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "か",
+      "す"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%B2%B8%E3%81%99",
+    "accentEvidence": {
+      "heading": "貸す・貸します",
+      "row": "word_790"
+    }
+  },
+  {
+    "id": "v055",
+    "word": "洗う",
+    "reading": "あらう",
+    "category": "动词",
+    "meaning": "洗",
+    "example": [
+      [
+        "食事",
+        "しょくじ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "手",
+        "て"
+      ],
+      [
+        "を"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "吃饭前洗手。",
+    "tip": "手を洗う：洗手。",
+    "kanjiNote": "洗：音 セン／训 あら-う；洗。",
+    "cloze": {
+      "before": "食事の前に手を",
+      "after": "。",
+      "answer": "洗います"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "あ",
+      "ら",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%B4%97%E3%81%86",
+    "accentEvidence": {
+      "heading": "洗う・洗います",
+      "row": "word_736"
+    }
+  },
+  {
+    "id": "v056",
+    "word": "着る",
+    "reading": "きる",
+    "category": "动词",
+    "meaning": "穿（上身衣物）",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "白",
+        "しろ"
+      ],
+      [
+        "いシャツを"
+      ],
+      [
+        "着",
+        "き"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "今天穿白衬衫。",
+    "tip": "裤子、鞋子通常用「履く（はく）」。",
+    "kanjiNote": "着：音 チャク／训 き-る；穿。",
+    "cloze": {
+      "before": "今日は白いシャツを",
+      "after": "。",
+      "answer": "着ます"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "き",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%9D%80%E3%82%8B",
+    "accentEvidence": {
+      "heading": "着る・着ます",
+      "row": "word_1475"
+    }
+  },
+  {
+    "id": "v057",
+    "word": "脱ぐ",
+    "reading": "ぬぐ",
+    "category": "动词",
+    "meaning": "脱（衣物等）",
+    "example": [
+      [
+        "ここで"
+      ],
+      [
+        "靴",
+        "くつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "脱",
+        "ぬ"
+      ],
+      [
+        "いでください。"
+      ]
+    ],
+    "translation": "请在这里脱鞋。",
+    "tip": "靴を脱ぐ：脱鞋。",
+    "kanjiNote": "脱：音 ダツ／训 ぬ-ぐ；脱下。",
+    "cloze": {
+      "before": "ここで靴を",
+      "after": "ください。",
+      "answer": "脱いで"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "ぬ",
+      "ぐ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%84%B1%E3%81%90",
+    "accentEvidence": {
+      "heading": "脱ぐ・脱ぎます",
+      "row": "word_515"
+    }
+  },
+  {
+    "id": "v058",
+    "word": "遊ぶ",
+    "reading": "あそぶ",
+    "category": "动词",
+    "meaning": "玩耍；游玩",
+    "example": [
+      [
+        "子供",
+        "こども"
+      ],
+      [
+        "たちが"
+      ],
+      [
+        "公園",
+        "こうえん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "遊",
+        "あそ"
+      ],
+      [
+        "んでいます。"
+      ]
+    ],
+    "translation": "孩子们正在公园玩。",
+    "tip": "友達と遊ぶ：和朋友一起玩。",
+    "kanjiNote": "遊：音 ユウ／训 あそ-ぶ；玩。",
+    "cloze": {
+      "before": "子供たちが公園で",
+      "after": "います。",
+      "answer": "遊んで"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "あ",
+      "そ",
+      "ぶ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%81%8A%E3%81%B6",
+    "accentEvidence": {
+      "heading": "遊ぶ・遊びます",
+      "row": "word_732"
+    }
+  },
+  {
+    "id": "v059",
+    "word": "歌う",
+    "reading": "うたう",
+    "category": "动词",
+    "meaning": "唱歌",
+    "example": [
+      [
+        "カラオケで"
+      ],
+      [
+        "日本語",
+        "にほんご"
+      ],
+      [
+        "の"
+      ],
+      [
+        "歌",
+        "うた"
+      ],
+      [
+        "を"
+      ],
+      [
+        "歌",
+        "うた"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "在卡拉OK唱日语歌。",
+    "tip": "歌（うた）を歌う（うたう）。",
+    "kanjiNote": "歌：音 カ／训 うた-う；唱歌。",
+    "cloze": {
+      "before": "カラオケで日本語の歌を",
+      "after": "。",
+      "answer": "歌います"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "う",
+      "た",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%AD%8C%E3%81%86",
+    "accentEvidence": {
+      "heading": "歌う・歌います",
+      "row": "word_750"
+    }
+  },
+  {
+    "id": "v060",
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "category": "动词",
+    "meaning": "游泳",
+    "example": [
+      [
+        "夏",
+        "なつ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "海",
+        "うみ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "泳",
+        "およ"
+      ],
+      [
+        "ぎます。"
+      ]
+    ],
+    "translation": "夏天在海里游泳。",
+    "tip": "プールで泳ぐ：在泳池游泳。",
+    "kanjiNote": "泳：音 エイ／训 およ-ぐ；游泳。",
+    "cloze": {
+      "before": "夏は海で",
+      "after": "。",
+      "answer": "泳ぎます"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "よ",
+      "ぐ"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%B3%B3%E3%81%90",
+    "accentEvidence": {
+      "heading": "泳ぐ・泳ぎます",
+      "row": "word_174"
+    }
+  },
+  {
+    "id": "v061",
+    "word": "笑う",
+    "reading": "わらう",
+    "category": "动词",
+    "meaning": "笑",
+    "example": [
+      [
+        "その"
+      ],
+      [
+        "話",
+        "はなし"
+      ],
+      [
+        "を"
+      ],
+      [
+        "聞",
+        "き"
+      ],
+      [
+        "いて、みんな"
+      ],
+      [
+        "笑",
+        "わら"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "听了那个故事，大家都笑了。",
+    "tip": "笑う／泣く：笑／哭。",
+    "kanjiNote": "笑：音 ショウ／训 わら-う；笑。",
+    "cloze": {
+      "before": "その話を聞いて、みんな",
+      "after": "。",
+      "answer": "笑いました"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "わ",
+      "ら",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%AC%91%E3%81%86",
+    "accentEvidence": {
+      "heading": "笑う・笑います",
+      "row": "word_1049"
+    }
+  },
+  {
+    "id": "v062",
+    "word": "泣く",
+    "reading": "なく",
+    "category": "动词",
+    "meaning": "哭",
+    "example": [
+      [
+        "赤",
+        "あか"
+      ],
+      [
+        "ちゃんが"
+      ],
+      [
+        "泣",
+        "な"
+      ],
+      [
+        "いています。"
+      ]
+    ],
+    "translation": "婴儿在哭。",
+    "tip": "动物鸣叫通常写「鳴く」。",
+    "kanjiNote": "泣：音 キュウ／训 な-く；哭。",
+    "cloze": {
+      "before": "赤ちゃんが",
+      "after": "います。",
+      "answer": "泣いて"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "な",
+      "く"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%B3%A3%E3%81%8F",
+    "accentEvidence": {
+      "heading": "泣く・泣きます",
+      "row": "word_920"
+    }
+  },
+  {
+    "id": "v063",
+    "word": "困る",
+    "reading": "こまる",
+    "category": "动词",
+    "meaning": "为难；伤脑筋",
+    "example": [
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "が"
+      ],
+      [
+        "分",
+        "わ"
+      ],
+      [
+        "からなくて"
+      ],
+      [
+        "困",
+        "こま"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "因为不认识路而犯难。",
+    "tip": "困っている：正处于困境。",
+    "kanjiNote": "困：音 コン／训 こま-る；困扰。",
+    "cloze": {
+      "before": "道が分からなくて",
+      "after": "います。",
+      "answer": "困って"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "こ",
+      "ま",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%9B%B0%E3%82%8B",
+    "accentEvidence": {
+      "heading": "困る・困ります",
+      "row": "word_267"
+    }
+  },
+  {
+    "id": "v064",
+    "word": "疲れる",
+    "reading": "つかれる",
+    "category": "动词",
+    "meaning": "疲倦；累",
+    "example": [
+      [
+        "長",
+        "なが"
+      ],
+      [
+        "く"
+      ],
+      [
+        "歩",
+        "ある"
+      ],
+      [
+        "いて、"
+      ],
+      [
+        "疲",
+        "つか"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "走了很久，累了。",
+    "tip": "疲れた：累了。",
+    "kanjiNote": "疲：音 ヒ／训 つか-れる；疲劳。",
+    "cloze": {
+      "before": "長く歩いて、",
+      "after": "。",
+      "answer": "疲れました"
+    },
+    "accent": 3,
+    "accentStatus": "已核对",
+    "mora": [
+      "つ",
+      "か",
+      "れ",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%96%B2%E3%82%8C%E3%82%8B",
+    "accentEvidence": {
+      "heading": "疲れる・疲れます",
+      "row": "word_1245"
+    }
+  },
+  {
+    "id": "v065",
+    "word": "かかる",
+    "reading": "かかる",
+    "category": "动词",
+    "meaning": "花费（时间、费用）",
+    "example": [
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "まで"
+      ],
+      [
+        "十分",
+        "じゅっぷん"
+      ],
+      [
+        "かかります。"
+      ]
+    ],
+    "translation": "到车站要花十分钟。",
+    "tip": "時間がかかる：花时间；通常用假名。",
+    "kanjiNote": "",
+    "cloze": {
+      "before": "駅まで十分",
+      "after": "。",
+      "answer": "かかります"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "か",
+      "か",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%8B%E3%81%8B%E3%82%8B",
+    "accentEvidence": {
+      "heading": "かかる・かかります",
+      "row": "word_185"
+    }
+  },
+  {
+    "id": "v066",
+    "word": "手伝う",
+    "reading": "てつだう",
+    "category": "动词",
+    "meaning": "帮忙",
+    "example": [
+      [
+        "料理",
+        "りょうり"
+      ],
+      [
+        "を"
+      ],
+      [
+        "手伝",
+        "てつだ"
+      ],
+      [
+        "いましょうか。"
+      ]
+    ],
+    "translation": "要我帮忙做饭吗？",
+    "tip": "～を手伝う：帮忙做……。",
+    "kanjiNote": "手：音 シュ／训 て；手。伝：音 デン／训 つた-える；传。",
+    "cloze": {
+      "before": "料理を",
+      "after": "か。",
+      "answer": "手伝いましょう"
+    },
+    "accent": 3,
+    "accentStatus": "已核对",
+    "mora": [
+      "て",
+      "つ",
+      "だ",
+      "う"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%89%8B%E4%BC%9D%E3%81%86",
+    "accentEvidence": {
+      "heading": "手伝う・手伝います",
+      "row": "word_437"
+    }
+  },
+  {
+    "id": "v067",
+    "word": "探す",
+    "reading": "さがす",
+    "category": "动词",
+    "meaning": "寻找",
+    "example": [
+      [
+        "鍵",
+        "かぎ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "探",
+        "さが"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "正在找钥匙。",
+    "tip": "探す：着重寻找的过程。",
+    "kanjiNote": "探：音 タン／训 さが-す；寻找。",
+    "cloze": {
+      "before": "鍵を",
+      "after": "います。",
+      "answer": "探して"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "さ",
+      "が",
+      "す"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%8E%A2%E3%81%99",
+    "accentEvidence": {
+      "heading": "探す・探します",
+      "row": "word_825"
+    }
+  },
+  {
+    "id": "v068",
+    "word": "見つける",
+    "reading": "みつける",
+    "category": "动词",
+    "meaning": "找到；发现",
+    "example": [
+      [
+        "いいカフェを"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "つけました。"
+      ]
+    ],
+    "translation": "找到了一家不错的咖啡馆。",
+    "tip": "探す→見つける：寻找→找到。",
+    "kanjiNote": "見：音 ケン／训 み-る；看见。",
+    "cloze": {
+      "before": "いいカフェを",
+      "after": "。",
+      "answer": "見つけました"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "み",
+      "つ",
+      "け",
+      "る"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A6%8B%E3%81%A4%E3%81%91%E3%82%8B",
+    "accentEvidence": {
+      "heading": "見つける・見付けます",
+      "row": "word_1572"
+    }
+  },
+  {
+    "id": "ooi",
+    "word": "多い",
+    "reading": "おおい",
+    "category": "い形容词",
+    "meaning": "多",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "町",
+        "まち"
+      ],
+      [
+        "は"
+      ],
+      [
+        "坂",
+        "さか"
+      ],
+      [
+        "が"
+      ],
+      [
+        "多",
+        "おお"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这座城里坡很多。",
+    "tip": "人が多い：人多。",
+    "kanjiNote": "多：音 タ／训 おお-い；多。",
+    "cloze": {
+      "before": "この町は坂が",
+      "after": "です。",
+      "answer": "多い"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "お",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A4%9A%E3%81%84",
+    "accentEvidence": {
+      "heading": "多い・多いです",
+      "row": "word_2824"
+    }
+  },
+  {
+    "id": "takai",
+    "word": "高い",
+    "reading": "たかい",
+    "category": "い形容词",
+    "meaning": "高；贵",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "のコーヒーは"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "高",
+        "たか"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这家店的咖啡有点贵。",
+    "tip": "背が高い：个子高。",
+    "kanjiNote": "高：音 コウ／训 たか-い；高。",
+    "cloze": {
+      "before": "この店のコーヒーは少し",
+      "after": "です。",
+      "answer": "高い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "た",
+      "か",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%AB%98%E3%81%84",
+    "accentEvidence": {
+      "heading": "高い・高いです",
+      "row": "word_2939"
+    }
+  },
+  {
+    "id": "i001",
+    "word": "大きい",
+    "reading": "おおきい",
+    "category": "い形容词",
+    "meaning": "大",
+    "example": [
+      [
+        "あの"
+      ],
+      [
+        "大",
+        "おお"
+      ],
+      [
+        "きい"
+      ],
+      [
+        "建物",
+        "たてもの"
+      ],
+      [
+        "は"
+      ],
+      [
+        "図書館",
+        "としょかん"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "那栋大楼是图书馆。",
+    "tip": "大きい／小さい：大／小。",
+    "kanjiNote": "大：音 ダイ／训 おお-きい；大。",
+    "cloze": {
+      "before": "あの",
+      "after": "建物は図書館です。",
+      "answer": "大きい"
+    },
+    "accent": 3,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "お",
+      "き",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A4%A7%E3%81%8D%E3%81%84",
+    "accentEvidence": {
+      "heading": "大きい・大きいです",
+      "row": "word_2864"
+    }
+  },
+  {
+    "id": "i002",
+    "word": "小さい",
+    "reading": "ちいさい",
+    "category": "い形容词",
+    "meaning": "小",
+    "example": [
+      [
+        "このかばんは"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "小",
+        "ちい"
+      ],
+      [
+        "さいです。"
+      ]
+    ],
+    "translation": "这个包有点小。",
+    "tip": "小さい声：小声。",
+    "kanjiNote": "小：音 ショウ／训 ちい-さい；小。",
+    "cloze": {
+      "before": "このかばんは少し",
+      "after": "です。",
+      "answer": "小さい"
+    },
+    "accent": 3,
+    "accentStatus": "已核对",
+    "mora": [
+      "ち",
+      "い",
+      "さ",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%B0%8F%E3%81%95%E3%81%84",
+    "accentEvidence": {
+      "heading": "小さい・小さいです",
+      "row": "word_2947"
+    }
+  },
+  {
+    "id": "i003",
+    "word": "長い",
+    "reading": "ながい",
+    "category": "い形容词",
+    "meaning": "长",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "は"
+      ],
+      [
+        "長",
+        "なが"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这条路很长。",
+    "tip": "長い時間：很长的时间。",
+    "kanjiNote": "長：音 チョウ／训 なが-い；长。",
+    "cloze": {
+      "before": "この道は",
+      "after": "です。",
+      "answer": "長い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "な",
+      "が",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%95%B7%E3%81%84",
+    "accentEvidence": {
+      "heading": "長い・長いです",
+      "row": "word_2959"
+    }
+  },
+  {
+    "id": "i004",
+    "word": "短い",
+    "reading": "みじかい",
+    "category": "い形容词",
+    "meaning": "短",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "映画",
+        "えいが"
+      ],
+      [
+        "は"
+      ],
+      [
+        "短",
+        "みじか"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这部电影很短。",
+    "tip": "長い／短い：长／短。",
+    "kanjiNote": "短：音 タン／训 みじか-い；短。",
+    "cloze": {
+      "before": "この映画は",
+      "after": "です。",
+      "answer": "短い"
+    },
+    "accent": 3,
+    "accentStatus": "已核对",
+    "mora": [
+      "み",
+      "じ",
+      "か",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%9F%AD%E3%81%84",
+    "accentEvidence": {
+      "heading": "短い・短いです",
+      "row": "word_3006"
+    }
+  },
+  {
+    "id": "i005",
+    "word": "早い",
+    "reading": "はやい",
+    "category": "い形容词",
+    "meaning": "早",
+    "example": [
+      [
+        "まだ"
+      ],
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "ご"
+      ],
+      [
+        "飯",
+        "はん"
+      ],
+      [
+        "には"
+      ],
+      [
+        "早",
+        "はや"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "现在吃早饭还早。",
+    "tip": "时间早写「早い」；速度快写「速い」。",
+    "kanjiNote": "早：音 ソウ／训 はや-い；早。",
+    "cloze": {
+      "before": "まだ朝ご飯には",
+      "after": "です。",
+      "answer": "早い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "は",
+      "や",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%97%A9%E3%81%84",
+    "accentEvidence": {
+      "heading": "早い・早いです",
+      "row": "word_2986"
+    }
+  },
+  {
+    "id": "i006",
+    "word": "低い",
+    "reading": "ひくい",
+    "category": "い形容词",
+    "meaning": "低",
+    "example": [
+      [
+        "このテーブルは"
+      ],
+      [
+        "低",
+        "ひく"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这张桌子很低。",
+    "tip": "声が低い：声音低沉。",
+    "kanjiNote": "低：音 テイ／训 ひく-い；低。",
+    "cloze": {
+      "before": "このテーブルは",
+      "after": "です。",
+      "answer": "低い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "ひ",
+      "く",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BD%8E%E3%81%84",
+    "accentEvidence": {
+      "heading": "低い・低いです",
+      "row": "word_2987"
+    }
+  },
+  {
+    "id": "i007",
+    "word": "安い",
+    "reading": "やすい",
+    "category": "い形容词",
+    "meaning": "便宜",
+    "example": [
+      [
+        "このスーパーは"
+      ],
+      [
+        "野菜",
+        "やさい"
+      ],
+      [
+        "が"
+      ],
+      [
+        "安",
+        "やす"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这家超市的蔬菜很便宜。",
+    "tip": "値段が安い：价格便宜。",
+    "kanjiNote": "安：音 アン／训 やす-い；便宜、安稳。",
+    "cloze": {
+      "before": "このスーパーは野菜が",
+      "after": "です。",
+      "answer": "安い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "や",
+      "す",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AE%89%E3%81%84",
+    "accentEvidence": {
+      "heading": "安い・安いです",
+      "row": "word_3022"
+    }
+  },
+  {
+    "id": "i008",
+    "word": "新しい",
+    "reading": "あたらしい",
+    "category": "い形容词",
+    "meaning": "新",
+    "example": [
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "靴",
+        "くつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "买了新鞋。",
+    "tip": "新しい／古い：新／旧。",
+    "kanjiNote": "新：音 シン／训 あたら-しい；新。",
+    "cloze": {
+      "before": "",
+      "after": "靴を買いました。",
+      "answer": "新しい"
+    },
+    "accent": 4,
+    "accentStatus": "已核对",
+    "mora": [
+      "あ",
+      "た",
+      "ら",
+      "し",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%96%B0%E3%81%97%E3%81%84",
+    "accentEvidence": {
+      "heading": "新しい・新しいです",
+      "row": "word_2834"
+    }
+  },
+  {
+    "id": "i009",
+    "word": "古い",
+    "reading": "ふるい",
+    "category": "い形容词",
+    "meaning": "旧；古老",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "町",
+        "まち"
+      ],
+      [
+        "には"
+      ],
+      [
+        "古",
+        "ふる"
+      ],
+      [
+        "い"
+      ],
+      [
+        "家",
+        "いえ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "多",
+        "おお"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这座城里老房子很多。",
+    "tip": "不直接用来表达人的年龄大。",
+    "kanjiNote": "古：音 コ／训 ふる-い；旧。",
+    "cloze": {
+      "before": "この町には",
+      "after": "家が多いです。",
+      "answer": "古い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "ふ",
+      "る",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%8F%A4%E3%81%84",
+    "accentEvidence": {
+      "heading": "古い・古いです",
+      "row": "word_2995"
+    }
+  },
+  {
+    "id": "i010",
+    "word": "いい",
+    "reading": "いい",
+    "category": "い形容词",
+    "meaning": "好",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "席",
+        "せき"
+      ],
+      [
+        "からは"
+      ],
+      [
+        "景色",
+        "けしき"
+      ],
+      [
+        "がいいです。"
+      ]
+    ],
+    "translation": "从这个座位看出去，景色很好。",
+    "tip": "否定用「よくない」，过去用「よかった」。",
+    "kanjiNote": "",
+    "cloze": {
+      "before": "この席からは景色が",
+      "after": "です。",
+      "answer": "いい"
+    },
+    "accent": 1,
+    "accentStatus": "已核对",
+    "mora": [
+      "い",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%84%E3%81%84",
+    "accentEvidence": {
+      "heading": "いい・いいです",
+      "row": "word_2846"
+    }
+  },
+  {
+    "id": "i011",
+    "word": "悪い",
+    "reading": "わるい",
+    "category": "い形容词",
+    "meaning": "坏；不好",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "天気",
+        "てんき"
+      ],
+      [
+        "が"
+      ],
+      [
+        "悪",
+        "わる"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "今天天气不好。",
+    "tip": "体調が悪い：身体不舒服。",
+    "kanjiNote": "悪：音 アク／训 わる-い；坏。",
+    "cloze": {
+      "before": "今日は天気が",
+      "after": "です。",
+      "answer": "悪い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "わ",
+      "る",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%82%AA%E3%81%84",
+    "accentEvidence": {
+      "heading": "悪い・悪いです",
+      "row": "word_3037"
+    }
+  },
+  {
+    "id": "i012",
+    "word": "暑い",
+    "reading": "あつい",
+    "category": "い形容词",
+    "meaning": "热（天气、气温）",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "はとても"
+      ],
+      [
+        "暑",
+        "あつ"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "今天很热。",
+    "tip": "天气热用「暑い」。",
+    "kanjiNote": "暑：音 ショ／训 あつ-い；暑热。",
+    "cloze": {
+      "before": "今日はとても",
+      "after": "です。",
+      "answer": "暑い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "あ",
+      "つ",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9A%91%E3%81%84",
+    "accentEvidence": {
+      "heading": "暑い・暑いです",
+      "row": "word_2835"
+    }
+  },
+  {
+    "id": "i013",
+    "word": "寒い",
+    "reading": "さむい",
+    "category": "い形容词",
+    "meaning": "冷（天气、气温）",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "はまだ"
+      ],
+      [
+        "寒",
+        "さむ"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "早上还很冷。",
+    "tip": "暑い／寒い：天气热／冷。",
+    "kanjiNote": "寒：音 カン／训 さむ-い；寒冷。",
+    "cloze": {
+      "before": "朝はまだ",
+      "after": "です。",
+      "answer": "寒い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "さ",
+      "む",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AF%92%E3%81%84",
+    "accentEvidence": {
+      "heading": "寒い・寒いです",
+      "row": "word_2912"
+    }
+  },
+  {
+    "id": "i014",
+    "word": "熱い",
+    "reading": "あつい",
+    "category": "い形容词",
+    "meaning": "烫；热（物体等）",
+    "example": [
+      [
+        "このお"
+      ],
+      [
+        "茶",
+        "ちゃ"
+      ],
+      [
+        "はまだ"
+      ],
+      [
+        "熱",
+        "あつ"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这杯茶还很烫。",
+    "tip": "饮料或物体烫用「熱い」。",
+    "kanjiNote": "熱：音 ネツ／训 あつ-い；热。",
+    "cloze": {
+      "before": "このお茶はまだ",
+      "after": "です。",
+      "answer": "熱い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "あ",
+      "つ",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%86%B1%E3%81%84",
+    "accentEvidence": {
+      "heading": "熱い・熱いです",
+      "row": "word_2836"
+    }
+  },
+  {
+    "id": "i015",
+    "word": "冷たい",
+    "reading": "つめたい",
+    "category": "い形容词",
+    "meaning": "凉；冰冷",
+    "example": [
+      [
+        "冷",
+        "つめ"
+      ],
+      [
+        "たい"
+      ],
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "を"
+      ],
+      [
+        "飲",
+        "の"
+      ],
+      [
+        "みたいです。"
+      ]
+    ],
+    "translation": "想喝凉水。",
+    "tip": "手が冷たい：手很凉。",
+    "kanjiNote": "冷：音 レイ／训 つめ-たい；冷。",
+    "cloze": {
+      "before": "",
+      "after": "水を飲みたいです。",
+      "answer": "冷たい"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "つ",
+      "め",
+      "た",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%86%B7%E3%81%9F%E3%81%84",
+    "accentEvidence": {
+      "heading": "冷たい・冷たいです",
+      "row": "word_3070"
+    }
+  },
+  {
+    "id": "i016",
+    "word": "暖かい",
+    "reading": "あたたかい",
+    "category": "い形容词",
+    "meaning": "暖和",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "暖",
+        "あたた"
+      ],
+      [
+        "かいですね。"
+      ]
+    ],
+    "translation": "今天真暖和啊。",
+    "tip": "气候暖用「暖かい」；热汤常写「温かい」。",
+    "kanjiNote": "暖：音 ダン／训 あたた-かい；暖。",
+    "cloze": {
+      "before": "今日は",
+      "after": "ですね。",
+      "answer": "暖かい"
+    },
+    "accent": 4,
+    "accentStatus": "已核对",
+    "mora": [
+      "あ",
+      "た",
+      "た",
+      "か",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9A%96%E3%81%8B%E3%81%84",
+    "accentEvidence": {
+      "heading": "暖かい・暖かいです",
+      "row": "word_2832"
+    }
+  },
+  {
+    "id": "i017",
+    "word": "涼しい",
+    "reading": "すずしい",
+    "category": "い形容词",
+    "meaning": "凉爽",
+    "example": [
+      [
+        "夕方",
+        "ゆうがた"
+      ],
+      [
+        "は"
+      ],
+      [
+        "涼",
+        "すず"
+      ],
+      [
+        "しいです。"
+      ]
+    ],
+    "translation": "傍晚很凉爽。",
+    "tip": "凉爽舒适，不同于寒い。",
+    "kanjiNote": "涼：音 リョウ／训 すず-しい；凉爽。",
+    "cloze": {
+      "before": "夕方は",
+      "after": "です。",
+      "answer": "涼しい"
+    },
+    "accent": 3,
+    "accentStatus": "已核对",
+    "mora": [
+      "す",
+      "ず",
+      "し",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%B6%BC%E3%81%97%E3%81%84",
+    "accentEvidence": {
+      "heading": "涼しい・涼しいです",
+      "row": "word_2927"
+    }
+  },
+  {
+    "id": "i018",
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "category": "い形容词",
+    "meaning": "忙",
+    "example": [
+      [
+        "今週",
+        "こんしゅう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "仕事",
+        "しごと"
+      ],
+      [
+        "が"
+      ],
+      [
+        "忙",
+        "いそが"
+      ],
+      [
+        "しいです。"
+      ]
+    ],
+    "translation": "这周工作很忙。",
+    "tip": "忙しい一日：忙碌的一天。",
+    "kanjiNote": "忙：音 ボウ／训 いそが-しい；忙。",
+    "cloze": {
+      "before": "今週は仕事が",
+      "after": "です。",
+      "answer": "忙しい"
+    },
+    "accent": 4,
+    "accentStatus": "已核对",
+    "mora": [
+      "い",
+      "そ",
+      "が",
+      "し",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%BF%99%E3%81%97%E3%81%84",
+    "accentEvidence": {
+      "heading": "忙しい・忙しいです",
+      "row": "word_2848"
+    }
+  },
+  {
+    "id": "i019",
+    "word": "楽しい",
+    "reading": "たのしい",
+    "category": "い形容词",
+    "meaning": "开心；愉快",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "との"
+      ],
+      [
+        "旅行",
+        "りょこう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "楽",
+        "たの"
+      ],
+      [
+        "しいです。"
+      ]
+    ],
+    "translation": "和朋友旅行很开心。",
+    "tip": "楽しい時間：愉快的时光。",
+    "kanjiNote": "楽：音 ラク／训 たの-しい；快乐。",
+    "cloze": {
+      "before": "友達との旅行は",
+      "after": "です。",
+      "answer": "楽しい"
+    },
+    "accent": 3,
+    "accentStatus": "已核对",
+    "mora": [
+      "た",
+      "の",
+      "し",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%A5%BD%E3%81%97%E3%81%84",
+    "accentEvidence": {
+      "heading": "楽しい・楽しいです",
+      "row": "word_2942"
+    }
+  },
+  {
+    "id": "i020",
+    "word": "面白い",
+    "reading": "おもしろい",
+    "category": "い形容词",
+    "meaning": "有趣",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "は"
+      ],
+      [
+        "面白",
+        "おもしろ"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这本书很有趣。",
+    "tip": "面白い話：有趣的故事。",
+    "kanjiNote": "面：音 メン／训 おもて；表面。白：音 ハク／训 しろ-い；白。",
+    "cloze": {
+      "before": "この本は",
+      "after": "です。",
+      "answer": "面白い"
+    },
+    "accent": 4,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "も",
+      "し",
+      "ろ",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%9D%A2%E7%99%BD%E3%81%84",
+    "accentEvidence": {
+      "heading": "面白い・面白いです",
+      "row": "word_2872"
+    }
+  },
+  {
+    "id": "i021",
+    "word": "難しい",
+    "reading": "むずかしい",
+    "category": "い形容词",
+    "meaning": "难",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "問題",
+        "もんだい"
+      ],
+      [
+        "は"
+      ],
+      [
+        "難",
+        "むずか"
+      ],
+      [
+        "しいです。"
+      ]
+    ],
+    "translation": "这道题很难。",
+    "tip": "難しい／易しい：难／容易。",
+    "kanjiNote": "難：音 ナン／训 むずか-しい；难。",
+    "cloze": {
+      "before": "この問題は",
+      "after": "です。",
+      "answer": "難しい"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "む",
+      "ず",
+      "か",
+      "し",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%9B%A3%E3%81%97%E3%81%84",
+    "accentEvidence": {
+      "heading": "難しい・難しいです",
+      "row": "word_3076"
+    },
+    "accentVariants": [
+      0,
+      4
+    ],
+    "accentNote": "OJAD 收录多种字典形声调；此处采用页面首个变体。"
+  },
+  {
+    "id": "i022",
+    "word": "易しい",
+    "reading": "やさしい",
+    "category": "い形容词",
+    "meaning": "容易",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "は"
+      ],
+      [
+        "易",
+        "やさ"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "日本語",
+        "にほんご"
+      ],
+      [
+        "で"
+      ],
+      [
+        "書",
+        "か"
+      ],
+      [
+        "いてあります。"
+      ]
+    ],
+    "translation": "这本书是用简单的日语写的。",
+    "tip": "易しい＝容易；優しい＝温柔。",
+    "kanjiNote": "易：音 イ／训 やさ-しい；容易。",
+    "cloze": {
+      "before": "この本は",
+      "after": "日本語で書いてあります。",
+      "answer": "易しい"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "や",
+      "さ",
+      "し",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%98%93%E3%81%97%E3%81%84",
+    "accentEvidence": {
+      "heading": "易しい・易しいです",
+      "row": "word_3079"
+    }
+  },
+  {
+    "id": "i023",
+    "word": "優しい",
+    "reading": "やさしい",
+    "category": "い形容词",
+    "meaning": "温柔；体贴",
+    "example": [
+      [
+        "あの"
+      ],
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "は"
+      ],
+      [
+        "優",
+        "やさ"
+      ],
+      [
+        "しいです。"
+      ]
+    ],
+    "translation": "那位老师很温柔。",
+    "tip": "人に優しい：待人温柔。",
+    "kanjiNote": "優：音 ユウ／训 やさ-しい；温柔、优秀。",
+    "cloze": {
+      "before": "あの先生は",
+      "after": "です。",
+      "answer": "優しい"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "や",
+      "さ",
+      "し",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%84%AA%E3%81%97%E3%81%84",
+    "accentEvidence": {
+      "heading": "優しい・優しいです",
+      "row": "word_3078"
+    }
+  },
+  {
+    "id": "i024",
+    "word": "強い",
+    "reading": "つよい",
+    "category": "い形容词",
+    "meaning": "强",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "風",
+        "かぜ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "強",
+        "つよ"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "今天风很大。",
+    "tip": "風が強い：风大。",
+    "kanjiNote": "強：音 キョウ／训 つよ-い；强。",
+    "cloze": {
+      "before": "今日は風が",
+      "after": "です。",
+      "answer": "強い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "つ",
+      "よ",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%BC%B7%E3%81%84",
+    "accentEvidence": {
+      "heading": "強い・強いです",
+      "row": "word_2952"
+    }
+  },
+  {
+    "id": "i025",
+    "word": "弱い",
+    "reading": "よわい",
+    "category": "い形容词",
+    "meaning": "弱",
+    "example": [
+      [
+        "ここは"
+      ],
+      [
+        "電波",
+        "でんぱ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "弱",
+        "よわ"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这里信号很弱。",
+    "tip": "強い／弱い：强／弱。",
+    "kanjiNote": "弱：音 ジャク／训 よわ-い；弱。",
+    "cloze": {
+      "before": "ここは電波が",
+      "after": "です。",
+      "answer": "弱い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "よ",
+      "わ",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%BC%B1%E3%81%84",
+    "accentEvidence": {
+      "heading": "弱い・弱いです",
+      "row": "word_3032"
+    }
+  },
+  {
+    "id": "i026",
+    "word": "重い",
+    "reading": "おもい",
+    "category": "い形容词",
+    "meaning": "重",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "荷物",
+        "にもつ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "重",
+        "おも"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这件行李很重。",
+    "tip": "重い／軽い：重／轻。",
+    "kanjiNote": "重：音 ジュウ／训 おも-い；重。",
+    "cloze": {
+      "before": "この荷物は",
+      "after": "です。",
+      "answer": "重い"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "も",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%87%8D%E3%81%84",
+    "accentEvidence": {
+      "heading": "重い・重いです",
+      "row": "word_3057"
+    }
+  },
+  {
+    "id": "i027",
+    "word": "軽い",
+    "reading": "かるい",
+    "category": "い形容词",
+    "meaning": "轻",
+    "example": [
+      [
+        "このパソコンは"
+      ],
+      [
+        "軽",
+        "かる"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这台电脑很轻。",
+    "tip": "軽い運動：轻度运动。",
+    "kanjiNote": "軽：音 ケイ／训 かる-い；轻。",
+    "cloze": {
+      "before": "このパソコンは",
+      "after": "です。",
+      "answer": "軽い"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "か",
+      "る",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%BB%BD%E3%81%84",
+    "accentEvidence": {
+      "heading": "軽い・軽いです",
+      "row": "word_3062"
+    }
+  },
+  {
+    "id": "i028",
+    "word": "近い",
+    "reading": "ちかい",
+    "category": "い形容词",
+    "meaning": "近",
+    "example": [
+      [
+        "ホテルは"
+      ],
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "に"
+      ],
+      [
+        "近",
+        "ちか"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "酒店离车站很近。",
+    "tip": "駅に近い：离车站近。",
+    "kanjiNote": "近：音 キン／训 ちか-い；近。",
+    "cloze": {
+      "before": "ホテルは駅に",
+      "after": "です。",
+      "answer": "近い"
+    },
+    "accent": 2,
+    "accentStatus": "已核对",
+    "mora": [
+      "ち",
+      "か",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%BF%91%E3%81%84",
+    "accentEvidence": {
+      "heading": "近い・近いです",
+      "row": "word_2948"
+    }
+  },
+  {
+    "id": "i029",
+    "word": "遠い",
+    "reading": "とおい",
+    "category": "い形容词",
+    "meaning": "远",
+    "example": [
+      [
+        "学校",
+        "がっこう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "家",
+        "いえ"
+      ],
+      [
+        "から"
+      ],
+      [
+        "遠",
+        "とお"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "学校离家很远。",
+    "tip": "近い／遠い：近／远。",
+    "kanjiNote": "遠：音 エン／训 とお-い；远。",
+    "cloze": {
+      "before": "学校は家から",
+      "after": "です。",
+      "answer": "遠い"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "と",
+      "お",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%81%A0%E3%81%84",
+    "accentEvidence": {
+      "heading": "遠い・遠いです",
+      "row": "word_3071"
+    }
+  },
+  {
+    "id": "i030",
+    "word": "少ない",
+    "reading": "すくない",
+    "category": "い形容词",
+    "meaning": "少",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "人",
+        "ひと"
+      ],
+      [
+        "が"
+      ],
+      [
+        "少",
+        "すく"
+      ],
+      [
+        "ないです。"
+      ]
+    ],
+    "translation": "早上人很少。",
+    "tip": "少し＝一点；少ない＝数量少。",
+    "kanjiNote": "少：音 ショウ／训 すく-ない；少。",
+    "cloze": {
+      "before": "朝は人が",
+      "after": "です。",
+      "answer": "少ない"
+    },
+    "accent": 3,
+    "accentStatus": "已核对",
+    "mora": [
+      "す",
+      "く",
+      "な",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%B0%91%E3%81%AA%E3%81%84",
+    "accentEvidence": {
+      "heading": "少ない・少ないです",
+      "row": "word_2925"
+    }
+  },
+  {
+    "id": "i031",
+    "word": "明るい",
+    "reading": "あかるい",
+    "category": "い形容词",
+    "meaning": "明亮；开朗",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "部屋",
+        "へや"
+      ],
+      [
+        "は"
+      ],
+      [
+        "明",
+        "あか"
+      ],
+      [
+        "るいです。"
+      ]
+    ],
+    "translation": "这个房间很明亮。",
+    "tip": "明るい人：开朗的人。",
+    "kanjiNote": "明：音 メイ／训 あか-るい；明亮。",
+    "cloze": {
+      "before": "この部屋は",
+      "after": "です。",
+      "answer": "明るい"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "あ",
+      "か",
+      "る",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%98%8E%E3%82%8B%E3%81%84",
+    "accentEvidence": {
+      "heading": "明るい・明るいです",
+      "row": "word_3044"
+    }
+  },
+  {
+    "id": "i032",
+    "word": "暗い",
+    "reading": "くらい",
+    "category": "い形容词",
+    "meaning": "暗；昏暗",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "は"
+      ],
+      [
+        "夜",
+        "よる"
+      ],
+      [
+        "になると"
+      ],
+      [
+        "暗",
+        "くら"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这条路一到晚上就很暗。",
+    "tip": "明るい／暗い：明亮／昏暗。",
+    "kanjiNote": "暗：音 アン／训 くら-い；暗。",
+    "cloze": {
+      "before": "この道は夜になると",
+      "after": "です。",
+      "answer": "暗い"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "く",
+      "ら",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9A%97%E3%81%84",
+    "accentEvidence": {
+      "heading": "暗い・暗いです",
+      "row": "word_3065"
+    }
+  },
+  {
+    "id": "i033",
+    "word": "おいしい",
+    "reading": "おいしい",
+    "category": "い形容词",
+    "meaning": "好吃；好喝",
+    "example": [
+      [
+        "このパンはおいしいです。"
+      ]
+    ],
+    "translation": "这个面包很好吃。",
+    "tip": "おいしいコーヒー：好喝的咖啡。",
+    "kanjiNote": "",
+    "cloze": {
+      "before": "このパンは",
+      "after": "です。",
+      "answer": "おいしい"
+    },
+    "accent": 0,
+    "accentStatus": "已核对",
+    "mora": [
+      "お",
+      "い",
+      "し",
+      "い"
+    ],
+    "accentSource": "OJAD · 字典形首列",
+    "accentUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E3%81%8A%E3%81%84%E3%81%97%E3%81%84",
+    "accentEvidence": {
+      "heading": "美味しい・美味しいです",
+      "row": "word_3054"
+    },
+    "accentVariants": [
+      0,
+      3
+    ],
+    "accentNote": "展示采用常用假名；OJAD 对应词头「美味しい・美味しいです」。OJAD 收录多种字典形声调；此处采用页面首个变体。"
+  }
+]

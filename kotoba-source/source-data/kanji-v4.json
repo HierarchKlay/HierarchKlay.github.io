@@ -1,0 +1,1657 @@
+[
+  {
+    "id": "joyo-001",
+    "order": 1,
+    "day": 1,
+    "char": "亜",
+    "on": "ア",
+    "kun": "—",
+    "meaning": "次于；亚",
+    "hook": "从「亜熱帯」记住ア。",
+    "note": "本课只记表内音读ア；不把罕见训读列为重点。",
+    "examples": [
+      [
+        "亜熱帯",
+        "あねったい",
+        "亚热带"
+      ],
+      [
+        "亜鉛",
+        "あえん",
+        "锌"
+      ],
+      [
+        "亜流",
+        "ありゅう",
+        "模仿者；非正统流派"
+      ]
+    ],
+    "practice": {
+      "word": "亜熱帯",
+      "reading": "あねったい",
+      "meaning": "亚热带",
+      "source": "漢字ペディア（例词读音核对）",
+      "sourceUrl": "https://www.kanjipedia.jp/kanji/0000000500",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.kanjipedia.jp/kanji/0000000500",
+      "https://www.kanjipedia.jp/kotoba/0000001200"
+    ],
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-002",
+    "order": 2,
+    "day": 1,
+    "char": "哀",
+    "on": "アイ",
+    "kun": "あわ-れ・あわ-れむ",
+    "meaning": "悲伤；怜悯",
+    "hook": "从「悲哀」联想到心情。",
+    "note": "あわれ是哀れ；あわれむ是哀れむ。先分清名词／形容动词和动词。",
+    "examples": [
+      [
+        "哀れ",
+        "あわれ",
+        "可怜；悲惨"
+      ],
+      [
+        "悲哀",
+        "ひあい",
+        "悲哀"
+      ],
+      [
+        "哀愁",
+        "あいしゅう",
+        "哀愁"
+      ]
+    ],
+    "practice": {
+      "word": "哀れ",
+      "reading": "あわれ",
+      "meaning": "可怜；悲惨",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%93%80%E3%82%8C",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.kanjipedia.jp/kanji/0000014800",
+      "https://www.kanjipedia.jp/kotoba/0000016400",
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%93%80%E3%82%8C"
+    ]
+  },
+  {
+    "id": "joyo-003",
+    "order": 3,
+    "day": 1,
+    "char": "挨",
+    "on": "アイ",
+    "kun": "—",
+    "meaning": "推；接近",
+    "hook": "把「挨拶」作为一个整体记。",
+    "note": "日常主要在挨拶及其组合中出现；あいさつ的假名写法也很常见。",
+    "examples": [
+      [
+        "挨拶",
+        "あいさつ",
+        "问候；致辞"
+      ],
+      [
+        "挨拶状",
+        "あいさつじょう",
+        "问候信"
+      ],
+      [
+        "挨拶回り",
+        "あいさつまわり",
+        "登门拜访致意"
+      ]
+    ],
+    "practice": {
+      "word": "挨拶",
+      "reading": "あいさつ",
+      "meaning": "问候；致辞",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%8C%A8%E6%8B%B6",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://repository.ninjal.ac.jp/record/3150/files/knyk_ng_199403.pdf",
+      "https://event.jptip.com/school/download/file/%E5%B9%B4%E8%B3%80%E7%8A%B6.pdf",
+      "https://www.kanjipedia.jp/kanji/0000019000",
+      "https://www.kanjipedia.jp/kotoba/0000019400",
+      "https://kotobank.jp/word/%E6%8C%A8%E6%8B%B6%E5%9B%9E-2000030",
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%8C%A8%E6%8B%B6"
+    ],
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-004",
+    "order": 4,
+    "day": 1,
+    "char": "愛",
+    "on": "アイ",
+    "kun": "—",
+    "meaning": "爱；喜爱",
+    "hook": "中文的“爱”，日语写作「愛」。",
+    "note": "常见「愛する」读あいする；不把人名读法列入本课。",
+    "examples": [
+      [
+        "愛情",
+        "あいじょう",
+        "爱；感情"
+      ],
+      [
+        "恋愛",
+        "れんあい",
+        "恋爱"
+      ],
+      [
+        "愛する",
+        "あいする",
+        "爱；喜爱"
+      ]
+    ],
+    "practice": {
+      "word": "愛情",
+      "reading": "あいじょう",
+      "meaning": "爱；感情",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%84%9B%E6%83%85",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%84%9B%E6%83%85"
+    ]
+  },
+  {
+    "id": "joyo-005",
+    "order": 5,
+    "day": 1,
+    "char": "曖",
+    "on": "アイ",
+    "kun": "—",
+    "meaning": "不明朗；含糊",
+    "hook": "从「曖昧」记“说不清楚”。",
+    "note": "常用搭配集中在曖昧；曖昧さ是其名词化，不另凑生僻词。",
+    "examples": [
+      [
+        "曖昧",
+        "あいまい",
+        "含糊；模糊"
+      ],
+      [
+        "曖昧さ",
+        "あいまいさ",
+        "模糊性；含糊程度"
+      ]
+    ],
+    "practice": {
+      "word": "曖昧",
+      "reading": "あいまい",
+      "meaning": "含糊；模糊",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9B%96%E6%98%A7",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.kanjipedia.jp/kotoba/0000026900",
+      "https://kotobank.jp/jaitword/%E6%9B%96%E6%98%A7",
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9B%96%E6%98%A7"
+    ]
+  },
+  {
+    "id": "joyo-006",
+    "order": 6,
+    "day": 2,
+    "char": "悪",
+    "on": "アク・オ",
+    "kun": "わる-い",
+    "meaning": "坏；不好",
+    "hook": "口语记わるい，复合词再记アク。",
+    "note": "「悪寒」读おかん，不读あくかん；意思是身体发冷、寒战。",
+    "examples": [
+      [
+        "悪い",
+        "わるい",
+        "坏；不好"
+      ],
+      [
+        "悪意",
+        "あくい",
+        "恶意"
+      ],
+      [
+        "悪寒",
+        "おかん",
+        "寒战；发冷"
+      ]
+    ],
+    "practice": {
+      "word": "悪い",
+      "reading": "わるい",
+      "meaning": "坏；不好",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%82%AA%E3%81%84",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%82%AA%E3%81%84"
+    ]
+  },
+  {
+    "id": "joyo-007",
+    "order": 7,
+    "day": 2,
+    "char": "握",
+    "on": "アク",
+    "kun": "にぎ-る",
+    "meaning": "握；攥住",
+    "hook": "用“握手”串起アク和にぎる。",
+    "note": "にぎる用于用手握住，也可用于捏饭团。",
+    "examples": [
+      [
+        "握る",
+        "にぎる",
+        "握；攥"
+      ],
+      [
+        "握手",
+        "あくしゅ",
+        "握手"
+      ],
+      [
+        "握力",
+        "あくりょく",
+        "握力"
+      ]
+    ],
+    "practice": {
+      "word": "握る",
+      "reading": "にぎる",
+      "meaning": "握；攥",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%8F%A1%E3%82%8B",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%8F%A1%E3%82%8B"
+    ]
+  },
+  {
+    "id": "joyo-008",
+    "order": 8,
+    "day": 2,
+    "char": "圧",
+    "on": "アツ",
+    "kun": "—",
+    "meaning": "压力；压迫",
+    "hook": "把压力、气压、血压串起来。",
+    "note": "本课列常用汉字表内音读アツ；圧迫等复合词有促音变化，见到再单记。",
+    "examples": [
+      [
+        "圧力",
+        "あつりょく",
+        "压力"
+      ],
+      [
+        "気圧",
+        "きあつ",
+        "气压"
+      ],
+      [
+        "血圧",
+        "けつあつ",
+        "血压"
+      ]
+    ],
+    "practice": {
+      "word": "圧力",
+      "reading": "あつりょく",
+      "meaning": "压力",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%9C%A7%E5%8A%9B",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%9C%A7%E5%8A%9B"
+    ]
+  },
+  {
+    "id": "joyo-009",
+    "order": 9,
+    "day": 2,
+    "char": "扱",
+    "on": "—",
+    "kun": "あつか-う",
+    "meaning": "对待；处理",
+    "hook": "先记「扱う＝对待、处理」。",
+    "note": "本表只列训读あつかう；取り扱い常见于商品、说明书和业务办理。",
+    "examples": [
+      [
+        "扱う",
+        "あつかう",
+        "对待；处理"
+      ],
+      [
+        "扱い",
+        "あつかい",
+        "处理；待遇"
+      ],
+      [
+        "取り扱い",
+        "とりあつかい",
+        "处理；使用；经销"
+      ]
+    ],
+    "practice": {
+      "word": "扱う",
+      "reading": "あつかう",
+      "meaning": "对待；处理",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%89%B1%E3%81%86",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%89%B1%E3%81%86"
+    ]
+  },
+  {
+    "id": "joyo-010",
+    "order": 10,
+    "day": 2,
+    "char": "宛",
+    "on": "—",
+    "kun": "あ-てる",
+    "meaning": "致送；寄给",
+    "hook": "写信时看宛先、宛名。",
+    "note": "宛てる用于信件等寄给谁；不要和当てる、充てる混写。",
+    "examples": [
+      [
+        "宛先",
+        "あてさき",
+        "收件地址；发送对象"
+      ],
+      [
+        "宛名",
+        "あてな",
+        "收件人姓名"
+      ],
+      [
+        "宛てる",
+        "あてる",
+        "寄给；致送"
+      ]
+    ],
+    "practice": {
+      "word": "宛先",
+      "reading": "あてさき",
+      "meaning": "收件地址；发送对象",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AE%9B%E5%85%88",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.kanjipedia.jp/kanji/0000074200",
+      "https://www.kanjipedia.jp/kotoba/0000075000",
+      "https://kotobank.jp/word/%E5%AE%9B%E5%90%8D-425743",
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AE%9B%E5%85%88"
+    ]
+  },
+  {
+    "id": "joyo-011",
+    "order": 11,
+    "day": 3,
+    "char": "嵐",
+    "on": "—",
+    "kun": "あらし",
+    "meaning": "暴风雨；风暴",
+    "hook": "先把“风暴”读成あらし。",
+    "note": "砂嵐是沙尘暴；也可形容电视画面上的雪花噪点，本课先记天气义。",
+    "examples": [
+      [
+        "嵐",
+        "あらし",
+        "暴风雨；风暴"
+      ],
+      [
+        "砂嵐",
+        "すなあらし",
+        "沙尘暴"
+      ]
+    ],
+    "practice": {
+      "word": "嵐",
+      "reading": "あらし",
+      "meaning": "暴风雨；风暴",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%B5%90",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%B5%90"
+    ]
+  },
+  {
+    "id": "joyo-012",
+    "order": 12,
+    "day": 3,
+    "char": "安",
+    "on": "アン",
+    "kun": "やす-い",
+    "meaning": "便宜；安稳",
+    "hook": "价格安い，内心安心。",
+    "note": "安い是“便宜”，不是一般意义的“安全”；安全读あんぜん。",
+    "examples": [
+      [
+        "安い",
+        "やすい",
+        "便宜"
+      ],
+      [
+        "安全",
+        "あんぜん",
+        "安全"
+      ],
+      [
+        "安心",
+        "あんしん",
+        "放心；安心"
+      ]
+    ],
+    "practice": {
+      "word": "安い",
+      "reading": "やすい",
+      "meaning": "便宜",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AE%89%E3%81%84",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%AE%89%E3%81%84"
+    ]
+  },
+  {
+    "id": "joyo-013",
+    "order": 13,
+    "day": 3,
+    "char": "案",
+    "on": "アン",
+    "kun": "—",
+    "meaning": "方案；引导",
+    "hook": "案内带路，提案出主意。",
+    "note": "案内既可指引路，也可指介绍、通知；按具体搭配理解。",
+    "examples": [
+      [
+        "案内",
+        "あんない",
+        "引导；介绍"
+      ],
+      [
+        "提案",
+        "ていあん",
+        "提案；建议"
+      ],
+      [
+        "案",
+        "あん",
+        "方案；主意"
+      ]
+    ],
+    "practice": {
+      "word": "案内",
+      "reading": "あんない",
+      "meaning": "引导；介绍",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%A1%88%E5%86%85",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%A1%88%E5%86%85"
+    ]
+  },
+  {
+    "id": "joyo-014",
+    "order": 14,
+    "day": 3,
+    "char": "暗",
+    "on": "アン",
+    "kun": "くら-い",
+    "meaning": "暗；不明亮",
+    "hook": "房间暗い，背诵用暗記。",
+    "note": "暗い也可形容心情阴沉；本课先记光线暗。",
+    "examples": [
+      [
+        "暗い",
+        "くらい",
+        "暗；昏暗"
+      ],
+      [
+        "暗記",
+        "あんき",
+        "背诵；熟记"
+      ],
+      [
+        "暗号",
+        "あんごう",
+        "暗号；密码"
+      ]
+    ],
+    "practice": {
+      "word": "暗い",
+      "reading": "くらい",
+      "meaning": "暗；昏暗",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9A%97%E3%81%84",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%9A%97%E3%81%84"
+    ]
+  },
+  {
+    "id": "joyo-015",
+    "order": 15,
+    "day": 3,
+    "char": "以",
+    "on": "イ",
+    "kun": "—",
+    "meaning": "以；作为界限",
+    "hook": "把以上、以下、以内成组记。",
+    "note": "表示数值范围时，以上、以下、以内通常包含边界值。",
+    "examples": [
+      [
+        "以上",
+        "いじょう",
+        "以上"
+      ],
+      [
+        "以下",
+        "いか",
+        "以下"
+      ],
+      [
+        "以内",
+        "いない",
+        "以内"
+      ]
+    ],
+    "practice": {
+      "word": "以上",
+      "reading": "いじょう",
+      "meaning": "以上",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BB%A5%E4%B8%8A",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BB%A5%E4%B8%8A"
+    ]
+  },
+  {
+    "id": "joyo-016",
+    "order": 16,
+    "day": 4,
+    "char": "衣",
+    "on": "イ",
+    "kun": "ころも",
+    "meaning": "衣服；外衣",
+    "hook": "先记衣服的イ，再单记浴衣。",
+    "note": "浴衣读ゆかた，是整体读法，不能按イ逐字硬拼。",
+    "examples": [
+      [
+        "衣服",
+        "いふく",
+        "衣服"
+      ],
+      [
+        "衣類",
+        "いるい",
+        "衣物"
+      ],
+      [
+        "浴衣",
+        "ゆかた",
+        "浴衣；日式夏季便服"
+      ]
+    ],
+    "practice": {
+      "word": "衣服",
+      "reading": "いふく",
+      "meaning": "衣服",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A1%A3%E6%9C%8D",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A1%A3%E6%9C%8D"
+    ]
+  },
+  {
+    "id": "joyo-017",
+    "order": 17,
+    "day": 4,
+    "char": "位",
+    "on": "イ",
+    "kun": "くらい",
+    "meaning": "位置；名次；等级",
+    "hook": "位置和名次，都能连到イ。",
+    "note": "位的训读くらい表示地位、等级等；日常“左右”的くらい通常用假名。",
+    "examples": [
+      [
+        "位置",
+        "いち",
+        "位置"
+      ],
+      [
+        "一位",
+        "いちい",
+        "第一名"
+      ],
+      [
+        "単位",
+        "たんい",
+        "单位；学分"
+      ]
+    ],
+    "practice": {
+      "word": "位置",
+      "reading": "いち",
+      "meaning": "位置",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BD%8D%E7%BD%AE",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://kotobank.jp/jazhword/%E4%B8%80%E4%BD%8D",
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BD%8D%E7%BD%AE"
+    ]
+  },
+  {
+    "id": "joyo-018",
+    "order": 18,
+    "day": 4,
+    "char": "囲",
+    "on": "イ",
+    "kun": "かこ-む・かこ-う",
+    "meaning": "围住；范围",
+    "hook": "用外框联想“围住”。",
+    "note": "囲む是围住、环绕；囲う强调用围栏等围起来。联想不是字源解释。",
+    "examples": [
+      [
+        "囲む",
+        "かこむ",
+        "围住；环绕"
+      ],
+      [
+        "範囲",
+        "はんい",
+        "范围"
+      ],
+      [
+        "囲碁",
+        "いご",
+        "围棋"
+      ]
+    ],
+    "practice": {
+      "word": "囲む",
+      "reading": "かこむ",
+      "meaning": "围住；环绕",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%9B%B2%E3%82%80",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%9B%B2%E3%82%80"
+    ]
+  },
+  {
+    "id": "joyo-019",
+    "order": 19,
+    "day": 4,
+    "char": "医",
+    "on": "イ",
+    "kun": "—",
+    "meaning": "医疗；医生",
+    "hook": "医者、医学、医療，连着イ记。",
+    "note": "日语里的医者是医生；医学是学科，医療是医疗活动。",
+    "examples": [
+      [
+        "医者",
+        "いしゃ",
+        "医生"
+      ],
+      [
+        "医学",
+        "いがく",
+        "医学"
+      ],
+      [
+        "医療",
+        "いりょう",
+        "医疗"
+      ]
+    ],
+    "practice": {
+      "word": "医者",
+      "reading": "いしゃ",
+      "meaning": "医生",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%8C%BB%E8%80%85",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%8C%BB%E8%80%85"
+    ]
+  },
+  {
+    "id": "joyo-020",
+    "order": 20,
+    "day": 4,
+    "char": "依",
+    "on": "イ・エ",
+    "kun": "—",
+    "meaning": "依靠；依据",
+    "hook": "先记依頼：请别人做事。",
+    "note": "依頼是委托、请求，不直接等于中文“依赖”；エ主要在帰依等词中识读。",
+    "examples": [
+      [
+        "依頼",
+        "いらい",
+        "委托；请求"
+      ],
+      [
+        "依然",
+        "いぜん",
+        "依然；仍然"
+      ],
+      [
+        "帰依",
+        "きえ",
+        "皈依；信奉"
+      ]
+    ],
+    "practice": {
+      "word": "依頼",
+      "reading": "いらい",
+      "meaning": "委托；请求",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BE%9D%E9%A0%BC",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.kanjipedia.jp/kotoba/0001215900",
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E4%BE%9D%E9%A0%BC"
+    ]
+  },
+  {
+    "id": "joyo-021",
+    "order": 21,
+    "day": 5,
+    "char": "委",
+    "on": "イ",
+    "kun": "ゆだ-ねる",
+    "meaning": "委托；交付",
+    "hook": "把事情交给别人＝委ねる。",
+    "note": "委員读いいん，有两个い；委ねる比日常“交给”更偏书面。",
+    "examples": [
+      [
+        "委員",
+        "いいん",
+        "委员"
+      ],
+      [
+        "委ねる",
+        "ゆだねる",
+        "委托；交由"
+      ],
+      [
+        "委任",
+        "いにん",
+        "委任；授权"
+      ]
+    ],
+    "practice": {
+      "word": "委員",
+      "reading": "いいん",
+      "meaning": "委员",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A7%94%E5%93%A1",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A7%94%E5%93%A1"
+    ]
+  },
+  {
+    "id": "joyo-022",
+    "order": 22,
+    "day": 5,
+    "char": "威",
+    "on": "イ",
+    "kun": "—",
+    "meaning": "威势；使畏惧",
+    "hook": "威力、脅威、権威串成一组。",
+    "note": "脅威是威胁，権威是权威；前面的字决定具体含义。",
+    "examples": [
+      [
+        "威力",
+        "いりょく",
+        "威力"
+      ],
+      [
+        "脅威",
+        "きょうい",
+        "威胁"
+      ],
+      [
+        "権威",
+        "けんい",
+        "权威"
+      ]
+    ],
+    "practice": {
+      "word": "威力",
+      "reading": "いりょく",
+      "meaning": "威力",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A8%81%E5%8A%9B",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%A8%81%E5%8A%9B"
+    ]
+  },
+  {
+    "id": "joyo-023",
+    "order": 23,
+    "day": 5,
+    "char": "為",
+    "on": "イ",
+    "kun": "—",
+    "meaning": "做；行为",
+    "hook": "先用行為记イ。",
+    "note": "「する」仍写假名，不把少见的為る放主词。為替整体读かわせ，另记。",
+    "examples": [
+      [
+        "行為",
+        "こうい",
+        "行为"
+      ],
+      [
+        "人為",
+        "じんい",
+        "人为；人工干预"
+      ],
+      [
+        "為替",
+        "かわせ",
+        "汇兑；外汇"
+      ]
+    ],
+    "practice": {
+      "word": "行為",
+      "reading": "こうい",
+      "meaning": "行为",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A1%8C%E7%82%BA",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%A1%8C%E7%82%BA"
+    ]
+  },
+  {
+    "id": "joyo-024",
+    "order": 24,
+    "day": 5,
+    "char": "畏",
+    "on": "イ",
+    "kun": "おそ-れる",
+    "meaning": "畏惧；敬畏",
+    "hook": "把“畏”与尊敬连起来。",
+    "note": "畏れる偏敬畏；一般害怕多用恐れる。畏敬、畏怖偏书面，先识读。",
+    "examples": [
+      [
+        "畏敬",
+        "いけい",
+        "敬畏"
+      ],
+      [
+        "畏怖",
+        "いふ",
+        "畏惧；敬畏"
+      ],
+      [
+        "畏れる",
+        "おそれる",
+        "敬畏；畏惧"
+      ]
+    ],
+    "practice": {
+      "word": "畏敬",
+      "reading": "いけい",
+      "meaning": "敬畏",
+      "source": "漢字ペディア（例词读音核对）",
+      "sourceUrl": "https://www.kanjipedia.jp/kanji/0000140700",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.kanjipedia.jp/kanji/0000140700",
+      "https://www.kanjipedia.jp/kotoba/0000141400"
+    ],
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-025",
+    "order": 25,
+    "day": 5,
+    "char": "胃",
+    "on": "イ",
+    "kun": "—",
+    "meaning": "胃",
+    "hook": "这个字单独就读い。",
+    "note": "胃薬读いぐすり，薬在复合词中发生浊音变化。",
+    "examples": [
+      [
+        "胃",
+        "い",
+        "胃"
+      ],
+      [
+        "胃腸",
+        "いちょう",
+        "肠胃"
+      ],
+      [
+        "胃薬",
+        "いぐすり",
+        "胃药"
+      ]
+    ],
+    "practice": {
+      "word": "胃",
+      "reading": "い",
+      "meaning": "胃",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%83%83",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%83%83"
+    ]
+  },
+  {
+    "id": "joyo-026",
+    "order": 26,
+    "day": 6,
+    "char": "尉",
+    "on": "イ",
+    "kun": "—",
+    "meaning": "尉级军衔",
+    "hook": "先认识军衔，不作口语重点。",
+    "note": "常见于军衔名，日常频率较低；大尉也有だいい读法，本课采用たいい。",
+    "examples": [
+      [
+        "少尉",
+        "しょうい",
+        "少尉"
+      ],
+      [
+        "中尉",
+        "ちゅうい",
+        "中尉"
+      ],
+      [
+        "大尉",
+        "たいい",
+        "上尉"
+      ]
+    ],
+    "practice": {
+      "word": "少尉",
+      "reading": "しょうい",
+      "meaning": "少尉",
+      "source": "漢字ペディア（例词读音核对）",
+      "sourceUrl": "https://www.kanjipedia.jp/kanji/0000145000",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.kanjipedia.jp/kanji/0000145000"
+    ],
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-027",
+    "order": 27,
+    "day": 6,
+    "char": "異",
+    "on": "イ",
+    "kun": "こと",
+    "meaning": "不同；异常",
+    "hook": "抓住“不同”，连接異なる和異常。",
+    "note": "表内训读为こと；異なる整体读ことなる，表示不同。",
+    "examples": [
+      [
+        "異なる",
+        "ことなる",
+        "不同；有差异"
+      ],
+      [
+        "異常",
+        "いじょう",
+        "异常"
+      ],
+      [
+        "異文化",
+        "いぶんか",
+        "不同文化；异文化"
+      ]
+    ],
+    "practice": {
+      "word": "異なる",
+      "reading": "ことなる",
+      "meaning": "不同；有差异",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%95%B0%E3%81%AA%E3%82%8B",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://kotobank.jp/word/%E7%95%B0%E6%96%87%E5%8C%96-435670",
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%95%B0%E3%81%AA%E3%82%8B"
+    ]
+  },
+  {
+    "id": "joyo-028",
+    "order": 28,
+    "day": 6,
+    "char": "移",
+    "on": "イ",
+    "kun": "うつ-る・うつ-す",
+    "meaning": "移动；转移",
+    "hook": "うつる自己移，うつす让它移。",
+    "note": "移る是自动词，移す是他动词；先把这一对分清。",
+    "examples": [
+      [
+        "移る",
+        "うつる",
+        "移动；迁移（自动词）"
+      ],
+      [
+        "移す",
+        "うつす",
+        "移动；转移（他动词）"
+      ],
+      [
+        "移動",
+        "いどう",
+        "移动"
+      ]
+    ],
+    "practice": {
+      "word": "移る",
+      "reading": "うつる",
+      "meaning": "移动；迁移（自动词）",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%A7%BB%E3%82%8B",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%A7%BB%E3%82%8B"
+    ]
+  },
+  {
+    "id": "joyo-029",
+    "order": 29,
+    "day": 6,
+    "char": "萎",
+    "on": "イ",
+    "kun": "な-える",
+    "meaning": "萎蔫；衰弱",
+    "hook": "从植物萎蔫联想到气势变弱。",
+    "note": "萎える也可说心情低落、泄气；本课不扩展表外训读しおれる。",
+    "examples": [
+      [
+        "萎縮",
+        "いしゅく",
+        "萎缩；畏缩"
+      ],
+      [
+        "萎える",
+        "なえる",
+        "萎蔫；泄气"
+      ]
+    ],
+    "practice": {
+      "word": "萎縮",
+      "reading": "いしゅく",
+      "meaning": "萎缩；畏缩",
+      "source": "漢字ペディア（例词读音核对）",
+      "sourceUrl": "https://www.kanjipedia.jp/kanji/0000156700",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.kanjipedia.jp/kanji/0000156700",
+      "https://www.kanjipedia.jp/kotoba/0000157700"
+    ],
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-030",
+    "order": 30,
+    "day": 6,
+    "char": "偉",
+    "on": "イ",
+    "kun": "えら-い",
+    "meaning": "伟大；了不起",
+    "hook": "夸人了不起，可以说偉い。",
+    "note": "偉い还可表示地位高；先按例词记，不把中文每个“伟”都直接套入。",
+    "examples": [
+      [
+        "偉い",
+        "えらい",
+        "了不起；值得赞许"
+      ],
+      [
+        "偉大",
+        "いだい",
+        "伟大"
+      ],
+      [
+        "偉人",
+        "いじん",
+        "伟人"
+      ]
+    ],
+    "practice": {
+      "word": "偉い",
+      "reading": "えらい",
+      "meaning": "了不起；值得赞许",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%81%89%E3%81%84",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E5%81%89%E3%81%84"
+    ]
+  },
+  {
+    "id": "joyo-031",
+    "order": 31,
+    "day": 7,
+    "char": "椅",
+    "on": "イ",
+    "kun": "—",
+    "meaning": "椅子",
+    "hook": "把椅子整体读成いす。",
+    "note": "椅子读いす，不读いし；本课用真实常见组合扩展。",
+    "examples": [
+      [
+        "椅子",
+        "いす",
+        "椅子"
+      ],
+      [
+        "車椅子",
+        "くるまいす",
+        "轮椅"
+      ],
+      [
+        "座椅子",
+        "ざいす",
+        "无腿坐椅；和式靠背椅"
+      ]
+    ],
+    "practice": {
+      "word": "椅子",
+      "reading": "いす",
+      "meaning": "椅子",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%A4%85%E5%AD%90",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.kanjipedia.jp/kotoba/0000160700",
+      "https://kotobank.jp/word/%E8%BB%8A%E6%A4%85%E5%AD%90-486512",
+      "https://kotobank.jp/word/%E5%BA%A7%E6%A4%85%E5%AD%90-507844",
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%A4%85%E5%AD%90"
+    ]
+  },
+  {
+    "id": "joyo-032",
+    "order": 32,
+    "day": 7,
+    "char": "彙",
+    "on": "イ",
+    "kun": "—",
+    "meaning": "汇集；种类",
+    "hook": "固定搭配「語彙」先读熟。",
+    "note": "語彙力、語彙集是語彙的常见扩展，不把彙单独当日常词。",
+    "examples": [
+      [
+        "語彙",
+        "ごい",
+        "词汇"
+      ],
+      [
+        "語彙力",
+        "ごいりょく",
+        "词汇能力"
+      ],
+      [
+        "語彙集",
+        "ごいしゅう",
+        "词汇集"
+      ]
+    ],
+    "practice": {
+      "word": "語彙",
+      "reading": "ごい",
+      "meaning": "词汇",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%AA%9E%E5%BD%99",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.kanjipedia.jp/kanji/0000162000",
+      "https://kotobank.jp/word/%E8%AA%9E%E5%BD%99%E5%8A%9B-2095049",
+      "https://www.city.yokohama.lg.jp/lang/residents/ej/daiji/kijunej.html",
+      "https://kotoba.ninjal.ac.jp/digest/01/d-01-17/",
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E8%AA%9E%E5%BD%99"
+    ],
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-033",
+    "order": 33,
+    "day": 7,
+    "char": "意",
+    "on": "イ",
+    "kun": "—",
+    "meaning": "意思；意念",
+    "hook": "意义、意见、注意，一起扩词。",
+    "note": "意見是意见；意味是意思、意义。不要只靠中文词序猜日语。",
+    "examples": [
+      [
+        "意味",
+        "いみ",
+        "意思；意义"
+      ],
+      [
+        "意見",
+        "いけん",
+        "意见"
+      ],
+      [
+        "注意",
+        "ちゅうい",
+        "注意；提醒"
+      ]
+    ],
+    "practice": {
+      "word": "意味",
+      "reading": "いみ",
+      "meaning": "意思；意义",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%84%8F%E5%91%B3",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E6%84%8F%E5%91%B3"
+    ]
+  },
+  {
+    "id": "joyo-034",
+    "order": 34,
+    "day": 7,
+    "char": "違",
+    "on": "イ",
+    "kun": "ちが-う・ちが-える",
+    "meaning": "不同；违反",
+    "hook": "ちがう不一样，間違える弄错。",
+    "note": "日常常说違う、間違える；違える也在表内，但不强塞独立口语例子。",
+    "examples": [
+      [
+        "違う",
+        "ちがう",
+        "不同；不对"
+      ],
+      [
+        "間違える",
+        "まちがえる",
+        "弄错；搞错"
+      ],
+      [
+        "違反",
+        "いはん",
+        "违反；违章"
+      ]
+    ],
+    "practice": {
+      "word": "違う",
+      "reading": "ちがう",
+      "meaning": "不同；不对",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%81%95%E3%81%86",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E9%81%95%E3%81%86"
+    ]
+  },
+  {
+    "id": "joyo-035",
+    "order": 35,
+    "day": 7,
+    "char": "維",
+    "on": "イ",
+    "kun": "—",
+    "meaning": "维系；纤维",
+    "hook": "维持、纤维都能带出イ。",
+    "note": "繊維读せんい，注意ん后面还有一个い；維新读いしん。",
+    "examples": [
+      [
+        "維持",
+        "いじ",
+        "维持"
+      ],
+      [
+        "繊維",
+        "せんい",
+        "纤维"
+      ],
+      [
+        "維新",
+        "いしん",
+        "维新；革新"
+      ]
+    ],
+    "practice": {
+      "word": "維持",
+      "reading": "いじ",
+      "meaning": "维持",
+      "source": "OJAD（词头及读音核对）",
+      "sourceUrl": "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%B6%AD%E6%8C%81",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "verification": {
+      "kanjiOrder": "已核对官方表",
+      "onKun": "仅表内音训；横线表示表内未列该类读法",
+      "examples": "88/102例词与官方BCCWJ词头及读音精确匹配；复合、派生和异表记的补充核对见研究记录。",
+      "practiceReading": "已核对"
+    },
+    "referenceUrls": [
+      "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/index/word:%E7%B6%AD%E6%8C%81"
+    ]
+  }
+]

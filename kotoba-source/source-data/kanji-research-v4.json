@@ -1,0 +1,122 @@
+{
+  "course": "kanji-course-v4",
+  "counts": {
+    "days": 7,
+    "kanjiPerDay": 5,
+    "kanji": 35,
+    "examples": 102,
+    "practiceWords": 35,
+    "officialOrderOnKunChecked": 35,
+    "bccwjExactLemmaReading": 88,
+    "practiceOJAD": 31,
+    "practiceKanjipediaFallback": 4,
+    "supplementaryExampleReadingsChecked": 14,
+    "unresolvedExampleReadings": 0
+  },
+  "sequence": "亜哀挨愛曖悪握圧扱宛嵐安案暗以衣位囲医依委威為畏胃尉異移萎偉椅彙意違維",
+  "sources": [
+    {
+      "id": "joyo2010",
+      "name": "文化庁 常用漢字表の音訓索引",
+      "url": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "local": "jpvocab_phase1/source/joyo_kanji.html",
+      "encoding": "cp932",
+      "use": "前35字顺序、表内音训、部分例词及特殊读法；第36字为慰。"
+    },
+    {
+      "id": "bccwj-suw-v1.1",
+      "name": "NINJAL BCCWJ 短単位語彙表 v1.1",
+      "url": "https://repository.ninjal.ac.jp/record/3235/files/BCCWJ_frequencylist_suw_ver1_1.zip",
+      "local": "jpvocab_phase1/source/BCCWJ_frequencylist_suw_ver1_1.zip",
+      "use": "102例词中88项的lemma+lForm精确比对；不把短单位频次宣称为整词/复合词频次。"
+    },
+    {
+      "id": "ojad",
+      "name": "东京大学 OJAD",
+      "url": "https://www.gavo.t.u-tokyo.ac.jp/ojad/",
+      "use": "31个练习词词头与读音核对。哀れ、曖昧优先取完全相同的名词词头，避免把词尾な并入答案。"
+    },
+    {
+      "id": "kanjipedia",
+      "name": "公益財団法人 日本漢字能力検定協会 漢字ペディア",
+      "url": "https://www.kanjipedia.jp/",
+      "use": "补充字义、特殊读法；亜熱帯・畏敬・少尉・萎縮四个练习词的显式读音出处。"
+    },
+    {
+      "id": "kotobank",
+      "name": "コトバンク掲載辞書（デジタル大辞泉等）",
+      "url": "https://kotobank.jp/",
+      "use": "宛名、挨拶回り、車椅子、座椅子、異文化、一位、語彙力等整词读音和义项；小学馆和伊中辞典的曖昧さ子条目。"
+    },
+    {
+      "id": "ninjal-greetings",
+      "name": "国立国語研究所 あいさつ語彙資料",
+      "url": "https://repository.ninjal.ac.jp/record/3150/files/knyk_ng_199403.pdf",
+      "use": "挨拶状、挨拶回り作为实际复合语的用例证据。"
+    },
+    {
+      "id": "yokohama-easy-japanese",
+      "name": "横浜市 やさしい日本語のお知らせ",
+      "url": "https://www.city.yokohama.lg.jp/lang/residents/ej/daiji/kijunej.html",
+      "use": "页面标题明确标注語彙集（ごいしゅう）。"
+    },
+    {
+      "id": "jptip-new-year-card",
+      "name": "JPTIP日本語教材 年賀状",
+      "url": "https://event.jptip.com/school/download/file/%E5%B9%B4%E8%B3%80%E7%8A%B6.pdf",
+      "use": "第1页原教材为挨拶状整词明确注音あいさつじょう；这是教学材料证据，不冒称独立辞书词条。"
+    }
+  ],
+  "auditFiles": [
+    "tmp/kanji-course-v4-corpus-audit.json",
+    "tmp/kanji-course-v4-practice-audit.json"
+  ],
+  "caveats": [
+    "这是常用汉字表顺序的独立识字手帖，不是按汉字或例词频率排序。尉等字的例词较少用于日常对话，卡片已提醒先识读。",
+    "on/kun中的横线表示常用汉字表未列该类读法，不表示所有辞书中绝无该类读法；人名读法、表外训读未扩入主栏。",
+    "hook为原创学习联想，不当作字源解释；中文释义是简明教学改写。",
+    "102个例词读音均有显式来源：88个为BCCWJ精确词头与读音比对，剩余14个见supplementaryExampleEvidence。挨拶状及語彙集采用原教学材料／政府页面的整词注音，并非独立辞书条目。",
+    "大尉有たいい／だいい两读，本卡采用たいい并注明变体；為替かわせ、浴衣ゆかた按整体特殊读法记。",
+    "35个实践题答案均已有明确读音来源；本文件不额外给例词标注未核对的声调。"
+  ],
+  "unresolvedPracticeReadings": [],
+  "unresolvedExampleReadings": [],
+  "supplementaryExampleEvidence": [
+    {"word":"亜熱帯","reading":"あねったい","source":"漢字ペディア 亜・下部例词","url":"https://www.kanjipedia.jp/kanji/0000000500","evidence":"亜熱帯(アネッタイ)"},
+    {"word":"挨拶状","reading":"あいさつじょう","source":"JPTIP原教材《年賀状》第1页","url":"https://event.jptip.com/school/download/file/%E5%B9%B4%E8%B3%80%E7%8A%B6.pdf","evidence":"挨拶状整词上方明确注音あいさつじょう"},
+    {"word":"挨拶回り","reading":"あいさつまわり","source":"精選版 日本国語大辞典・コトバンク","url":"https://kotobank.jp/word/%E6%8C%A8%E6%8B%B6%E5%9B%9E-2000030","evidence":"词头挨拶回；读音あいさつまわり"},
+    {"word":"曖昧さ","reading":"あいまいさ","source":"小学館 和伊中辞典2版・コトバンク","url":"https://kotobank.jp/jaitword/%E6%9B%96%E6%98%A7","evidence":"曖昧页面单列曖昧さ／あいまいさ子条目"},
+    {"word":"宛先","reading":"あてさき","source":"漢字ペディア","url":"https://www.kanjipedia.jp/kotoba/0000075000","evidence":"宛先(あてさき)词条"},
+    {"word":"宛名","reading":"あてな","source":"デジタル大辞泉等・コトバンク","url":"https://kotobank.jp/word/%E5%AE%9B%E5%90%8D-425743","evidence":"宛名（読み）アテナ"},
+    {"word":"宛てる","reading":"あてる","source":"文化庁 常用漢字表・宛","url":"https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html","evidence":"宛の訓あてる、例宛てる"},
+    {"word":"一位","reading":"いちい","source":"小学館 日中辞典・コトバンク","url":"https://kotobank.jp/jazhword/%E4%B8%80%E4%BD%8D","evidence":"いちい【一位】；順位の一位を占める"},
+    {"word":"畏れる","reading":"おそれる","source":"文化庁 常用漢字表・畏","url":"https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html","evidence":"畏の訓おそれる、例畏れる"},
+    {"word":"異文化","reading":"いぶんか","source":"デジタル大辞泉・コトバンク","url":"https://kotobank.jp/word/%E7%95%B0%E6%96%87%E5%8C%96-435670","evidence":"異文化（読み）イブンカ"},
+    {"word":"車椅子","reading":"くるまいす","source":"デジタル大辞泉等・コトバンク","url":"https://kotobank.jp/word/%E8%BB%8A%E6%A4%85%E5%AD%90-486512","evidence":"車椅子（読み）クルマイス"},
+    {"word":"座椅子","reading":"ざいす","source":"デジタル大辞泉等・コトバンク","url":"https://kotobank.jp/word/%E5%BA%A7%E6%A4%85%E5%AD%90-507844","evidence":"座椅子（読み）ザイス"},
+    {"word":"語彙力","reading":"ごいりょく","source":"デジタル大辞泉・コトバンク","url":"https://kotobank.jp/word/%E8%AA%9E%E5%BD%99%E5%8A%9B-2095049","evidence":"語彙力（読み）ゴイリョク；ごい‐りょく【語彙力】"},
+    {"word":"語彙集","reading":"ごいしゅう","source":"横浜市 やさしい日本語のお知らせ","url":"https://www.city.yokohama.lg.jp/lang/residents/ej/daiji/kijunej.html","evidence":"語彙集（ごいしゅう）の标题及下载链接"}
+  ],
+  "practiceFallbackSources": [
+    {
+      "id": "joyo-001",
+      "word": "亜熱帯",
+      "url": "https://www.kanjipedia.jp/kanji/0000000500"
+    },
+    {
+      "id": "joyo-024",
+      "word": "畏敬",
+      "url": "https://www.kanjipedia.jp/kanji/0000140700"
+    },
+    {
+      "id": "joyo-026",
+      "word": "少尉",
+      "url": "https://www.kanjipedia.jp/kanji/0000145000"
+    },
+    {
+      "id": "joyo-029",
+      "word": "萎縮",
+      "url": "https://www.kanjipedia.jp/kanji/0000156700"
+    }
+  ]
+}

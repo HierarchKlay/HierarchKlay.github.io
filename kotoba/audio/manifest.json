@@ -1,0 +1,3231 @@
+{
+  "version": 1,
+  "sampleRate": 24000,
+  "channels": 1,
+  "bitRate": 48000,
+  "paddingBeforeSeconds": 0.2,
+  "paddingAfterSeconds": 0.2,
+  "voice": "HTS Voice NIT ATR503 M001 1.05",
+  "voiceLicense": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "notice": "合成朗读辅助，非真人录音；不可作为声调校验依据。",
+  "lessonSha256": "5618f23f6718a2e6a7677dfebe4bdb633f4856a07f264738bf33d95f93180b8c",
+  "totalBytes": 8531304,
+  "files": [
+    {
+      "file": "day-01.mp3",
+      "clips": 90,
+      "duration": 203.753125,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998873,
+      "bytes": 1223304,
+      "sha256": "67a4ffbc9646b0f5c57cdb37660500c651053e7eb4e743995430997ad7e0b82d"
+    },
+    {
+      "file": "day-02.mp3",
+      "clips": 90,
+      "duration": 201.551875,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998742,
+      "bytes": 1210056,
+      "sha256": "b6a8982dfefba1bb9c28e58584a96f34777fc4335442b197a5b728657470466b"
+    },
+    {
+      "file": "day-03.mp3",
+      "clips": 90,
+      "duration": 200.905375,
+      "decodedTailDeltaSamples": 14,
+      "alignmentCorrelation": 0.998741,
+      "bytes": 1206312,
+      "sha256": "95116fe1f72256943aeb19c2670e75e945c16407fde9fb06b3dc3f86826e4d51"
+    },
+    {
+      "file": "day-04.mp3",
+      "clips": 90,
+      "duration": 200.123875,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998848,
+      "bytes": 1201560,
+      "sha256": "e9d08dbfb0eeae121226dcd4f2b6488381adf313dfef8c285e207d6f68722308"
+    },
+    {
+      "file": "day-05.mp3",
+      "clips": 90,
+      "duration": 204.355375,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998743,
+      "bytes": 1226904,
+      "sha256": "b6de7685ceb5c6a03a67321dbc63c969c512d79436e5fb2111c9b115bb7b6685"
+    },
+    {
+      "file": "day-06.mp3",
+      "clips": 90,
+      "duration": 202.378667,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998831,
+      "bytes": 1215096,
+      "sha256": "e2a1548c679103c778570a94e0c8cb89c70cca33895619bb59192df6944ffcd1"
+    },
+    {
+      "file": "day-07.mp3",
+      "clips": 90,
+      "duration": 207.879083,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998727,
+      "bytes": 1248072,
+      "sha256": "df7edf58fb66cdff6de095a39aff3c5a3e64a8a7107a0787f1b7ced9901006d7"
+    }
+  ],
+  "clips": {
+    "ie": {
+      "file": "day-01.mp3",
+      "start": 0.0,
+      "end": 1.074625
+    },
+    "ie-example": {
+      "file": "day-01.mp3",
+      "start": 1.074625,
+      "end": 3.665125
+    },
+    "kanari": {
+      "file": "day-01.mp3",
+      "start": 3.665125,
+      "end": 5.575125
+    },
+    "kanari-example": {
+      "file": "day-01.mp3",
+      "start": 5.575125,
+      "end": 8.595708
+    },
+    "n001": {
+      "file": "day-01.mp3",
+      "start": 8.595708,
+      "end": 10.330708
+    },
+    "n001-example": {
+      "file": "day-01.mp3",
+      "start": 10.330708,
+      "end": 12.995708
+    },
+    "n002": {
+      "file": "day-01.mp3",
+      "start": 12.995708,
+      "end": 14.071542
+    },
+    "n002-example": {
+      "file": "day-01.mp3",
+      "start": 14.071542,
+      "end": 16.7295
+    },
+    "jiyuu": {
+      "file": "day-01.mp3",
+      "start": 16.7295,
+      "end": 18.177625
+    },
+    "jiyuu-example": {
+      "file": "day-01.mp3",
+      "start": 18.177625,
+      "end": 20.772208
+    },
+    "juuyou": {
+      "file": "day-01.mp3",
+      "start": 20.772208,
+      "end": 22.036
+    },
+    "juuyou-example": {
+      "file": "day-01.mp3",
+      "start": 22.036,
+      "end": 25.6945
+    },
+    "tsuki": {
+      "file": "day-01.mp3",
+      "start": 25.6945,
+      "end": 27.4795
+    },
+    "tsuki-example": {
+      "file": "day-01.mp3",
+      "start": 27.4795,
+      "end": 30.4845
+    },
+    "kodomo": {
+      "file": "day-01.mp3",
+      "start": 30.4845,
+      "end": 31.779167
+    },
+    "kodomo-example": {
+      "file": "day-01.mp3",
+      "start": 31.779167,
+      "end": 35.449167
+    },
+    "jikan": {
+      "file": "day-01.mp3",
+      "start": 35.449167,
+      "end": 36.660917
+    },
+    "jikan-example": {
+      "file": "day-01.mp3",
+      "start": 36.660917,
+      "end": 39.550917
+    },
+    "i003": {
+      "file": "day-01.mp3",
+      "start": 39.550917,
+      "end": 40.9425
+    },
+    "i003-example": {
+      "file": "day-01.mp3",
+      "start": 40.9425,
+      "end": 43.7025
+    },
+    "v003": {
+      "file": "day-01.mp3",
+      "start": 43.7025,
+      "end": 45.132417
+    },
+    "v003-example": {
+      "file": "day-01.mp3",
+      "start": 45.132417,
+      "end": 48.232417
+    },
+    "sukoshi": {
+      "file": "day-01.mp3",
+      "start": 48.232417,
+      "end": 50.127417
+    },
+    "sukoshi-example": {
+      "file": "day-01.mp3",
+      "start": 50.127417,
+      "end": 52.692417
+    },
+    "suru": {
+      "file": "day-01.mp3",
+      "start": 52.692417,
+      "end": 54.427417
+    },
+    "suru-example": {
+      "file": "day-01.mp3",
+      "start": 54.427417,
+      "end": 57.812417
+    },
+    "i002": {
+      "file": "day-01.mp3",
+      "start": 57.812417,
+      "end": 59.777417
+    },
+    "i002-example": {
+      "file": "day-01.mp3",
+      "start": 59.777417,
+      "end": 63.277417
+    },
+    "totemo": {
+      "file": "day-01.mp3",
+      "start": 63.277417,
+      "end": 65.247417
+    },
+    "totemo-example": {
+      "file": "day-01.mp3",
+      "start": 65.247417,
+      "end": 68.652417
+    },
+    "hakkiri": {
+      "file": "day-01.mp3",
+      "start": 68.652417,
+      "end": 70.487083
+    },
+    "hakkiri-example": {
+      "file": "day-01.mp3",
+      "start": 70.487083,
+      "end": 74.127083
+    },
+    "v001": {
+      "file": "day-01.mp3",
+      "start": 74.127083,
+      "end": 75.42075
+    },
+    "v001-example": {
+      "file": "day-01.mp3",
+      "start": 75.42075,
+      "end": 77.939625
+    },
+    "mondai": {
+      "file": "day-01.mp3",
+      "start": 77.939625,
+      "end": 79.049875
+    },
+    "mondai-example": {
+      "file": "day-01.mp3",
+      "start": 79.049875,
+      "end": 82.309875
+    },
+    "zutto": {
+      "file": "day-01.mp3",
+      "start": 82.309875,
+      "end": 84.299875
+    },
+    "zutto-example": {
+      "file": "day-01.mp3",
+      "start": 84.299875,
+      "end": 87.329875
+    },
+    "takai": {
+      "file": "day-01.mp3",
+      "start": 87.329875,
+      "end": 89.174875
+    },
+    "takai-example": {
+      "file": "day-01.mp3",
+      "start": 89.174875,
+      "end": 92.964875
+    },
+    "ooi": {
+      "file": "day-01.mp3",
+      "start": 92.964875,
+      "end": 93.929208
+    },
+    "ooi-example": {
+      "file": "day-01.mp3",
+      "start": 93.929208,
+      "end": 96.631417
+    },
+    "jibun": {
+      "file": "day-01.mp3",
+      "start": 96.631417,
+      "end": 97.802583
+    },
+    "jibun-example": {
+      "file": "day-01.mp3",
+      "start": 97.802583,
+      "end": 101.197583
+    },
+    "kanou": {
+      "file": "day-01.mp3",
+      "start": 101.197583,
+      "end": 102.466458
+    },
+    "kanou-example": {
+      "file": "day-01.mp3",
+      "start": 102.466458,
+      "end": 106.513458
+    },
+    "kichinto": {
+      "file": "day-01.mp3",
+      "start": 106.513458,
+      "end": 108.173208
+    },
+    "kichinto-example": {
+      "file": "day-01.mp3",
+      "start": 108.173208,
+      "end": 111.763208
+    },
+    "shikkari": {
+      "file": "day-01.mp3",
+      "start": 111.763208,
+      "end": 113.763208
+    },
+    "shikkari-example": {
+      "file": "day-01.mp3",
+      "start": 113.763208,
+      "end": 117.813167
+    },
+    "hitsuyou": {
+      "file": "day-01.mp3",
+      "start": 117.813167,
+      "end": 119.424667
+    },
+    "hitsuyou-example": {
+      "file": "day-01.mp3",
+      "start": 119.424667,
+      "end": 123.469667
+    },
+    "yukkuri": {
+      "file": "day-01.mp3",
+      "start": 123.469667,
+      "end": 125.474667
+    },
+    "yukkuri-example": {
+      "file": "day-01.mp3",
+      "start": 125.474667,
+      "end": 129.020625
+    },
+    "iu": {
+      "file": "day-01.mp3",
+      "start": 129.020625,
+      "end": 129.982583
+    },
+    "iu-example": {
+      "file": "day-01.mp3",
+      "start": 129.982583,
+      "end": 132.149125
+    },
+    "ima": {
+      "file": "day-01.mp3",
+      "start": 132.149125,
+      "end": 133.171125
+    },
+    "ima-example": {
+      "file": "day-01.mp3",
+      "start": 133.171125,
+      "end": 136.136125
+    },
+    "i001": {
+      "file": "day-01.mp3",
+      "start": 136.136125,
+      "end": 137.279917
+    },
+    "i001-example": {
+      "file": "day-01.mp3",
+      "start": 137.279917,
+      "end": 140.269458
+    },
+    "n003": {
+      "file": "day-01.mp3",
+      "start": 140.269458,
+      "end": 142.339458
+    },
+    "n003-example": {
+      "file": "day-01.mp3",
+      "start": 142.339458,
+      "end": 145.274458
+    },
+    "chanto": {
+      "file": "day-01.mp3",
+      "start": 145.274458,
+      "end": 147.120708
+    },
+    "chanto-example": {
+      "file": "day-01.mp3",
+      "start": 147.120708,
+      "end": 150.215708
+    },
+    "v002": {
+      "file": "day-01.mp3",
+      "start": 150.215708,
+      "end": 151.56925
+    },
+    "v002-example": {
+      "file": "day-01.mp3",
+      "start": 151.56925,
+      "end": 153.957167
+    },
+    "motto": {
+      "file": "day-01.mp3",
+      "start": 153.957167,
+      "end": 155.803417
+    },
+    "motto-example": {
+      "file": "day-01.mp3",
+      "start": 155.803417,
+      "end": 159.153417
+    },
+    "shizen_na": {
+      "file": "day-01.mp3",
+      "start": 159.153417,
+      "end": 160.659375
+    },
+    "shizen_na-example": {
+      "file": "day-01.mp3",
+      "start": 160.659375,
+      "end": 163.725333
+    },
+    "n064": {
+      "file": "day-01.mp3",
+      "start": 163.725333,
+      "end": 164.811625
+    },
+    "n064-example": {
+      "file": "day-01.mp3",
+      "start": 164.811625,
+      "end": 168.776625
+    },
+    "n065": {
+      "file": "day-01.mp3",
+      "start": 168.776625,
+      "end": 170.636625
+    },
+    "n065-example": {
+      "file": "day-01.mp3",
+      "start": 170.636625,
+      "end": 173.531625
+    },
+    "n066": {
+      "file": "day-01.mp3",
+      "start": 173.531625,
+      "end": 174.788458
+    },
+    "n066-example": {
+      "file": "day-01.mp3",
+      "start": 174.788458,
+      "end": 177.21375
+    },
+    "n067": {
+      "file": "day-01.mp3",
+      "start": 177.21375,
+      "end": 178.407708
+    },
+    "n067-example": {
+      "file": "day-01.mp3",
+      "start": 178.407708,
+      "end": 180.744375
+    },
+    "n068": {
+      "file": "day-01.mp3",
+      "start": 180.744375,
+      "end": 181.838458
+    },
+    "n068-example": {
+      "file": "day-01.mp3",
+      "start": 181.838458,
+      "end": 184.317
+    },
+    "v034": {
+      "file": "day-01.mp3",
+      "start": 184.317,
+      "end": 185.329208
+    },
+    "v034-example": {
+      "file": "day-01.mp3",
+      "start": 185.329208,
+      "end": 187.987167
+    },
+    "v035": {
+      "file": "day-01.mp3",
+      "start": 187.987167,
+      "end": 189.434542
+    },
+    "v035-example": {
+      "file": "day-01.mp3",
+      "start": 189.434542,
+      "end": 192.344542
+    },
+    "v036": {
+      "file": "day-01.mp3",
+      "start": 192.344542,
+      "end": 194.18025
+    },
+    "v036-example": {
+      "file": "day-01.mp3",
+      "start": 194.18025,
+      "end": 196.83025
+    },
+    "v037": {
+      "file": "day-01.mp3",
+      "start": 196.83025,
+      "end": 197.887625
+    },
+    "v037-example": {
+      "file": "day-01.mp3",
+      "start": 197.887625,
+      "end": 200.036167
+    },
+    "v038": {
+      "file": "day-01.mp3",
+      "start": 200.036167,
+      "end": 201.791167
+    },
+    "v038-example": {
+      "file": "day-01.mp3",
+      "start": 201.791167,
+      "end": 203.753125
+    },
+    "v005": {
+      "file": "day-02.mp3",
+      "start": 0.0,
+      "end": 1.011625
+    },
+    "v005-example": {
+      "file": "day-02.mp3",
+      "start": 1.011625,
+      "end": 3.6005
+    },
+    "n009": {
+      "file": "day-02.mp3",
+      "start": 3.6005,
+      "end": 4.813333
+    },
+    "n009-example": {
+      "file": "day-02.mp3",
+      "start": 4.813333,
+      "end": 7.220375
+    },
+    "i008": {
+      "file": "day-02.mp3",
+      "start": 7.220375,
+      "end": 9.440375
+    },
+    "i008-example": {
+      "file": "day-02.mp3",
+      "start": 9.440375,
+      "end": 12.495375
+    },
+    "n013": {
+      "file": "day-02.mp3",
+      "start": 12.495375,
+      "end": 14.595375
+    },
+    "n013-example": {
+      "file": "day-02.mp3",
+      "start": 14.595375,
+      "end": 17.345375
+    },
+    "i006": {
+      "file": "day-02.mp3",
+      "start": 17.345375,
+      "end": 18.382625
+    },
+    "i006-example": {
+      "file": "day-02.mp3",
+      "start": 18.382625,
+      "end": 21.040583
+    },
+    "tokidoki": {
+      "file": "day-02.mp3",
+      "start": 21.040583,
+      "end": 23.030792
+    },
+    "tokidoki-example": {
+      "file": "day-02.mp3",
+      "start": 23.030792,
+      "end": 27.360792
+    },
+    "n010": {
+      "file": "day-02.mp3",
+      "start": 27.360792,
+      "end": 28.62375
+    },
+    "n010-example": {
+      "file": "day-02.mp3",
+      "start": 28.62375,
+      "end": 31.005083
+    },
+    "i005": {
+      "file": "day-02.mp3",
+      "start": 31.005083,
+      "end": 32.060708
+    },
+    "i005-example": {
+      "file": "day-02.mp3",
+      "start": 32.060708,
+      "end": 34.646667
+    },
+    "kirai": {
+      "file": "day-02.mp3",
+      "start": 34.646667,
+      "end": 36.481667
+    },
+    "kirai-example": {
+      "file": "day-02.mp3",
+      "start": 36.481667,
+      "end": 39.69925
+    },
+    "i007": {
+      "file": "day-02.mp3",
+      "start": 39.69925,
+      "end": 41.58925
+    },
+    "i007-example": {
+      "file": "day-02.mp3",
+      "start": 41.58925,
+      "end": 45.09425
+    },
+    "fuben": {
+      "file": "day-02.mp3",
+      "start": 45.09425,
+      "end": 46.252292
+    },
+    "fuben-example": {
+      "file": "day-02.mp3",
+      "start": 46.252292,
+      "end": 49.910792
+    },
+    "gussuri": {
+      "file": "day-02.mp3",
+      "start": 49.910792,
+      "end": 51.865792
+    },
+    "gussuri-example": {
+      "file": "day-02.mp3",
+      "start": 51.865792,
+      "end": 54.886333
+    },
+    "benri": {
+      "file": "day-02.mp3",
+      "start": 54.886333,
+      "end": 56.722042
+    },
+    "benri-example": {
+      "file": "day-02.mp3",
+      "start": 56.722042,
+      "end": 59.977583
+    },
+    "n006": {
+      "file": "day-02.mp3",
+      "start": 59.977583,
+      "end": 60.965708
+    },
+    "n006-example": {
+      "file": "day-02.mp3",
+      "start": 60.965708,
+      "end": 63.045667
+    },
+    "sukkiri": {
+      "file": "day-02.mp3",
+      "start": 63.045667,
+      "end": 65.025667
+    },
+    "sukkiri-example": {
+      "file": "day-02.mp3",
+      "start": 65.025667,
+      "end": 68.890667
+    },
+    "tamani": {
+      "file": "day-02.mp3",
+      "start": 68.890667,
+      "end": 70.726292
+    },
+    "tamani-example": {
+      "file": "day-02.mp3",
+      "start": 70.726292,
+      "end": 74.376292
+    },
+    "v008": {
+      "file": "day-02.mp3",
+      "start": 74.376292,
+      "end": 75.90625
+    },
+    "v008-example": {
+      "file": "day-02.mp3",
+      "start": 75.90625,
+      "end": 78.720833
+    },
+    "n004": {
+      "file": "day-02.mp3",
+      "start": 78.720833,
+      "end": 79.955292
+    },
+    "n004-example": {
+      "file": "day-02.mp3",
+      "start": 79.955292,
+      "end": 83.185292
+    },
+    "v006": {
+      "file": "day-02.mp3",
+      "start": 83.185292,
+      "end": 84.129625
+    },
+    "v006-example": {
+      "file": "day-02.mp3",
+      "start": 84.129625,
+      "end": 86.324375
+    },
+    "n005": {
+      "file": "day-02.mp3",
+      "start": 86.324375,
+      "end": 88.109375
+    },
+    "n005-example": {
+      "file": "day-02.mp3",
+      "start": 88.109375,
+      "end": 90.930042
+    },
+    "n007": {
+      "file": "day-02.mp3",
+      "start": 90.930042,
+      "end": 91.892292
+    },
+    "n007-example": {
+      "file": "day-02.mp3",
+      "start": 91.892292,
+      "end": 95.111625
+    },
+    "n008": {
+      "file": "day-02.mp3",
+      "start": 95.111625,
+      "end": 96.072667
+    },
+    "n008-example": {
+      "file": "day-02.mp3",
+      "start": 96.072667,
+      "end": 98.462417
+    },
+    "v004": {
+      "file": "day-02.mp3",
+      "start": 98.462417,
+      "end": 99.424792
+    },
+    "v004-example": {
+      "file": "day-02.mp3",
+      "start": 99.424792,
+      "end": 101.62675
+    },
+    "suki": {
+      "file": "day-02.mp3",
+      "start": 101.62675,
+      "end": 103.37675
+    },
+    "suki-example": {
+      "file": "day-02.mp3",
+      "start": 103.37675,
+      "end": 106.94675
+    },
+    "i004": {
+      "file": "day-02.mp3",
+      "start": 106.94675,
+      "end": 108.093375
+    },
+    "i004-example": {
+      "file": "day-02.mp3",
+      "start": 108.093375,
+      "end": 110.525083
+    },
+    "n012": {
+      "file": "day-02.mp3",
+      "start": 110.525083,
+      "end": 112.515375
+    },
+    "n012-example": {
+      "file": "day-02.mp3",
+      "start": 112.515375,
+      "end": 115.205333
+    },
+    "iraira": {
+      "file": "day-02.mp3",
+      "start": 115.205333,
+      "end": 116.382333
+    },
+    "iraira-example": {
+      "file": "day-02.mp3",
+      "start": 116.382333,
+      "end": 120.827333
+    },
+    "dokidoki": {
+      "file": "day-02.mp3",
+      "start": 120.827333,
+      "end": 122.391917
+    },
+    "dokidoki-example": {
+      "file": "day-02.mp3",
+      "start": 122.391917,
+      "end": 125.063792
+    },
+    "yoku": {
+      "file": "day-02.mp3",
+      "start": 125.063792,
+      "end": 126.077208
+    },
+    "yoku-example": {
+      "file": "day-02.mp3",
+      "start": 126.077208,
+      "end": 128.568875
+    },
+    "v007": {
+      "file": "day-02.mp3",
+      "start": 128.568875,
+      "end": 129.633292
+    },
+    "v007-example": {
+      "file": "day-02.mp3",
+      "start": 129.633292,
+      "end": 133.103292
+    },
+    "n011": {
+      "file": "day-02.mp3",
+      "start": 133.103292,
+      "end": 134.693833
+    },
+    "n011-example": {
+      "file": "day-02.mp3",
+      "start": 134.693833,
+      "end": 137.351792
+    },
+    "kantan": {
+      "file": "day-02.mp3",
+      "start": 137.351792,
+      "end": 138.717625
+    },
+    "kantan-example": {
+      "file": "day-02.mp3",
+      "start": 138.717625,
+      "end": 141.948292
+    },
+    "itsumo": {
+      "file": "day-02.mp3",
+      "start": 141.948292,
+      "end": 143.868292
+    },
+    "itsumo-example": {
+      "file": "day-02.mp3",
+      "start": 143.868292,
+      "end": 147.081792
+    },
+    "chotto": {
+      "file": "day-02.mp3",
+      "start": 147.081792,
+      "end": 149.006792
+    },
+    "chotto-example": {
+      "file": "day-02.mp3",
+      "start": 149.006792,
+      "end": 151.641792
+    },
+    "wakuwaku": {
+      "file": "day-02.mp3",
+      "start": 151.641792,
+      "end": 152.910833
+    },
+    "wakuwaku-example": {
+      "file": "day-02.mp3",
+      "start": 152.910833,
+      "end": 156.733125
+    },
+    "n069": {
+      "file": "day-02.mp3",
+      "start": 156.733125,
+      "end": 158.668125
+    },
+    "n069-example": {
+      "file": "day-02.mp3",
+      "start": 158.668125,
+      "end": 161.968125
+    },
+    "n070": {
+      "file": "day-02.mp3",
+      "start": 161.968125,
+      "end": 163.843125
+    },
+    "n070-example": {
+      "file": "day-02.mp3",
+      "start": 163.843125,
+      "end": 167.288125
+    },
+    "n071": {
+      "file": "day-02.mp3",
+      "start": 167.288125,
+      "end": 169.093125
+    },
+    "n071-example": {
+      "file": "day-02.mp3",
+      "start": 169.093125,
+      "end": 171.748875
+    },
+    "n072": {
+      "file": "day-02.mp3",
+      "start": 171.748875,
+      "end": 172.785375
+    },
+    "n072-example": {
+      "file": "day-02.mp3",
+      "start": 172.785375,
+      "end": 175.705375
+    },
+    "n073": {
+      "file": "day-02.mp3",
+      "start": 175.705375,
+      "end": 176.654875
+    },
+    "n073-example": {
+      "file": "day-02.mp3",
+      "start": 176.654875,
+      "end": 179.724875
+    },
+    "v039": {
+      "file": "day-02.mp3",
+      "start": 179.724875,
+      "end": 180.778667
+    },
+    "v039-example": {
+      "file": "day-02.mp3",
+      "start": 180.778667,
+      "end": 183.209292
+    },
+    "v040": {
+      "file": "day-02.mp3",
+      "start": 183.209292,
+      "end": 185.07525
+    },
+    "v040-example": {
+      "file": "day-02.mp3",
+      "start": 185.07525,
+      "end": 187.83525
+    },
+    "v041": {
+      "file": "day-02.mp3",
+      "start": 187.83525,
+      "end": 189.60025
+    },
+    "v041-example": {
+      "file": "day-02.mp3",
+      "start": 189.60025,
+      "end": 192.762208
+    },
+    "v042": {
+      "file": "day-02.mp3",
+      "start": 192.762208,
+      "end": 193.832833
+    },
+    "v042-example": {
+      "file": "day-02.mp3",
+      "start": 193.832833,
+      "end": 196.482833
+    },
+    "v043": {
+      "file": "day-02.mp3",
+      "start": 196.482833,
+      "end": 198.332833
+    },
+    "v043-example": {
+      "file": "day-02.mp3",
+      "start": 198.332833,
+      "end": 201.551875
+    },
+    "i010": {
+      "file": "day-03.mp3",
+      "start": 0.0,
+      "end": 1.354875
+    },
+    "i010-example": {
+      "file": "day-03.mp3",
+      "start": 1.354875,
+      "end": 4.729875
+    },
+    "n016": {
+      "file": "day-03.mp3",
+      "start": 4.729875,
+      "end": 6.012042
+    },
+    "n016-example": {
+      "file": "day-03.mp3",
+      "start": 6.012042,
+      "end": 9.212833
+    },
+    "v009": {
+      "file": "day-03.mp3",
+      "start": 9.212833,
+      "end": 10.178083
+    },
+    "v009-example": {
+      "file": "day-03.mp3",
+      "start": 10.178083,
+      "end": 12.372542
+    },
+    "amari": {
+      "file": "day-03.mp3",
+      "start": 12.372542,
+      "end": 13.430167
+    },
+    "amari-example": {
+      "file": "day-03.mp3",
+      "start": 13.430167,
+      "end": 15.810958
+    },
+    "v011": {
+      "file": "day-03.mp3",
+      "start": 15.810958,
+      "end": 17.340917
+    },
+    "v011-example": {
+      "file": "day-03.mp3",
+      "start": 17.340917,
+      "end": 19.4685
+    },
+    "nigiyaka": {
+      "file": "day-03.mp3",
+      "start": 19.4685,
+      "end": 20.691625
+    },
+    "nigiyaka-example": {
+      "file": "day-03.mp3",
+      "start": 20.691625,
+      "end": 23.39525
+    },
+    "mou": {
+      "file": "day-03.mp3",
+      "start": 23.39525,
+      "end": 24.297417
+    },
+    "mou-example": {
+      "file": "day-03.mp3",
+      "start": 24.297417,
+      "end": 26.559417
+    },
+    "sarasara": {
+      "file": "day-03.mp3",
+      "start": 26.559417,
+      "end": 28.614417
+    },
+    "sarasara-example": {
+      "file": "day-03.mp3",
+      "start": 28.614417,
+      "end": 31.729417
+    },
+    "genki": {
+      "file": "day-03.mp3",
+      "start": 31.729417,
+      "end": 33.664417
+    },
+    "genki-example": {
+      "file": "day-03.mp3",
+      "start": 33.664417,
+      "end": 38.17575
+    },
+    "n021": {
+      "file": "day-03.mp3",
+      "start": 38.17575,
+      "end": 39.98075
+    },
+    "n021-example": {
+      "file": "day-03.mp3",
+      "start": 39.98075,
+      "end": 43.413375
+    },
+    "n017": {
+      "file": "day-03.mp3",
+      "start": 43.413375,
+      "end": 44.681208
+    },
+    "n017-example": {
+      "file": "day-03.mp3",
+      "start": 44.681208,
+      "end": 48.341208
+    },
+    "pikapika": {
+      "file": "day-03.mp3",
+      "start": 48.341208,
+      "end": 49.871167
+    },
+    "pikapika-example": {
+      "file": "day-03.mp3",
+      "start": 49.871167,
+      "end": 53.846167
+    },
+    "i009": {
+      "file": "day-03.mp3",
+      "start": 53.846167,
+      "end": 54.880167
+    },
+    "i009-example": {
+      "file": "day-03.mp3",
+      "start": 54.880167,
+      "end": 58.132
+    },
+    "sugu": {
+      "file": "day-03.mp3",
+      "start": 58.132,
+      "end": 59.857
+    },
+    "sugu-example": {
+      "file": "day-03.mp3",
+      "start": 59.857,
+      "end": 63.832
+    },
+    "zenzen": {
+      "file": "day-03.mp3",
+      "start": 63.832,
+      "end": 65.205167
+    },
+    "zenzen-example": {
+      "file": "day-03.mp3",
+      "start": 65.205167,
+      "end": 68.830167
+    },
+    "i013": {
+      "file": "day-03.mp3",
+      "start": 68.830167,
+      "end": 70.685167
+    },
+    "i013-example": {
+      "file": "day-03.mp3",
+      "start": 70.685167,
+      "end": 72.795125
+    },
+    "shinsetsu": {
+      "file": "day-03.mp3",
+      "start": 72.795125,
+      "end": 74.815125
+    },
+    "shinsetsu-example": {
+      "file": "day-03.mp3",
+      "start": 74.815125,
+      "end": 78.326458
+    },
+    "v010": {
+      "file": "day-03.mp3",
+      "start": 78.326458,
+      "end": 79.386042
+    },
+    "v010-example": {
+      "file": "day-03.mp3",
+      "start": 79.386042,
+      "end": 82.044
+    },
+    "n018": {
+      "file": "day-03.mp3",
+      "start": 82.044,
+      "end": 84.0345
+    },
+    "n018-example": {
+      "file": "day-03.mp3",
+      "start": 84.0345,
+      "end": 87.055042
+    },
+    "n014": {
+      "file": "day-03.mp3",
+      "start": 87.055042,
+      "end": 88.960042
+    },
+    "n014-example": {
+      "file": "day-03.mp3",
+      "start": 88.960042,
+      "end": 91.618833
+    },
+    "mada": {
+      "file": "day-03.mp3",
+      "start": 91.618833,
+      "end": 92.566792
+    },
+    "mada-example": {
+      "file": "day-03.mp3",
+      "start": 92.566792,
+      "end": 94.98475
+    },
+    "i011": {
+      "file": "day-03.mp3",
+      "start": 94.98475,
+      "end": 96.010708
+    },
+    "i011-example": {
+      "file": "day-03.mp3",
+      "start": 96.010708,
+      "end": 98.660875
+    },
+    "n022": {
+      "file": "day-03.mp3",
+      "start": 98.660875,
+      "end": 99.885875
+    },
+    "n022-example": {
+      "file": "day-03.mp3",
+      "start": 99.885875,
+      "end": 103.43225
+    },
+    "bikkuri": {
+      "file": "day-03.mp3",
+      "start": 103.43225,
+      "end": 105.42275
+    },
+    "bikkuri-example": {
+      "file": "day-03.mp3",
+      "start": 105.42275,
+      "end": 109.45275
+    },
+    "v013": {
+      "file": "day-03.mp3",
+      "start": 109.45275,
+      "end": 110.432833
+    },
+    "v013-example": {
+      "file": "day-03.mp3",
+      "start": 110.432833,
+      "end": 113.987833
+    },
+    "n023": {
+      "file": "day-03.mp3",
+      "start": 113.987833,
+      "end": 115.086417
+    },
+    "n023-example": {
+      "file": "day-03.mp3",
+      "start": 115.086417,
+      "end": 118.296375
+    },
+    "shizuka": {
+      "file": "day-03.mp3",
+      "start": 118.296375,
+      "end": 120.131583
+    },
+    "shizuka-example": {
+      "file": "day-03.mp3",
+      "start": 120.131583,
+      "end": 122.951583
+    },
+    "n015": {
+      "file": "day-03.mp3",
+      "start": 122.951583,
+      "end": 124.881583
+    },
+    "n015-example": {
+      "file": "day-03.mp3",
+      "start": 124.881583,
+      "end": 128.241583
+    },
+    "n020": {
+      "file": "day-03.mp3",
+      "start": 128.241583,
+      "end": 129.771542
+    },
+    "n020-example": {
+      "file": "day-03.mp3",
+      "start": 129.771542,
+      "end": 132.427292
+    },
+    "v012": {
+      "file": "day-03.mp3",
+      "start": 132.427292,
+      "end": 133.340333
+    },
+    "v012-example": {
+      "file": "day-03.mp3",
+      "start": 133.340333,
+      "end": 136.160333
+    },
+    "kirei": {
+      "file": "day-03.mp3",
+      "start": 136.160333,
+      "end": 137.995333
+    },
+    "kirei-example": {
+      "file": "day-03.mp3",
+      "start": 137.995333,
+      "end": 141.330333
+    },
+    "n019": {
+      "file": "day-03.mp3",
+      "start": 141.330333,
+      "end": 142.557667
+    },
+    "n019-example": {
+      "file": "day-03.mp3",
+      "start": 142.557667,
+      "end": 145.167625
+    },
+    "fuwafuwa": {
+      "file": "day-03.mp3",
+      "start": 145.167625,
+      "end": 146.409583
+    },
+    "fuwafuwa-example": {
+      "file": "day-03.mp3",
+      "start": 146.409583,
+      "end": 149.715542
+    },
+    "nikoniko": {
+      "file": "day-03.mp3",
+      "start": 149.715542,
+      "end": 150.95
+    },
+    "nikoniko-example": {
+      "file": "day-03.mp3",
+      "start": 150.95,
+      "end": 154.38
+    },
+    "i012": {
+      "file": "day-03.mp3",
+      "start": 154.38,
+      "end": 156.215
+    },
+    "i012-example": {
+      "file": "day-03.mp3",
+      "start": 156.215,
+      "end": 158.645208
+    },
+    "n074": {
+      "file": "day-03.mp3",
+      "start": 158.645208,
+      "end": 160.175167
+    },
+    "n074-example": {
+      "file": "day-03.mp3",
+      "start": 160.175167,
+      "end": 162.840167
+    },
+    "n075": {
+      "file": "day-03.mp3",
+      "start": 162.840167,
+      "end": 164.745167
+    },
+    "n075-example": {
+      "file": "day-03.mp3",
+      "start": 164.745167,
+      "end": 167.297625
+    },
+    "n076": {
+      "file": "day-03.mp3",
+      "start": 167.297625,
+      "end": 168.467792
+    },
+    "n076-example": {
+      "file": "day-03.mp3",
+      "start": 168.467792,
+      "end": 171.137792
+    },
+    "n077": {
+      "file": "day-03.mp3",
+      "start": 171.137792,
+      "end": 172.363542
+    },
+    "n077-example": {
+      "file": "day-03.mp3",
+      "start": 172.363542,
+      "end": 176.457292
+    },
+    "n078": {
+      "file": "day-03.mp3",
+      "start": 176.457292,
+      "end": 178.025167
+    },
+    "n078-example": {
+      "file": "day-03.mp3",
+      "start": 178.025167,
+      "end": 180.683125
+    },
+    "v044": {
+      "file": "day-03.mp3",
+      "start": 180.683125,
+      "end": 181.599625
+    },
+    "v044-example": {
+      "file": "day-03.mp3",
+      "start": 181.599625,
+      "end": 184.359625
+    },
+    "v045": {
+      "file": "day-03.mp3",
+      "start": 184.359625,
+      "end": 185.330333
+    },
+    "v045-example": {
+      "file": "day-03.mp3",
+      "start": 185.330333,
+      "end": 187.980333
+    },
+    "v046": {
+      "file": "day-03.mp3",
+      "start": 187.980333,
+      "end": 189.760333
+    },
+    "v046-example": {
+      "file": "day-03.mp3",
+      "start": 189.760333,
+      "end": 192.540333
+    },
+    "v047": {
+      "file": "day-03.mp3",
+      "start": 192.540333,
+      "end": 194.270333
+    },
+    "v047-example": {
+      "file": "day-03.mp3",
+      "start": 194.270333,
+      "end": 196.920292
+    },
+    "v048": {
+      "file": "day-03.mp3",
+      "start": 196.920292,
+      "end": 197.885042
+    },
+    "v048-example": {
+      "file": "day-03.mp3",
+      "start": 197.885042,
+      "end": 200.905375
+    },
+    "guruguru": {
+      "file": "day-04.mp3",
+      "start": 0.0,
+      "end": 1.086375
+    },
+    "guruguru-example": {
+      "file": "day-04.mp3",
+      "start": 1.086375,
+      "end": 4.712375
+    },
+    "n030": {
+      "file": "day-04.mp3",
+      "start": 4.712375,
+      "end": 5.852208
+    },
+    "n030-example": {
+      "file": "day-04.mp3",
+      "start": 5.852208,
+      "end": 8.50225
+    },
+    "n028": {
+      "file": "day-04.mp3",
+      "start": 8.50225,
+      "end": 9.809458
+    },
+    "n028-example": {
+      "file": "day-04.mp3",
+      "start": 9.809458,
+      "end": 13.764458
+    },
+    "n033": {
+      "file": "day-04.mp3",
+      "start": 13.764458,
+      "end": 15.119792
+    },
+    "n033-example": {
+      "file": "day-04.mp3",
+      "start": 15.119792,
+      "end": 18.164792
+    },
+    "v017": {
+      "file": "day-04.mp3",
+      "start": 18.164792,
+      "end": 19.223708
+    },
+    "v017-example": {
+      "file": "day-04.mp3",
+      "start": 19.223708,
+      "end": 21.993708
+    },
+    "kiken": {
+      "file": "day-04.mp3",
+      "start": 21.993708,
+      "end": 23.868708
+    },
+    "kiken-example": {
+      "file": "day-04.mp3",
+      "start": 23.868708,
+      "end": 27.08775
+    },
+    "teinei": {
+      "file": "day-04.mp3",
+      "start": 27.08775,
+      "end": 28.323625
+    },
+    "teinei-example": {
+      "file": "day-04.mp3",
+      "start": 28.323625,
+      "end": 30.885583
+    },
+    "i014": {
+      "file": "day-04.mp3",
+      "start": 30.885583,
+      "end": 32.720583
+    },
+    "i014-example": {
+      "file": "day-04.mp3",
+      "start": 32.720583,
+      "end": 35.37625
+    },
+    "i016": {
+      "file": "day-04.mp3",
+      "start": 35.37625,
+      "end": 37.210917
+    },
+    "i016-example": {
+      "file": "day-04.mp3",
+      "start": 37.210917,
+      "end": 39.868875
+    },
+    "perapera": {
+      "file": "day-04.mp3",
+      "start": 39.868875,
+      "end": 41.817875
+    },
+    "perapera-example": {
+      "file": "day-04.mp3",
+      "start": 41.817875,
+      "end": 45.217417
+    },
+    "kitto": {
+      "file": "day-04.mp3",
+      "start": 45.217417,
+      "end": 47.142417
+    },
+    "kitto-example": {
+      "file": "day-04.mp3",
+      "start": 47.142417,
+      "end": 50.192417
+    },
+    "atode": {
+      "file": "day-04.mp3",
+      "start": 50.192417,
+      "end": 51.290375
+    },
+    "atode-example": {
+      "file": "day-04.mp3",
+      "start": 51.290375,
+      "end": 53.6775
+    },
+    "kotsukotsu": {
+      "file": "day-04.mp3",
+      "start": 53.6775,
+      "end": 55.667708
+    },
+    "kotsukotsu-example": {
+      "file": "day-04.mp3",
+      "start": 55.667708,
+      "end": 58.850583
+    },
+    "n027": {
+      "file": "day-04.mp3",
+      "start": 58.850583,
+      "end": 59.778083
+    },
+    "n027-example": {
+      "file": "day-04.mp3",
+      "start": 59.778083,
+      "end": 61.980042
+    },
+    "v014": {
+      "file": "day-04.mp3",
+      "start": 61.980042,
+      "end": 62.949917
+    },
+    "v014-example": {
+      "file": "day-04.mp3",
+      "start": 62.949917,
+      "end": 65.809917
+    },
+    "n024": {
+      "file": "day-04.mp3",
+      "start": 65.809917,
+      "end": 66.995333
+    },
+    "n024-example": {
+      "file": "day-04.mp3",
+      "start": 66.995333,
+      "end": 70.484542
+    },
+    "n029": {
+      "file": "day-04.mp3",
+      "start": 70.484542,
+      "end": 72.330875
+    },
+    "n029-example": {
+      "file": "day-04.mp3",
+      "start": 72.330875,
+      "end": 75.595875
+    },
+    "sakini": {
+      "file": "day-04.mp3",
+      "start": 75.595875,
+      "end": 76.97425
+    },
+    "sakini-example": {
+      "file": "day-04.mp3",
+      "start": 76.97425,
+      "end": 79.85425
+    },
+    "n025": {
+      "file": "day-04.mp3",
+      "start": 79.85425,
+      "end": 81.61925
+    },
+    "n025-example": {
+      "file": "day-04.mp3",
+      "start": 81.61925,
+      "end": 84.008583
+    },
+    "n031": {
+      "file": "day-04.mp3",
+      "start": 84.008583,
+      "end": 85.093375
+    },
+    "n031-example": {
+      "file": "day-04.mp3",
+      "start": 85.093375,
+      "end": 88.098125
+    },
+    "i015": {
+      "file": "day-04.mp3",
+      "start": 88.098125,
+      "end": 90.088583
+    },
+    "i015-example": {
+      "file": "day-04.mp3",
+      "start": 90.088583,
+      "end": 92.567625
+    },
+    "isshoni": {
+      "file": "day-04.mp3",
+      "start": 92.567625,
+      "end": 94.572625
+    },
+    "isshoni-example": {
+      "file": "day-04.mp3",
+      "start": 94.572625,
+      "end": 97.262125
+    },
+    "zehi": {
+      "file": "day-04.mp3",
+      "start": 97.262125,
+      "end": 98.668583
+    },
+    "zehi-example": {
+      "file": "day-04.mp3",
+      "start": 98.668583,
+      "end": 102.628583
+    },
+    "v015": {
+      "file": "day-04.mp3",
+      "start": 102.628583,
+      "end": 103.803208
+    },
+    "v015-example": {
+      "file": "day-04.mp3",
+      "start": 103.803208,
+      "end": 106.62375
+    },
+    "v018": {
+      "file": "day-04.mp3",
+      "start": 106.62375,
+      "end": 107.91925
+    },
+    "v018-example": {
+      "file": "day-04.mp3",
+      "start": 107.91925,
+      "end": 110.692
+    },
+    "i018": {
+      "file": "day-04.mp3",
+      "start": 110.692,
+      "end": 112.912
+    },
+    "i018-example": {
+      "file": "day-04.mp3",
+      "start": 112.912,
+      "end": 116.397
+    },
+    "n032": {
+      "file": "day-04.mp3",
+      "start": 116.397,
+      "end": 117.567833
+    },
+    "n032-example": {
+      "file": "day-04.mp3",
+      "start": 117.567833,
+      "end": 120.276625
+    },
+    "n026": {
+      "file": "day-04.mp3",
+      "start": 120.276625,
+      "end": 122.112375
+    },
+    "n026-example": {
+      "file": "day-04.mp3",
+      "start": 122.112375,
+      "end": 124.539708
+    },
+    "pokapoka": {
+      "file": "day-04.mp3",
+      "start": 124.539708,
+      "end": 125.805667
+    },
+    "pokapoka-example": {
+      "file": "day-04.mp3",
+      "start": 125.805667,
+      "end": 129.610667
+    },
+    "v016": {
+      "file": "day-04.mp3",
+      "start": 129.610667,
+      "end": 130.58525
+    },
+    "v016-example": {
+      "file": "day-04.mp3",
+      "start": 130.58525,
+      "end": 133.515333
+    },
+    "anzen": {
+      "file": "day-04.mp3",
+      "start": 133.515333,
+      "end": 134.746792
+    },
+    "anzen-example": {
+      "file": "day-04.mp3",
+      "start": 134.746792,
+      "end": 137.453667
+    },
+    "zaazaa": {
+      "file": "day-04.mp3",
+      "start": 137.453667,
+      "end": 138.678333
+    },
+    "zaazaa-example": {
+      "file": "day-04.mp3",
+      "start": 138.678333,
+      "end": 142.298333
+    },
+    "yuumei": {
+      "file": "day-04.mp3",
+      "start": 142.298333,
+      "end": 143.505083
+    },
+    "yuumei-example": {
+      "file": "day-04.mp3",
+      "start": 143.505083,
+      "end": 146.092667
+    },
+    "i017": {
+      "file": "day-04.mp3",
+      "start": 146.092667,
+      "end": 148.187333
+    },
+    "i017-example": {
+      "file": "day-04.mp3",
+      "start": 148.187333,
+      "end": 151.133292
+    },
+    "tokubetsu": {
+      "file": "day-04.mp3",
+      "start": 151.133292,
+      "end": 153.208292
+    },
+    "tokubetsu-example": {
+      "file": "day-04.mp3",
+      "start": 153.208292,
+      "end": 157.093292
+    },
+    "n079": {
+      "file": "day-04.mp3",
+      "start": 157.093292,
+      "end": 159.0835
+    },
+    "n079-example": {
+      "file": "day-04.mp3",
+      "start": 159.0835,
+      "end": 163.17725
+    },
+    "n080": {
+      "file": "day-04.mp3",
+      "start": 163.17725,
+      "end": 165.08225
+    },
+    "n080-example": {
+      "file": "day-04.mp3",
+      "start": 165.08225,
+      "end": 168.31225
+    },
+    "n081": {
+      "file": "day-04.mp3",
+      "start": 168.31225,
+      "end": 169.333292
+    },
+    "n081-example": {
+      "file": "day-04.mp3",
+      "start": 169.333292,
+      "end": 171.928292
+    },
+    "n082": {
+      "file": "day-04.mp3",
+      "start": 171.928292,
+      "end": 172.95025
+    },
+    "n082-example": {
+      "file": "day-04.mp3",
+      "start": 172.95025,
+      "end": 175.501667
+    },
+    "n083": {
+      "file": "day-04.mp3",
+      "start": 175.501667,
+      "end": 177.311667
+    },
+    "n083-example": {
+      "file": "day-04.mp3",
+      "start": 177.311667,
+      "end": 180.231667
+    },
+    "v049": {
+      "file": "day-04.mp3",
+      "start": 180.231667,
+      "end": 181.257625
+    },
+    "v049-example": {
+      "file": "day-04.mp3",
+      "start": 181.257625,
+      "end": 184.419583
+    },
+    "v050": {
+      "file": "day-04.mp3",
+      "start": 184.419583,
+      "end": 185.480208
+    },
+    "v050-example": {
+      "file": "day-04.mp3",
+      "start": 185.480208,
+      "end": 188.910208
+    },
+    "v051": {
+      "file": "day-04.mp3",
+      "start": 188.910208,
+      "end": 189.968083
+    },
+    "v051-example": {
+      "file": "day-04.mp3",
+      "start": 189.968083,
+      "end": 192.202708
+    },
+    "v052": {
+      "file": "day-04.mp3",
+      "start": 192.202708,
+      "end": 193.322417
+    },
+    "v052-example": {
+      "file": "day-04.mp3",
+      "start": 193.322417,
+      "end": 196.532417
+    },
+    "v053": {
+      "file": "day-04.mp3",
+      "start": 196.532417,
+      "end": 197.70325
+    },
+    "v053-example": {
+      "file": "day-04.mp3",
+      "start": 197.70325,
+      "end": 200.123875
+    },
+    "daijoubu": {
+      "file": "day-05.mp3",
+      "start": 0.0,
+      "end": 1.309958
+    },
+    "daijoubu-example": {
+      "file": "day-05.mp3",
+      "start": 1.309958,
+      "end": 4.130958
+    },
+    "n037": {
+      "file": "day-05.mp3",
+      "start": 4.130958,
+      "end": 5.190583
+    },
+    "n037-example": {
+      "file": "day-05.mp3",
+      "start": 5.190583,
+      "end": 8.100583
+    },
+    "mochiron": {
+      "file": "day-05.mp3",
+      "start": 8.100583,
+      "end": 9.383292
+    },
+    "mochiron-example": {
+      "file": "day-05.mp3",
+      "start": 9.383292,
+      "end": 12.843292
+    },
+    "kanarazu": {
+      "file": "day-05.mp3",
+      "start": 12.843292,
+      "end": 14.470458
+    },
+    "kanarazu-example": {
+      "file": "day-05.mp3",
+      "start": 14.470458,
+      "end": 17.981292
+    },
+    "n042": {
+      "file": "day-05.mp3",
+      "start": 17.981292,
+      "end": 19.806292
+    },
+    "n042-example": {
+      "file": "day-05.mp3",
+      "start": 19.806292,
+      "end": 22.464292
+    },
+    "v019": {
+      "file": "day-05.mp3",
+      "start": 22.464292,
+      "end": 24.409292
+    },
+    "v019-example": {
+      "file": "day-05.mp3",
+      "start": 24.409292,
+      "end": 26.974292
+    },
+    "urouro": {
+      "file": "day-05.mp3",
+      "start": 26.974292,
+      "end": 28.050458
+    },
+    "urouro-example": {
+      "file": "day-05.mp3",
+      "start": 28.050458,
+      "end": 33.190458
+    },
+    "i023": {
+      "file": "day-05.mp3",
+      "start": 33.190458,
+      "end": 35.355458
+    },
+    "i023-example": {
+      "file": "day-05.mp3",
+      "start": 35.355458,
+      "end": 37.824
+    },
+    "i022": {
+      "file": "day-05.mp3",
+      "start": 37.824,
+      "end": 39.989
+    },
+    "i022-example": {
+      "file": "day-05.mp3",
+      "start": 39.989,
+      "end": 43.466167
+    },
+    "i020": {
+      "file": "day-05.mp3",
+      "start": 43.466167,
+      "end": 45.456375
+    },
+    "i020-example": {
+      "file": "day-05.mp3",
+      "start": 45.456375,
+      "end": 48.111917
+    },
+    "n034": {
+      "file": "day-05.mp3",
+      "start": 48.111917,
+      "end": 49.926917
+    },
+    "n034-example": {
+      "file": "day-05.mp3",
+      "start": 49.926917,
+      "end": 52.385458
+    },
+    "i019": {
+      "file": "day-05.mp3",
+      "start": 52.385458,
+      "end": 54.491417
+    },
+    "i019-example": {
+      "file": "day-05.mp3",
+      "start": 54.491417,
+      "end": 57.981
+    },
+    "v023": {
+      "file": "day-05.mp3",
+      "start": 57.981,
+      "end": 59.816708
+    },
+    "v023-example": {
+      "file": "day-05.mp3",
+      "start": 59.816708,
+      "end": 62.637792
+    },
+    "v021": {
+      "file": "day-05.mp3",
+      "start": 62.637792,
+      "end": 63.546667
+    },
+    "v021-example": {
+      "file": "day-05.mp3",
+      "start": 63.546667,
+      "end": 66.972625
+    },
+    "v020": {
+      "file": "day-05.mp3",
+      "start": 66.972625,
+      "end": 68.326833
+    },
+    "v020-example": {
+      "file": "day-05.mp3",
+      "start": 68.326833,
+      "end": 71.148792
+    },
+    "heta": {
+      "file": "day-05.mp3",
+      "start": 71.148792,
+      "end": 72.504333
+    },
+    "heta-example": {
+      "file": "day-05.mp3",
+      "start": 72.504333,
+      "end": 75.608125
+    },
+    "joubu": {
+      "file": "day-05.mp3",
+      "start": 75.608125,
+      "end": 76.723417
+    },
+    "joubu-example": {
+      "file": "day-05.mp3",
+      "start": 76.723417,
+      "end": 79.527708
+    },
+    "n040": {
+      "file": "day-05.mp3",
+      "start": 79.527708,
+      "end": 81.362583
+    },
+    "n040-example": {
+      "file": "day-05.mp3",
+      "start": 81.362583,
+      "end": 83.867583
+    },
+    "daitai": {
+      "file": "day-05.mp3",
+      "start": 83.867583,
+      "end": 85.327208
+    },
+    "daitai-example": {
+      "file": "day-05.mp3",
+      "start": 85.327208,
+      "end": 88.815625
+    },
+    "tokuni": {
+      "file": "day-05.mp3",
+      "start": 88.815625,
+      "end": 90.715625
+    },
+    "tokuni-example": {
+      "file": "day-05.mp3",
+      "start": 90.715625,
+      "end": 95.180625
+    },
+    "sorosoro": {
+      "file": "day-05.mp3",
+      "start": 95.180625,
+      "end": 97.170917
+    },
+    "sorosoro-example": {
+      "file": "day-05.mp3",
+      "start": 97.170917,
+      "end": 99.810917
+    },
+    "girigiri": {
+      "file": "day-05.mp3",
+      "start": 99.810917,
+      "end": 101.001208
+    },
+    "girigiri-example": {
+      "file": "day-05.mp3",
+      "start": 101.001208,
+      "end": 104.09775
+    },
+    "n039": {
+      "file": "day-05.mp3",
+      "start": 104.09775,
+      "end": 105.462167
+    },
+    "n039-example": {
+      "file": "day-05.mp3",
+      "start": 105.462167,
+      "end": 108.0145
+    },
+    "barabara": {
+      "file": "day-05.mp3",
+      "start": 108.0145,
+      "end": 109.181333
+    },
+    "barabara-example": {
+      "file": "day-05.mp3",
+      "start": 109.181333,
+      "end": 112.621625
+    },
+    "n035": {
+      "file": "day-05.mp3",
+      "start": 112.621625,
+      "end": 114.411625
+    },
+    "n035-example": {
+      "file": "day-05.mp3",
+      "start": 114.411625,
+      "end": 117.606625
+    },
+    "i021": {
+      "file": "day-05.mp3",
+      "start": 117.606625,
+      "end": 119.319917
+    },
+    "i021-example": {
+      "file": "day-05.mp3",
+      "start": 119.319917,
+      "end": 122.579917
+    },
+    "n036": {
+      "file": "day-05.mp3",
+      "start": 122.579917,
+      "end": 123.677875
+    },
+    "n036-example": {
+      "file": "day-05.mp3",
+      "start": 123.677875,
+      "end": 126.328583
+    },
+    "jouzu": {
+      "file": "day-05.mp3",
+      "start": 126.328583,
+      "end": 127.498542
+    },
+    "jouzu-example": {
+      "file": "day-05.mp3",
+      "start": 127.498542,
+      "end": 130.034042
+    },
+    "tabun": {
+      "file": "day-05.mp3",
+      "start": 130.034042,
+      "end": 131.869667
+    },
+    "tabun-example": {
+      "file": "day-05.mp3",
+      "start": 131.869667,
+      "end": 134.614667
+    },
+    "v022": {
+      "file": "day-05.mp3",
+      "start": 134.614667,
+      "end": 136.450417
+    },
+    "v022-example": {
+      "file": "day-05.mp3",
+      "start": 136.450417,
+      "end": 139.680417
+    },
+    "n043": {
+      "file": "day-05.mp3",
+      "start": 139.680417,
+      "end": 141.550417
+    },
+    "n043-example": {
+      "file": "day-05.mp3",
+      "start": 141.550417,
+      "end": 144.565417
+    },
+    "ohayou": {
+      "file": "day-05.mp3",
+      "start": 144.565417,
+      "end": 145.747875
+    },
+    "ohayou-example": {
+      "file": "day-05.mp3",
+      "start": 145.747875,
+      "end": 148.22425
+    },
+    "taisetsu": {
+      "file": "day-05.mp3",
+      "start": 148.22425,
+      "end": 150.26925
+    },
+    "taisetsu-example": {
+      "file": "day-05.mp3",
+      "start": 150.26925,
+      "end": 153.79925
+    },
+    "n038": {
+      "file": "day-05.mp3",
+      "start": 153.79925,
+      "end": 155.008792
+    },
+    "n038-example": {
+      "file": "day-05.mp3",
+      "start": 155.008792,
+      "end": 157.352625
+    },
+    "n041": {
+      "file": "day-05.mp3",
+      "start": 157.352625,
+      "end": 158.37425
+    },
+    "n041-example": {
+      "file": "day-05.mp3",
+      "start": 158.37425,
+      "end": 160.795833
+    },
+    "n084": {
+      "file": "day-05.mp3",
+      "start": 160.795833,
+      "end": 161.831292
+    },
+    "n084-example": {
+      "file": "day-05.mp3",
+      "start": 161.831292,
+      "end": 164.257708
+    },
+    "n085": {
+      "file": "day-05.mp3",
+      "start": 164.257708,
+      "end": 165.307667
+    },
+    "n085-example": {
+      "file": "day-05.mp3",
+      "start": 165.307667,
+      "end": 167.687292
+    },
+    "n086": {
+      "file": "day-05.mp3",
+      "start": 167.687292,
+      "end": 169.477292
+    },
+    "n086-example": {
+      "file": "day-05.mp3",
+      "start": 169.477292,
+      "end": 172.036208
+    },
+    "n087": {
+      "file": "day-05.mp3",
+      "start": 172.036208,
+      "end": 173.086167
+    },
+    "n087-example": {
+      "file": "day-05.mp3",
+      "start": 173.086167,
+      "end": 176.574167
+    },
+    "n088": {
+      "file": "day-05.mp3",
+      "start": 176.574167,
+      "end": 177.737417
+    },
+    "n088-example": {
+      "file": "day-05.mp3",
+      "start": 177.737417,
+      "end": 181.917417
+    },
+    "v054": {
+      "file": "day-05.mp3",
+      "start": 181.917417,
+      "end": 183.722417
+    },
+    "v054-example": {
+      "file": "day-05.mp3",
+      "start": 183.722417,
+      "end": 186.292417
+    },
+    "v055": {
+      "file": "day-05.mp3",
+      "start": 186.292417,
+      "end": 187.35575
+    },
+    "v055-example": {
+      "file": "day-05.mp3",
+      "start": 187.35575,
+      "end": 190.177958
+    },
+    "v056": {
+      "file": "day-05.mp3",
+      "start": 190.177958,
+      "end": 191.917958
+    },
+    "v056-example": {
+      "file": "day-05.mp3",
+      "start": 191.917958,
+      "end": 194.927958
+    },
+    "v057": {
+      "file": "day-05.mp3",
+      "start": 194.927958,
+      "end": 195.870292
+    },
+    "v057-example": {
+      "file": "day-05.mp3",
+      "start": 195.870292,
+      "end": 198.850292
+    },
+    "v058": {
+      "file": "day-05.mp3",
+      "start": 198.850292,
+      "end": 200.685375
+    },
+    "v058-example": {
+      "file": "day-05.mp3",
+      "start": 200.685375,
+      "end": 204.355375
+    },
+    "n052": {
+      "file": "day-06.mp3",
+      "start": 0.0,
+      "end": 1.945
+    },
+    "n052-example": {
+      "file": "day-06.mp3",
+      "start": 1.945,
+      "end": 5.655
+    },
+    "nesshin": {
+      "file": "day-06.mp3",
+      "start": 5.655,
+      "end": 6.896958
+    },
+    "nesshin-example": {
+      "file": "day-06.mp3",
+      "start": 6.896958,
+      "end": 11.162917
+    },
+    "yutaka": {
+      "file": "day-06.mp3",
+      "start": 11.162917,
+      "end": 12.6775
+    },
+    "yutaka-example": {
+      "file": "day-06.mp3",
+      "start": 12.6775,
+      "end": 16.1575
+    },
+    "n050": {
+      "file": "day-06.mp3",
+      "start": 16.1575,
+      "end": 17.546292
+    },
+    "n050-example": {
+      "file": "day-06.mp3",
+      "start": 17.546292,
+      "end": 20.017292
+    },
+    "mazu": {
+      "file": "day-06.mp3",
+      "start": 20.017292,
+      "end": 21.030958
+    },
+    "mazu-example": {
+      "file": "day-06.mp3",
+      "start": 21.030958,
+      "end": 23.411792
+    },
+    "kyuuni": {
+      "file": "day-06.mp3",
+      "start": 23.411792,
+      "end": 24.520333
+    },
+    "kyuuni-example": {
+      "file": "day-06.mp3",
+      "start": 24.520333,
+      "end": 26.954542
+    },
+    "n047": {
+      "file": "day-06.mp3",
+      "start": 26.954542,
+      "end": 28.209167
+    },
+    "n047-example": {
+      "file": "day-06.mp3",
+      "start": 28.209167,
+      "end": 30.820625
+    },
+    "konnichiwa": {
+      "file": "day-06.mp3",
+      "start": 30.820625,
+      "end": 32.284708
+    },
+    "konnichiwa-example": {
+      "file": "day-06.mp3",
+      "start": 32.284708,
+      "end": 36.019708
+    },
+    "n049": {
+      "file": "day-06.mp3",
+      "start": 36.019708,
+      "end": 37.919708
+    },
+    "n049-example": {
+      "file": "day-06.mp3",
+      "start": 37.919708,
+      "end": 42.013875
+    },
+    "tsugini": {
+      "file": "day-06.mp3",
+      "start": 42.013875,
+      "end": 43.883875
+    },
+    "tsugini-example": {
+      "file": "day-06.mp3",
+      "start": 43.883875,
+      "end": 47.323875
+    },
+    "v028": {
+      "file": "day-06.mp3",
+      "start": 47.323875,
+      "end": 49.15875
+    },
+    "v028-example": {
+      "file": "day-06.mp3",
+      "start": 49.15875,
+      "end": 52.179083
+    },
+    "n044": {
+      "file": "day-06.mp3",
+      "start": 52.179083,
+      "end": 53.268042
+    },
+    "n044-example": {
+      "file": "day-06.mp3",
+      "start": 53.268042,
+      "end": 55.71
+    },
+    "yahari": {
+      "file": "day-06.mp3",
+      "start": 55.71,
+      "end": 56.804125
+    },
+    "yahari-example": {
+      "file": "day-06.mp3",
+      "start": 56.804125,
+      "end": 61.109125
+    },
+    "seikaku": {
+      "file": "day-06.mp3",
+      "start": 61.109125,
+      "end": 63.099333
+    },
+    "seikaku-example": {
+      "file": "day-06.mp3",
+      "start": 63.099333,
+      "end": 65.805292
+    },
+    "itadakimasu": {
+      "file": "day-06.mp3",
+      "start": 65.805292,
+      "end": 68.200292
+    },
+    "itadakimasu-example": {
+      "file": "day-06.mp3",
+      "start": 68.200292,
+      "end": 71.910292
+    },
+    "v024": {
+      "file": "day-06.mp3",
+      "start": 71.910292,
+      "end": 73.695292
+    },
+    "v024-example": {
+      "file": "day-06.mp3",
+      "start": 73.695292,
+      "end": 76.630292
+    },
+    "konbanwa": {
+      "file": "day-06.mp3",
+      "start": 76.630292,
+      "end": 78.002875
+    },
+    "konbanwa-example": {
+      "file": "day-06.mp3",
+      "start": 78.002875,
+      "end": 81.260833
+    },
+    "i026": {
+      "file": "day-06.mp3",
+      "start": 81.260833,
+      "end": 82.666375
+    },
+    "i026-example": {
+      "file": "day-06.mp3",
+      "start": 82.666375,
+      "end": 85.322167
+    },
+    "n051": {
+      "file": "day-06.mp3",
+      "start": 85.322167,
+      "end": 86.351917
+    },
+    "n051-example": {
+      "file": "day-06.mp3",
+      "start": 86.351917,
+      "end": 89.301917
+    },
+    "i027": {
+      "file": "day-06.mp3",
+      "start": 89.301917,
+      "end": 90.707458
+    },
+    "i027-example": {
+      "file": "day-06.mp3",
+      "start": 90.707458,
+      "end": 93.149417
+    },
+    "i025": {
+      "file": "day-06.mp3",
+      "start": 93.149417,
+      "end": 94.20575
+    },
+    "i025-example": {
+      "file": "day-06.mp3",
+      "start": 94.20575,
+      "end": 97.20575
+    },
+    "v027": {
+      "file": "day-06.mp3",
+      "start": 97.20575,
+      "end": 98.258792
+    },
+    "v027-example": {
+      "file": "day-06.mp3",
+      "start": 98.258792,
+      "end": 101.39875
+    },
+    "v026": {
+      "file": "day-06.mp3",
+      "start": 101.39875,
+      "end": 102.928708
+    },
+    "v026-example": {
+      "file": "day-06.mp3",
+      "start": 102.928708,
+      "end": 105.833708
+    },
+    "hotondo": {
+      "file": "day-06.mp3",
+      "start": 105.833708,
+      "end": 107.075667
+    },
+    "hotondo-example": {
+      "file": "day-06.mp3",
+      "start": 107.075667,
+      "end": 110.095167
+    },
+    "majime": {
+      "file": "day-06.mp3",
+      "start": 110.095167,
+      "end": 111.275375
+    },
+    "majime-example": {
+      "file": "day-06.mp3",
+      "start": 111.275375,
+      "end": 114.750375
+    },
+    "fukuzatsu": {
+      "file": "day-06.mp3",
+      "start": 114.750375,
+      "end": 116.053042
+    },
+    "fukuzatsu-example": {
+      "file": "day-06.mp3",
+      "start": 116.053042,
+      "end": 119.588042
+    },
+    "v025": {
+      "file": "day-06.mp3",
+      "start": 119.588042,
+      "end": 120.549458
+    },
+    "v025-example": {
+      "file": "day-06.mp3",
+      "start": 120.549458,
+      "end": 123.265333
+    },
+    "sumimasen": {
+      "file": "day-06.mp3",
+      "start": 123.265333,
+      "end": 125.255625
+    },
+    "sumimasen-example": {
+      "file": "day-06.mp3",
+      "start": 125.255625,
+      "end": 128.980625
+    },
+    "i028": {
+      "file": "day-06.mp3",
+      "start": 128.980625,
+      "end": 130.805625
+    },
+    "i028-example": {
+      "file": "day-06.mp3",
+      "start": 130.805625,
+      "end": 133.226292
+    },
+    "n045": {
+      "file": "day-06.mp3",
+      "start": 133.226292,
+      "end": 134.632292
+    },
+    "n045-example": {
+      "file": "day-06.mp3",
+      "start": 134.632292,
+      "end": 136.759875
+    },
+    "n046": {
+      "file": "day-06.mp3",
+      "start": 136.759875,
+      "end": 138.038083
+    },
+    "n046-example": {
+      "file": "day-06.mp3",
+      "start": 138.038083,
+      "end": 141.108083
+    },
+    "i024": {
+      "file": "day-06.mp3",
+      "start": 141.108083,
+      "end": 142.963083
+    },
+    "i024-example": {
+      "file": "day-06.mp3",
+      "start": 142.963083,
+      "end": 145.883083
+    },
+    "n053": {
+      "file": "day-06.mp3",
+      "start": 145.883083,
+      "end": 147.159292
+    },
+    "n053-example": {
+      "file": "day-06.mp3",
+      "start": 147.159292,
+      "end": 150.179292
+    },
+    "n048": {
+      "file": "day-06.mp3",
+      "start": 150.179292,
+      "end": 151.255333
+    },
+    "n048-example": {
+      "file": "day-06.mp3",
+      "start": 151.255333,
+      "end": 154.635333
+    },
+    "arigatou": {
+      "file": "day-06.mp3",
+      "start": 154.635333,
+      "end": 155.910583
+    },
+    "arigatou-example": {
+      "file": "day-06.mp3",
+      "start": 155.910583,
+      "end": 159.130375
+    },
+    "n089": {
+      "file": "day-06.mp3",
+      "start": 159.130375,
+      "end": 160.325083
+    },
+    "n089-example": {
+      "file": "day-06.mp3",
+      "start": 160.325083,
+      "end": 162.973083
+    },
+    "n090": {
+      "file": "day-06.mp3",
+      "start": 162.973083,
+      "end": 164.848083
+    },
+    "n090-example": {
+      "file": "day-06.mp3",
+      "start": 164.848083,
+      "end": 167.863083
+    },
+    "n091": {
+      "file": "day-06.mp3",
+      "start": 167.863083,
+      "end": 168.849375
+    },
+    "n091-example": {
+      "file": "day-06.mp3",
+      "start": 168.849375,
+      "end": 171.456208
+    },
+    "n092": {
+      "file": "day-06.mp3",
+      "start": 171.456208,
+      "end": 173.226208
+    },
+    "n092-example": {
+      "file": "day-06.mp3",
+      "start": 173.226208,
+      "end": 176.281208
+    },
+    "n093": {
+      "file": "day-06.mp3",
+      "start": 176.281208,
+      "end": 178.127458
+    },
+    "n093-example": {
+      "file": "day-06.mp3",
+      "start": 178.127458,
+      "end": 181.547458
+    },
+    "v059": {
+      "file": "day-06.mp3",
+      "start": 181.547458,
+      "end": 182.63
+    },
+    "v059-example": {
+      "file": "day-06.mp3",
+      "start": 182.63,
+      "end": 185.588875
+    },
+    "v060": {
+      "file": "day-06.mp3",
+      "start": 185.588875,
+      "end": 186.62525
+    },
+    "v060-example": {
+      "file": "day-06.mp3",
+      "start": 186.62525,
+      "end": 188.76525
+    },
+    "v061": {
+      "file": "day-06.mp3",
+      "start": 188.76525,
+      "end": 189.842292
+    },
+    "v061-example": {
+      "file": "day-06.mp3",
+      "start": 189.842292,
+      "end": 194.042292
+    },
+    "v062": {
+      "file": "day-06.mp3",
+      "start": 194.042292,
+      "end": 195.04775
+    },
+    "v062-example": {
+      "file": "day-06.mp3",
+      "start": 195.04775,
+      "end": 197.697708
+    },
+    "v063": {
+      "file": "day-06.mp3",
+      "start": 197.697708,
+      "end": 198.843667
+    },
+    "v063-example": {
+      "file": "day-06.mp3",
+      "start": 198.843667,
+      "end": 202.378667
+    },
+    "tadaima": {
+      "file": "day-07.mp3",
+      "start": 0.0,
+      "end": 1.990208
+    },
+    "tadaima-example": {
+      "file": "day-07.mp3",
+      "start": 1.990208,
+      "end": 5.307083
+    },
+    "i031": {
+      "file": "day-07.mp3",
+      "start": 5.307083,
+      "end": 6.405042
+    },
+    "i031-example": {
+      "file": "day-07.mp3",
+      "start": 6.405042,
+      "end": 9.054875
+    },
+    "v030": {
+      "file": "day-07.mp3",
+      "start": 9.054875,
+      "end": 10.154708
+    },
+    "v030-example": {
+      "file": "day-07.mp3",
+      "start": 10.154708,
+      "end": 13.704417
+    },
+    "oyasumi": {
+      "file": "day-07.mp3",
+      "start": 13.704417,
+      "end": 15.744417
+    },
+    "oyasumi-example": {
+      "file": "day-07.mp3",
+      "start": 15.744417,
+      "end": 18.859417
+    },
+    "n055": {
+      "file": "day-07.mp3",
+      "start": 18.859417,
+      "end": 20.649417
+    },
+    "n055-example": {
+      "file": "day-07.mp3",
+      "start": 20.649417,
+      "end": 23.894417
+    },
+    "n063": {
+      "file": "day-07.mp3",
+      "start": 23.894417,
+      "end": 24.92875
+    },
+    "n063-example": {
+      "file": "day-07.mp3",
+      "start": 24.92875,
+      "end": 27.675333
+    },
+    "chokusetsu": {
+      "file": "day-07.mp3",
+      "start": 27.675333,
+      "end": 29.755333
+    },
+    "chokusetsu-example": {
+      "file": "day-07.mp3",
+      "start": 29.755333,
+      "end": 33.220333
+    },
+    "sayounara": {
+      "file": "day-07.mp3",
+      "start": 33.220333,
+      "end": 34.588375
+    },
+    "sayounara-example": {
+      "file": "day-07.mp3",
+      "start": 34.588375,
+      "end": 37.75125
+    },
+    "n058": {
+      "file": "day-07.mp3",
+      "start": 37.75125,
+      "end": 38.928833
+    },
+    "n058-example": {
+      "file": "day-07.mp3",
+      "start": 38.928833,
+      "end": 41.555167
+    },
+    "v032": {
+      "file": "day-07.mp3",
+      "start": 41.555167,
+      "end": 42.921792
+    },
+    "v032-example": {
+      "file": "day-07.mp3",
+      "start": 42.921792,
+      "end": 45.830625
+    },
+    "n061": {
+      "file": "day-07.mp3",
+      "start": 45.830625,
+      "end": 47.595625
+    },
+    "n061-example": {
+      "file": "day-07.mp3",
+      "start": 47.595625,
+      "end": 51.095625
+    },
+    "choudo": {
+      "file": "day-07.mp3",
+      "start": 51.095625,
+      "end": 52.9305
+    },
+    "choudo-example": {
+      "file": "day-07.mp3",
+      "start": 52.9305,
+      "end": 55.68225
+    },
+    "n060": {
+      "file": "day-07.mp3",
+      "start": 55.68225,
+      "end": 57.49225
+    },
+    "n060-example": {
+      "file": "day-07.mp3",
+      "start": 57.49225,
+      "end": 60.81225
+    },
+    "hontouni": {
+      "file": "day-07.mp3",
+      "start": 60.81225,
+      "end": 62.075042
+    },
+    "hontouni-example": {
+      "file": "day-07.mp3",
+      "start": 62.075042,
+      "end": 65.040708
+    },
+    "juubun": {
+      "file": "day-07.mp3",
+      "start": 65.040708,
+      "end": 66.268583
+    },
+    "juubun-example": {
+      "file": "day-07.mp3",
+      "start": 66.268583,
+      "end": 69.526542
+    },
+    "gochisousama": {
+      "file": "day-07.mp3",
+      "start": 69.526542,
+      "end": 71.083458
+    },
+    "gochisousama-example": {
+      "file": "day-07.mp3",
+      "start": 71.083458,
+      "end": 75.388458
+    },
+    "v031": {
+      "file": "day-07.mp3",
+      "start": 75.388458,
+      "end": 77.223333
+    },
+    "v031-example": {
+      "file": "day-07.mp3",
+      "start": 77.223333,
+      "end": 79.793333
+    },
+    "n054": {
+      "file": "day-07.mp3",
+      "start": 79.793333,
+      "end": 81.593333
+    },
+    "n054-example": {
+      "file": "day-07.mp3",
+      "start": 81.593333,
+      "end": 84.755292
+    },
+    "suteki": {
+      "file": "day-07.mp3",
+      "start": 84.755292,
+      "end": 86.111167
+    },
+    "suteki-example": {
+      "file": "day-07.mp3",
+      "start": 86.111167,
+      "end": 88.766167
+    },
+    "n056": {
+      "file": "day-07.mp3",
+      "start": 88.766167,
+      "end": 90.731167
+    },
+    "n056-example": {
+      "file": "day-07.mp3",
+      "start": 90.731167,
+      "end": 93.801167
+    },
+    "kaiteki": {
+      "file": "day-07.mp3",
+      "start": 93.801167,
+      "end": 95.332167
+    },
+    "kaiteki-example": {
+      "file": "day-07.mp3",
+      "start": 95.332167,
+      "end": 98.677167
+    },
+    "i030": {
+      "file": "day-07.mp3",
+      "start": 98.677167,
+      "end": 100.622167
+    },
+    "i030-example": {
+      "file": "day-07.mp3",
+      "start": 100.622167,
+      "end": 103.642167
+    },
+    "zannen": {
+      "file": "day-07.mp3",
+      "start": 103.642167,
+      "end": 104.872458
+    },
+    "zannen-example": {
+      "file": "day-07.mp3",
+      "start": 104.872458,
+      "end": 107.497208
+    },
+    "i032": {
+      "file": "day-07.mp3",
+      "start": 107.497208,
+      "end": 108.578958
+    },
+    "i032-example": {
+      "file": "day-07.mp3",
+      "start": 108.578958,
+      "end": 112.058958
+    },
+    "v033": {
+      "file": "day-07.mp3",
+      "start": 112.058958,
+      "end": 113.328458
+    },
+    "v033-example": {
+      "file": "day-07.mp3",
+      "start": 113.328458,
+      "end": 115.91925
+    },
+    "i033": {
+      "file": "day-07.mp3",
+      "start": 115.91925,
+      "end": 117.93925
+    },
+    "i033-example": {
+      "file": "day-07.mp3",
+      "start": 117.93925,
+      "end": 120.760667
+    },
+    "n059": {
+      "file": "day-07.mp3",
+      "start": 120.760667,
+      "end": 122.750708
+    },
+    "n059-example": {
+      "file": "day-07.mp3",
+      "start": 122.750708,
+      "end": 126.205708
+    },
+    "okaeri": {
+      "file": "day-07.mp3",
+      "start": 126.205708,
+      "end": 127.388375
+    },
+    "okaeri-example": {
+      "file": "day-07.mp3",
+      "start": 127.388375,
+      "end": 130.742333
+    },
+    "muri": {
+      "file": "day-07.mp3",
+      "start": 130.742333,
+      "end": 132.482333
+    },
+    "muri-example": {
+      "file": "day-07.mp3",
+      "start": 132.482333,
+      "end": 135.302208
+    },
+    "n057": {
+      "file": "day-07.mp3",
+      "start": 135.302208,
+      "end": 137.117208
+    },
+    "n057-example": {
+      "file": "day-07.mp3",
+      "start": 137.117208,
+      "end": 139.823167
+    },
+    "narubeku": {
+      "file": "day-07.mp3",
+      "start": 139.823167,
+      "end": 141.067958
+    },
+    "narubeku-example": {
+      "file": "day-07.mp3",
+      "start": 141.067958,
+      "end": 143.621208
+    },
+    "n062": {
+      "file": "day-07.mp3",
+      "start": 143.621208,
+      "end": 145.431208
+    },
+    "n062-example": {
+      "file": "day-07.mp3",
+      "start": 145.431208,
+      "end": 148.657
+    },
+    "i029": {
+      "file": "day-07.mp3",
+      "start": 148.657,
+      "end": 150.186958
+    },
+    "i029-example": {
+      "file": "day-07.mp3",
+      "start": 150.186958,
+      "end": 153.0075
+    },
+    "sakki": {
+      "file": "day-07.mp3",
+      "start": 153.0075,
+      "end": 154.9275
+    },
+    "sakki-example": {
+      "file": "day-07.mp3",
+      "start": 154.9275,
+      "end": 158.5875
+    },
+    "v029": {
+      "file": "day-07.mp3",
+      "start": 158.5875,
+      "end": 159.659458
+    },
+    "v029-example": {
+      "file": "day-07.mp3",
+      "start": 159.659458,
+      "end": 163.059458
+    },
+    "n094": {
+      "file": "day-07.mp3",
+      "start": 163.059458,
+      "end": 164.189083
+    },
+    "n094-example": {
+      "file": "day-07.mp3",
+      "start": 164.189083,
+      "end": 166.766625
+    },
+    "n095": {
+      "file": "day-07.mp3",
+      "start": 166.766625,
+      "end": 167.814625
+    },
+    "n095-example": {
+      "file": "day-07.mp3",
+      "start": 167.814625,
+      "end": 170.3385
+    },
+    "n096": {
+      "file": "day-07.mp3",
+      "start": 170.3385,
+      "end": 172.3085
+    },
+    "n096-example": {
+      "file": "day-07.mp3",
+      "start": 172.3085,
+      "end": 175.470458
+    },
+    "n097": {
+      "file": "day-07.mp3",
+      "start": 175.470458,
+      "end": 176.546167
+    },
+    "n097-example": {
+      "file": "day-07.mp3",
+      "start": 176.546167,
+      "end": 178.709917
+    },
+    "n098": {
+      "file": "day-07.mp3",
+      "start": 178.709917,
+      "end": 180.700125
+    },
+    "n098-example": {
+      "file": "day-07.mp3",
+      "start": 180.700125,
+      "end": 184.095125
+    },
+    "v064": {
+      "file": "day-07.mp3",
+      "start": 184.095125,
+      "end": 186.065125
+    },
+    "v064-example": {
+      "file": "day-07.mp3",
+      "start": 186.065125,
+      "end": 189.284542
+    },
+    "v065": {
+      "file": "day-07.mp3",
+      "start": 189.284542,
+      "end": 190.713833
+    },
+    "v065-example": {
+      "file": "day-07.mp3",
+      "start": 190.713833,
+      "end": 193.734042
+    },
+    "v066": {
+      "file": "day-07.mp3",
+      "start": 193.734042,
+      "end": 195.754042
+    },
+    "v066-example": {
+      "file": "day-07.mp3",
+      "start": 195.754042,
+      "end": 198.404083
+    },
+    "v067": {
+      "file": "day-07.mp3",
+      "start": 198.404083,
+      "end": 200.344083
+    },
+    "v067-example": {
+      "file": "day-07.mp3",
+      "start": 200.344083,
+      "end": 203.039083
+    },
+    "v068": {
+      "file": "day-07.mp3",
+      "start": 203.039083,
+      "end": 205.094083
+    },
+    "v068-example": {
+      "file": "day-07.mp3",
+      "start": 205.094083,
+      "end": 207.879083
+    }
+  }
+}
