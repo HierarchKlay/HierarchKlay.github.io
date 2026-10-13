@@ -1,29 +1,70 @@
-JMdict / EDICT dictionary data
+日々ことば — Offline Japanese / Chinese / English dictionary data
+
+All three derived data packs are distributed under Creative Commons
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+Licence: https://creativecommons.org/licenses/by-sa/4.0/
+Full legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+The manifest records source snapshots, file sizes, entry counts and SHA-256 hashes.
+Retain the attribution and notices below when redistributing the data.
+
+1. JMdict / EDICT — original Japanese entries and English definitions
 Copyright (c) James William BREEN and the Electronic Dictionary Research and
 Development Group (EDRDG).
 
 This application uses the JMdict English dictionary file. The file is the
 property of the Electronic Dictionary Research and Development Group, and is
 used in conformance with the Group's licence.
-
-The derived JSON dictionary is distributed under Creative Commons
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
-Licence: https://creativecommons.org/licenses/by-sa/4.0/
-Full legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 EDRDG licence statement: https://www.edrdg.org/edrdg/licence.html
 Project documentation: https://www.edrdg.org/wiki/Main_Page.html
 Source: https://www.edrdg.org/pub/Nihongo/JMdict_e.gz
 
-Modifications: XML converted into compact UTF-8 JSON; gzip compression;
-part-of-speech inheritance made explicit; empty metadata fields normalized;
-non-dictionary generation marker excluded. English glosses, sense restrictions,
-reading restrictions, usage labels and entry IDs retained. No machine-generated
-definitions, translations, pitch accents or example sentences were added.
-See manifest.json for the source date and SHA-256 checksums. build_dictionary.py
-in kotoba-source/ reproduces this conversion. EDRDG does not endorse this app.
+Modifications: XML converted to compact UTF-8 JSON and gzip; inherited parts of
+speech made explicit; empty metadata fields and generation marker omitted.
+Original English glosses, reading/sense restrictions, usage labels and entry IDs
+retained. No generated definitions, pitch accents or examples added to JMdict.
+EDRDG does not endorse this application. Refresh at least monthly.
 
-Attribution must be retained. Adaptations of this dictionary data must be shared
-under the same or a compatible licence. This does not change the separate
-licensing of the application code or the original lesson content.
-The source is maintained by EDRDG and should be refreshed at least monthly.
-No warranty of accuracy or suitability is provided.
+2. Tomoshi Open Dictionary Data — AI-assisted Chinese definitions
+Chinese derivative content copyright (c) Y1Z, distributed by Tomoshi.
+Underlying dictionary content: JMdict / EDRDG, attributed above.
+Project and licence: https://github.com/tomoshi-app/tomoshi-dict-data
+Release used: https://github.com/tomoshi-app/tomoshi-dict-data/releases/tag/v2026-10-13
+The release database identifies entries and zh_defs as CC-BY-SA-4.0.
+
+These Chinese definitions are generated and reviewed using language models;
+they are not publisher-edited definitions. Each result labels this source as
+"Tomoshi · AI 辅助释义". Only zh-CN glosses with a matching JMdict ID, overlapping
+Japanese spelling/reading and unambiguous identical English sense glosses are
+included. The current JMdict sense index is retained. Database examples, orphan
+example translations, proprietary app content and unrelated tables are excluded.
+The application invokes no model to create or translate dictionary results.
+Modifications: selected glosses, sense alignment, compact JSON and gzip.
+
+3. Chinese Wiktionary — Chinese definitions of Japanese entries
+Copyright the Wiktionary contributors, CC BY-SA 4.0.
+Original: https://zh.wiktionary.org/
+Contributor and revision history: each result links its original wiki page;
+select that page's history to view its authors and revisions.
+Terms: https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use
+Extraction: Kaikki.org / Wiktextract, Tatu Ylonen and contributors.
+Extraction source: https://kaikki.org/zhwiktionary/rawdata.html
+Raw data: https://kaikki.org/zhwiktionary/raw-wiktextract-data.jsonl.gz
+Wiktionary dump snapshot: 2026-10-01 (extraction: 2026-10-02).
+
+Modifications: Japanese-language records filtered; exact duplicates,
+romanizations and empty definitions omitted. Original glosses, usage tags and
+up to two examples without external quotation references per sense retained.
+Canonical ruby converted to kana readings. No audio files are redistributed.
+A record is linked to JMdict only if its spelling and all known readings match
+one unambiguous entry and comply with reading restrictions. Other records remain
+independent. Wiktionary senses are never aligned to JMdict sense numbers.
+Data is compacted to JSON and gzip; wording and simplified/traditional forms
+remain as supplied by the source. Page links provide attribution and revisions.
+
+The three sources overlap; their counts must not be added as unique vocabulary.
+Open dictionary content has no guarantee of accuracy or fitness. No source
+endorses this application. Adaptations of these data must use the same or a
+compatible licence; attribution and licence links must be preserved. These data
+licences do not change the separate licensing of app code or original lessons.
+Reproduction scripts: build_dictionary.py and build_multilingual_dictionary.py
+in the project's source / kotoba-source directory.

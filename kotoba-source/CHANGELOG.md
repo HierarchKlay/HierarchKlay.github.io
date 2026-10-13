@@ -1,3 +1,11 @@
+## 2026-10-13 · Offline Japanese / Chinese / English dictionary
+
+- Added licensed Tomoshi Chinese glosses and Chinese Wiktionary Japanese entries alongside the unchanged official JMdict English pack (about 20.2 MB total).
+- Added explicit Japanese / Chinese-definition / English-definition search, responsive bilingual sense comparison, independent Wiktionary senses and per-result provenance. Tomoshi is always labelled AI-assisted.
+- Verified entry/sense associations; uncertain matches stay separate or show missing content. Original usage labels, restrictions and simplified/traditional wording remain visible.
+- Three individually verified downloadable packs reuse an existing English installation and resume interrupted downloads. Updated dictionary-only offline shell and embedded upgrade handling.
+- Added full-corpus association/search tests, corruption/resume/offline tests and trilingual UI tests. Source scripts, licences and maintenance instructions included.
+
 ## 2026-10-13 · Offline JMdict lookup
 
 - Embedded dictionary dialog and word-card lookup link, with an independent offline URL.
