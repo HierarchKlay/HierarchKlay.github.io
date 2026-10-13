@@ -1,5 +1,7 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
+import {PACK} from './dist/dictionary/config.mjs';
+import {renderEntry} from './dist/dictionary/render.mjs';
 const {JSDOM}=await import(process.env.JSDOM_MODULE||'jsdom');
 const dom=new JSDOM(fs.readFileSync('dist/dictionary/index.html','utf8'),{url:'https://example.test/kotoba/dictionary/index.html?q=猫'});
 globalThis.document=dom.window.document;globalThis.location=dom.window.location;globalThis.window=dom.window;
@@ -24,12 +26,27 @@ const upgrade=new JSDOM(fs.readFileSync('dist/dictionary/index.html','utf8'),{ur
 globalThis.document=upgrade.window.document;globalThis.location=upgrade.window.location;
 globalThis.caches={open:async()=>({match:async url=>url.includes('jmdict-')?new Response('existing'):undefined})};posted=[];
 await import('./dist/dictionary/dictionary.mjs?upgrade');
-assert.equal($('#download').textContent,'补全三语词库');assert($('#downloadStatus').textContent.includes('10.0 MB'));assert.equal(posted.length,0);assert.equal($('#searchButton').disabled,true);
+assert.equal($('#download').textContent,'补全三语词库');assert($('#downloadStatus').textContent.includes((PACK.packs.filter(p=>p.id!=='jmdict').reduce((n,p)=>n+p.bytes,0)/1000000).toFixed(1)+' MB'));assert.equal(posted.length,0);assert.equal($('#searchButton').disabled,true);
 $('#download').click();await tick();assert(posted.some(m=>m.type==='load'&&m.download));upgrade.window.close();
+// Existing trilingual downloads require just the two new supplements.
+const supplement=new JSDOM(fs.readFileSync('dist/dictionary/index.html','utf8'),{url:'https://example.test/kotoba/dictionary/'});
+globalThis.document=supplement.window.document;globalThis.location=supplement.window.location;
+globalThis.caches={open:async()=>({match:async url=>['jmdict-','tomoshi-','wiktionary-'].some(prefix=>url.includes(prefix))?new Response('existing'):undefined})};posted=[];
+await import('./dist/dictionary/dictionary.mjs?supplements');
+assert.equal($('#download').textContent,'补充音调和例句');assert($('#downloadStatus').textContent.includes('4.5 MB'));assert.equal(posted.length,0);
+// Multiple accents and the first two examples are visible and accessible;
+// additional examples use details, each translated sentence retains its credit.
+const example=i=>({j:{id:String(i),t:'猫がいる。',a:'ja_author'},e:{id:String(i+10),t:'There is a cat.',a:'en_author'},z:[{id:String(i+20),t:'有一只猫。',a:'zh_author'}],term:'猫'});
+$('#results').innerHTML=renderEntry({id:'cat',k:[{t:'猫'}],r:[{t:'ねこ'}],s:[{g:[{t:'cat'}]}],accent:[{w:'猫',r:'ねこ',src:'kanjium',p:[{n:1}]}],examples:{0:[example(1),example(2),example(3)]},w:[{t:'猫',r:['ねこ'],p:'名词',s:[{g:['猫'],ex:[{j:'猫を飼う',z:'养猫'}]}]}]});
+assert.equal(document.querySelectorAll('.pitch-graph[role="img"]').length,1);
+assert(document.querySelector('.pitch-graph').getAttribute('aria-label').includes('头高'));
+const examples=[...document.querySelectorAll('.sense-examples .example-card')];assert.equal(examples.length,3);assert.equal(examples.filter(e=>!e.closest('details')).length,2);assert(document.querySelector('.wiki-examples'));assert(!document.querySelector('.wiki-examples').closest('details'));
+assert(document.querySelector('.example-credit').textContent.includes('zh_author'));assert.equal(document.querySelectorAll('.sense-examples mark').length,3);
+assert(!document.querySelector('script:not([src])'));supplement.window.close();
 const main=new JSDOM(fs.readFileSync('dist/index.html','utf8'),{url:'https://example.test/kotoba/'});
 globalThis.document=main.window.document;globalThis.location=main.window.location;
 const dialog=document.querySelector('#dictionaryDialog');dialog.showModal=()=>dialog.open=true;dialog.close=()=>{dialog.open=false;dialog.dispatchEvent(new main.window.Event('close'));};
 await import('./dist/dictionary-launcher.mjs');
 document.querySelector('[data-dictionary]').click();assert.equal(dialog.open,true);assert(document.querySelector('#dictionaryFrame').src.endsWith('dictionary/index.html'));
 document.querySelector('#closeDictionary').click();assert.equal(dialog.open,false);assert.equal(document.querySelector('#dictionaryFrame').src,'about:blank');
-main.window.close();console.log('PASS dictionary UI: fresh install, trilingual language selection, supplement upgrade, external link, deletion, embedded open/close');
+main.window.close();console.log('PASS dictionary UI: fresh install, trilingual language selection, supplement-only upgrade, visible examples, accessible pitch, external link, deletion, embedded open/close');

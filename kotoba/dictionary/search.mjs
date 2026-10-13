@@ -1,14 +1,16 @@
 export const normalize=value=>String(value).normalize('NFKC').trim().toLowerCase().replace(/[ァ-ヶ]/g,c=>String.fromCharCode(c.charCodeAt(0)-0x60));
 // Boundary-delimited strings keep the full-text index small enough for an offline worker.
 const terms=strings=>'\x1f'+[...new Set(strings.flatMap(s=>[s,...s.split(/[；;，,、。]/)]).map(normalize).filter(Boolean))].join('\x1f')+'\x1f';
-export function prepare(entries,translations=[],wiki=[]){
+export function prepare(entries,translations=[],wiki=[],pitch=[],examples=[]){
   const all=entries.map(e=>({...e})),byid=new Map(all.map(e=>[e.id,e]));
   for(const t of translations){const e=byid.get(t.id);if(e)e.z=t.s;}
   for(const w of wiki){
     const e=byid.get(w.j);
     if(e)(e.w??=[]).push(w);
-    else all.push({id:w.id,k:[{t:w.t}],r:w.r.map(t=>({t})),s:[],w:[w],c:false});
+    else {const standalone={id:w.id,k:[{t:w.t}],r:w.r.map(t=>({t})),s:[],w:[w],c:false};all.push(standalone);byid.set(w.id,standalone);}
   }
+  for(const p of pitch){const e=byid.get(p.id);if(e)e.accent=p.a;}
+  for(const x of examples){const e=byid.get(x.id);if(e)e.examples=x.s;}
   return all.map(e=>({e,keys:[...new Set([...e.k,...e.r].map(x=>normalize(x.t)))],
     en:terms(e.s.flatMap(s=>s.g.flatMap(g=>[g.t,g.t.replace(/^to /,'').replace(/\s*\([^)]*\)/g,'')]))),
     zh:terms([...Object.values(e.z||{}).flatMap(s=>s.g),...(e.w||[]).flatMap(w=>w.s.flatMap(s=>s.g))])}));

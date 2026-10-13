@@ -1,7 +1,9 @@
 日々ことば — Offline Japanese / Chinese / English dictionary data
 
-All three derived data packs are distributed under Creative Commons
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+The three definition packs and the pitch-accent supplement are distributed under
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+Tatoeba sentence text in the example supplement is CC BY 2.0 FR; its JMdict
+sense associations are CC BY-SA 4.0. These are separately attributed below.
 Licence: https://creativecommons.org/licenses/by-sa/4.0/
 Full legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 The manifest records source snapshots, file sizes, entry counts and SHA-256 hashes.
@@ -22,6 +24,7 @@ Modifications: XML converted to compact UTF-8 JSON and gzip; inherited parts of
 speech made explicit; empty metadata fields and generation marker omitted.
 Original English glosses, reading/sense restrictions, usage labels and entry IDs
 retained. No generated definitions, pitch accents or examples added to JMdict.
+The original definition pack is unchanged by the separate supplements.
 EDRDG does not endorse this application. Refresh at least monthly.
 
 2. Tomoshi Open Dictionary Data — AI-assisted Chinese definitions
@@ -61,10 +64,54 @@ independent. Wiktionary senses are never aligned to JMdict sense numbers.
 Data is compacted to JSON and gzip; wording and simplified/traditional forms
 remain as supplied by the source. Page links provide attribution and revisions.
 
-The three sources overlap; their counts must not be added as unique vocabulary.
+4. Kanjium and Wiktionary — pitch-accent supplement
+Kanjium pitch-accent data copyright (c) Uros O. / Kanjium contributors.
+Project, attribution and CC BY-SA 4.0 licence:
+https://github.com/mifunetoshiro/kanjium
+Source: data/source_files/raw/accents.txt (retrieved 2026-10-13).
+Wiktionary contributor attribution, dump snapshot and licence: section 3 above.
+
+Modifications: compact JSON and gzip; kana normalized; spelling, reading and
+JMdict reading restrictions matched to one unambiguous entry. Original Kanjium
+alternatives and usage conditions are retained. Tokyo pitch notation is taken
+from the same Wiktionary snapshot as the definitions and matched to the exact
+Wiktionary record/reading. Only unambiguous mora-aligned notation is converted to
+numeric pitch positions; other matched notation is preserved verbatim. Missing
+or ambiguous matches are omitted. Diagrams are drawn from supplied positions,
+not inferred from spelling, generated speech or a language model. Sources and
+spelling conditions are displayed with each pattern. No audio is redistributed.
+
+5. JMdict examples and Tatoeba — sense-linked sentence supplement
+JMdict association data: EDRDG attribution and CC BY-SA 4.0, section 1 above.
+Source: https://www.edrdg.org/pub/Nihongo/JMdict_e_examp.gz (2026-10-13).
+Sentence-dictionary linking: https://www.edrdg.org/wiki/Sentence-Dictionary_Linking.html
+Sentence text copyright the respective Tatoeba contributors, credited per
+sentence by username (when supplied) and linked original sentence ID.
+Licence: Creative Commons Attribution 2.0 France (CC BY 2.0 FR).
+https://creativecommons.org/licenses/by/2.0/fr/
+https://creativecommons.org/licenses/by/2.0/fr/legalcode
+Source and download conditions: https://tatoeba.org/en/downloads
+Detailed Japanese, English and Mandarin sentence exports and direct Japanese–
+English / Japanese–Mandarin links: 2026-10-10 snapshot. Each file hash is in the
+manifest. Sentences without a current owner are credited to Tatoeba contributors;
+the linked original sentence page provides its contribution history.
+
+Modifications: select unambiguous JMdict entries/senses with unchanged writings,
+readings, English glosses and sense restrictions. Require current Japanese text
+to equal the linked JMdict example and require its original English sentence to
+be an unchanged direct Tatoeba translation. Attach up to two direct Mandarin
+translations, retain original text/author/ID, prioritize Chinese availability,
+and keep up to three examples per sense. No pivot-based, generated or machine-
+translated Chinese is added. Missing Chinese translations are explicitly marked.
+Encoding changed to compact JSON and gzip; keyword highlighting does not change
+sentence wording. No recordings are redistributed. The sentence text retains
+CC BY 2.0 FR; the separate JMdict associations retain CC BY-SA 4.0.
+
+The sources overlap; their counts must not be added as unique vocabulary.
 Open dictionary content has no guarantee of accuracy or fitness. No source
-endorses this application. Adaptations of these data must use the same or a
-compatible licence; attribution and licence links must be preserved. These data
+endorses this application. Adaptations of CC BY-SA data must use the same or a compatible licence;
+attribution and licence links for every source must be preserved. These data
 licences do not change the separate licensing of app code or original lessons.
-Reproduction scripts: build_dictionary.py and build_multilingual_dictionary.py
+Reproduction scripts: build_dictionary.py, build_multilingual_dictionary.py
+and build_dictionary_enrichment.py
 in the project's source / kotoba-source directory.

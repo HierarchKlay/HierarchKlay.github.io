@@ -3,8 +3,10 @@ import {renderEntry} from './render.mjs';
 const $=s=>document.querySelector(s),cacheName='kotoba-dictionary-data-v1';
 const urlOf=p=>new URL(p.file,import.meta.url).href;
 let worker,ready=false,request=0,busy=false,registration;
-$('#packInfo').textContent=`日中英三语词库 · ${(PACK.bytes/1000000).toFixed(1)} MB`;
+$('#packInfo').textContent=`日中英三语词库 · 含音调与例句 · ${(PACK.bytes/1000000).toFixed(1)} MB`;
 $('#snapshot').textContent=PACK.packs.map(p=>`${p.title}：${p.entries.toLocaleString('zh-CN')} 条（${p.date}）`).join('；')+'。各来源条目相互重叠，数量不可相加。';
+const examples=PACK.packs.find(p=>p.id==='examples')?.stats;
+if(examples)$('#snapshot').textContent+=` 例句共 ${examples.examples.toLocaleString('zh-CN')} 组，其中 ${examples.withChinese.toLocaleString('zh-CN')} 组含中文译文；没有资料的词条会标明缺项。`;
 const setStatus=t=>{$('#downloadStatus').textContent=t;};
 const queryLink=()=>{$('#professionalSearch').href='mkdictionaries:///?text='+encodeURIComponent($('#query').value.trim()||'迎える')+'&category=cn-ja&scope=jc';};
 const search=()=>{queryLink();if(!ready)return;const query=$('#query').value.trim();if(!query){request++;$('#results').innerHTML='';$('#resultStatus').textContent='输入日语、中文或英文开始查询。';return;}$('#resultStatus').textContent='正在本机查询…';worker.postMessage({type:'search',query,mode:$('#match').value,language:$('#language').value,id:++request});};
@@ -46,5 +48,5 @@ try{
   try{registration=await installPage();}catch{}
   const cache=await caches.open(cacheName),present=await Promise.all(PACK.packs.map(p=>cache.match(urlOf(p))));
   if(present.every(Boolean)){busy=true;makeWorker().postMessage({type:'load'});}
-  else{const missing=PACK.packs.reduce((n,p,i)=>n+(present[i]?0:p.bytes),0);$('#download').disabled=false;$('#download').textContent=present.some(Boolean)?'补全三语词库':'下载到本机';setStatus(`${present.some(Boolean)?'已下载分包会复用；还需':'首次需联网下载'} ${(missing/1000000).toFixed(1)} MB，完成后查词无需网络。`);}
+  else{const missing=PACK.packs.reduce((n,p,i)=>n+(present[i]?0:p.bytes),0);$('#download').disabled=false;const supplementsOnly=present.some(Boolean)&&PACK.packs.every((p,i)=>present[i]||['pitch','examples'].includes(p.id));$('#download').textContent=supplementsOnly?'补充音调和例句':present.some(Boolean)?'补全三语词库':'下载到本机';setStatus(`${present.some(Boolean)?'已下载分包会复用；还需':'首次需联网下载'} ${(missing/1000000).toFixed(1)} MB，完成后查词无需网络。`);}
 }catch(e){fail(e.message);}

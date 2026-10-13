@@ -1,6 +1,6 @@
 import {PACK} from './config.mjs';
 import {prepare,search} from './search.mjs';
-// Keep the v1 data cache so the previous English pack can be reused during upgrade.
+// Keep the v1 data cache so existing definition packs can be reused during upgrade.
 export const DATA_CACHE='kotoba-dictionary-data-v1';
 let index=null,loading=null;
 const urlOf=p=>new URL(p.file,import.meta.url).href;
@@ -40,7 +40,7 @@ async function load(download=false){
       completed+=pack.bytes;
     }
     progress('整理三语查询索引',100);
-    index=prepare(data.jmdict,data.tomoshi,data.wiktionary);
+    index=prepare(data.jmdict,data.tomoshi,data.wiktionary,data.pitch,data.examples);
     // Remove only superseded dictionary packs, and only after all new packs verify.
     const current=new Set(PACK.packs.map(urlOf));
     for(const key of await cache.keys())if(!current.has(key.url))await cache.delete(key);

@@ -1,3 +1,11 @@
+## 2026-10-13 · Dictionary pitch accents and examples
+
+- Added separate offline supplements: 102,317 entries with source-labelled pitch data and 31,900 sense-linked example groups across 28,574 entries; 1,253 groups include directly linked Chinese translations.
+- Kanjium and Wiktionary accents retain alternatives/conditions and use mora-based high/low diagrams. Uncertain numeric conversions retain the original source notation.
+- Official JMdict example associations are matched to current senses; current Tatoeba text, authors, sentence IDs and direct translations are preserved. First two examples per sense and existing Wiktionary examples are visible without expansion.
+- Three existing gloss packs remain byte-identical. Existing installations download only the two additions (4.5 MB), with verified hashes and resumable partial downloads.
+- Added distinct CC BY 2.0 FR sentence attribution alongside CC BY-SA 4.0 dictionary/association attribution. No generated pronunciations/translations, recordings or commercial app data added.
+
 ## 2026-10-13 · Offline Japanese / Chinese / English dictionary
 
 - Added licensed Tomoshi Chinese glosses and Chinese Wiktionary Japanese entries alongside the unchanged official JMdict English pack (about 20.2 MB total).

@@ -1,8 +1,8 @@
 {
-  "schema": 2,
+  "schema": 3,
   "date": "2026-10-13",
   "entries": 218908,
-  "bytes": 20160259,
+  "bytes": 24670124,
   "packs": [
     {
       "schema": 1,
@@ -48,6 +48,77 @@
       "sourceSha256": "eab0c6887c4395fd9d16d5be95473b9474e4580c071b686548e20e380ac4ccbe",
       "linkedEntries": 35323,
       "standaloneEntries": 80519
+    },
+    {
+      "id": "pitch",
+      "date": "2026-10-13",
+      "entries": 102317,
+      "file": "pitch-2026-10-13-087c50d6c2cb.json.gz",
+      "bytes": 2019979,
+      "sha256": "087c50d6c2cbd12d31fc37faaacb9f5e6cccf29f73254beb931d0ac369166d0e",
+      "title": "音调 · Kanjium / 维基",
+      "license": "CC BY-SA 4.0",
+      "sources": [
+        {
+          "name": "Kanjium / Uros O.",
+          "url": "https://github.com/mifunetoshiro/kanjium",
+          "sha256": "8bd0dd127dab32ceec94cb03ab1ba6b68858ea73421dfa1731af2f373deb4f20",
+          "retrieved": "2026-10-13"
+        },
+        {
+          "name": "Chinese Wiktionary / Kaikki",
+          "url": "https://kaikki.org/zhwiktionary/rawdata.html",
+          "sha256": "a3e9901127c3de8fd5f1721e3c0238f9a87e87ca98f354f51aae4502c67adfd1",
+          "date": "2026-10-01"
+        }
+      ],
+      "stats": {
+        "kanjiumRecords": 121813,
+        "unmatchedOrAmbiguousKanjium": 2319,
+        "invalidKanjium": 2,
+        "wiktionaryRecords": 23319,
+        "unmatchedWikiReading": 2760,
+        "wikiNotationOnly": 1281
+      }
+    },
+    {
+      "id": "examples",
+      "date": "2026-10-13",
+      "entries": 28574,
+      "file": "examples-2026-10-13-fdd83c712b65.json.gz",
+      "bytes": 2489886,
+      "sha256": "fdd83c712b6558774defc5a93c255e8d28e85f0b23e8ecc7f1f9302c30cb0786",
+      "title": "例句 · JMdict / Tatoeba",
+      "license": "Text: CC BY 2.0 FR; JMdict sense associations: CC BY-SA 4.0",
+      "sources": [
+        {
+          "name": "JMdict examples / EDRDG",
+          "url": "https://www.edrdg.org/pub/Nihongo/JMdict_e_examp.gz",
+          "sha256": "588dac613461bc4dbfa9f3e4e408041b3709e55837c08a677f2b2c90b6676fdf",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "Tatoeba contributors",
+          "url": "https://tatoeba.org/en/downloads",
+          "date": "2026-10-10",
+          "files": {
+            "jpn_sentences_detailed.tsv.bz2": "f597d8f76473181f7fae482481030a31565fb427d64d2def8595218d128c6981",
+            "cmn_sentences_detailed.tsv.bz2": "a8c53945a8806ce7b6e220585294bf2df4c021f2adfe9d0efc49b6db7e9c0af5",
+            "eng_sentences_detailed.tsv.bz2": "1d8c40545b4af2c6531d1a8b64941fa9d0fa3ee5bcc11cb705c8d8c1fd930c84",
+            "jpn-cmn_links.tsv.bz2": "3d091bd7cf453246bf388ae94149f8e35d06e09a898b813ae378ecc56bfc5930",
+            "jpn-eng_links.tsv.bz2": "0bff645c5e4c172810710d4844409041932826882547f07be1ac1d4d63314705"
+          }
+        }
+      ],
+      "stats": {
+        "senseMismatch": 21,
+        "changedOrMissingJapanese": 101,
+        "changedOrUnlinkedEnglish": 307,
+        "alignedSenses": 31340,
+        "examples": 31900,
+        "withChinese": 1253,
+        "uniqueJapaneseSentences": 25955
+      }
     }
   ]
 }
