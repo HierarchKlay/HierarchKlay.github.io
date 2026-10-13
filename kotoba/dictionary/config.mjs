@@ -1,0 +1,1 @@
+export const PACK = {"schema":1,"date":"2026-10-13","entries":218908,"file":"jmdict-2026-10-13-3d857bea6d30.json.gz","bytes":10141256,"sha256":"3d857bea6d30905d51a0ba6fc8931010ce8ff41aa9d5970026a2b587303a99bd","source":"https://www.edrdg.org/pub/Nihongo/JMdict_e.gz","license":"CC BY-SA 4.0","xmlSha256":"958f0440c5f61284874ad9a6fff6c2bd910585b97fdd4ee52a9dc2d504d04bae"};

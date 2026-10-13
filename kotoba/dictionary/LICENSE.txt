@@ -1,0 +1,29 @@
+JMdict / EDICT dictionary data
+Copyright (c) James William BREEN and the Electronic Dictionary Research and
+Development Group (EDRDG).
+
+This application uses the JMdict English dictionary file. The file is the
+property of the Electronic Dictionary Research and Development Group, and is
+used in conformance with the Group's licence.
+
+The derived JSON dictionary is distributed under Creative Commons
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+Licence: https://creativecommons.org/licenses/by-sa/4.0/
+Full legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+EDRDG licence statement: https://www.edrdg.org/edrdg/licence.html
+Project documentation: https://www.edrdg.org/wiki/Main_Page.html
+Source: https://www.edrdg.org/pub/Nihongo/JMdict_e.gz
+
+Modifications: XML converted into compact UTF-8 JSON; gzip compression;
+part-of-speech inheritance made explicit; empty metadata fields normalized;
+non-dictionary generation marker excluded. English glosses, sense restrictions,
+reading restrictions, usage labels and entry IDs retained. No machine-generated
+definitions, translations, pitch accents or example sentences were added.
+See manifest.json for the source date and SHA-256 checksums. build_dictionary.py
+in kotoba-source/ reproduces this conversion. EDRDG does not endorse this app.
+
+Attribution must be retained. Adaptations of this dictionary data must be shared
+under the same or a compatible licence. This does not change the separate
+licensing of the application code or the original lesson content.
+The source is maintained by EDRDG and should be refreshed at least monthly.
+No warranty of accuracy or suitability is provided.

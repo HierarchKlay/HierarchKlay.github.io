@@ -1,3 +1,10 @@
+## 2026-10-13 · Offline JMdict lookup
+
+- Embedded dictionary dialog and word-card lookup link, with an independent offline URL.
+- Official JMdict English snapshot, complete download, hash validation, device-local search in a worker, kana normalization and ranked exact/prefix/contains results.
+- Dictionary-only service-worker scope and explicit offline/cache status; no changes to study progress or cloud authorization.
+- Clear language/source/licence labels and optional external Monokakido Japanese–Chinese app link.
+
 ## 2026-10-13 · Mobile login diagnostics
 
 - Replaced the blanket incorrect-email/password error with distinct network, credential, confirmation, rate-limit, storage and server explanations plus safe structured diagnostics.
