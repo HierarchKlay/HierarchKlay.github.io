@@ -131,6 +131,20 @@ npx supabase functions deploy kotoba-ask --project-ref mtszdktdpjipjvbspetr
 
 问答历史只保留在当前页面，点击新对话或刷新后清空；不会自动同步聊天记录。界面默认联网开启；Anthropic 和 Responses 两种模式均请求实际检索，但模型可能未触发工具，或工具可能失败。页面以服务端返回的真实搜索调用/来源为依据标记状态。
 
+## 手机登录失败时如何诊断
+
+电脑和手机使用同一个 Supabase 学习账号。电脑仍显示已登录，可能只是沿用旧会话，不代表此次输入的密码已重新验证；不必先退出电脑或清空学习进度。
+
+手机刷新后，确认密码框旁有“显示密码”按钮，再尝试一次登录。必要时用英文键盘手动输入，核对自动填充、大小写和空格；密码会原样发送，不自动删空格或转换字符。失败时展开“登录错误详情”，只反馈其中的文字，不发送密码或含明文密码的截图。
+
+- `invalid_credentials`：服务端未接受本次邮箱/密码，先核对与电脑登录区显示的学习账号邮箱一致。网站学习账号不是 Supabase 管理后台账号。
+- `email_not_confirmed`：学习账号未完成邮箱验证。
+- `NETWORK` / `TIMEOUT`：手机未能连接服务或超时，切换 Wi-Fi / 移动网络，并用 Safari / Chrome 直接打开同一学习网址后重试。
+- `over_request_rate_limit` / HTTP 429：等待几分钟再试，避免连续点击。
+- 其他错误：根据详情中的 HTTP / 错误码定位，不先重置账号或改数据库权限。
+
+这只是前端诊断改进，无需重部署 Supabase 函数。没有用户端的真实错误码时，不能认定密码有误或问题已修复。
+
 ## 同步失败时如何诊断
 
 如果点击“立即同步”失败，展开登录区下方的“同步错误详情”，提供 HTTP 状态、错误码和原因。不要清空本地存储，不必重跑初始 SQL，也不需要因此重新部署问答函数；学习同步调用的是数据库 RPC `kotoba_merge`。
@@ -158,6 +172,7 @@ node test_sync_errors.mjs
 npm install --no-save --ignore-scripts jsdom@30.1.2
 node test_tutor.mjs
 node test_sync_ui.mjs
+node test_auth.mjs
 # 可选数据库验证依赖；不在浏览器中使用
 npm install --no-save @electric-sql/pglite
 node test_database.mjs

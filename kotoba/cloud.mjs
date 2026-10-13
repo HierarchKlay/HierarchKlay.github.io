@@ -1,6 +1,7 @@
 import {emptyDocument,capture,snapshot,mergeDocuments,applyDocument} from './sync-model.mjs';
 import {renderMarkdown,searchLabel} from './markdown.mjs';
 import {describeSyncError} from './sync-errors.mjs';
+import {describeAuthError} from './auth-errors.mjs';
 const DOC_KEY='kotoba.cloud.document.v1',OWNER_KEY='kotoba.cloud.owner.v1',DEVICE_KEY='kotoba.cloud.device.v1';
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -10,6 +11,8 @@ export function attachCloud(ctx){
   let conversation=[],asking=false,requestId=0;
   const status=(message)=>{ $('#cloudStatus').textContent=message;$('#storageNote').textContent=message; };
   const clearSyncError=()=>{$('#syncErrorDetails').hidden=true;$('#syncErrorText').textContent='';};
+  const clearAuthError=()=>{$('#loginErrorDetails').hidden=true;$('#loginErrorText').textContent='';};
+  const hidePassword=()=>{$('#loginPassword').type='password';$('#togglePassword').textContent='显示密码';$('#togglePassword').setAttribute('aria-pressed','false');};
   const persist=()=>{
     // Canonical order prevents storage-event ping-pong between browser tabs.
     doc.records=Object.fromEntries(Object.entries(doc.records).sort(([a],[b])=>a<b?-1:a>b?1:0));
@@ -87,7 +90,7 @@ export function attachCloud(ctx){
       const {data:{session}}=await client.auth.getSession();user=session?.user||null;accountUI();status(user?'正在读取云端进度…':'本机存档 · 登录后同步');
       client.auth.onAuthStateChange((_event,session)=>{
         const old=user?.id;user=session?.user||null;
-        if(old!==user?.id){requestId++;conversation=[];$('#askMessages').innerHTML='';clearSyncError();accountUI();}
+        if(old!==user?.id){requestId++;conversation=[];$('#askMessages').innerHTML='';clearSyncError();clearAuthError();$('#loginPassword').value='';hidePassword();accountUI();}
         if(user)setTimeout(sync,0);else status('本机存档 · 已退出云同步');
       });
       await sync();
@@ -96,13 +99,23 @@ export function attachCloud(ctx){
       document.addEventListener('visibilitychange',()=>{if(!document.hidden)sync();});
     }catch{ready=false;status('云同步暂不可用 · 进度保存在本机');accountUI();}
   }
+  $('#togglePassword').addEventListener('click',()=>{
+    const reveal=$('#loginPassword').type==='password';
+    $('#loginPassword').type=reveal?'text':'password';
+    $('#togglePassword').textContent=reveal?'隐藏密码':'显示密码';
+    $('#togglePassword').setAttribute('aria-pressed',String(reveal));
+  });
   $('#loginForm').addEventListener('submit',async e=>{
-    e.preventDefault();if(!ready)return;
-    const button=$('#loginSubmit');button.disabled=true;
+    e.preventDefault();const button=$('#loginSubmit');if(!ready||button.disabled)return;
+    button.disabled=true;clearAuthError();hidePassword();status('正在登录…');
     try{
       const {error}=await client.auth.signInWithPassword({email:$('#loginEmail').value.trim(),password:$('#loginPassword').value});
-      $('#loginPassword').value='';if(error)status('登录未成功，请检查邮箱和密码。');
-    }catch{status('登录连接失败，请稍后重试。');}finally{button.disabled=false;}
+      if(error)throw error;
+      $('#loginPassword').value='';clearAuthError();
+    }catch(error){
+      const info=describeAuthError(error);status(info.summary);
+      $('#loginErrorText').textContent=info.details;$('#loginErrorDetails').hidden=false;
+    }finally{button.disabled=false;}
   });
   $('#cloudSync').addEventListener('click',sync);
   $('#cloudLogout').addEventListener('click',async()=>{

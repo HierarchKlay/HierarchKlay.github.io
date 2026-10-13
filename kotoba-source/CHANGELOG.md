@@ -1,3 +1,9 @@
+## 2026-10-13 · Mobile login diagnostics
+
+- Replaced the blanket incorrect-email/password error with distinct network, credential, confirmation, rate-limit, storage and server explanations plus safe structured diagnostics.
+- Added a password visibility control, mobile keyboard hints and readable input sizing. Preserve the exact password (including spaces) on failed attempts; clear it on successful login or account change. Prevent duplicate form requests.
+- The mobile failure is not yet reproduced with the user’s session. Existing desktop sessions do not prove a newly entered password works. Auth UI tests use a mock client; no live account/password was accessed or changed.
+
 ## 2026-10-13 · Sync diagnostics
 
 - Investigated the user's generic sync-failed message. Live unauthenticated probes confirm the progress table and merge RPC exist and reject anonymous access; the authenticated failure is not yet observed.
