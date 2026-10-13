@@ -29,3 +29,7 @@ The user has authorized Supabase cloud sync. On 2026-10-13 the frontend was conf
 The daily reminder is separately scheduled for 12:40 Asia/Shanghai. Do not create duplicate reminders. Weekly maintenance summaries should report exactly which lessons were added, quality gaps, tests, and verified publication status; not fictional personal learning reports.
 
 Cloud changes require `node test_cloud.mjs` and `node test_endpoint.mjs` in addition to core and DOM tests. Tutor/Markdown changes also require `node test_tutor.mjs` with jsdom@30.1.2 available (or JSDOM_MODULE pointing to its installed api.js). Database changes require the embedded PostgreSQL/RLS tests or a real isolated database test; never test destructive operations on the user’s live project. Frontend/vendor files must be mirrored, and `supabase/` plus setup/test source files live under `kotoba-source/`.
+
+## Sync failure diagnosis (2026-10-13)
+
+A user-reported RPC sync failure remains awaiting authenticated error details. Preserve `sync-errors.mjs` and the expandable diagnostics UI. Never interpret deliberate anonymous denial as evidence that the user's authenticated role should be opened to anon. No production database mutation has been made for this investigation. Real-course PostgreSQL fixtures and the mocked signed-in sync UI pass without touching user data. After cloud UI changes run `node test_sync_errors.mjs` and `node test_sync_ui.mjs` (jsdom available through JSDOM_MODULE). Keep raw Postgres row details and auth secrets out of diagnostic reports.

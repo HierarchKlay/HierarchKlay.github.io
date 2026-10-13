@@ -1,3 +1,10 @@
+## 2026-10-13 · Sync diagnostics
+
+- Investigated the user's generic sync-failed message. Live unauthenticated probes confirm the progress table and merge RPC exist and reject anonymous access; the authenticated failure is not yet observed.
+- Preserve HTTP status and database error codes, map common failures to actionable messages, and add expandable redacted diagnostics. Keep raw row details, permission hints and credentials out of the UI.
+- Reject malformed cloud replies before applying them, clear diagnostics after a successful retry, and ignore errors from a signed-out session.
+- Added real-course PostgreSQL roundtrip and signed-in DOM checks for failed-sync retention, retry and malformed responses. No production database/permission changes or Edge Function redeployment are needed for this frontend update.
+
 ## 2026-10-13 · Tutor search, Markdown and presets
 
 - User confirmed real Token Plan plain Q&A works. Actual native web search remains pending user-side verification after redeploy.

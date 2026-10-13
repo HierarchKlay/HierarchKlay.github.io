@@ -131,6 +131,19 @@ npx supabase functions deploy kotoba-ask --project-ref mtszdktdpjipjvbspetr
 
 问答历史只保留在当前页面，点击新对话或刷新后清空；不会自动同步聊天记录。界面默认联网开启；Anthropic 和 Responses 两种模式均请求实际检索，但模型可能未触发工具，或工具可能失败。页面以服务端返回的真实搜索调用/来源为依据标记状态。
 
+## 同步失败时如何诊断
+
+如果点击“立即同步”失败，展开登录区下方的“同步错误详情”，提供 HTTP 状态、错误码和原因。不要清空本地存储，不必重跑初始 SQL，也不需要因此重新部署问答函数；学习同步调用的是数据库 RPC `kotoba_merge`。
+
+- `42501`：数据库授权或 RLS 拒绝。保留安全策略，检查实际登录角色、函数 execute 权限、表权限和账号会员记录。匿名探测被拒绝是预期行为，不代表已登录账号也缺权限，不能据此给 anon 授权。
+- `PGRST301/302/303` 或登录令牌无效：退出网页账号后重新登录，再同步；保留本机进度。
+- `PGRST202/205`、`42P01`、`42883`：函数、表或 API schema 配置未完成。
+- `P0001` 且原因为 `Account not enabled...`：检查 `kotoba_members` 的账号 UID。
+- `P0001` 且原因为 `Invalid sync record/document`：进度格式被云端拒绝，先保留备份并反馈；不要删除记录以试错。
+- 网络错误或超时：换网络后重试，仍失败时提供页面的错误详情。
+
+页面只展示经过脱敏的错误摘要，不包含服务端返回的完整行数据或授权建议。首次同步尚未成功前，云端不应被视作已备份。维护者可以检查公开接口与本地模拟数据库，但没有用户登录凭证时不能验证该账号的真实 RPC 结果。
+
 ## 验证与维护
 
 已提供 `test_cloud.mjs`、`test_endpoint.mjs`、`test_tutor.mjs` 和 `test_database.mjs`。数据库测试使用嵌入式 PostgreSQL（PGlite），验证合并、账号隔离和额度；接口测试使用模拟模型响应。仅通过模拟接口测试，不能据此声称真实 Key 或百炼端到端调用已通过。
@@ -140,9 +153,11 @@ node test_core.mjs
 node test_app.mjs
 node test_cloud.mjs
 node test_endpoint.mjs
+node test_sync_errors.mjs
 # Markdown 的 DOM 安全验证（Node.js 24，测试依赖不在浏览器中使用）
 npm install --no-save --ignore-scripts jsdom@30.1.2
 node test_tutor.mjs
+node test_sync_ui.mjs
 # 可选数据库验证依赖；不在浏览器中使用
 npm install --no-save @electric-sql/pglite
 node test_database.mjs

@@ -2,6 +2,8 @@
 // Embedded PostgreSQL checks syntax, roles and RLS without touching a live project.
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
+import {restoreState,ensureDay,rateWord,rateKanji,markMastered} from './dist/core.mjs';
+import {emptyDocument,capture,applyDocument} from './dist/sync-model.mjs';
 const {PGlite}=await import(process.env.PGLITE_MODULE||'@electric-sql/pglite');
 const db=new PGlite();
 const owner='11111111-1111-4111-8111-111111111111',other='22222222-2222-4222-8222-222222222222';
@@ -12,7 +14,7 @@ await db.exec(`create role anon; create role authenticated; create role service_
   insert into auth.users values('${owner}'),('${other}');`);
 await db.exec(fs.readFileSync(new URL('./supabase/migrations/202610120001_cloud.sql',import.meta.url),'utf8'));
 await db.exec(`insert into public.kotoba_members values('${owner}');set role authenticated;select set_config('request.jwt.claim.sub','${owner}',false);`);
-const merge=async d=>(await db.query('select public.kotoba_merge($1,$2::jsonb) as doc',['week01-v1',JSON.stringify(d)])).rows[0].doc;
+const merge=async (d,courseId='fixture-small')=>(await db.query('select public.kotoba_merge($1,$2::jsonb) as doc',[courseId,JSON.stringify(d)])).rows[0].doc;
 const doc=(records={},events={})=>({version:1,clock:0,records,events});
 await merge(doc({'word:a':{at:100,actor:'phone',value:{rating:'known'}}},{one:{eventId:'one'}}));
 let result=await merge(doc({'word:b':{at:200,actor:'desktop',value:{rating:'again'}}},{two:{eventId:'two'}}));
@@ -22,6 +24,17 @@ result=await merge(doc({'word:a':{at:300,actor:'phone',value:null}}));assert.equ
 assert.equal(Object.keys(result.events).length,2);
 await assert.rejects(()=>merge(doc({'word:a':{at:'oops',actor:'x',value:null}})));
 console.log('PASS PostgreSQL migration, per-record merge, retries, stale snapshot and tombstone');
+// Use actual course IDs, browser UUID actors and the same capture path as the UI.
+const course=JSON.parse(fs.readFileSync(new URL('./dist/lesson.json',import.meta.url)));
+const state=restoreState(null,course),actual=emptyDocument(),actor=crypto.randomUUID();
+ensureDay(state,course,'1');let before=capture(actual,null,state,actor);
+for(const id of state.days['1'].order)rateWord(state,id,'known');
+for(const id of course.days[0].kanji)rateKanji(state,id,'familiar');
+markMastered(state,course,state.days['1'].order[0]);capture(actual,before,state,actor);
+const roundtrip=await merge(actual,course.id);const reloaded=restoreState(applyDocument(roundtrip,restoreState(null,course)),course);
+assert.deepEqual(reloaded.ratings,state.ratings);assert.deepEqual(reloaded.kanjiRatings,state.kanjiRatings);assert.deepEqual(reloaded.mastered,state.mastered);
+assert.equal(reloaded.events.length,state.events.length);await merge(actual,course.id);
+console.log('PASS actual course: 35 words, 5 kanji, master/refill, UUID actor and repeated sync roundtrip');
 await db.exec(`select set_config('request.jwt.claim.sub','${other}',false);`);
 assert.equal((await db.query('select * from public.kotoba_progress')).rows.length,0);
 await assert.rejects(()=>merge(doc()));

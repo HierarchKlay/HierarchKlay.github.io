@@ -19,6 +19,7 @@
       <p id="cloudSetup" class="cloud-help">云同步正在准备中。现有进度继续保存在本机，也可以导出备份。</p>
       <form id="loginForm" class="login-form"><label>邮箱<input id="loginEmail" type="email" autocomplete="username" required placeholder="学习账号邮箱"></label><label>密码<input id="loginPassword" type="password" autocomplete="current-password" required placeholder="学习账号密码"></label><button id="loginSubmit" class="control" disabled>登录并同步</button></form>
       <div id="cloudAccount" class="cloud-account" hidden><span id="accountLabel"></span><button id="cloudSync" class="text-button">立即同步</button><button id="cloudLogout" class="text-button">退出登录</button></div>
+      <details id="syncErrorDetails" class="sync-error-details" hidden><summary>同步错误详情</summary><pre id="syncErrorText"></pre><p class="cloud-help">可以复制以上错误信息反馈；本机进度无需清空。</p></details>
     </section>
     <section class="ask-panel" aria-labelledby="askTitle">
       <div class="cloud-heading"><div><p class="eyebrow">A QUESTION ALONG THE WAY</p><h2 id="askTitle">日语，随时问。</h2></div><button class="text-button" id="newQuestion">新对话</button></div>

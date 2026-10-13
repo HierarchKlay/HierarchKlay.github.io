@@ -1,0 +1,14 @@
+import assert from 'node:assert/strict';
+import {describeSyncError} from './dist/sync-errors.mjs';
+assert.equal(describeSyncError({code:'42501',message:'permission denied for function kotoba_merge'},401).kind,'permission');
+assert.equal(describeSyncError({code:'P0001',message:'Account not enabled for this notebook'},400).kind,'membership');
+assert.equal(describeSyncError({code:'PGRST301',message:'JWT expired'},401).kind,'auth');
+assert.equal(describeSyncError({code:'PGRST202',message:'not found'},404).kind,'schema');
+assert.equal(describeSyncError({code:'P0001',message:'Invalid sync record'},400).kind,'data');
+assert.equal(describeSyncError({name:'AbortError',message:'aborted'}).kind,'timeout');
+assert.equal(describeSyncError({message:'TypeError: Failed to fetch'}).kind,'network');
+assert.equal(describeSyncError({code:'INVALID_RESPONSE',message:'Invalid sync response'},200,'merge').kind,'merge');
+assert(describeSyncError({code:'XX000',message:'test failure'},500).summary.includes('XX000'));
+const secret=describeSyncError({message:'Bearer private-token eyJtest.header.signature sb_secret_abc sk-private user@example.com https://host.example/?token=private',details:'PRIVATE_PROGRESS',hint:'GRANT SELECT TO anon'},400);
+for(const token of ['private-token','eyJtest.header.signature','sb_secret_abc','sk-private','user@example.com','token=private','PRIVATE_PROGRESS','GRANT SELECT'])assert(!secret.details.includes(token));
+console.log('PASS actionable sync errors, permission/auth separation and redacted diagnostic fields');

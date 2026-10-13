@@ -1,5 +1,6 @@
 import {emptyDocument,capture,snapshot,mergeDocuments,applyDocument} from './sync-model.mjs';
 import {renderMarkdown,searchLabel} from './markdown.mjs';
+import {describeSyncError} from './sync-errors.mjs';
 const DOC_KEY='kotoba.cloud.document.v1',OWNER_KEY='kotoba.cloud.owner.v1',DEVICE_KEY='kotoba.cloud.device.v1';
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -8,6 +9,7 @@ export function attachCloud(ctx){
   let doc=emptyDocument(),before,client,config,user,ready=false,running=false,rerun=false,timer,actor;
   let conversation=[],asking=false,requestId=0;
   const status=(message)=>{ $('#cloudStatus').textContent=message;$('#storageNote').textContent=message; };
+  const clearSyncError=()=>{$('#syncErrorDetails').hidden=true;$('#syncErrorText').textContent='';};
   const persist=()=>{
     // Canonical order prevents storage-event ping-pong between browser tabs.
     doc.records=Object.fromEntries(Object.entries(doc.records).sort(([a],[b])=>a<b?-1:a>b?1:0));
@@ -43,20 +45,29 @@ export function attachCloud(ctx){
     if(!ready||!user)return;
     if(running){rerun=true;return;}
     if(navigator.onLine===false){status('离线 · 进度已存本机，联网后同步');return;}
-    running=true;const owner=user.id;
+    running=true;const owner=user.id;let httpStatus=0,phase='request';
     try{
       const binding=localStorage.getItem(OWNER_KEY);
       if(binding&&binding!==owner)throw Error('此浏览器已绑定另一学习账号，请使用独立浏览器资料登录。');
       const sent=JSON.stringify(doc);
       status('正在同步…');
-      const {data,error}=await client.rpc('kotoba_merge',{p_course:ctx.course().id,p_document:doc}).abortSignal(AbortSignal.timeout(20000));
-      if(error)throw Error(error.message?.includes('Account not enabled')?'此账号尚未开通学习同步，请完成账号配置。':'同步失败，进度已保留在本机，可稍后重试。');
+      const response=await client.rpc('kotoba_merge',{p_course:ctx.course().id,p_document:doc}).abortSignal(AbortSignal.timeout(20000));
+      const {data,error}=response;httpStatus=response.status||0;
+      if(error)throw error;
       if(user?.id!==owner)return;
+      phase='merge';
+      if(!data||data.version!==1||!data.records||typeof data.records!=='object'||Array.isArray(data.records)||
+        !data.events||typeof data.events!=='object'||Array.isArray(data.events))throw Object.assign(Error('Invalid sync response'),{code:'INVALID_RESPONSE'});
       localStorage.setItem(OWNER_KEY,owner);
       const changedWhileSending=sent!==JSON.stringify(doc);
-      applyMerged(data);status('已同步 · '+new Intl.DateTimeFormat('zh-CN',{hour:'2-digit',minute:'2-digit'}).format(new Date()));
+      applyMerged(data);clearSyncError();status('已同步 · '+new Intl.DateTimeFormat('zh-CN',{hour:'2-digit',minute:'2-digit'}).format(new Date()));
       if(changedWhileSending)rerun=true;
-    }catch(e){status(e.message||'同步失败，进度已保留在本机');}
+    }catch(e){
+      if(user?.id!==owner)return;
+      if(e?.message?.includes('此浏览器已绑定')){status(e.message);return;}
+      const info=describeSyncError(e,httpStatus,phase);status(info.summary);
+      $('#syncErrorText').textContent=info.details;$('#syncErrorDetails').hidden=false;
+    }
     finally{running=false;if(rerun){rerun=false;clearTimeout(timer);timer=setTimeout(sync,1200);}}
   }
   async function initialize(){
@@ -76,7 +87,7 @@ export function attachCloud(ctx){
       const {data:{session}}=await client.auth.getSession();user=session?.user||null;accountUI();status(user?'正在读取云端进度…':'本机存档 · 登录后同步');
       client.auth.onAuthStateChange((_event,session)=>{
         const old=user?.id;user=session?.user||null;
-        if(old!==user?.id){requestId++;conversation=[];$('#askMessages').innerHTML='';accountUI();}
+        if(old!==user?.id){requestId++;conversation=[];$('#askMessages').innerHTML='';clearSyncError();accountUI();}
         if(user)setTimeout(sync,0);else status('本机存档 · 已退出云同步');
       });
       await sync();
