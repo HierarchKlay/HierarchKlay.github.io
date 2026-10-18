@@ -77,6 +77,8 @@ def main():
     if audio_manifest.exists():data['audio']=json.loads(audio_manifest.read_text())
     data['sources'].append(['国際交流基金 まるごと 词汇索引（部分声调）','https://marugoto.jpf.go.jp/'])
     if 'audio' in data:data['sources'].append(['合成音频署名与许可','audio/ATTRIBUTION.txt'])
+    from extend_course import extend_course
+    extend_course(data)
     (ROOT/'dist/lesson.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
-    print(json.dumps({'words':315,'days':7,'core':245,'reserve':70,'accent_verified':verified},ensure_ascii=False))
+    print(json.dumps({'words':len(data['words']),'days':len(data['days']),'core':sum(len(d['core']) for d in data['days']),'reserve':sum(len(d['reserve']) for d in data['days']),'accent_verified':sum(isinstance(w['accent'],int) for w in data['words'])},ensure_ascii=False))
 if __name__=='__main__':main()

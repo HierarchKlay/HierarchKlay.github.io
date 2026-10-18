@@ -1,0 +1,5526 @@
+[
+  {
+    "id": "w02-c001",
+    "word": "地下鉄",
+    "reading": "ちかてつ",
+    "category": "名词",
+    "meaning": "地铁",
+    "example": [
+      [
+        "地下鉄",
+        "ちかてつ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "美術館",
+        "びじゅつかん"
+      ],
+      [
+        "へ"
+      ],
+      [
+        "行",
+        "い"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "坐地铁去美术馆。",
+    "tip": "交通方式用「地下鉄で」。",
+    "kanjiNote": "「地下」指地下，「鉄」来自铁路。",
+    "cloze": {
+      "before": "",
+      "answer": "地下鉄",
+      "after": "で美術館へ行きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1420900",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "subway",
+          "metro",
+          "underground (railway)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c002",
+    "word": "新幹線",
+    "reading": "しんかんせん",
+    "category": "名词",
+    "meaning": "新干线",
+    "example": [
+      [
+        "新幹線",
+        "しんかんせん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "窓",
+        "まど"
+      ],
+      [
+        "から"
+      ],
+      [
+        "山",
+        "やま"
+      ],
+      [
+        "が"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "从新干线的车窗能看到山。",
+    "tip": "「新幹線に乗る」表示乘坐新干线。",
+    "kanjiNote": "「幹線」表示主要线路。",
+    "cloze": {
+      "before": "",
+      "answer": "新幹線",
+      "after": "の窓から山が見えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1361590",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "Shinkansen",
+          "bullet train"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c003",
+    "word": "急行",
+    "reading": "きゅうこう",
+    "category": "名词",
+    "meaning": "快车；急行列车",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "には"
+      ],
+      [
+        "急行",
+        "きゅうこう"
+      ],
+      [
+        "が"
+      ],
+      [
+        "止",
+        "と"
+      ],
+      [
+        "まります。"
+      ]
+    ],
+    "translation": "急行列车在这一站停靠。",
+    "tip": "这里是列车种类；不要仅凭名称判断停靠站。",
+    "kanjiNote": "「急行」也有赶往之意，此处只学列车义。",
+    "cloze": {
+      "before": "この駅には",
+      "answer": "急行",
+      "after": "が止まります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1228690",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "express (train)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c004",
+    "word": "特急",
+    "reading": "とっきゅう",
+    "category": "名词",
+    "meaning": "特快列车；特急",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "特急",
+        "とっきゅう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "次",
+        "つぎ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "に"
+      ],
+      [
+        "止",
+        "と"
+      ],
+      [
+        "まりません。"
+      ]
+    ],
+    "translation": "这班特急不在下一站停靠。",
+    "tip": "是否另购特急券因铁路公司和列车而异。",
+    "kanjiNote": "「特」来自特别；读音中有促音「っ」。",
+    "cloze": {
+      "before": "この",
+      "answer": "特急",
+      "after": "は次の駅に止まりません。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1454750",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        [
+          "limited express (train for which a limited-express ticket is required)"
+        ],
+        [
+          "limited express (train making a limited no. of stops)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c005",
+    "word": "列車",
+    "reading": "れっしゃ",
+    "category": "名词",
+    "meaning": "列车",
+    "example": [
+      [
+        "列車",
+        "れっしゃ"
+      ],
+      [
+        "がゆっくり"
+      ],
+      [
+        "動",
+        "うご"
+      ],
+      [
+        "き"
+      ],
+      [
+        "始",
+        "はじ"
+      ],
+      [
+        "めました。"
+      ]
+    ],
+    "translation": "列车缓缓开动了。",
+    "tip": "「列車」不限于电力驱动的列车。",
+    "kanjiNote": "「れっしゃ」含促音和拗音。",
+    "cloze": {
+      "before": "",
+      "answer": "列車",
+      "after": "がゆっくり動き始めました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1558370",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "train",
+          "railway train"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c006",
+    "word": "乗り場",
+    "reading": "のりば",
+    "category": "名词",
+    "meaning": "乘车处；上车点",
+    "example": [
+      [
+        "タクシーの"
+      ],
+      [
+        "乗り場",
+        "のりば"
+      ],
+      [
+        "は"
+      ],
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "出租车乘车处在车站前面。",
+    "tip": "可接交通工具名称，如「バス乗り場」。",
+    "kanjiNote": "「乗る」的词干加「場」。",
+    "cloze": {
+      "before": "タクシーの",
+      "answer": "乗り場",
+      "after": "は駅の前です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1600520",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "place for boarding vehicles",
+          "bus stop",
+          "bus terminal",
+          "railway platform",
+          "taxi stand",
+          "jetty",
+          "wharf"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c007",
+    "word": "改札",
+    "reading": "かいさつ",
+    "category": "名词",
+    "meaning": "检票口；闸机口",
+    "example": [
+      [
+        "改札",
+        "かいさつ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "外",
+        "そと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "待",
+        "ま"
+      ],
+      [
+        "ちます。"
+      ]
+    ],
+    "translation": "在检票口外等朋友。",
+    "tip": "约人见面可说「改札の外で」。",
+    "kanjiNote": "本义为查验车票，也用于指改札口。",
+    "cloze": {
+      "before": "",
+      "answer": "改札",
+      "after": "の外で友達を待ちます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1200840",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "ticket gate",
+          "ticket barrier"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c008",
+    "word": "出口",
+    "reading": "でぐち",
+    "category": "名词",
+    "meaning": "出口",
+    "example": [
+      [
+        "出口",
+        "でぐち"
+      ],
+      [
+        "の"
+      ],
+      [
+        "近",
+        "ちか"
+      ],
+      [
+        "くに"
+      ],
+      [
+        "地図",
+        "ちず"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "出口附近有地图。",
+    "tip": "出口方向通常用「出口はどこですか」。",
+    "kanjiNote": "「口」在这里读「ぐち」。",
+    "cloze": {
+      "before": "",
+      "answer": "出口",
+      "after": "の近くに地図があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1338850",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "exit",
+          "way out"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c009",
+    "word": "入口",
+    "reading": "いりぐち",
+    "category": "名词",
+    "meaning": "入口",
+    "example": [
+      [
+        "入口",
+        "いりぐち"
+      ],
+      [
+        "で"
+      ],
+      [
+        "切符",
+        "きっぷ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "せました。"
+      ]
+    ],
+    "translation": "在入口出示了票。",
+    "tip": "「入り口」也是常见写法。",
+    "kanjiNote": "此处读「いりぐち」，不按音读拆念。",
+    "cloze": {
+      "before": "",
+      "answer": "入口",
+      "after": "で切符を見せました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1582820",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "entrance",
+          "entry",
+          "gate",
+          "approach",
+          "mouth"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c010",
+    "word": "階段",
+    "reading": "かいだん",
+    "category": "名词",
+    "meaning": "楼梯",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "階段",
+        "かいだん"
+      ],
+      [
+        "は"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "急",
+        "きゅう"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "这段楼梯有点陡。",
+    "tip": "「階段を上る」表示上楼梯。",
+    "kanjiNote": "「階」与楼层有关，「段」指台阶。",
+    "cloze": {
+      "before": "この",
+      "answer": "階段",
+      "after": "は少し急です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1203090",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "stairs",
+          "stairway",
+          "staircase"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c011",
+    "word": "エスカレーター",
+    "reading": "エスカレーター",
+    "category": "名词",
+    "meaning": "自动扶梯",
+    "example": [
+      [
+        "エスカレーターの"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "人",
+        "ひと"
+      ],
+      [
+        "が"
+      ],
+      [
+        "並",
+        "なら"
+      ],
+      [
+        "んでいます。"
+      ]
+    ],
+    "translation": "自动扶梯前有人排队。",
+    "tip": "与上下移动的箱式「エレベーター」区分。",
+    "kanjiNote": "外来语，用片假名书写，末尾有长音。",
+    "cloze": {
+      "before": "",
+      "answer": "エスカレーター",
+      "after": "の前に人が並んでいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1028580",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "escalator"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c012",
+    "word": "エレベーター",
+    "reading": "エレベーター",
+    "category": "名词",
+    "meaning": "电梯；升降电梯",
+    "example": [
+      [
+        "荷物",
+        "にもつ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "重",
+        "おも"
+      ],
+      [
+        "いので、エレベーターを"
+      ],
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "因为行李重，所以坐电梯。",
+    "tip": "可说「エレベーターに乗る」。",
+    "kanjiNote": "外来语；保留「ベー」和末尾长音。",
+    "cloze": {
+      "before": "荷物が重いので、",
+      "answer": "エレベーター",
+      "after": "を使います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1030630",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "elevator",
+          "lift"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c013",
+    "word": "ホーム",
+    "reading": "ホーム",
+    "category": "名词",
+    "meaning": "站台",
+    "example": [
+      [
+        "ホームで"
+      ],
+      [
+        "次",
+        "つぎ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "電車",
+        "でんしゃ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "待",
+        "ま"
+      ],
+      [
+        "ちます。"
+      ]
+    ],
+    "translation": "在站台等下一班电车。",
+    "tip": "本课限定车站站台义，不是英语的家。",
+    "kanjiNote": "无汉字；是「プラットホーム」的缩略。",
+    "cloze": {
+      "before": "",
+      "answer": "ホーム",
+      "after": "で次の電車を待ちます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1121740",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "platform"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c014",
+    "word": "バス停",
+    "reading": "バスてい",
+    "category": "名词",
+    "meaning": "公交车站",
+    "example": [
+      [
+        "バス停",
+        "バスてい"
+      ],
+      [
+        "まで"
+      ],
+      [
+        "歩",
+        "ある"
+      ],
+      [
+        "いて"
+      ],
+      [
+        "五分",
+        "ごふん"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "走到公交车站要五分钟。",
+    "tip": "「バス停で待つ」表示在站点等车。",
+    "kanjiNote": "「停」读「てい」，前半保留片假名。",
+    "cloze": {
+      "before": "",
+      "answer": "バス停",
+      "after": "まで歩いて五分です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1098580",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "bus stop"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c015",
+    "word": "タクシー",
+    "reading": "タクシー",
+    "category": "名词",
+    "meaning": "出租车",
+    "example": [
+      [
+        "雨",
+        "あめ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "強",
+        "つよ"
+      ],
+      [
+        "いので、タクシーを"
+      ],
+      [
+        "呼",
+        "よ"
+      ],
+      [
+        "びます。"
+      ]
+    ],
+    "translation": "雨很大，所以叫出租车。",
+    "tip": "叫车常用「タクシーを呼ぶ」。",
+    "kanjiNote": "外来语；末尾「シー」为长音。",
+    "cloze": {
+      "before": "雨が強いので、",
+      "answer": "タクシー",
+      "after": "を呼びます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1076190",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "taxi"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c016",
+    "word": "料金",
+    "reading": "りょうきん",
+    "category": "名词",
+    "meaning": "费用；收费",
+    "example": [
+      [
+        "料金",
+        "りょうきん"
+      ],
+      [
+        "は"
+      ],
+      [
+        "入口",
+        "いりぐち"
+      ],
+      [
+        "で"
+      ],
+      [
+        "払",
+        "はら"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "在入口付款。",
+    "tip": "适用于服务、交通、设施等收费。",
+    "kanjiNote": "「金」在此读「きん」，不是「かね」。",
+    "cloze": {
+      "before": "",
+      "answer": "料金",
+      "after": "は入口で払います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1554280",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "fee",
+          "charge",
+          "fare"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c017",
+    "word": "運賃",
+    "reading": "うんちん",
+    "category": "名词",
+    "meaning": "车费；交通票价",
+    "example": [
+      [
+        "このバスの"
+      ],
+      [
+        "運賃",
+        "うんちん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "調",
+        "しら"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "查一下这班公交车的票价。",
+    "tip": "偏向运输本身的票价，与附加费用区分。",
+    "kanjiNote": "「賃」与使用或运输的费用有关。",
+    "cloze": {
+      "before": "このバスの",
+      "answer": "運賃",
+      "after": "を調べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1172820",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(passenger) fare"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c018",
+    "word": "乗り換え",
+    "reading": "のりかえ",
+    "category": "名词・サ变动词",
+    "meaning": "换乘",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "では"
+      ],
+      [
+        "乗り換え",
+        "のりかえ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "簡単",
+        "かんたん"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "在这个车站换乘很方便。",
+    "tip": "本课为名词；动词形式是「乗り換える」。",
+    "kanjiNote": "「換」表示更换，注意「乗り」的送假名。",
+    "cloze": {
+      "before": "この駅では",
+      "answer": "乗り換え",
+      "after": "が簡単です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1600460",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "transfer (trains, buses, etc.)",
+          "change",
+          "connection"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c019",
+    "word": "終点",
+    "reading": "しゅうてん",
+    "category": "名词",
+    "meaning": "终点站",
+    "example": [
+      [
+        "バスの"
+      ],
+      [
+        "終点",
+        "しゅうてん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "降",
+        "お"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "在公交车终点站下车。",
+    "tip": "「終点まで」表示一直到终点。",
+    "kanjiNote": "「終」指结束，「点」指地点。",
+    "cloze": {
+      "before": "バスの",
+      "answer": "終点",
+      "after": "で降ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1332950",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "terminus",
+          "last stop (e.g. train)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c020",
+    "word": "始発",
+    "reading": "しはつ",
+    "category": "名词",
+    "meaning": "当天首班车",
+    "example": [
+      [
+        "始発",
+        "しはつ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "乗",
+        "の"
+      ],
+      [
+        "るために"
+      ],
+      [
+        "早",
+        "はや"
+      ],
+      [
+        "く"
+      ],
+      [
+        "起",
+        "お"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "为了赶首班车，早早起床了。",
+    "tip": "也可指始发站发车；本句是当天第一班。",
+    "kanjiNote": "「始」表示开始，「発」表示出发。",
+    "cloze": {
+      "before": "",
+      "answer": "始発",
+      "after": "に乗るために早く起きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1307610",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "first departure (of the day)",
+          "first train",
+          "first bus"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c021",
+    "word": "終電",
+    "reading": "しゅうでん",
+    "category": "名词",
+    "meaning": "末班电车",
+    "example": [
+      [
+        "終電",
+        "しゅうでん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "時間",
+        "じかん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "確認",
+        "かくにん"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "确认了末班电车的时间。",
+    "tip": "「終電を逃す」指没赶上末班电车。",
+    "kanjiNote": "「終電車」的缩略，不用于末班公交车。",
+    "cloze": {
+      "before": "",
+      "answer": "終電",
+      "after": "の時間を確認しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1332960",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "last train (of the day)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c022",
+    "word": "時刻表",
+    "reading": "じこくひょう",
+    "category": "名词",
+    "meaning": "时刻表",
+    "example": [
+      [
+        "時刻表",
+        "じこくひょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "壁",
+        "かべ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "貼",
+        "は"
+      ],
+      [
+        "ってあります。"
+      ]
+    ],
+    "translation": "时刻表贴在墙上。",
+    "tip": "用于列车、公交等出发到达时间表。",
+    "kanjiNote": "「時刻」是具体时点，「表」为表格。",
+    "cloze": {
+      "before": "",
+      "answer": "時刻表",
+      "after": "は壁に貼ってあります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1316230",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "timetable",
+          "schedule"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c023",
+    "word": "遅延",
+    "reading": "ちえん",
+    "category": "名词・サ变动词",
+    "meaning": "延误；延迟",
+    "example": [
+      [
+        "遅延",
+        "ちえん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "案内",
+        "あんない"
+      ],
+      [
+        "を"
+      ],
+      [
+        "聞",
+        "き"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "听到了延误通知。",
+    "tip": "交通通知里常见「遅延しています」。",
+    "kanjiNote": "「遅」指迟，「延」指延后。",
+    "cloze": {
+      "before": "",
+      "answer": "遅延",
+      "after": "の案内を聞きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1422030",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "delay",
+          "latency"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c024",
+    "word": "運転",
+    "reading": "うんてん",
+    "category": "名词・サ变动词",
+    "meaning": "驾驶",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "での"
+      ],
+      [
+        "運転",
+        "うんてん"
+      ],
+      [
+        "は"
+      ],
+      [
+        "難",
+        "むずか"
+      ],
+      [
+        "しいです。"
+      ]
+    ],
+    "translation": "在这条路上开车很难。",
+    "tip": "说驾驶车辆用「車を運転する」。",
+    "kanjiNote": "此处取驾驶义，词中「転」读「てん」。",
+    "cloze": {
+      "before": "この道での",
+      "answer": "運転",
+      "after": "は難しいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1172830",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "driving (a vehicle)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c025",
+    "word": "信号",
+    "reading": "しんごう",
+    "category": "名词",
+    "meaning": "交通信号灯",
+    "example": [
+      [
+        "信号",
+        "しんごう"
+      ],
+      [
+        "が"
+      ],
+      [
+        "赤",
+        "あか"
+      ],
+      [
+        "なので、ここで"
+      ],
+      [
+        "待",
+        "ま"
+      ],
+      [
+        "ちます。"
+      ]
+    ],
+    "translation": "红灯亮着，所以在这里等。",
+    "tip": "交通语境中「青信号」通常指绿灯。",
+    "kanjiNote": "这里不是通信信号，而是交通灯。",
+    "cloze": {
+      "before": "",
+      "answer": "信号",
+      "after": "が赤なので、ここで待ちます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1359240",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "traffic light",
+          "traffic signal"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c026",
+    "word": "交差点",
+    "reading": "こうさてん",
+    "category": "名词",
+    "meaning": "十字路口；交叉路口",
+    "example": [
+      [
+        "交差点",
+        "こうさてん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "右",
+        "みぎ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "曲",
+        "ま"
+      ],
+      [
+        "がってください。"
+      ]
+    ],
+    "translation": "请在路口右转。",
+    "tip": "方向说明常用「交差点を右に曲がる」。",
+    "kanjiNote": "「交差」是相交，「点」是位置。",
+    "cloze": {
+      "before": "",
+      "answer": "交差点",
+      "after": "を右に曲がってください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1592970",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "crossing",
+          "intersection"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c027",
+    "word": "横断歩道",
+    "reading": "おうだんほどう",
+    "category": "名词",
+    "meaning": "人行横道",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "横断歩道",
+        "おうだんほどう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "渡",
+        "わた"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "从这条人行横道过马路。",
+    "tip": "过人行横道用「横断歩道を渡る」。",
+    "kanjiNote": "「横断」为横穿，「歩道」为步行道路。",
+    "cloze": {
+      "before": "この",
+      "answer": "横断歩道",
+      "after": "を渡ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1180910",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "pedestrian crossing",
+          "crosswalk"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c028",
+    "word": "歩道",
+    "reading": "ほどう",
+    "category": "名词",
+    "meaning": "人行道",
+    "example": [
+      [
+        "歩道",
+        "ほどう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "端",
+        "はし"
+      ],
+      [
+        "に"
+      ],
+      [
+        "花",
+        "はな"
+      ],
+      [
+        "が"
+      ],
+      [
+        "咲",
+        "さ"
+      ],
+      [
+        "いています。"
+      ]
+    ],
+    "translation": "人行道边开着花。",
+    "tip": "区别于横过道路的「横断歩道」。",
+    "kanjiNote": "「歩」在这里读「ほ」。",
+    "cloze": {
+      "before": "",
+      "answer": "歩道",
+      "after": "の端に花が咲いています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1514420",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "footpath",
+          "walkway",
+          "sidewalk",
+          "pavement"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c029",
+    "word": "橋",
+    "reading": "はし",
+    "category": "名词",
+    "meaning": "桥",
+    "example": [
+      [
+        "橋",
+        "はし"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "から"
+      ],
+      [
+        "川",
+        "かわ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "从桥上看了河流。",
+    "tip": "同音词有「箸」，书写和语境帮助区分。",
+    "kanjiNote": "左侧是木字旁，不要写成「箸」。",
+    "cloze": {
+      "before": "",
+      "answer": "橋",
+      "after": "の上から川を見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1237410",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "bridge"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c030",
+    "word": "港",
+    "reading": "みなと",
+    "category": "名词",
+    "meaning": "港口",
+    "example": [
+      [
+        "港",
+        "みなと"
+      ],
+      [
+        "に"
+      ],
+      [
+        "大",
+        "おお"
+      ],
+      [
+        "きな"
+      ],
+      [
+        "船",
+        "ふね"
+      ],
+      [
+        "が"
+      ],
+      [
+        "来",
+        "き"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "港口来了一艘大船。",
+    "tip": "常见搭配「港に着く」表示到港。",
+    "kanjiNote": "此处是独立名词「みなと」。",
+    "cloze": {
+      "before": "",
+      "answer": "港",
+      "after": "に大きな船が来ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1279990",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "harbour",
+          "harbor",
+          "port"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c031",
+    "word": "船",
+    "reading": "ふね",
+    "category": "名词",
+    "meaning": "船；船只",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "船",
+        "ふね"
+      ],
+      [
+        "で"
+      ],
+      [
+        "島",
+        "しま"
+      ],
+      [
+        "へ"
+      ],
+      [
+        "行",
+        "い"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "坐这艘船去岛上。",
+    "tip": "乘船说「船に乗る」，方式说「船で」。",
+    "kanjiNote": "本课用常见写法「船」。",
+    "cloze": {
+      "before": "この",
+      "answer": "船",
+      "after": "で島へ行きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1602800",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "ship",
+          "boat",
+          "watercraft",
+          "vessel",
+          "seaplane"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c032",
+    "word": "駐車場",
+    "reading": "ちゅうしゃじょう",
+    "category": "名词",
+    "meaning": "停车场",
+    "example": [
+      [
+        "駐車場",
+        "ちゅうしゃじょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "建物",
+        "たてもの"
+      ],
+      [
+        "の"
+      ],
+      [
+        "裏",
+        "うら"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "停车场在建筑物后面。",
+    "tip": "与自行车停放处「駐輪場」不同。",
+    "kanjiNote": "「駐車」为停车，「場」为场所。",
+    "cloze": {
+      "before": "",
+      "answer": "駐車場",
+      "after": "は建物の裏です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1426920",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "parking lot",
+          "car park",
+          "carpark",
+          "parking garage"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c033",
+    "word": "渋滞",
+    "reading": "じゅうたい",
+    "category": "名词・サ变动词",
+    "meaning": "堵车；交通拥堵",
+    "example": [
+      [
+        "渋滞",
+        "じゅうたい"
+      ],
+      [
+        "でバスが"
+      ],
+      [
+        "遅",
+        "おく"
+      ],
+      [
+        "れています。"
+      ]
+    ],
+    "translation": "因为堵车，公交车晚点了。",
+    "tip": "「渋滞で」可以说明交通延误原因。",
+    "kanjiNote": "「じゅう」为长音，不读成「じゅ」。",
+    "cloze": {
+      "before": "",
+      "answer": "渋滞",
+      "after": "でバスが遅れています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1335570",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(traffic) congestion",
+          "traffic jam",
+          "gridlock"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c034",
+    "word": "往復",
+    "reading": "おうふく",
+    "category": "名词・サ变动词",
+    "meaning": "往返",
+    "example": [
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "まで"
+      ],
+      [
+        "往復",
+        "おうふく"
+      ],
+      [
+        "で"
+      ],
+      [
+        "一時間",
+        "いちじかん"
+      ],
+      [
+        "かかります。"
+      ]
+    ],
+    "translation": "到车站往返需要一小时。",
+    "tip": "只去一程是「片道」，来回是「往復」。",
+    "kanjiNote": "「往」为去，「復」为返回。",
+    "cloze": {
+      "before": "駅まで",
+      "answer": "往復",
+      "after": "で一時間かかります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1179760",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "making a round trip",
+          "going and returning",
+          "coming and going"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c035",
+    "word": "山",
+    "reading": "やま",
+    "category": "名词",
+    "meaning": "山",
+    "example": [
+      [
+        "山",
+        "やま"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "雪",
+        "ゆき"
+      ],
+      [
+        "が"
+      ],
+      [
+        "残",
+        "のこ"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "山顶还留着雪。",
+    "tip": "独立名词读「やま」；山名读法须另查。",
+    "kanjiNote": "字形可联想到山峰，但名称中的读法不固定。",
+    "cloze": {
+      "before": "",
+      "answer": "山",
+      "after": "の上に雪が残っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1302680",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "mountain",
+          "hill"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c036",
+    "word": "川",
+    "reading": "かわ",
+    "category": "名词",
+    "meaning": "河流",
+    "example": [
+      [
+        "川",
+        "かわ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "沿",
+        "そ"
+      ],
+      [
+        "って"
+      ],
+      [
+        "歩",
+        "ある"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "沿着河走了一段。",
+    "tip": "「川に沿って」表示沿河。",
+    "kanjiNote": "独立读「かわ」，部分河名中会读「がわ」。",
+    "cloze": {
+      "before": "",
+      "answer": "川",
+      "after": "に沿って歩きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1390020",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "river",
+          "stream"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c037",
+    "word": "海",
+    "reading": "うみ",
+    "category": "名词",
+    "meaning": "海；海洋",
+    "example": [
+      [
+        "ホテルから"
+      ],
+      [
+        "海",
+        "うみ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "从酒店能看到海。",
+    "tip": "可说「海で泳ぐ」，地点用「で」。",
+    "kanjiNote": "三点水旁；此处读「うみ」。",
+    "cloze": {
+      "before": "ホテルから",
+      "answer": "海",
+      "after": "が見えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1201190",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "sea",
+          "ocean",
+          "waters"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c038",
+    "word": "湖",
+    "reading": "みずうみ",
+    "category": "名词",
+    "meaning": "湖",
+    "example": [
+      [
+        "湖",
+        "みずうみ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "周",
+        "まわ"
+      ],
+      [
+        "りを"
+      ],
+      [
+        "散歩",
+        "さんぽ"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "绕着湖散了步。",
+    "tip": "「湖の周り」表示湖周边。",
+    "kanjiNote": "整字训读「みずうみ」，含连续的「ずう」。",
+    "cloze": {
+      "before": "",
+      "answer": "湖",
+      "after": "の周りを散歩しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1267280",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "lake"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c039",
+    "word": "池",
+    "reading": "いけ",
+    "category": "名词",
+    "meaning": "池塘",
+    "example": [
+      [
+        "池",
+        "いけ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "中",
+        "なか"
+      ],
+      [
+        "に"
+      ],
+      [
+        "魚",
+        "さかな"
+      ],
+      [
+        "がいます。"
+      ]
+    ],
+    "translation": "池塘里有鱼。",
+    "tip": "活鱼的存在用「いる」，不是「ある」。",
+    "kanjiNote": "三点水旁，与「地」形近但部首不同。",
+    "cloze": {
+      "before": "",
+      "answer": "池",
+      "after": "の中に魚がいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1421700",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "pond"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c040",
+    "word": "森",
+    "reading": "もり",
+    "category": "名词",
+    "meaning": "森林",
+    "example": [
+      [
+        "森",
+        "もり"
+      ],
+      [
+        "の"
+      ],
+      [
+        "中",
+        "なか"
+      ],
+      [
+        "は"
+      ],
+      [
+        "静",
+        "しず"
+      ],
+      [
+        "かでした。"
+      ]
+    ],
+    "translation": "森林里面很安静。",
+    "tip": "「森の中」表示林中。",
+    "kanjiNote": "三个「木」组成，可与「林」一起记。",
+    "cloze": {
+      "before": "",
+      "answer": "森",
+      "after": "の中は静かでした。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1362490",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "forest"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c041",
+    "word": "林",
+    "reading": "はやし",
+    "category": "名词",
+    "meaning": "树林",
+    "example": [
+      [
+        "林",
+        "はやし"
+      ],
+      [
+        "を"
+      ],
+      [
+        "抜",
+        "ぬ"
+      ],
+      [
+        "けると、"
+      ],
+      [
+        "海",
+        "うみ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "穿过树林就能看到海。",
+    "tip": "本课指树木聚集的地方，不是人名。",
+    "kanjiNote": "两个「木」组成，注意与「森」区分。",
+    "cloze": {
+      "before": "",
+      "answer": "林",
+      "after": "を抜けると、海が見えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1555440",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "wood",
+          "woods",
+          "forest",
+          "grove",
+          "copse",
+          "thicket"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c042",
+    "word": "島",
+    "reading": "しま",
+    "category": "名词",
+    "meaning": "岛屿",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "島",
+        "しま"
+      ],
+      [
+        "には"
+      ],
+      [
+        "小",
+        "ちい"
+      ],
+      [
+        "さな"
+      ],
+      [
+        "村",
+        "むら"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "这座岛上有个小村庄。",
+    "tip": "岛名的读法可能不同，不一律套用「しま」。",
+    "kanjiNote": "上部易与「鳥」混淆，下部是「山」。",
+    "cloze": {
+      "before": "この",
+      "answer": "島",
+      "after": "には小さな村があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1446760",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "island"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c043",
+    "word": "空",
+    "reading": "そら",
+    "category": "名词",
+    "meaning": "天空",
+    "example": [
+      [
+        "空",
+        "そら"
+      ],
+      [
+        "がだんだん"
+      ],
+      [
+        "暗",
+        "くら"
+      ],
+      [
+        "くなりました。"
+      ]
+    ],
+    "translation": "天渐渐暗了下来。",
+    "tip": "此处读「そら」；读「から」时是空的意思。",
+    "kanjiNote": "同一个「空」字有不同词和读音。",
+    "cloze": {
+      "before": "",
+      "answer": "空",
+      "after": "がだんだん暗くなりました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1245290",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "sky",
+          "the air",
+          "the heavens"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c044",
+    "word": "雲",
+    "reading": "くも",
+    "category": "名词",
+    "meaning": "云",
+    "example": [
+      [
+        "白",
+        "しろ"
+      ],
+      [
+        "い"
+      ],
+      [
+        "雲",
+        "くも"
+      ],
+      [
+        "がゆっくり"
+      ],
+      [
+        "流",
+        "なが"
+      ],
+      [
+        "れています。"
+      ]
+    ],
+    "translation": "白云缓缓飘动着。",
+    "tip": "「雲が流れる」可描述云移动。",
+    "kanjiNote": "上部为雨字头；与「蜘蛛」同音。",
+    "cloze": {
+      "before": "白い",
+      "answer": "雲",
+      "after": "がゆっくり流れています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1173100",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "cloud"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c045",
+    "word": "星",
+    "reading": "ほし",
+    "category": "名词",
+    "meaning": "星；星星",
+    "example": [
+      [
+        "ここでは"
+      ],
+      [
+        "夜",
+        "よる"
+      ],
+      [
+        "に"
+      ],
+      [
+        "星",
+        "ほし"
+      ],
+      [
+        "がよく"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "这里晚上能清楚地看到星星。",
+    "tip": "「星を見る」是看星星，「星が見える」是能看见。",
+    "kanjiNote": "上「日」下「生」，不要与「晴」混写。",
+    "cloze": {
+      "before": "ここでは夜に",
+      "answer": "星",
+      "after": "がよく見えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1376310",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "star (usu. excluding the Sun)",
+          "planet (usu. excluding Earth)",
+          "heavenly body"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c046",
+    "word": "太陽",
+    "reading": "たいよう",
+    "category": "名词",
+    "meaning": "太阳",
+    "example": [
+      [
+        "太陽",
+        "たいよう"
+      ],
+      [
+        "が"
+      ],
+      [
+        "雲",
+        "くも"
+      ],
+      [
+        "の"
+      ],
+      [
+        "後",
+        "うし"
+      ],
+      [
+        "ろに"
+      ],
+      [
+        "隠",
+        "かく"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "太阳躲到了云后。",
+    "tip": "「日」也可指太阳，但此词指称更明确。",
+    "kanjiNote": "两个字都按音读，末尾「よう」为长音。",
+    "cloze": {
+      "before": "",
+      "answer": "太陽",
+      "after": "が雲の後ろに隠れました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1408370",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "Sun"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c047",
+    "word": "朝日",
+    "reading": "あさひ",
+    "category": "名词",
+    "meaning": "朝阳；早晨的太阳",
+    "example": [
+      [
+        "朝日",
+        "あさひ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "窓",
+        "まど"
+      ],
+      [
+        "から"
+      ],
+      [
+        "入",
+        "はい"
+      ],
+      [
+        "ってきます。"
+      ]
+    ],
+    "translation": "朝阳从窗外照进来。",
+    "tip": "与傍晚太阳「夕日」相对。",
+    "kanjiNote": "此处是普通名词，不是同写法的专名。",
+    "cloze": {
+      "before": "",
+      "answer": "朝日",
+      "after": "が窓から入ってきます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1428500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "morning sun"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c048",
+    "word": "夕日",
+    "reading": "ゆうひ",
+    "category": "名词",
+    "meaning": "夕阳",
+    "example": [
+      [
+        "橋",
+        "はし"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "夕日",
+        "ゆうひ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "眺",
+        "なが"
+      ],
+      [
+        "めました。"
+      ]
+    ],
+    "translation": "在桥上看了夕阳。",
+    "tip": "「夕日を見る／眺める」都可表达欣赏夕阳。",
+    "kanjiNote": "「夕」读长音「ゆう」，不要读成「ゆ」。",
+    "cloze": {
+      "before": "橋の上で",
+      "answer": "夕日",
+      "after": "を眺めました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1542750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "evening sun",
+          "setting sun"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c049",
+    "word": "花",
+    "reading": "はな",
+    "category": "名词",
+    "meaning": "花；花朵",
+    "example": [
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "の"
+      ],
+      [
+        "両側",
+        "りょうがわ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "花",
+        "はな"
+      ],
+      [
+        "が"
+      ],
+      [
+        "咲",
+        "さ"
+      ],
+      [
+        "いています。"
+      ]
+    ],
+    "translation": "路的两旁开着花。",
+    "tip": "花开用「花が咲く」。",
+    "kanjiNote": "草字头；与「鼻」读音相同但字义不同。",
+    "cloze": {
+      "before": "道の両側に",
+      "answer": "花",
+      "after": "が咲いています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1194500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "flower",
+          "blossom",
+          "bloom",
+          "petal"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c050",
+    "word": "草",
+    "reading": "くさ",
+    "category": "名词",
+    "meaning": "草",
+    "example": [
+      [
+        "雨",
+        "あめ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "草",
+        "くさ"
+      ],
+      [
+        "がぬれています。"
+      ]
+    ],
+    "translation": "雨后草湿了。",
+    "tip": "本课学植物义，网络用法另有含义。",
+    "kanjiNote": "草字头，读「くさ」。",
+    "cloze": {
+      "before": "雨の後で",
+      "answer": "草",
+      "after": "がぬれています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1401910",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "grass",
+          "weed",
+          "herb",
+          "thatch"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c051",
+    "word": "木",
+    "reading": "き",
+    "category": "名词",
+    "meaning": "树",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "木",
+        "き"
+      ],
+      [
+        "の"
+      ],
+      [
+        "下",
+        "した"
+      ],
+      [
+        "で"
+      ],
+      [
+        "休",
+        "やす"
+      ],
+      [
+        "みましょう。"
+      ]
+    ],
+    "translation": "在这棵树下休息吧。",
+    "tip": "这里指活的树，不是木材。",
+    "kanjiNote": "单字读「き」；与「本」只差一横。",
+    "cloze": {
+      "before": "この",
+      "answer": "木",
+      "after": "の下で休みましょう。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1534520",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "tree",
+          "shrub",
+          "bush"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c052",
+    "word": "葉",
+    "reading": "は",
+    "category": "名词",
+    "meaning": "叶子",
+    "example": [
+      [
+        "秋",
+        "あき"
+      ],
+      [
+        "になると、"
+      ],
+      [
+        "葉",
+        "は"
+      ],
+      [
+        "の"
+      ],
+      [
+        "色",
+        "いろ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "変",
+        "か"
+      ],
+      [
+        "わります。"
+      ]
+    ],
+    "translation": "到了秋天，叶子的颜色会改变。",
+    "tip": "也常说「葉っぱ」，更口语化。",
+    "kanjiNote": "草字头；和「歯」同音但意思不同。",
+    "cloze": {
+      "before": "秋になると、",
+      "answer": "葉",
+      "after": "の色が変わります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1546550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "leaf",
+          "blade (of grass)",
+          "(pine) needle",
+          "frond",
+          "foliage"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c053",
+    "word": "枝",
+    "reading": "えだ",
+    "category": "名词",
+    "meaning": "树枝",
+    "example": [
+      [
+        "鳥",
+        "とり"
+      ],
+      [
+        "が"
+      ],
+      [
+        "枝",
+        "えだ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "止",
+        "と"
+      ],
+      [
+        "まっています。"
+      ]
+    ],
+    "translation": "鸟停在树枝上。",
+    "tip": "鸟停在树枝上用「枝に止まる」。",
+    "kanjiNote": "木字旁，右侧为「支」。",
+    "cloze": {
+      "before": "鳥が",
+      "answer": "枝",
+      "after": "に止まっています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1310530",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "branch",
+          "bough",
+          "limb",
+          "twig",
+          "sprig",
+          "spray"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c054",
+    "word": "根",
+    "reading": "ね",
+    "category": "名词",
+    "meaning": "根；植物的根",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "木",
+        "き"
+      ],
+      [
+        "の"
+      ],
+      [
+        "根",
+        "ね"
+      ],
+      [
+        "は"
+      ],
+      [
+        "太",
+        "ふと"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这棵树的根很粗。",
+    "tip": "本课限定植物的根义。",
+    "kanjiNote": "木字旁，注意与「銀」的部首区分。",
+    "cloze": {
+      "before": "この木の",
+      "answer": "根",
+      "after": "は太いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1290020",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "root (of a plant)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c055",
+    "word": "土",
+    "reading": "つち",
+    "category": "名词",
+    "meaning": "土；土壤",
+    "example": [
+      [
+        "雨",
+        "あめ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "土",
+        "つち"
+      ],
+      [
+        "が"
+      ],
+      [
+        "柔",
+        "やわ"
+      ],
+      [
+        "らかくなりました。"
+      ]
+    ],
+    "translation": "下雨后土变软了。",
+    "tip": "这里读「つち」，不是星期简称的「ど」。",
+    "kanjiNote": "下横比上横长，与「士」区分。",
+    "cloze": {
+      "before": "雨で",
+      "answer": "土",
+      "after": "が柔らかくなりました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1445270",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "earth",
+          "soil",
+          "dirt",
+          "clay",
+          "mud"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c056",
+    "word": "石",
+    "reading": "いし",
+    "category": "名词",
+    "meaning": "石头",
+    "example": [
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "に"
+      ],
+      [
+        "小",
+        "ちい"
+      ],
+      [
+        "さな"
+      ],
+      [
+        "石",
+        "いし"
+      ],
+      [
+        "が"
+      ],
+      [
+        "落",
+        "お"
+      ],
+      [
+        "ちています。"
+      ]
+    ],
+    "translation": "路上落着小石头。",
+    "tip": "本课是普通石头，不是计量单位。",
+    "kanjiNote": "本课独立名词读「いし」，与计量单位的读音不同。",
+    "cloze": {
+      "before": "道に小さな",
+      "answer": "石",
+      "after": "が落ちています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1382440",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "stone",
+          "rock",
+          "pebble"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c057",
+    "word": "砂",
+    "reading": "すな",
+    "category": "名词",
+    "meaning": "沙；沙子",
+    "example": [
+      [
+        "靴",
+        "くつ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "中",
+        "なか"
+      ],
+      [
+        "に"
+      ],
+      [
+        "砂",
+        "すな"
+      ],
+      [
+        "が"
+      ],
+      [
+        "入",
+        "はい"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "鞋子里进了沙子。",
+    "tip": "「砂が入る」描述沙子进入某处。",
+    "kanjiNote": "石字旁加「少」，读「すな」。",
+    "cloze": {
+      "before": "靴の中に",
+      "answer": "砂",
+      "after": "が入りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1291500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "sand",
+          "grit",
+          "fine gravel"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c058",
+    "word": "波",
+    "reading": "なみ",
+    "category": "名词",
+    "meaning": "波浪",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "波",
+        "なみ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "高",
+        "たか"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "今天浪很高。",
+    "tip": "描述浪高常用「波が高い」。",
+    "kanjiNote": "三点水旁，右侧为「皮」。",
+    "cloze": {
+      "before": "今日は",
+      "answer": "波",
+      "after": "が高いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1470970",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "wave",
+          "billow",
+          "ripple",
+          "breaker",
+          "swell"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c059",
+    "word": "岸",
+    "reading": "きし",
+    "category": "名词",
+    "meaning": "岸；水边",
+    "example": [
+      [
+        "船",
+        "ふね"
+      ],
+      [
+        "が"
+      ],
+      [
+        "岸",
+        "きし"
+      ],
+      [
+        "に"
+      ],
+      [
+        "近",
+        "ちか"
+      ],
+      [
+        "づいています。"
+      ]
+    ],
+    "translation": "船正在靠近岸边。",
+    "tip": "河岸、湖岸、海岸都可用此词。",
+    "kanjiNote": "上部「山」、下部含「干」，注意结构。",
+    "cloze": {
+      "before": "船が",
+      "answer": "岸",
+      "after": "に近づいています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1217040",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "bank",
+          "coast",
+          "shore"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c060",
+    "word": "景色",
+    "reading": "けしき",
+    "category": "名词",
+    "meaning": "景色；风景",
+    "example": [
+      [
+        "ここからの"
+      ],
+      [
+        "景色",
+        "けしき"
+      ],
+      [
+        "が"
+      ],
+      [
+        "好",
+        "す"
+      ],
+      [
+        "きです。"
+      ]
+    ],
+    "translation": "我喜欢从这里看到的景色。",
+    "tip": "「ここからの景色」是从这里望出去的风景。",
+    "kanjiNote": "常用读音「けしき」，不可按单字硬拼。",
+    "cloze": {
+      "before": "ここからの",
+      "answer": "景色",
+      "after": "が好きです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1250870",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "scenery",
+          "scene",
+          "landscape"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c061",
+    "word": "季節",
+    "reading": "きせつ",
+    "category": "名词",
+    "meaning": "季节",
+    "example": [
+      [
+        "私",
+        "わたし"
+      ],
+      [
+        "はこの"
+      ],
+      [
+        "季節",
+        "きせつ"
+      ],
+      [
+        "がいちばん"
+      ],
+      [
+        "好",
+        "す"
+      ],
+      [
+        "きです。"
+      ]
+    ],
+    "translation": "我最喜欢这个季节。",
+    "tip": "可说「好きな季節」表示喜欢的季节。",
+    "kanjiNote": "「季」和「節」都与季节、时节相关。",
+    "cloze": {
+      "before": "私はこの",
+      "answer": "季節",
+      "after": "がいちばん好きです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1222840",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "season",
+          "time of year"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c062",
+    "word": "気温",
+    "reading": "きおん",
+    "category": "名词",
+    "meaning": "气温",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "と"
+      ],
+      [
+        "夜",
+        "よる"
+      ],
+      [
+        "で"
+      ],
+      [
+        "気温",
+        "きおん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "違",
+        "ちが"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "早晚气温不同。",
+    "tip": "表示空气温度，不是体温。",
+    "kanjiNote": "「温」有三点水，不要写成「湿」。",
+    "cloze": {
+      "before": "朝と夜で",
+      "answer": "気温",
+      "after": "が違います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1221950",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(air) temperature"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c063",
+    "word": "湿度",
+    "reading": "しつど",
+    "category": "名词",
+    "meaning": "湿度",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "湿度",
+        "しつど"
+      ],
+      [
+        "が"
+      ],
+      [
+        "高",
+        "たか"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "今天湿度很高。",
+    "tip": "湿度高低用「高い／低い」。",
+    "kanjiNote": "「湿」指湿润，「度」指程度或数值。",
+    "cloze": {
+      "before": "今日は",
+      "answer": "湿度",
+      "after": "が高いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1320490",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "humidity"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c064",
+    "word": "台風",
+    "reading": "たいふう",
+    "category": "名词",
+    "meaning": "台风",
+    "example": [
+      [
+        "台風",
+        "たいふう"
+      ],
+      [
+        "のため、"
+      ],
+      [
+        "船",
+        "ふね"
+      ],
+      [
+        "は"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "ません。"
+      ]
+    ],
+    "translation": "由于台风，船不开了。",
+    "tip": "正式说明原因时可用「台風のため」。",
+    "kanjiNote": "日语常用简体字形「台」，末尾「ふう」为长音。",
+    "cloze": {
+      "before": "",
+      "answer": "台風",
+      "after": "のため、船は出ません。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1596780",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "typhoon",
+          "hurricane"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c065",
+    "word": "雷",
+    "reading": "かみなり",
+    "category": "名词",
+    "meaning": "雷；雷电",
+    "example": [
+      [
+        "遠",
+        "とお"
+      ],
+      [
+        "くで"
+      ],
+      [
+        "雷",
+        "かみなり"
+      ],
+      [
+        "が"
+      ],
+      [
+        "鳴",
+        "な"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "远处正在打雷。",
+    "tip": "打雷常说「雷が鳴る」。",
+    "kanjiNote": "雨字头下是「田」，读「かみなり」。",
+    "cloze": {
+      "before": "遠くで",
+      "answer": "雷",
+      "after": "が鳴っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1585060",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "lightning",
+          "thunder",
+          "thunderbolt"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c066",
+    "word": "地震",
+    "reading": "じしん",
+    "category": "名词",
+    "meaning": "地震",
+    "example": [
+      [
+        "地震",
+        "じしん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "棚",
+        "たな"
+      ],
+      [
+        "の"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "落",
+        "お"
+      ],
+      [
+        "ちました。"
+      ]
+    ],
+    "translation": "地震使架子上的书掉了下来。",
+    "tip": "发生地震可说「地震が起きる」。",
+    "kanjiNote": "「地」在这里读「じ」，不是「ち」。",
+    "cloze": {
+      "before": "",
+      "answer": "地震",
+      "after": "で棚の本が落ちました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1421210",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "earthquake"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c067",
+    "word": "晴れ",
+    "reading": "はれ",
+    "category": "名词",
+    "meaning": "晴天",
+    "example": [
+      [
+        "明日",
+        "あした"
+      ],
+      [
+        "は"
+      ],
+      [
+        "晴れ",
+        "はれ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "予報",
+        "よほう"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "天气预报说明天是晴天。",
+    "tip": "这是名词；动词「晴れる」表示放晴。",
+    "kanjiNote": "日字旁加「青」，保留末尾送假名「れ」。",
+    "cloze": {
+      "before": "明日は",
+      "answer": "晴れ",
+      "after": "の予報です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1376460",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "clear weather",
+          "fine weather"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c068",
+    "word": "曇り",
+    "reading": "くもり",
+    "category": "名词",
+    "meaning": "阴天；多云",
+    "example": [
+      [
+        "午前",
+        "ごぜん"
+      ],
+      [
+        "は"
+      ],
+      [
+        "曇り",
+        "くもり"
+      ],
+      [
+        "でしたが、"
+      ],
+      [
+        "今",
+        "いま"
+      ],
+      [
+        "は"
+      ],
+      [
+        "晴",
+        "は"
+      ],
+      [
+        "れています。"
+      ]
+    ],
+    "translation": "上午是阴天，但现在放晴了。",
+    "tip": "天气名词为「曇り」，动词为「曇る」。",
+    "kanjiNote": "上「日」下「雲」，不要只写成「雲」。",
+    "cloze": {
+      "before": "午前は",
+      "answer": "曇り",
+      "after": "でしたが、今は晴れています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1592340",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "cloudiness",
+          "cloudy weather"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c069",
+    "word": "霧",
+    "reading": "きり",
+    "category": "名词",
+    "meaning": "雾",
+    "example": [
+      [
+        "霧",
+        "きり"
+      ],
+      [
+        "で"
+      ],
+      [
+        "向",
+        "む"
+      ],
+      [
+        "こうの"
+      ],
+      [
+        "山",
+        "やま"
+      ],
+      [
+        "が"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "えません。"
+      ]
+    ],
+    "translation": "因为有雾，看不到对面的山。",
+    "tip": "原因用「霧で」；浓雾可说「濃い霧」。",
+    "kanjiNote": "雨字头，下面含「務」，读「きり」。",
+    "cloze": {
+      "before": "",
+      "answer": "霧",
+      "after": "で向こうの山が見えません。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1531110",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "fog",
+          "mist"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c070",
+    "word": "虹",
+    "reading": "にじ",
+    "category": "名词",
+    "meaning": "彩虹",
+    "example": [
+      [
+        "雨",
+        "あめ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "に"
+      ],
+      [
+        "虹",
+        "にじ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "雨后出现了彩虹。",
+    "tip": "彩虹出现常用「虹が出る」。",
+    "kanjiNote": "虫字旁，右侧为「工」，读「にじ」。",
+    "cloze": {
+      "before": "雨の後に",
+      "answer": "虹",
+      "after": "が出ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1463740",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "rainbow"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c071",
+    "word": "頭",
+    "reading": "あたま",
+    "category": "名词",
+    "meaning": "头",
+    "example": [
+      [
+        "帽子",
+        "ぼうし"
+      ],
+      [
+        "を"
+      ],
+      [
+        "脱",
+        "ぬ"
+      ],
+      [
+        "いで、"
+      ],
+      [
+        "頭",
+        "あたま"
+      ],
+      [
+        "を"
+      ],
+      [
+        "下",
+        "さ"
+      ],
+      [
+        "げました。"
+      ]
+    ],
+    "translation": "摘下帽子低头行了礼。",
+    "tip": "「頭を下げる」可表示低头或行礼。",
+    "kanjiNote": "此处读「あたま」，不是量词读音「とう」。",
+    "cloze": {
+      "before": "帽子を脱いで、",
+      "answer": "頭",
+      "after": "を下げました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1582310",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "head"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c072",
+    "word": "顔",
+    "reading": "かお",
+    "category": "名词",
+    "meaning": "脸",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "、"
+      ],
+      [
+        "冷",
+        "つめ"
+      ],
+      [
+        "たい"
+      ],
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "で"
+      ],
+      [
+        "顔",
+        "かお"
+      ],
+      [
+        "を"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "早上用凉水洗脸。",
+    "tip": "洗脸用「顔を洗う」。",
+    "kanjiNote": "右侧「頁」常见于头部相关的字。",
+    "cloze": {
+      "before": "朝、冷たい水で",
+      "answer": "顔",
+      "after": "を洗います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1217730",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "face",
+          "visage",
+          "looks",
+          "(facial) features"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c073",
+    "word": "目",
+    "reading": "め",
+    "category": "名词",
+    "meaning": "眼睛",
+    "example": [
+      [
+        "目",
+        "め"
+      ],
+      [
+        "を"
+      ],
+      [
+        "閉",
+        "と"
+      ],
+      [
+        "じて、"
+      ],
+      [
+        "音楽",
+        "おんがく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "聞",
+        "き"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "闭上眼睛听了音乐。",
+    "tip": "闭眼用「目を閉じる」，睁眼用「目を開ける」。",
+    "kanjiNote": "里面两横，与「日」的一横区别。",
+    "cloze": {
+      "before": "",
+      "answer": "目",
+      "after": "を閉じて、音楽を聞きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1604890",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "eye",
+          "eyeball"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c074",
+    "word": "耳",
+    "reading": "みみ",
+    "category": "名词",
+    "meaning": "耳朵",
+    "example": [
+      [
+        "冷",
+        "つめ"
+      ],
+      [
+        "たい"
+      ],
+      [
+        "風",
+        "かぜ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "耳",
+        "みみ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "痛",
+        "いた"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "冷风吹得耳朵疼。",
+    "tip": "「耳が痛い」可描述耳朵痛，本句是字面义。",
+    "kanjiNote": "「耳」有两处横画伸出，注意笔形。",
+    "cloze": {
+      "before": "冷たい風で",
+      "answer": "耳",
+      "after": "が痛いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1317170",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "ear"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c075",
+    "word": "鼻",
+    "reading": "はな",
+    "category": "名词",
+    "meaning": "鼻子",
+    "example": [
+      [
+        "鼻",
+        "はな"
+      ],
+      [
+        "が"
+      ],
+      [
+        "赤",
+        "あか"
+      ],
+      [
+        "くなっています。"
+      ]
+    ],
+    "translation": "鼻子变红了。",
+    "tip": "与「花」同音，可结合语境区分。",
+    "kanjiNote": "字的上部是「自」，不是「白」。",
+    "cloze": {
+      "before": "",
+      "answer": "鼻",
+      "after": "が赤くなっています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1486720",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "nose"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c076",
+    "word": "口",
+    "reading": "くち",
+    "category": "名词",
+    "meaning": "嘴；口",
+    "example": [
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "に"
+      ],
+      [
+        "言",
+        "い"
+      ],
+      [
+        "われて、"
+      ],
+      [
+        "口",
+        "くち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "開",
+        "あ"
+      ],
+      [
+        "けました。"
+      ]
+    ],
+    "translation": "按医生的要求张开了嘴。",
+    "tip": "医院里「先生」也用于称医生。",
+    "kanjiNote": "单独作身体部位时读「くち」。",
+    "cloze": {
+      "before": "先生に言われて、",
+      "answer": "口",
+      "after": "を開けました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1275640",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "mouth"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c077",
+    "word": "歯",
+    "reading": "は",
+    "category": "名词",
+    "meaning": "牙齿",
+    "example": [
+      [
+        "寝",
+        "ね"
+      ],
+      [
+        "る"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "歯",
+        "は"
+      ],
+      [
+        "を"
+      ],
+      [
+        "磨",
+        "みが"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "睡前刷牙。",
+    "tip": "刷牙的固定搭配是「歯を磨く」。",
+    "kanjiNote": "与叶子的「葉」同音，字形和含义不同。",
+    "cloze": {
+      "before": "寝る前に",
+      "answer": "歯",
+      "after": "を磨きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1313000",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "tooth",
+          "teeth"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c078",
+    "word": "首",
+    "reading": "くび",
+    "category": "名词",
+    "meaning": "脖子",
+    "example": [
+      [
+        "首",
+        "くび"
+      ],
+      [
+        "にマフラーを"
+      ],
+      [
+        "巻",
+        "ま"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "在脖子上围了围巾。",
+    "tip": "本课是身体部位，非解雇的「クビ」。",
+    "kanjiNote": "注意「首」和「自」上部结构不同。",
+    "cloze": {
+      "before": "",
+      "answer": "首",
+      "after": "にマフラーを巻きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1592270",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "neck"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c079",
+    "word": "肩",
+    "reading": "かた",
+    "category": "名词",
+    "meaning": "肩膀",
+    "example": [
+      [
+        "肩",
+        "かた"
+      ],
+      [
+        "に"
+      ],
+      [
+        "小",
+        "ちい"
+      ],
+      [
+        "さなかばんを"
+      ],
+      [
+        "掛",
+        "か"
+      ],
+      [
+        "けています。"
+      ]
+    ],
+    "translation": "肩上挎着一个小包。",
+    "tip": "「肩に掛ける」表示挂在肩上。",
+    "kanjiNote": "下部为「月」，不是「日」。",
+    "cloze": {
+      "before": "",
+      "answer": "肩",
+      "after": "に小さなかばんを掛けています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1258950",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "shoulder"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c080",
+    "word": "腕",
+    "reading": "うで",
+    "category": "名词",
+    "meaning": "手臂",
+    "example": [
+      [
+        "腕",
+        "うで"
+      ],
+      [
+        "をゆっくり"
+      ],
+      [
+        "上",
+        "あ"
+      ],
+      [
+        "げてください。"
+      ]
+    ],
+    "translation": "请慢慢抬起手臂。",
+    "tip": "此处指身体部位，不是本领义。",
+    "kanjiNote": "月字旁，右侧含「宛」。",
+    "cloze": {
+      "before": "",
+      "answer": "腕",
+      "after": "をゆっくり上げてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1562850",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "arm"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c081",
+    "word": "手",
+    "reading": "て",
+    "category": "名词",
+    "meaning": "手",
+    "example": [
+      [
+        "食",
+        "た"
+      ],
+      [
+        "べる"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "手",
+        "て"
+      ],
+      [
+        "を"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "いましょう。"
+      ]
+    ],
+    "translation": "吃东西前洗手吧。",
+    "tip": "「手を洗う」表示洗手。",
+    "kanjiNote": "读「て」，不要与动词「持つ」的字形混淆。",
+    "cloze": {
+      "before": "食べる前に",
+      "answer": "手",
+      "after": "を洗いましょう。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1327190",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "hand",
+          "arm"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c082",
+    "word": "指",
+    "reading": "ゆび",
+    "category": "名词",
+    "meaning": "手指；脚趾",
+    "example": [
+      [
+        "紙",
+        "かみ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "指",
+        "ゆび"
+      ],
+      [
+        "を"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ってしまいました。"
+      ]
+    ],
+    "translation": "不小心被纸划破了手指。",
+    "tip": "脚趾可明确说「足の指」。",
+    "kanjiNote": "提手旁加「旨」，读「ゆび」。",
+    "cloze": {
+      "before": "紙で",
+      "answer": "指",
+      "after": "を切ってしまいました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1309650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "finger",
+          "toe",
+          "digit"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c083",
+    "word": "足",
+    "reading": "あし",
+    "category": "名词",
+    "meaning": "脚；足部",
+    "example": [
+      [
+        "冷",
+        "つめ"
+      ],
+      [
+        "たい"
+      ],
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "に"
+      ],
+      [
+        "足",
+        "あし"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "把脚放进了凉水里。",
+    "tip": "本句是脚部；腿也可用「あし」，有「脚」的写法。",
+    "kanjiNote": "本课取足部义，不是数鞋袜的量词读音。",
+    "cloze": {
+      "before": "冷たい水に",
+      "answer": "足",
+      "after": "を入れました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1404630",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "foot",
+          "paw",
+          "arm (of an octopus, squid, etc.)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c084",
+    "word": "背中",
+    "reading": "せなか",
+    "category": "名词",
+    "meaning": "背；背部",
+    "example": [
+      [
+        "背中",
+        "せなか"
+      ],
+      [
+        "に"
+      ],
+      [
+        "日",
+        "ひ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "当",
+        "あ"
+      ],
+      [
+        "たって"
+      ],
+      [
+        "暖",
+        "あたた"
+      ],
+      [
+        "かいです。"
+      ]
+    ],
+    "translation": "阳光照在背上，暖暖的。",
+    "tip": "「背中に」可标记背部的位置。",
+    "kanjiNote": "「背」读「せ」，「中」读「なか」。",
+    "cloze": {
+      "before": "",
+      "answer": "背中",
+      "after": "に日が当たって暖かいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1472800",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "back (of the body)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c085",
+    "word": "お腹",
+    "reading": "おなか",
+    "category": "名词",
+    "meaning": "肚子；腹部",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "から"
+      ],
+      [
+        "お腹",
+        "おなか"
+      ],
+      [
+        "が"
+      ],
+      [
+        "痛",
+        "いた"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "从早上起肚子就疼。",
+    "tip": "「お腹がすく」是肚子饿，与疼痛不同。",
+    "kanjiNote": "「お」为礼貌前缀，整体读「おなか」。",
+    "cloze": {
+      "before": "朝から",
+      "answer": "お腹",
+      "after": "が痛いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1002610",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "belly",
+          "abdomen",
+          "stomach"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c086",
+    "word": "心臓",
+    "reading": "しんぞう",
+    "category": "名词",
+    "meaning": "心脏",
+    "example": [
+      [
+        "走",
+        "はし"
+      ],
+      [
+        "った"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "、"
+      ],
+      [
+        "心臓",
+        "しんぞう"
+      ],
+      [
+        "がどきどきしました。"
+      ]
+    ],
+    "translation": "跑步后心脏怦怦直跳。",
+    "tip": "可用「心臓がどきどきする」描述心跳感。",
+    "kanjiNote": "「心」指心，「臓」用于脏器。",
+    "cloze": {
+      "before": "走った後、",
+      "answer": "心臓",
+      "after": "がどきどきしました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1360770",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "heart"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c087",
+    "word": "血",
+    "reading": "ち",
+    "category": "名词",
+    "meaning": "血；血液",
+    "example": [
+      [
+        "指",
+        "ゆび"
+      ],
+      [
+        "から"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "血",
+        "ち"
+      ],
+      [
+        "が"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "手指出了一点血。",
+    "tip": "流血常用「血が出る」。",
+    "kanjiNote": "独立名词读「ち」，复合词常有其他读法。",
+    "cloze": {
+      "before": "指から少し",
+      "answer": "血",
+      "after": "が出ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1255060",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "blood"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c088",
+    "word": "痛い",
+    "reading": "いたい",
+    "category": "い形容词",
+    "meaning": "疼；痛",
+    "example": [
+      [
+        "昨日",
+        "きのう"
+      ],
+      [
+        "から"
+      ],
+      [
+        "右",
+        "みぎ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "足",
+        "あし"
+      ],
+      [
+        "が"
+      ],
+      [
+        "痛い",
+        "いたい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "从昨天起右脚就疼。",
+    "tip": "「身体部位が痛い」是表达疼痛的常用句型。",
+    "kanjiNote": "病字旁，末尾「い」是形容词词尾。",
+    "cloze": {
+      "before": "昨日から右の足が",
+      "answer": "痛い",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1432680",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "painful",
+          "sore"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c089",
+    "word": "けが",
+    "reading": "けが",
+    "category": "名词・サ变动词",
+    "meaning": "受伤；伤",
+    "example": [
+      [
+        "弟",
+        "おとうと"
+      ],
+      [
+        "はサッカーでけがをしました。"
+      ]
+    ],
+    "translation": "弟弟踢足球时受了伤。",
+    "tip": "受伤可说「けがをする」。",
+    "kanjiNote": "也写「怪我」，本课采用常见假名写法。",
+    "cloze": {
+      "before": "弟はサッカーで",
+      "answer": "けが",
+      "after": "をしました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1200220",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "injury",
+          "wound"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c090",
+    "word": "熱",
+    "reading": "ねつ",
+    "category": "名词",
+    "meaning": "发烧；体温升高",
+    "example": [
+      [
+        "熱",
+        "ねつ"
+      ],
+      [
+        "があるので、"
+      ],
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "休",
+        "やす"
+      ],
+      [
+        "みます。"
+      ]
+    ],
+    "translation": "因为发烧，今天休息。",
+    "tip": "「熱がある」表示发烧；这里不是热量义。",
+    "kanjiNote": "下部是四点底，读「ねつ」。",
+    "cloze": {
+      "before": "",
+      "answer": "熱",
+      "after": "があるので、今日は休みます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1467710",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "fever",
+          "temperature"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c091",
+    "word": "風邪",
+    "reading": "かぜ",
+    "category": "名词",
+    "meaning": "感冒",
+    "example": [
+      [
+        "風邪",
+        "かぜ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "声",
+        "こえ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "にくいです。"
+      ]
+    ],
+    "translation": "感冒了，不太发得出声音。",
+    "tip": "患感冒常用「風邪をひく」。",
+    "kanjiNote": "整个词读「かぜ」，不是将两字音读拼接。",
+    "cloze": {
+      "before": "",
+      "answer": "風邪",
+      "after": "で声が出にくいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1583720",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(common) cold",
+          "influenza",
+          "flu",
+          "ague",
+          "inflammatory respiratory system illness (in general)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c092",
+    "word": "咳",
+    "reading": "せき",
+    "category": "名词",
+    "meaning": "咳嗽",
+    "example": [
+      [
+        "夜",
+        "よる"
+      ],
+      [
+        "になると"
+      ],
+      [
+        "咳",
+        "せき"
+      ],
+      [
+        "が"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "到了晚上就咳嗽。",
+    "tip": "咳嗽发作常用「咳が出る」。",
+    "kanjiNote": "口字旁，右边为「亥」。",
+    "cloze": {
+      "before": "夜になると",
+      "answer": "咳",
+      "after": "が出ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1204300",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "cough",
+          "coughing",
+          "tussis"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c093",
+    "word": "くしゃみ",
+    "reading": "くしゃみ",
+    "category": "名词・サ变动词",
+    "meaning": "喷嚏",
+    "example": [
+      [
+        "急",
+        "きゅう"
+      ],
+      [
+        "にくしゃみが"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "突然打了个喷嚏。",
+    "tip": "可说「くしゃみが出る」或「くしゃみをする」。",
+    "kanjiNote": "通常用假名，不必强记罕见汉字写法。",
+    "cloze": {
+      "before": "急に",
+      "answer": "くしゃみ",
+      "after": "が出ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1003710",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "sneeze",
+          "sneezing"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c094",
+    "word": "病気",
+    "reading": "びょうき",
+    "category": "名词",
+    "meaning": "病；疾病",
+    "example": [
+      [
+        "祖父",
+        "そふ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "病気",
+        "びょうき"
+      ],
+      [
+        "で"
+      ],
+      [
+        "入院",
+        "にゅういん"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "祖父因病住院。",
+    "tip": "「病気で」可以引出不能工作、住院等原因。",
+    "kanjiNote": "「病」是病字旁，「びょう」包含拗长音。",
+    "cloze": {
+      "before": "祖父は",
+      "answer": "病気",
+      "after": "で入院しています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1490230",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "illness (usu. excluding minor ailments, e.g. common cold)",
+          "disease",
+          "sickness"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c095",
+    "word": "診察",
+    "reading": "しんさつ",
+    "category": "名词・サ变动词",
+    "meaning": "诊察；看诊",
+    "example": [
+      [
+        "診察",
+        "しんさつ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "名前",
+        "なまえ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "呼",
+        "よ"
+      ],
+      [
+        "ばれました。"
+      ]
+    ],
+    "translation": "看诊前被叫到了名字。",
+    "tip": "病人接受诊察用「診察を受ける」。",
+    "kanjiNote": "「診」是言字旁，不要写成「珍」。",
+    "cloze": {
+      "before": "",
+      "answer": "診察",
+      "after": "の前に名前を呼ばれました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1365460",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "medical examination",
+          "checkup",
+          "consultation"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c096",
+    "word": "保険",
+    "reading": "ほけん",
+    "category": "名词",
+    "meaning": "保险",
+    "example": [
+      [
+        "旅行",
+        "りょこう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "保険",
+        "ほけん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "内容",
+        "ないよう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "確認",
+        "かくにん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "旅行前确认保险内容。",
+    "tip": "加入保险用「保険に入る」。",
+    "kanjiNote": "「険」是双耳旁，与考试的「験」区分。",
+    "cloze": {
+      "before": "旅行の前に",
+      "answer": "保険",
+      "after": "の内容を確認します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1513440",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "insurance"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c097",
+    "word": "散歩",
+    "reading": "さんぽ",
+    "category": "名词・サ变动词",
+    "meaning": "散步",
+    "example": [
+      [
+        "夕食",
+        "ゆうしょく"
+      ],
+      [
+        "の"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "散歩",
+        "さんぽ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "晚饭后出去散步。",
+    "tip": "「散歩に出る」表示出去散步。",
+    "kanjiNote": "「歩」在这个词里读「ぽ」。",
+    "cloze": {
+      "before": "夕食の後で",
+      "answer": "散歩",
+      "after": "に出ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1303620",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "walk",
+          "stroll"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c098",
+    "word": "運動",
+    "reading": "うんどう",
+    "category": "名词・サ变动词",
+    "meaning": "运动；锻炼",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "軽",
+        "かる"
+      ],
+      [
+        "い"
+      ],
+      [
+        "運動",
+        "うんどう"
+      ],
+      [
+        "をしています。"
+      ]
+    ],
+    "translation": "早上做轻度运动。",
+    "tip": "本课学身体锻炼义，不是社会运动义。",
+    "kanjiNote": "「動」与活动有关，末尾「どう」是长音。",
+    "cloze": {
+      "before": "朝は軽い",
+      "answer": "運動",
+      "after": "をしています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1172910",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "exercise",
+          "physical training",
+          "workout",
+          "sports",
+          "athletics"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c099",
+    "word": "趣味",
+    "reading": "しゅみ",
+    "category": "名词",
+    "meaning": "兴趣爱好",
+    "example": [
+      [
+        "私",
+        "わたし"
+      ],
+      [
+        "の"
+      ],
+      [
+        "趣味",
+        "しゅみ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "我的爱好是摄影。",
+    "tip": "介绍爱好可用「趣味は〜です」。",
+    "kanjiNote": "「趣」字左侧含「走」，读音含拗音「しゅ」。",
+    "cloze": {
+      "before": "私の",
+      "answer": "趣味",
+      "after": "は写真です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1329000",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "hobby",
+          "pastime"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c100",
+    "word": "読書",
+    "reading": "どくしょ",
+    "category": "名词・サ变动词",
+    "meaning": "读书；阅读书籍",
+    "example": [
+      [
+        "週末",
+        "しゅうまつ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "静",
+        "しず"
+      ],
+      [
+        "かなカフェで"
+      ],
+      [
+        "読書",
+        "どくしょ"
+      ],
+      [
+        "をします。"
+      ]
+    ],
+    "translation": "周末在安静的咖啡馆读书。",
+    "tip": "「読書をする」侧重读书这项活动。",
+    "kanjiNote": "「読」是言字旁，「書」指书。",
+    "cloze": {
+      "before": "週末は静かなカフェで",
+      "answer": "読書",
+      "after": "をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1456420",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "reading (books)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c101",
+    "word": "美術館",
+    "reading": "びじゅつかん",
+    "category": "名词",
+    "meaning": "美术馆",
+    "example": [
+      [
+        "美術館",
+        "びじゅつかん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "絵",
+        "え"
+      ],
+      [
+        "をゆっくり"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "在美术馆慢慢欣赏了画作。",
+    "tip": "主要欣赏美术作品，与综合博物馆区分。",
+    "kanjiNote": "「術」读「じゅつ」，不要漏掉「つ」。",
+    "cloze": {
+      "before": "",
+      "answer": "美術館",
+      "after": "で絵をゆっくり見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1486460",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "art museum",
+          "art gallery"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c102",
+    "word": "博物館",
+    "reading": "はくぶつかん",
+    "category": "名词",
+    "meaning": "博物馆",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "博物館",
+        "はくぶつかん"
+      ],
+      [
+        "には"
+      ],
+      [
+        "古",
+        "ふる"
+      ],
+      [
+        "い"
+      ],
+      [
+        "道具",
+        "どうぐ"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "这家博物馆里有古老的工具。",
+    "tip": "常见搭配「博物館を見学する」。",
+    "kanjiNote": "「物」在此读「ぶつ」，不是「もの」。",
+    "cloze": {
+      "before": "この",
+      "answer": "博物館",
+      "after": "には古い道具があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1474720",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "museum"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c103",
+    "word": "公園",
+    "reading": "こうえん",
+    "category": "名词",
+    "meaning": "公园",
+    "example": [
+      [
+        "公園",
+        "こうえん"
+      ],
+      [
+        "のベンチで"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "読",
+        "よ"
+      ],
+      [
+        "みました。"
+      ]
+    ],
+    "translation": "坐在公园的长椅上读了书。",
+    "tip": "活动场所用「公園で」。",
+    "kanjiNote": "「園」外围为大口框，与动物园共用此字。",
+    "cloze": {
+      "before": "",
+      "answer": "公園",
+      "after": "のベンチで本を読みました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1273270",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(public) park"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c104",
+    "word": "温泉",
+    "reading": "おんせん",
+    "category": "名词",
+    "meaning": "温泉",
+    "example": [
+      [
+        "山",
+        "やま"
+      ],
+      [
+        "を"
+      ],
+      [
+        "歩",
+        "ある"
+      ],
+      [
+        "いた"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "温泉",
+        "おんせん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "入",
+        "はい"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "走完山路后泡了温泉。",
+    "tip": "泡温泉常用「温泉に入る」。",
+    "kanjiNote": "「泉」上「白」下「水」，指泉水。",
+    "cloze": {
+      "before": "山を歩いた後で",
+      "answer": "温泉",
+      "after": "に入りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1183450",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "hot spring"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w02-c105",
+    "word": "登山",
+    "reading": "とざん",
+    "category": "名词・サ变动词",
+    "meaning": "登山；爬山",
+    "example": [
+      [
+        "登山",
+        "とざん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "天気",
+        "てんき"
+      ],
+      [
+        "を"
+      ],
+      [
+        "調",
+        "しら"
+      ],
+      [
+        "べました。"
+      ]
+    ],
+    "translation": "登山前查了天气。",
+    "tip": "「登山をする」比一般散步更强调上山活动。",
+    "kanjiNote": "「山」在这个词里浊化为「ざん」。",
+    "cloze": {
+      "before": "",
+      "answer": "登山",
+      "after": "の前に天気を調べました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1444780",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "mountain climbing",
+          "mountaineering",
+          "ascent of a mountain"
+        ]
+      ]
+    }
+  }
+]

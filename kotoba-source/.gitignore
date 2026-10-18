@@ -1,8 +1,12 @@
-node_modules/
+dist/
 __pycache__/
-supabase/.temp/
-supabase/.branches/
+node_modules/
+audio-tools/python/
+audio-tools/vendor/
+audio-tools/mp3/
+audio-tools/sprites/
+audio-tools/audio-manifest.json
+source-data/week02-audio-input.json
+kotoba-progress*.json
 .env
 .env.*
-*.local
-kotoba-progress*.json

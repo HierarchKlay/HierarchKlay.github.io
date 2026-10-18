@@ -40,4 +40,17 @@ await click({tab:'stats'});assert(html().includes('近 7 天学习量'));assert(
 await click({tab:'review'});await click({quizSource:'due'});assert(html().includes('data-quiz-source="due"'));
 console.log('PASS app integration: load, compact card, master/refill, restore, days, kanji, reading, cloze, mixed, progress');
 
+if(course.days.length>=14){
+  await click({day:'14'});assert.equal(state().selectedDay,'14');assert.equal(state().days['14'].order.length,35);
+  assert(els.get('#courseDays').innerHTML.includes('第 14 天'));assert(html().includes('第 14 天'));
+  await click({tab:'kanji'});assert.equal((html().match(/class="kanji-card"/g)||[]).length,5);
+  await click({kanjiQuiz:'lesson'});assert(html().includes('kanjiReadingForm'));
+  await click({tab:'list'});await click({scope:'all'});assert(html().includes('全部 630 词'));
+  await click({tab:'study'});const id=state().days['14'].order[0];await click({action:'master'});
+  assert(state().mastered[id]);assert.equal(state().days['14'].order.length,35);
+  assert(state().days['14'].order.includes(course.days[13].reserve[0]));
+  await click({day:'1'});assert.equal(state().selectedDay,'1');assert(state().reviews[prior]);
+  console.log('PASS week 2 navigation, 5-kanji drill, full index, reserve refill and old review retained');
+}
+
 assert(els.get("#cloudStatus").textContent.includes("待接入"));assert(els.get("#askSubmit").disabled);console.log("PASS unconfigured cloud remains clearly disabled; local study still works");

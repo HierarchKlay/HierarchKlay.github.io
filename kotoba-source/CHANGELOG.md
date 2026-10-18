@@ -1,3 +1,13 @@
+## 2026-10-18 · Lessons 8–14
+
+- Added 245 core words + 70 unique reserve words, 315 original ruby examples/translations and 35 independent kanji (慰–英). Totals: 14 lessons, 630 vocabulary entries and 70 kanji. IDs and original first-seven lessons unchanged; course ID remains `week01-v1`.
+- Existing 315 headword/readings match the retained official JMdict snapshot. New 315 records include exact entry IDs, selected sense indices and gloss evidence; all 35 kanji follow the official table's readings and order. Homophones such as 花/鼻 are distinct lexemes, not duplicate entries.
+- 289/315 new words have exact unconditional Kanjium pitch matches with variants retained. 26 remain unavailable. Chinese meanings, examples and translations have not received independent native-speaker review; auxiliary pitch data is not a commercial dictionary or a synthesis-derived claim.
+- Added seven licensed NIT ATR503 M001 1.05 / Open JTalk sprites: 630 new clips, 9,140,573 bytes. All generated words/sentences pass frontend reading checks and decoded non-silence checks; two word and nine sentence inputs use kana to resolve ambiguous readings. All old files and offsets are unchanged. No human listening audit claimed.
+- Added append-only source integration, generation audit, lesson index, corpus/media/progress migration checks and new-lesson DOM checks. Generalized core tests to multiple weekly batches. Rebuilt Japanese/Chinese font subsets. Day 1 PDF is unchanged.
+- Existing five-pack dictionary snapshot retained (JMdict/pitch/examples 2026-10-13; Wiktionary 2026-10-01); monthly refresh not yet due. Preserved cloud configuration, auth, tutor, offline cache scope and Site audience; no private progress was read.
+- Verification scope: automated data, logic, DOM and media checks. Browser visual/mobile and real-device audio playback are not verified in this environment.
+
 ## 2026-10-13 · Dictionary pitch accents and examples
 
 - Added separate offline supplements: 102,317 entries with source-labelled pitch data and 31,900 sense-linked example groups across 28,574 entries; 1,253 groups include directly linked Chinese translations.

@@ -1,0 +1,5009 @@
+[
+  {
+    "id": "w02-a001",
+    "word": "廊下",
+    "reading": "ろうか",
+    "category": "名词",
+    "meaning": "走廊",
+    "example": [
+      [
+        "廊下",
+        "ろうか"
+      ],
+      [
+        "に"
+      ],
+      [
+        "荷物",
+        "にもつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "置",
+        "お"
+      ],
+      [
+        "かないでください。"
+      ]
+    ],
+    "translation": "请不要把行李放在走廊。",
+    "tip": "表示所在位置用「廊下に」，经过走廊用「廊下を通る」。",
+    "kanjiNote": "「廊下」整体读ろうか。",
+    "cloze": {
+      "before": "",
+      "answer": "廊下",
+      "after": "に荷物を置かないでください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1560670",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "corridor",
+        "hallway",
+        "passageway"
+      ]
+    }
+  },
+  {
+    "id": "w02-a002",
+    "word": "浴槽",
+    "reading": "よくそう",
+    "category": "名词",
+    "meaning": "浴缸",
+    "example": [
+      [
+        "浴槽",
+        "よくそう"
+      ],
+      [
+        "にお"
+      ],
+      [
+        "湯",
+        "ゆ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "往浴缸里放热水。",
+    "tip": "「浴槽」指盛水的缸，不是整个浴室。",
+    "kanjiNote": "浴：沐浴；槽：槽形容器。",
+    "cloze": {
+      "before": "",
+      "answer": "浴槽",
+      "after": "にお湯を入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1547480",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bathtub"
+      ]
+    }
+  },
+  {
+    "id": "w02-a003",
+    "word": "床",
+    "reading": "ゆか",
+    "category": "名词",
+    "meaning": "地板；地面",
+    "example": [
+      [
+        "床",
+        "ゆか"
+      ],
+      [
+        "に"
+      ],
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "をこぼしてしまいました。"
+      ]
+    ],
+    "translation": "我不小心把水洒在地板上了。",
+    "tip": "地板读ゆか；同字读とこ时可指床铺。",
+    "kanjiNote": "本卡「床」读ゆか，不读とこ。",
+    "cloze": {
+      "before": "",
+      "answer": "床",
+      "after": "に水をこぼしてしまいました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1349380",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "floor"
+      ]
+    }
+  },
+  {
+    "id": "w02-a004",
+    "word": "壁",
+    "reading": "かべ",
+    "category": "名词",
+    "meaning": "墙；墙壁",
+    "example": [
+      [
+        "壁",
+        "かべ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "飾",
+        "かざ"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "我把照片挂在了墙上。",
+    "tip": "「壁に掛ける」表示挂在墙上。",
+    "kanjiNote": "「壁」的本词读音是かべ。",
+    "cloze": {
+      "before": "",
+      "answer": "壁",
+      "after": "に写真を飾りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1509290",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "wall",
+        "partition"
+      ]
+    }
+  },
+  {
+    "id": "w02-a005",
+    "word": "天井",
+    "reading": "てんじょう",
+    "category": "名词",
+    "meaning": "天花板",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "部屋",
+        "へや"
+      ],
+      [
+        "は"
+      ],
+      [
+        "天井",
+        "てんじょう"
+      ],
+      [
+        "が"
+      ],
+      [
+        "高",
+        "たか"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这个房间的天花板很高。",
+    "tip": "「屋根」在房屋外部，「天井」在室内上方。",
+    "kanjiNote": "「井」在天井中读じょう。",
+    "cloze": {
+      "before": "この部屋は",
+      "answer": "天井",
+      "after": "が高いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1438340",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "ceiling"
+      ]
+    }
+  },
+  {
+    "id": "w02-a006",
+    "word": "屋根",
+    "reading": "やね",
+    "category": "名词",
+    "meaning": "屋顶",
+    "example": [
+      [
+        "屋根",
+        "やね"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "雪",
+        "ゆき"
+      ],
+      [
+        "が"
+      ],
+      [
+        "積",
+        "つ"
+      ],
+      [
+        "もっています。"
+      ]
+    ],
+    "translation": "屋顶上积着雪。",
+    "tip": "常说「屋根の上」；不要与室内的天井混淆。",
+    "kanjiNote": "「屋根」整体读やね。",
+    "cloze": {
+      "before": "",
+      "answer": "屋根",
+      "after": "の上に雪が積もっています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1182700",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "roof"
+      ]
+    }
+  },
+  {
+    "id": "w02-a007",
+    "word": "庭",
+    "reading": "にわ",
+    "category": "名词",
+    "meaning": "庭院；院子",
+    "example": [
+      [
+        "庭",
+        "にわ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "花",
+        "はな"
+      ],
+      [
+        "を"
+      ],
+      [
+        "育",
+        "そだ"
+      ],
+      [
+        "てています。"
+      ]
+    ],
+    "translation": "我在院子里种花。",
+    "tip": "「庭で」表示活动的场所。",
+    "kanjiNote": "「庭」在本词中读にわ。",
+    "cloze": {
+      "before": "",
+      "answer": "庭",
+      "after": "で花を育てています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1436130",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "garden",
+        "yard",
+        "courtyard"
+      ]
+    }
+  },
+  {
+    "id": "w02-a008",
+    "word": "ベランダ",
+    "reading": "ベランダ",
+    "category": "名词",
+    "meaning": "阳台",
+    "example": [
+      [
+        "晴",
+        "は"
+      ],
+      [
+        "れたので、ベランダに"
+      ],
+      [
+        "布団",
+        "ふとん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "干",
+        "ほ"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "因为天晴了，我把被褥晾在阳台上了。",
+    "tip": "晒衣物可说「ベランダに洗濯物を干す」。",
+    "kanjiNote": "外来词，用片假名书写。",
+    "cloze": {
+      "before": "晴れたので、",
+      "answer": "ベランダ",
+      "after": "に布団を干しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1119940",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "balcony"
+      ]
+    }
+  },
+  {
+    "id": "w02-a009",
+    "word": "浴室",
+    "reading": "よくしつ",
+    "category": "名词",
+    "meaning": "浴室",
+    "example": [
+      [
+        "浴室",
+        "よくしつ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "窓",
+        "まど"
+      ],
+      [
+        "を"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "開",
+        "あ"
+      ],
+      [
+        "けます。"
+      ]
+    ],
+    "translation": "我把浴室的窗户稍微打开一点。",
+    "tip": "指洗浴用的房间，不是只指浴缸。",
+    "kanjiNote": "浴室：浴为洗浴，室为房间。",
+    "cloze": {
+      "before": "",
+      "answer": "浴室",
+      "after": "の窓を少し開けます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1547460",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bathroom"
+      ]
+    }
+  },
+  {
+    "id": "w02-a010",
+    "word": "洗面所",
+    "reading": "せんめんじょ",
+    "category": "名词",
+    "meaning": "洗漱间；盥洗室",
+    "example": [
+      [
+        "洗面所",
+        "せんめんじょ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しいタオルを"
+      ],
+      [
+        "置",
+        "お"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "我在洗漱间放了新毛巾。",
+    "tip": "家庭中的洗面所通常指洗脸、刷牙的区域。",
+    "kanjiNote": "「所」在本词中读じょ。",
+    "cloze": {
+      "before": "",
+      "answer": "洗面所",
+      "after": "に新しいタオルを置きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1391070",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "washroom",
+        "bathroom"
+      ]
+    }
+  },
+  {
+    "id": "w02-a011",
+    "word": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "category": "名词",
+    "meaning": "冰箱",
+    "example": [
+      [
+        "牛乳",
+        "ぎゅうにゅう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "冷蔵庫",
+        "れいぞうこ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "戻",
+        "もど"
+      ],
+      [
+        "してください。"
+      ]
+    ],
+    "translation": "请把牛奶放回冰箱。",
+    "tip": "「冷蔵庫に入れる」放进冰箱；「から出す」取出。",
+    "kanjiNote": "冷蔵：冷藏；庫：储存空间。",
+    "cloze": {
+      "before": "牛乳を",
+      "answer": "冷蔵庫",
+      "after": "に戻してください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1557110",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "refrigerator",
+        "fridge"
+      ]
+    }
+  },
+  {
+    "id": "w02-a012",
+    "word": "洗濯機",
+    "reading": "せんたくき",
+    "category": "名词",
+    "meaning": "洗衣机",
+    "example": [
+      [
+        "洗濯機",
+        "せんたくき"
+      ],
+      [
+        "が"
+      ],
+      [
+        "止",
+        "と"
+      ],
+      [
+        "まったので、"
+      ],
+      [
+        "服",
+        "ふく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "干",
+        "ほ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "洗衣机停了，我去晾衣服。",
+    "tip": "本卡采用せんたくき；口语也有せんたっき这一读法。",
+    "kanjiNote": "洗濯：洗衣；機：机器。",
+    "cloze": {
+      "before": "",
+      "answer": "洗濯機",
+      "after": "が止まったので、服を干します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1390990",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "washing machine",
+        "(clothes) washer"
+      ]
+    }
+  },
+  {
+    "id": "w02-a013",
+    "word": "掃除機",
+    "reading": "そうじき",
+    "category": "名词",
+    "meaning": "吸尘器",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "掃除機",
+        "そうじき"
+      ],
+      [
+        "をかけません。"
+      ]
+    ],
+    "translation": "我早上不使用吸尘器。",
+    "tip": "使用吸尘器常说「掃除機をかける」。",
+    "kanjiNote": "掃除：打扫；機：机器。",
+    "cloze": {
+      "before": "朝は",
+      "answer": "掃除機",
+      "after": "をかけません。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1596390",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "vacuum cleaner",
+        "vacuum",
+        "hoover"
+      ]
+    }
+  },
+  {
+    "id": "w02-a014",
+    "word": "電子レンジ",
+    "reading": "でんしレンジ",
+    "category": "名词",
+    "meaning": "微波炉",
+    "example": [
+      [
+        "スープを"
+      ],
+      [
+        "電子",
+        "でんし"
+      ],
+      [
+        "レンジで"
+      ],
+      [
+        "温",
+        "あたた"
+      ],
+      [
+        "めます。"
+      ]
+    ],
+    "translation": "我用微波炉热汤。",
+    "tip": "用某种工具做事用「で」；レンジ可作简称。",
+    "kanjiNote": "「電子」读でんし，レンジ保留片假名。",
+    "cloze": {
+      "before": "スープを",
+      "answer": "電子レンジ",
+      "after": "で温めます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1443380",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "microwave oven"
+      ]
+    }
+  },
+  {
+    "id": "w02-a015",
+    "word": "炊飯器",
+    "reading": "すいはんき",
+    "category": "名词",
+    "meaning": "电饭煲",
+    "example": [
+      [
+        "炊飯器",
+        "すいはんき"
+      ],
+      [
+        "で"
+      ],
+      [
+        "米",
+        "こめ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "炊",
+        "た"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "我用电饭煲煮饭。",
+    "tip": "煮米饭搭配「炊く」，不说米を焼く。",
+    "kanjiNote": "炊飯：煮饭；器：器具。",
+    "cloze": {
+      "before": "",
+      "answer": "炊飯器",
+      "after": "で米を炊きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1372360",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "rice cooker"
+      ]
+    }
+  },
+  {
+    "id": "w02-a016",
+    "word": "エアコン",
+    "reading": "エアコン",
+    "category": "名词",
+    "meaning": "空调",
+    "example": [
+      [
+        "寝",
+        "ね"
+      ],
+      [
+        "る"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "にエアコンを"
+      ],
+      [
+        "消",
+        "け"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "我在睡觉前关空调。",
+    "tip": "开启说「つける」，关闭说「消す」。",
+    "kanjiNote": "外来词简称，用片假名书写。",
+    "cloze": {
+      "before": "寝る前に",
+      "answer": "エアコン",
+      "after": "を消します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1027180",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "air conditioner",
+        "air conditioning",
+        "aircon"
+      ]
+    }
+  },
+  {
+    "id": "w02-a017",
+    "word": "扇風機",
+    "reading": "せんぷうき",
+    "category": "名词",
+    "meaning": "电风扇",
+    "example": [
+      [
+        "暑",
+        "あつ"
+      ],
+      [
+        "いので、"
+      ],
+      [
+        "扇風機",
+        "せんぷうき"
+      ],
+      [
+        "をつけました。"
+      ]
+    ],
+    "translation": "因为很热，我打开了电风扇。",
+    "tip": "「扇風機をつける」指开风扇。",
+    "kanjiNote": "「風」在本词中读ぷう，注意半浊音。",
+    "cloze": {
+      "before": "暑いので、",
+      "answer": "扇風機",
+      "after": "をつけました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1390760",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "electric fan"
+      ]
+    }
+  },
+  {
+    "id": "w02-a018",
+    "word": "電気",
+    "reading": "でんき",
+    "category": "名词",
+    "meaning": "电灯",
+    "example": [
+      [
+        "部屋",
+        "へや"
+      ],
+      [
+        "を"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "るとき、"
+      ],
+      [
+        "電気",
+        "でんき"
+      ],
+      [
+        "を"
+      ],
+      [
+        "消",
+        "け"
+      ],
+      [
+        "してください。"
+      ]
+    ],
+    "translation": "离开房间时请关灯。",
+    "tip": "本卡取「电灯」义；也可表示电、电力。",
+    "kanjiNote": "「電気」读でんき。",
+    "cloze": {
+      "before": "部屋を出るとき、",
+      "answer": "電気",
+      "after": "を消してください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1443000",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        "(electric) light"
+      ]
+    }
+  },
+  {
+    "id": "w02-a019",
+    "word": "電池",
+    "reading": "でんち",
+    "category": "名词",
+    "meaning": "电池",
+    "example": [
+      [
+        "リモコンの"
+      ],
+      [
+        "電池",
+        "でんち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "交換",
+        "こうかん"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "我更换了遥控器的电池。",
+    "tip": "电池没电常说「電池が切れる」。",
+    "kanjiNote": "「池」在电池中读ち。",
+    "cloze": {
+      "before": "リモコンの",
+      "answer": "電池",
+      "after": "を交換しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1443620",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "battery",
+        "cell"
+      ]
+    }
+  },
+  {
+    "id": "w02-a020",
+    "word": "照明",
+    "reading": "しょうめい",
+    "category": "名词・サ变",
+    "meaning": "照明；灯光",
+    "example": [
+      [
+        "このカフェの"
+      ],
+      [
+        "照明",
+        "しょうめい"
+      ],
+      [
+        "は"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "暗",
+        "くら"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这家咖啡馆的灯光有点暗。",
+    "tip": "可指照明设施或整体灯光，范围比一盏电灯广。",
+    "kanjiNote": "照：照射；明：明亮。",
+    "cloze": {
+      "before": "このカフェの",
+      "answer": "照明",
+      "after": "は少し暗いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1350990",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "illumination",
+        "lighting"
+      ]
+    }
+  },
+  {
+    "id": "w02-a021",
+    "word": "布団",
+    "reading": "ふとん",
+    "category": "名词",
+    "meaning": "日式被褥；铺盖",
+    "example": [
+      [
+        "今夜",
+        "こんや"
+      ],
+      [
+        "は"
+      ],
+      [
+        "布団",
+        "ふとん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "二組",
+        "ふたくみ"
+      ],
+      [
+        "用意",
+        "ようい"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "今晚准备两套被褥。",
+    "tip": "可包括铺的褥子和盖的被子；一套可数「一組」。",
+    "kanjiNote": "「布団」整体读ふとん。",
+    "cloze": {
+      "before": "今夜は",
+      "answer": "布団",
+      "after": "を二組用意します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1496890",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "futon",
+        "Japanese bedding consisting of a mattress and a duvet"
+      ]
+    }
+  },
+  {
+    "id": "w02-a022",
+    "word": "毛布",
+    "reading": "もうふ",
+    "category": "名词",
+    "meaning": "毯子；毛毯",
+    "example": [
+      [
+        "寒",
+        "さむ"
+      ],
+      [
+        "いので、"
+      ],
+      [
+        "毛布",
+        "もうふ"
+      ],
+      [
+        "をもう"
+      ],
+      [
+        "一枚",
+        "いちまい"
+      ],
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "因为冷，我再用一条毯子。",
+    "tip": "毯子一般用「枚」计数。",
+    "kanjiNote": "「毛布」读もうふ，注意前半的长音。",
+    "cloze": {
+      "before": "寒いので、",
+      "answer": "毛布",
+      "after": "をもう一枚使います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1533950",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "blanket"
+      ]
+    }
+  },
+  {
+    "id": "w02-a023",
+    "word": "枕",
+    "reading": "まくら",
+    "category": "名词",
+    "meaning": "枕头",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "枕",
+        "まくら"
+      ],
+      [
+        "は"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "高",
+        "たか"
+      ],
+      [
+        "すぎます。"
+      ]
+    ],
+    "translation": "这个枕头有点太高了。",
+    "tip": "这里「高い」指枕头高度，不是价格。",
+    "kanjiNote": "「枕」在本词中读まくら。",
+    "cloze": {
+      "before": "この",
+      "answer": "枕",
+      "after": "は少し高すぎます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1524860",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pillow",
+        "bolster"
+      ]
+    }
+  },
+  {
+    "id": "w02-a024",
+    "word": "シーツ",
+    "reading": "シーツ",
+    "category": "名词",
+    "meaning": "床单",
+    "example": [
+      [
+        "日曜日",
+        "にちようび"
+      ],
+      [
+        "にシーツを"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "我星期天洗床单。",
+    "tip": "注意シー的长音；计数可用「枚」。",
+    "kanjiNote": "外来词，用片假名书写。",
+    "cloze": {
+      "before": "日曜日に",
+      "answer": "シーツ",
+      "after": "を洗います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1059400",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "sheet",
+        "bed sheet"
+      ]
+    }
+  },
+  {
+    "id": "w02-a025",
+    "word": "カーテン",
+    "reading": "カーテン",
+    "category": "名词",
+    "meaning": "窗帘",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "になったら、カーテンを"
+      ],
+      [
+        "開",
+        "あ"
+      ],
+      [
+        "けます。"
+      ]
+    ],
+    "translation": "到了早上就拉开窗帘。",
+    "tip": "拉开窗帘用「開ける」，拉上用「閉める」。",
+    "kanjiNote": "カ后有长音符号，写作カーテン。",
+    "cloze": {
+      "before": "朝になったら、",
+      "answer": "カーテン",
+      "after": "を開けます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1036290",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "curtain",
+        "curtains"
+      ]
+    }
+  },
+  {
+    "id": "w02-a026",
+    "word": "棚",
+    "reading": "たな",
+    "category": "名词",
+    "meaning": "架子；搁板",
+    "example": [
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "棚",
+        "たな"
+      ],
+      [
+        "に"
+      ],
+      [
+        "並",
+        "なら"
+      ],
+      [
+        "べました。"
+      ]
+    ],
+    "translation": "我把书摆到了架子上。",
+    "tip": "「棚に並べる」表示在架上摆放。",
+    "kanjiNote": "「棚」在本词中读たな。",
+    "cloze": {
+      "before": "本を",
+      "answer": "棚",
+      "after": "に並べました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1416700",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "shelf",
+        "ledge",
+        "rack"
+      ]
+    }
+  },
+  {
+    "id": "w02-a027",
+    "word": "引き出し",
+    "reading": "ひきだし",
+    "category": "名词",
+    "meaning": "抽屉",
+    "example": [
+      [
+        "はさみは"
+      ],
+      [
+        "机",
+        "つくえ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "引",
+        "ひ"
+      ],
+      [
+        "き"
+      ],
+      [
+        "出",
+        "だ"
+      ],
+      [
+        "しにあります。"
+      ]
+    ],
+    "translation": "剪刀在桌子的抽屉里。",
+    "tip": "本卡是抽屉；银行语境还可指取款。",
+    "kanjiNote": "「引き出し」保留送り仮名き、し。",
+    "cloze": {
+      "before": "はさみは机の",
+      "answer": "引き出し",
+      "after": "にあります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1601650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "drawer"
+      ]
+    }
+  },
+  {
+    "id": "w02-a028",
+    "word": "鏡",
+    "reading": "かがみ",
+    "category": "名词",
+    "meaning": "镜子",
+    "example": [
+      [
+        "鏡",
+        "かがみ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ながら、"
+      ],
+      [
+        "髪",
+        "かみ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "整",
+        "ととの"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "我照着镜子整理头发。",
+    "tip": "照镜子常说「鏡を見る」。",
+    "kanjiNote": "「鏡」在本词中读かがみ。",
+    "cloze": {
+      "before": "",
+      "answer": "鏡",
+      "after": "を見ながら、髪を整えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1238550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "mirror",
+        "looking-glass"
+      ]
+    }
+  },
+  {
+    "id": "w02-a029",
+    "word": "時計",
+    "reading": "とけい",
+    "category": "名词",
+    "meaning": "钟；表",
+    "example": [
+      [
+        "壁",
+        "かべ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "時計",
+        "とけい"
+      ],
+      [
+        "は"
+      ],
+      [
+        "五分",
+        "ごふん"
+      ],
+      [
+        "進",
+        "すす"
+      ],
+      [
+        "んでいます。"
+      ]
+    ],
+    "translation": "墙上的钟快了五分钟。",
+    "tip": "表快用「進んでいる」，慢用「遅れている」。",
+    "kanjiNote": "「時計」整体读とけい。",
+    "cloze": {
+      "before": "壁の",
+      "answer": "時計",
+      "after": "は五分進んでいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1316140",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "clock",
+        "watch",
+        "timepiece"
+      ]
+    }
+  },
+  {
+    "id": "w02-a030",
+    "word": "石けん",
+    "reading": "せっけん",
+    "category": "名词",
+    "meaning": "肥皂",
+    "example": [
+      [
+        "石",
+        "せっ"
+      ],
+      [
+        "けんで"
+      ],
+      [
+        "手",
+        "て"
+      ],
+      [
+        "を"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "我用肥皂洗手。",
+    "tip": "也写作石鹸；本卡采用易读的交ぜ書き。",
+    "kanjiNote": "「石けん」读せっけん，注意促音っ。",
+    "cloze": {
+      "before": "",
+      "answer": "石けん",
+      "after": "で手を洗います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1382590",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "soap"
+      ]
+    }
+  },
+  {
+    "id": "w02-a031",
+    "word": "タオル",
+    "reading": "タオル",
+    "category": "名词",
+    "meaning": "毛巾",
+    "example": [
+      [
+        "濡",
+        "ぬ"
+      ],
+      [
+        "れたタオルをベランダに"
+      ],
+      [
+        "干",
+        "ほ"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "我把湿毛巾晾到了阳台上。",
+    "tip": "「タオルで拭く」表示用毛巾擦。",
+    "kanjiNote": "外来词，用片假名书写。",
+    "cloze": {
+      "before": "濡れた",
+      "answer": "タオル",
+      "after": "をベランダに干しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1076170",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "towel"
+      ]
+    }
+  },
+  {
+    "id": "w02-a032",
+    "word": "歯ブラシ",
+    "reading": "はブラシ",
+    "category": "名词",
+    "meaning": "牙刷",
+    "example": [
+      [
+        "旅行",
+        "りょこう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に、"
+      ],
+      [
+        "歯",
+        "は"
+      ],
+      [
+        "ブラシをかばんに"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "旅行前，我把牙刷放进包里。",
+    "tip": "汉字歯加片假名ブラシ，也可全写ハブラシ。",
+    "kanjiNote": "「歯」在本词中读は。",
+    "cloze": {
+      "before": "旅行の前に、",
+      "answer": "歯ブラシ",
+      "after": "をかばんに入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1313070",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "toothbrush"
+      ]
+    }
+  },
+  {
+    "id": "w02-a033",
+    "word": "歯磨き粉",
+    "reading": "はみがきこ",
+    "category": "名词",
+    "meaning": "牙膏；牙粉",
+    "example": [
+      [
+        "歯磨",
+        "はみが"
+      ],
+      [
+        "き"
+      ],
+      [
+        "粉",
+        "こ"
+      ],
+      [
+        "がなくなったので、"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "いに"
+      ],
+      [
+        "行",
+        "い"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "牙膏用完了，我去买。",
+    "tip": "虽有「粉」，现代也常指膏状牙膏。",
+    "kanjiNote": "「粉」在本词中读こ。",
+    "cloze": {
+      "before": "",
+      "answer": "歯磨き粉",
+      "after": "がなくなったので、買いに行きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1770210",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tooth powder",
+        "toothpaste"
+      ]
+    }
+  },
+  {
+    "id": "w02-a034",
+    "word": "洗剤",
+    "reading": "せんざい",
+    "category": "名词",
+    "meaning": "洗涤剂；清洁剂",
+    "example": [
+      [
+        "洗剤",
+        "せんざい"
+      ],
+      [
+        "は"
+      ],
+      [
+        "棚",
+        "たな"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "にあります。"
+      ]
+    ],
+    "translation": "洗涤剂在架子上。",
+    "tip": "洗衣用的可说「洗濯用の洗剤」。",
+    "kanjiNote": "洗：洗涤；剤：制剂。",
+    "cloze": {
+      "before": "",
+      "answer": "洗剤",
+      "after": "は棚の上にあります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1390950",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "detergent",
+        "cleanser",
+        "cleaning agent",
+        "washing material"
+      ]
+    }
+  },
+  {
+    "id": "w02-a035",
+    "word": "ごみ",
+    "reading": "ごみ",
+    "category": "名词",
+    "meaning": "垃圾",
+    "example": [
+      [
+        "ごみは"
+      ],
+      [
+        "種類",
+        "しゅるい"
+      ],
+      [
+        "ごとに"
+      ],
+      [
+        "分",
+        "わ"
+      ],
+      [
+        "けます。"
+      ]
+    ],
+    "translation": "我按种类分类垃圾。",
+    "tip": "「ごみを出す」是把垃圾拿出去投放。",
+    "kanjiNote": "日常多写平假名ごみ或片假名ゴミ。",
+    "cloze": {
+      "before": "",
+      "answer": "ごみ",
+      "after": "は種類ごとに分けます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1369900",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "rubbish",
+        "trash",
+        "garbage",
+        "refuse",
+        "litter"
+      ]
+    }
+  },
+  {
+    "id": "w02-a036",
+    "word": "米",
+    "reading": "こめ",
+    "category": "名词",
+    "meaning": "大米；米粒",
+    "example": [
+      [
+        "米",
+        "こめ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "ってから、"
+      ],
+      [
+        "炊飯器",
+        "すいはんき"
+      ],
+      [
+        "に"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "淘米后，把米放进电饭煲。",
+    "tip": "米指未煮熟的米；煮好的米饭常叫ご飯。",
+    "kanjiNote": "「米」在本词中读こめ。",
+    "cloze": {
+      "before": "",
+      "answer": "米",
+      "after": "を洗ってから、炊飯器に入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1508750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(husked grains of) rice"
+      ]
+    }
+  },
+  {
+    "id": "w02-a037",
+    "word": "味噌",
+    "reading": "みそ",
+    "category": "名词",
+    "meaning": "味噌；日式发酵豆酱",
+    "example": [
+      [
+        "このスープには"
+      ],
+      [
+        "味噌",
+        "みそ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "这道汤要放味噌。",
+    "tip": "做味噌汤时常说「味噌を溶く」。",
+    "kanjiNote": "「味噌」整体读みそ。",
+    "cloze": {
+      "before": "このスープには",
+      "answer": "味噌",
+      "after": "を入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1527040",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "miso",
+        "fermented condiment usu. made from soybeans"
+      ]
+    }
+  },
+  {
+    "id": "w02-a038",
+    "word": "醤油",
+    "reading": "しょうゆ",
+    "category": "名词",
+    "meaning": "酱油",
+    "example": [
+      [
+        "豆腐",
+        "とうふ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "醤油",
+        "しょうゆ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "しかけました。"
+      ]
+    ],
+    "translation": "我在豆腐上淋了一点酱油。",
+    "tip": "淋调味料常搭配「かける」。",
+    "kanjiNote": "读しょうゆ，不要在ゆ后多加长音。",
+    "cloze": {
+      "before": "豆腐に",
+      "answer": "醤油",
+      "after": "を少しかけました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1595020",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "soy sauce",
+        "soya sauce",
+        "shoyu"
+      ]
+    }
+  },
+  {
+    "id": "w02-a039",
+    "word": "塩",
+    "reading": "しお",
+    "category": "名词",
+    "meaning": "盐",
+    "example": [
+      [
+        "スープに"
+      ],
+      [
+        "塩",
+        "しお"
+      ],
+      [
+        "を"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "足",
+        "た"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "我往汤里再加一点盐。",
+    "tip": "「塩を振る」表示撒盐。",
+    "kanjiNote": "食盐的「塩」读しお。",
+    "cloze": {
+      "before": "スープに",
+      "answer": "塩",
+      "after": "を少し足します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1576630",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "salt",
+        "common salt",
+        "table salt",
+        "sodium chloride"
+      ]
+    }
+  },
+  {
+    "id": "w02-a040",
+    "word": "砂糖",
+    "reading": "さとう",
+    "category": "名词",
+    "meaning": "糖；砂糖",
+    "example": [
+      [
+        "コーヒーに"
+      ],
+      [
+        "砂糖",
+        "さとう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れません。"
+      ]
+    ],
+    "translation": "我喝咖啡不放糖。",
+    "tip": "「砂糖なしで」表示不加糖。",
+    "kanjiNote": "「砂糖」读さとう，末尾是长音。",
+    "cloze": {
+      "before": "コーヒーに",
+      "answer": "砂糖",
+      "after": "は入れません。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1291600",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "sugar"
+      ]
+    }
+  },
+  {
+    "id": "w02-a041",
+    "word": "酢",
+    "reading": "す",
+    "category": "名词",
+    "meaning": "醋",
+    "example": [
+      [
+        "このたれは"
+      ],
+      [
+        "酢",
+        "す"
+      ],
+      [
+        "と"
+      ],
+      [
+        "醤油",
+        "しょうゆ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "作",
+        "つく"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "这款蘸汁用醋和酱油调制。",
+    "tip": "作为调味料时，酢可直接作名词使用。",
+    "kanjiNote": "「酢」读す，只有一拍。",
+    "cloze": {
+      "before": "このたれは",
+      "answer": "酢",
+      "after": "と醤油で作ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1370270",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "vinegar"
+      ]
+    }
+  },
+  {
+    "id": "w02-a042",
+    "word": "油",
+    "reading": "あぶら",
+    "category": "名词",
+    "meaning": "油",
+    "example": [
+      [
+        "フライパンに"
+      ],
+      [
+        "油",
+        "あぶら"
+      ],
+      [
+        "を"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "往平底锅里倒一点油。",
+    "tip": "本句是烹调用油；动物脂肪也常写作脂。",
+    "kanjiNote": "液态油常写「油」，读あぶら。",
+    "cloze": {
+      "before": "フライパンに",
+      "answer": "油",
+      "after": "を少し入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1538590",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "oil"
+      ]
+    }
+  },
+  {
+    "id": "w02-a043",
+    "word": "小麦粉",
+    "reading": "こむぎこ",
+    "category": "名词",
+    "meaning": "小麦面粉",
+    "example": [
+      [
+        "小麦粉",
+        "こむぎこ"
+      ],
+      [
+        "と"
+      ],
+      [
+        "卵",
+        "たまご"
+      ],
+      [
+        "でパンケーキを"
+      ],
+      [
+        "作",
+        "つく"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "我用面粉和鸡蛋做松饼。",
+    "tip": "「小麦」是小麦，加「粉」表示面粉。",
+    "kanjiNote": "「粉」在小麦粉中读こ。",
+    "cloze": {
+      "before": "",
+      "answer": "小麦粉",
+      "after": "と卵でパンケーキを作ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1348650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "wheat flour"
+      ]
+    }
+  },
+  {
+    "id": "w02-a044",
+    "word": "豆腐",
+    "reading": "とうふ",
+    "category": "名词",
+    "meaning": "豆腐",
+    "example": [
+      [
+        "豆腐",
+        "とうふ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "小",
+        "ちい"
+      ],
+      [
+        "さく"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ってください。"
+      ]
+    ],
+    "translation": "请把豆腐切成小块。",
+    "tip": "「冷ややっこ」是常见的凉豆腐吃法。",
+    "kanjiNote": "「豆腐」读とうふ，前半是长音。",
+    "cloze": {
+      "before": "",
+      "answer": "豆腐",
+      "after": "を小さく切ってください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1450070",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tofu",
+        "bean curd",
+        "beancurd"
+      ]
+    }
+  },
+  {
+    "id": "w02-a045",
+    "word": "納豆",
+    "reading": "なっとう",
+    "category": "名词",
+    "meaning": "纳豆；发酵大豆",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "納豆",
+        "なっとう"
+      ],
+      [
+        "をよく"
+      ],
+      [
+        "食",
+        "た"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "我早上经常吃纳豆。",
+    "tip": "常搭配「納豆を混ぜる」，指把纳豆搅拌。",
+    "kanjiNote": "「納豆」含促音っ和长音とう。",
+    "cloze": {
+      "before": "朝は",
+      "answer": "納豆",
+      "after": "をよく食べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1470070",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "natto (fermented soybeans)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a046",
+    "word": "鶏肉",
+    "reading": "とりにく",
+    "category": "名词",
+    "meaning": "鸡肉",
+    "example": [
+      [
+        "今夜",
+        "こんや"
+      ],
+      [
+        "は"
+      ],
+      [
+        "鶏肉",
+        "とりにく"
+      ],
+      [
+        "と"
+      ],
+      [
+        "野菜",
+        "やさい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "焼",
+        "や"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "今晚烤鸡肉和蔬菜。",
+    "tip": "日常购买鸡肉时常用とりにく这一读法。",
+    "kanjiNote": "「鶏」读とり，「肉」读にく。",
+    "cloze": {
+      "before": "今夜は",
+      "answer": "鶏肉",
+      "after": "と野菜を焼きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1253020",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "chicken meat"
+      ]
+    }
+  },
+  {
+    "id": "w02-a047",
+    "word": "豚肉",
+    "reading": "ぶたにく",
+    "category": "名词",
+    "meaning": "猪肉",
+    "example": [
+      [
+        "カレーに"
+      ],
+      [
+        "豚肉",
+        "ぶたにく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "我在咖喱里放了猪肉。",
+    "tip": "与牛肉ぎゅうにく、鶏肉とりにく一起记。",
+    "kanjiNote": "「豚」在本词中读ぶた。",
+    "cloze": {
+      "before": "カレーに",
+      "answer": "豚肉",
+      "after": "を入れました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1457440",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pork"
+      ]
+    }
+  },
+  {
+    "id": "w02-a048",
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "category": "名词",
+    "meaning": "牛肉",
+    "example": [
+      [
+        "牛肉",
+        "ぎゅうにく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "薄",
+        "うす"
+      ],
+      [
+        "く"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ってください。"
+      ]
+    ],
+    "translation": "请把牛肉切成薄片。",
+    "tip": "牛单独可读うし，本词采用ぎゅう。",
+    "kanjiNote": "「牛肉」读ぎゅうにく。",
+    "cloze": {
+      "before": "",
+      "answer": "牛肉",
+      "after": "を薄く切ってください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1231580",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "beef"
+      ]
+    }
+  },
+  {
+    "id": "w02-a049",
+    "word": "玉ねぎ",
+    "reading": "たまねぎ",
+    "category": "名词",
+    "meaning": "洋葱",
+    "example": [
+      [
+        "玉",
+        "たま"
+      ],
+      [
+        "ねぎを"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ると、"
+      ],
+      [
+        "涙",
+        "なみだ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "切洋葱时会流眼泪。",
+    "tip": "也常见玉葱、タマネギ两种写法。",
+    "kanjiNote": "「玉」读たま，后半用平假名。",
+    "cloze": {
+      "before": "",
+      "answer": "玉ねぎ",
+      "after": "を切ると、涙が出ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1240670",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "onion (Allium cepa)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a050",
+    "word": "にんじん",
+    "reading": "にんじん",
+    "category": "名词",
+    "meaning": "胡萝卜",
+    "example": [
+      [
+        "にんじんを"
+      ],
+      [
+        "細",
+        "ほそ"
+      ],
+      [
+        "く"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "我把胡萝卜切成了细条。",
+    "tip": "料理语境的にんじん通常指胡萝卜。",
+    "kanjiNote": "常写にんじん或ニンジン；汉字写作人参。",
+    "cloze": {
+      "before": "",
+      "answer": "にんじん",
+      "after": "を細く切りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1367800",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "carrot (Daucus carota)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a051",
+    "word": "じゃがいも",
+    "reading": "じゃがいも",
+    "category": "名词",
+    "meaning": "土豆；马铃薯",
+    "example": [
+      [
+        "じゃがいもを"
+      ],
+      [
+        "三個",
+        "さんこ"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "我买了三个土豆。",
+    "tip": "计数常用「個」；也写ジャガイモ。",
+    "kanjiNote": "日常用假名，避免生硬的汉字写法。",
+    "cloze": {
+      "before": "",
+      "answer": "じゃがいも",
+      "after": "を三個買いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1005930",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "potato (Solanum tuberosum)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a052",
+    "word": "きゅうり",
+    "reading": "きゅうり",
+    "category": "名词",
+    "meaning": "黄瓜",
+    "example": [
+      [
+        "きゅうりを"
+      ],
+      [
+        "薄",
+        "うす"
+      ],
+      [
+        "く"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "って、サラダに"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "把黄瓜切成薄片，放进沙拉。",
+    "tip": "细长蔬菜可用「本」计数。",
+    "kanjiNote": "常写假名；汉字写作胡瓜。",
+    "cloze": {
+      "before": "",
+      "answer": "きゅうり",
+      "after": "を薄く切って、サラダに入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1591500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "cucumber (Cucumis sativus)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a053",
+    "word": "トマト",
+    "reading": "トマト",
+    "category": "名词",
+    "meaning": "番茄；西红柿",
+    "example": [
+      [
+        "冷蔵庫",
+        "れいぞうこ"
+      ],
+      [
+        "にトマトが"
+      ],
+      [
+        "二個",
+        "にこ"
+      ],
+      [
+        "あります。"
+      ]
+    ],
+    "translation": "冰箱里有两个番茄。",
+    "tip": "买整颗番茄时常用「個」计数。",
+    "kanjiNote": "通常用片假名写トマト。",
+    "cloze": {
+      "before": "冷蔵庫に",
+      "answer": "トマト",
+      "after": "が二個あります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1085420",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tomato (Solanum lycopersicum)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a054",
+    "word": "キャベツ",
+    "reading": "キャベツ",
+    "category": "名词",
+    "meaning": "卷心菜；甘蓝",
+    "example": [
+      [
+        "キャベツを"
+      ],
+      [
+        "半分",
+        "はんぶん"
+      ],
+      [
+        "だけ"
+      ],
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "只用半个卷心菜。",
+    "tip": "整颗可数「一玉」，切半可说半分。",
+    "kanjiNote": "通常用片假名写キャベツ。",
+    "cloze": {
+      "before": "",
+      "answer": "キャベツ",
+      "after": "を半分だけ使います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1041870",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "cabbage (Brassica oleracea)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a055",
+    "word": "ねぎ",
+    "reading": "ねぎ",
+    "category": "名词",
+    "meaning": "葱；大葱",
+    "example": [
+      [
+        "うどんにねぎを"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "しのせました。"
+      ]
+    ],
+    "translation": "我在乌冬面上放了一点葱。",
+    "tip": "可作菜名的一部分，如「ねぎスープ」。",
+    "kanjiNote": "汉字写作葱，日常假名也很常见。",
+    "cloze": {
+      "before": "うどんに",
+      "answer": "ねぎ",
+      "after": "を少しのせました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1467630",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "Welsh onion (Allium fistulosum)",
+        "Japanese bunching onion",
+        "green onion",
+        "spring onion",
+        "scallion"
+      ]
+    }
+  },
+  {
+    "id": "w02-a056",
+    "word": "きのこ",
+    "reading": "きのこ",
+    "category": "名词",
+    "meaning": "蘑菇；食用菌",
+    "example": [
+      [
+        "今夜",
+        "こんや"
+      ],
+      [
+        "はきのこのスープを"
+      ],
+      [
+        "作",
+        "つく"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "今晚做蘑菇汤。",
+    "tip": "食物语境中可统称各种可食用菌类。",
+    "kanjiNote": "常写きのこ或キノコ；汉字为茸等。",
+    "cloze": {
+      "before": "今夜は",
+      "answer": "きのこ",
+      "after": "のスープを作ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1416010",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "mushroom"
+      ]
+    }
+  },
+  {
+    "id": "w02-a057",
+    "word": "りんご",
+    "reading": "りんご",
+    "category": "名词",
+    "meaning": "苹果",
+    "example": [
+      [
+        "りんごを"
+      ],
+      [
+        "四",
+        "よっ"
+      ],
+      [
+        "つに"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ってください。"
+      ]
+    ],
+    "translation": "请把苹果切成四块。",
+    "tip": "「四つに切る」指切成四份。",
+    "kanjiNote": "汉字写作林檎，日常多用假名。",
+    "cloze": {
+      "before": "",
+      "answer": "りんご",
+      "after": "を四つに切ってください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1555480",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "apple (fruit)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a058",
+    "word": "みかん",
+    "reading": "みかん",
+    "category": "名词",
+    "meaning": "橘子；蜜柑",
+    "example": [
+      [
+        "食後",
+        "しょくご"
+      ],
+      [
+        "にみかんを"
+      ],
+      [
+        "一個",
+        "いっこ"
+      ],
+      [
+        "食",
+        "た"
+      ],
+      [
+        "べました。"
+      ]
+    ],
+    "translation": "饭后我吃了一个橘子。",
+    "tip": "与オレンジ并非处处可互换。",
+    "kanjiNote": "汉字写作蜜柑，日常多用假名。",
+    "cloze": {
+      "before": "食後に",
+      "answer": "みかん",
+      "after": "を一個食べました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1528410",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "mandarin (esp. the satsuma mandarin (Citrus unshiu))",
+        "mandarin orange",
+        "tangerine",
+        "clementine",
+        "satsuma"
+      ]
+    }
+  },
+  {
+    "id": "w02-a059",
+    "word": "バナナ",
+    "reading": "バナナ",
+    "category": "名词",
+    "meaning": "香蕉",
+    "example": [
+      [
+        "バナナをヨーグルトに"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "我把香蕉放进酸奶。",
+    "tip": "单根香蕉可用「本」计数。",
+    "kanjiNote": "外来词，用片假名书写。",
+    "cloze": {
+      "before": "",
+      "answer": "バナナ",
+      "after": "をヨーグルトに入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1099420",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "banana"
+      ]
+    }
+  },
+  {
+    "id": "w02-a060",
+    "word": "いちご",
+    "reading": "いちご",
+    "category": "名词",
+    "meaning": "草莓",
+    "example": [
+      [
+        "このいちごはとても"
+      ],
+      [
+        "甘",
+        "あま"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这个草莓很甜。",
+    "tip": "也写イチゴ；形容味甜用甘い。",
+    "kanjiNote": "汉字写作苺，日常多用假名。",
+    "cloze": {
+      "before": "この",
+      "answer": "いちご",
+      "after": "はとても甘いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1571460",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "strawberry (esp. the garden strawberry, Fragaria x ananassa)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a061",
+    "word": "ぶどう",
+    "reading": "ぶどう",
+    "category": "名词",
+    "meaning": "葡萄",
+    "example": [
+      [
+        "ぶどうを"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "って、お"
+      ],
+      [
+        "皿",
+        "さら"
+      ],
+      [
+        "にのせます。"
+      ]
+    ],
+    "translation": "我把葡萄洗净放到盘子里。",
+    "tip": "一串葡萄可说「一房」。",
+    "kanjiNote": "汉字写作葡萄，日常假名写法便于阅读。",
+    "cloze": {
+      "before": "",
+      "answer": "ぶどう",
+      "after": "を洗って、お皿にのせます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1499230",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "grape",
+        "grapevine"
+      ]
+    }
+  },
+  {
+    "id": "w02-a062",
+    "word": "弁当",
+    "reading": "べんとう",
+    "category": "名词",
+    "meaning": "便当；盒饭",
+    "example": [
+      [
+        "明日",
+        "あした"
+      ],
+      [
+        "は"
+      ],
+      [
+        "弁当",
+        "べんとう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "持",
+        "も"
+      ],
+      [
+        "っていきます。"
+      ]
+    ],
+    "translation": "明天我带便当去。",
+    "tip": "日常也常加お，说「お弁当」。",
+    "kanjiNote": "「弁当」读べんとう，末尾是长音。",
+    "cloze": {
+      "before": "明日は",
+      "answer": "弁当",
+      "after": "を持っていきます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1513060",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bento",
+        "Japanese box lunch"
+      ]
+    }
+  },
+  {
+    "id": "w02-a063",
+    "word": "朝食",
+    "reading": "ちょうしょく",
+    "category": "名词",
+    "meaning": "早餐",
+    "example": [
+      [
+        "朝食",
+        "ちょうしょく"
+      ],
+      [
+        "は"
+      ],
+      [
+        "七時",
+        "しちじ"
+      ],
+      [
+        "からです。"
+      ]
+    ],
+    "translation": "早餐从七点开始供应。",
+    "tip": "比「朝ご飯」稍正式，常见于酒店说明。",
+    "kanjiNote": "「朝」在本词中读ちょう。",
+    "cloze": {
+      "before": "",
+      "answer": "朝食",
+      "after": "は七時からです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1428390",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "breakfast"
+      ]
+    }
+  },
+  {
+    "id": "w02-a064",
+    "word": "昼食",
+    "reading": "ちゅうしょく",
+    "category": "名词",
+    "meaning": "午餐",
+    "example": [
+      [
+        "昼食",
+        "ちゅうしょく"
+      ],
+      [
+        "の"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "散歩",
+        "さんぽ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "我吃完午餐后散步。",
+    "tip": "日常也说昼ご飯；读音别与朝食混淆。",
+    "kanjiNote": "「昼」在本词中读ちゅう。",
+    "cloze": {
+      "before": "",
+      "answer": "昼食",
+      "after": "の後で散歩します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1602330",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "lunch",
+        "midday meal"
+      ]
+    }
+  },
+  {
+    "id": "w02-a065",
+    "word": "夕食",
+    "reading": "ゆうしょく",
+    "category": "名词",
+    "meaning": "晚餐",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "夕食",
+        "ゆうしょく"
+      ],
+      [
+        "はカレーです。"
+      ]
+    ],
+    "translation": "今天晚餐吃咖喱。",
+    "tip": "日常也可说晩ご飯；本词读ゆうしょく。",
+    "kanjiNote": "「夕」在夕食中读ゆう。",
+    "cloze": {
+      "before": "今日の",
+      "answer": "夕食",
+      "after": "はカレーです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1542730",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "evening meal",
+        "dinner"
+      ]
+    }
+  },
+  {
+    "id": "w02-a066",
+    "word": "味",
+    "reading": "あじ",
+    "category": "名词",
+    "meaning": "味道；滋味",
+    "example": [
+      [
+        "このスープは"
+      ],
+      [
+        "味",
+        "あじ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "薄",
+        "うす"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这道汤的味道很淡。",
+    "tip": "味道淡用「薄い」，浓用「濃い」。",
+    "kanjiNote": "本卡「味」读あじ。",
+    "cloze": {
+      "before": "このスープは",
+      "answer": "味",
+      "after": "が薄いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1526960",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "flavor",
+        "flavour",
+        "taste"
+      ]
+    }
+  },
+  {
+    "id": "w02-a067",
+    "word": "食材",
+    "reading": "しょくざい",
+    "category": "名词",
+    "meaning": "食材；食品原料",
+    "example": [
+      [
+        "週末",
+        "しゅうまつ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "一週間",
+        "いっしゅうかん"
+      ],
+      [
+        "分",
+        "ぶん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "食材",
+        "しょくざい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "我周末买一周用的食材。",
+    "tip": "「食材」侧重用于烹饪的原料。",
+    "kanjiNote": "食：食物；材：材料。",
+    "cloze": {
+      "before": "週末に一週間分の",
+      "answer": "食材",
+      "after": "を買います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1983500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "foodstuff",
+        "ingredient"
+      ]
+    }
+  },
+  {
+    "id": "w02-a068",
+    "word": "賞味期限",
+    "reading": "しょうみきげん",
+    "category": "名词",
+    "meaning": "最佳食用期限；赏味期限",
+    "example": [
+      [
+        "買",
+        "か"
+      ],
+      [
+        "う"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "賞味期限",
+        "しょうみきげん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "確認",
+        "かくにん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "我购买前会查看最佳食用期限。",
+    "tip": "食品标签用语；注意与消費期限区别。",
+    "kanjiNote": "賞味：品尝；期限：限定日期。",
+    "cloze": {
+      "before": "買う前に",
+      "answer": "賞味期限",
+      "after": "を確認します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1351980",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "best-before date (on food)",
+        "use-by date",
+        "expiry date",
+        "expiration date"
+      ]
+    }
+  },
+  {
+    "id": "w02-a069",
+    "word": "消費期限",
+    "reading": "しょうひきげん",
+    "category": "名词",
+    "meaning": "食用截止期限；消耗期限",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "弁当",
+        "べんとう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "消費期限",
+        "しょうひきげん"
+      ],
+      [
+        "は"
+      ],
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "这份便当的食用截止日期是今天。",
+    "tip": "食品包装上的期限标记；不要误读成賞味期限。",
+    "kanjiNote": "消費读しょうひ，期限读きげん。",
+    "cloze": {
+      "before": "この弁当の",
+      "answer": "消費期限",
+      "after": "は今日です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "2233960",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "expiry date (esp. on food)",
+        "expiration date",
+        "use-by date"
+      ]
+    }
+  },
+  {
+    "id": "w02-a070",
+    "word": "スーパー",
+    "reading": "スーパー",
+    "category": "名词",
+    "meaning": "超市",
+    "example": [
+      [
+        "帰",
+        "かえ"
+      ],
+      [
+        "りにスーパーで"
+      ],
+      [
+        "野菜",
+        "やさい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "我回去时在超市买蔬菜。",
+    "tip": "スーパーマーケット的常用简称。",
+    "kanjiNote": "两处长音都要保留：スーパー。",
+    "cloze": {
+      "before": "帰りに",
+      "answer": "スーパー",
+      "after": "で野菜を買います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1066710",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "supermarket"
+      ]
+    }
+  },
+  {
+    "id": "w02-a071",
+    "word": "コンビニ",
+    "reading": "コンビニ",
+    "category": "名词",
+    "meaning": "便利店",
+    "example": [
+      [
+        "コンビニでお"
+      ],
+      [
+        "茶",
+        "ちゃ"
+      ],
+      [
+        "とパンを"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "我在便利店买了茶和面包。",
+    "tip": "コンビニエンスストア的常用简称。",
+    "kanjiNote": "用片假名书写，末尾是ニ而不是二。",
+    "cloze": {
+      "before": "",
+      "answer": "コンビニ",
+      "after": "でお茶とパンを買いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1053280",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "convenience store"
+      ]
+    }
+  },
+  {
+    "id": "w02-a072",
+    "word": "百貨店",
+    "reading": "ひゃっかてん",
+    "category": "名词",
+    "meaning": "百货商店",
+    "example": [
+      [
+        "百貨店",
+        "ひゃっかてん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "地下",
+        "ちか"
+      ],
+      [
+        "でケーキを"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "我在百货商店的地下层买蛋糕。",
+    "tip": "口语也常说デパート。",
+    "kanjiNote": "「百」在本词中为ひゃっ，注意促音。",
+    "cloze": {
+      "before": "",
+      "answer": "百貨店",
+      "after": "の地下でケーキを買います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1488090",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "department store"
+      ]
+    }
+  },
+  {
+    "id": "w02-a073",
+    "word": "商店街",
+    "reading": "しょうてんがい",
+    "category": "名词",
+    "meaning": "商店街；商业街",
+    "example": [
+      [
+        "駅前",
+        "えきまえ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "商店街",
+        "しょうてんがい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "歩",
+        "ある"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "我逛了车站前的商业街。",
+    "tip": "道路上排列店铺的区域，不是单一商店。",
+    "kanjiNote": "「街」在商店街中读がい。",
+    "cloze": {
+      "before": "駅前の",
+      "answer": "商店街",
+      "after": "を歩きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1347190",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "shopping district",
+        "shopping street",
+        "downtown"
+      ]
+    }
+  },
+  {
+    "id": "w02-a074",
+    "word": "売り場",
+    "reading": "うりば",
+    "category": "名词",
+    "meaning": "销售区；卖场；柜台",
+    "example": [
+      [
+        "靴",
+        "くつ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "売",
+        "う"
+      ],
+      [
+        "り"
+      ],
+      [
+        "場",
+        "ば"
+      ],
+      [
+        "は"
+      ],
+      [
+        "二階",
+        "にかい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "鞋类卖场在二楼。",
+    "tip": "按商品分类可说靴売り場、食品売り場。",
+    "kanjiNote": "「売り場」保留送り仮名り。",
+    "cloze": {
+      "before": "靴の",
+      "answer": "売り場",
+      "after": "は二階です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1588550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "selling area",
+        "counter",
+        "section",
+        "department",
+        "sales floor"
+      ]
+    }
+  },
+  {
+    "id": "w02-a075",
+    "word": "商品",
+    "reading": "しょうひん",
+    "category": "名词",
+    "meaning": "商品",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "商品",
+        "しょうひん"
+      ],
+      [
+        "は"
+      ],
+      [
+        "箱",
+        "はこ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "入",
+        "はい"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "这件商品装在盒子里。",
+    "tip": "用于销售的物品叫商品；不泛指所有东西。",
+    "kanjiNote": "「商品」读しょうひん。",
+    "cloze": {
+      "before": "この",
+      "answer": "商品",
+      "after": "は箱に入っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1347310",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "commodity",
+        "article of commerce",
+        "goods",
+        "stock",
+        "merchandise"
+      ]
+    }
+  },
+  {
+    "id": "w02-a076",
+    "word": "値段",
+    "reading": "ねだん",
+    "category": "名词",
+    "meaning": "价格；价钱",
+    "example": [
+      [
+        "このコートの"
+      ],
+      [
+        "値段",
+        "ねだん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "教",
+        "おし"
+      ],
+      [
+        "えてください。"
+      ]
+    ],
+    "translation": "请告诉我这件大衣的价格。",
+    "tip": "日常问价常用値段；价格高低用高い、安い。",
+    "kanjiNote": "「値」在値段中读ね。",
+    "cloze": {
+      "before": "このコートの",
+      "answer": "値段",
+      "after": "を教えてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1600160",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "price",
+        "cost"
+      ]
+    }
+  },
+  {
+    "id": "w02-a077",
+    "word": "価格",
+    "reading": "かかく",
+    "category": "名词",
+    "meaning": "价格；售价",
+    "example": [
+      [
+        "価格",
+        "かかく"
+      ],
+      [
+        "には"
+      ],
+      [
+        "税金",
+        "ぜいきん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "含",
+        "ふく"
+      ],
+      [
+        "まれています。"
+      ]
+    ],
+    "translation": "价格中已包含税金。",
+    "tip": "比値段偏正式，常见于商品说明。",
+    "kanjiNote": "「価格」读かかく，注意不是かがく。",
+    "cloze": {
+      "before": "",
+      "answer": "価格",
+      "after": "には税金が含まれています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1189500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "price",
+        "value",
+        "cost"
+      ]
+    }
+  },
+  {
+    "id": "w02-a078",
+    "word": "代金",
+    "reading": "だいきん",
+    "category": "名词",
+    "meaning": "货款；应付金额",
+    "example": [
+      [
+        "商品",
+        "しょうひん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "代金",
+        "だいきん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "現金",
+        "げんきん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "払",
+        "はら"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "我用现金付了货款。",
+    "tip": "常搭配「代金を払う」。",
+    "kanjiNote": "代：代价；金：款项。",
+    "cloze": {
+      "before": "商品の",
+      "answer": "代金",
+      "after": "を現金で払いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1411790",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "price",
+        "cost",
+        "charge",
+        "payment",
+        "bill",
+        "fee"
+      ]
+    }
+  },
+  {
+    "id": "w02-a079",
+    "word": "会計",
+    "reading": "かいけい",
+    "category": "名词・サ变",
+    "meaning": "结账；付款",
+    "example": [
+      [
+        "食事",
+        "しょくじ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "会計",
+        "かいけい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "済",
+        "す"
+      ],
+      [
+        "ませます。"
+      ]
+    ],
+    "translation": "我吃完饭后结账。",
+    "tip": "请结账可说「お会計をお願いします」。",
+    "kanjiNote": "「会計」读かいけい。",
+    "cloze": {
+      "before": "食事の後で",
+      "answer": "会計",
+      "after": "を済ませます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1198430",
+      "senseIndices": [
+        3
+      ],
+      "glosses": [
+        "settlement (of a bill, fee, etc.), payment"
+      ]
+    }
+  },
+  {
+    "id": "w02-a080",
+    "word": "現金",
+    "reading": "げんきん",
+    "category": "名词",
+    "meaning": "现金",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "では"
+      ],
+      [
+        "現金",
+        "げんきん"
+      ],
+      [
+        "しか"
+      ],
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "えません。"
+      ]
+    ],
+    "translation": "这家店只能用现金。",
+    "tip": "「現金で払う」表示以现金支付。",
+    "kanjiNote": "現：实际、现有；金：钱。",
+    "cloze": {
+      "before": "この店では",
+      "answer": "現金",
+      "after": "しか使えません。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1263550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "cash",
+        "ready money",
+        "money on hand",
+        "currency"
+      ]
+    }
+  },
+  {
+    "id": "w02-a081",
+    "word": "小銭",
+    "reading": "こぜに",
+    "category": "名词",
+    "meaning": "零钱；硬币",
+    "example": [
+      [
+        "財布",
+        "さいふ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "小銭",
+        "こぜに"
+      ],
+      [
+        "がたくさんあります。"
+      ]
+    ],
+    "translation": "钱包里有很多零钱。",
+    "tip": "侧重小额钱币，不等同于找零这一行为。",
+    "kanjiNote": "「銭」在小銭中读ぜに。",
+    "cloze": {
+      "before": "財布に",
+      "answer": "小銭",
+      "after": "がたくさんあります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1348470",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "small change",
+        "pocket change",
+        "coins"
+      ]
+    }
+  },
+  {
+    "id": "w02-a082",
+    "word": "お釣り",
+    "reading": "おつり",
+    "category": "名词",
+    "meaning": "找零；找回的钱",
+    "example": [
+      [
+        "お"
+      ],
+      [
+        "釣",
+        "つ"
+      ],
+      [
+        "りを"
+      ],
+      [
+        "財布",
+        "さいふ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "我把找零放进了钱包。",
+    "tip": "付出的钱多于应付金额时退回的钱叫お釣り。",
+    "kanjiNote": "「釣り」读つり，前加礼貌前缀お。",
+    "cloze": {
+      "before": "",
+      "answer": "お釣り",
+      "after": "を財布に入れました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1270550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "change (for a purchase)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a083",
+    "word": "レシート",
+    "reading": "レシート",
+    "category": "名词",
+    "meaning": "收银小票；收据",
+    "example": [
+      [
+        "レシートは"
+      ],
+      [
+        "袋",
+        "ふくろ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れてください。"
+      ]
+    ],
+    "translation": "请把小票放进袋子里。",
+    "tip": "通常指收银机打印的小票。",
+    "kanjiNote": "シー要读长音；外来词用片假名。",
+    "cloze": {
+      "before": "",
+      "answer": "レシート",
+      "after": "は袋に入れてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1145060",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "receipt",
+        "cash-register slip"
+      ]
+    }
+  },
+  {
+    "id": "w02-a084",
+    "word": "領収書",
+    "reading": "りょうしゅうしょ",
+    "category": "名词",
+    "meaning": "正式收据",
+    "example": [
+      [
+        "会社",
+        "かいしゃ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "出",
+        "だ"
+      ],
+      [
+        "すので、"
+      ],
+      [
+        "領収書",
+        "りょうしゅうしょ"
+      ],
+      [
+        "をください。"
+      ]
+    ],
+    "translation": "我要交给公司，请给我一张收据。",
+    "tip": "一般比レシート更偏正式的付款凭证。",
+    "kanjiNote": "領収：收款；書：文书。",
+    "cloze": {
+      "before": "会社に出すので、",
+      "answer": "領収書",
+      "after": "をください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1554760",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "formal receipt (of payment; oft. hand-written)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a085",
+    "word": "割引",
+    "reading": "わりびき",
+    "category": "名词",
+    "meaning": "折扣；减价",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "には"
+      ],
+      [
+        "学生",
+        "がくせい"
+      ],
+      [
+        "割引",
+        "わりびき"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "这家店有学生优惠。",
+    "tip": "「二割引」表示减去两成，即原价的八成。",
+    "kanjiNote": "「引」在割引中读びき。",
+    "cloze": {
+      "before": "この店には学生",
+      "answer": "割引",
+      "after": "があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1606950",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "discount",
+        "reduction",
+        "rebate"
+      ]
+    }
+  },
+  {
+    "id": "w02-a086",
+    "word": "半額",
+    "reading": "はんがく",
+    "category": "名词",
+    "meaning": "半价；金额的一半",
+    "example": [
+      [
+        "夕方",
+        "ゆうがた"
+      ],
+      [
+        "、この"
+      ],
+      [
+        "弁当",
+        "べんとう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "半額",
+        "はんがく"
+      ],
+      [
+        "になります。"
+      ]
+    ],
+    "translation": "傍晚这份便当会变成半价。",
+    "tip": "半額表示原金额的一半。",
+    "kanjiNote": "「額」在半額中读がく。",
+    "cloze": {
+      "before": "夕方、この弁当は",
+      "answer": "半額",
+      "after": "になります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1479050",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "half the amount (of money)",
+        "half price",
+        "half fare"
+      ]
+    }
+  },
+  {
+    "id": "w02-a087",
+    "word": "特売",
+    "reading": "とくばい",
+    "category": "名词・サ变",
+    "meaning": "特价销售",
+    "example": [
+      [
+        "明日",
+        "あした"
+      ],
+      [
+        "は"
+      ],
+      [
+        "卵",
+        "たまご"
+      ],
+      [
+        "の"
+      ],
+      [
+        "特売",
+        "とくばい"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "明天鸡蛋有特价活动。",
+    "tip": "常见搭配「特売日」指特价销售日。",
+    "kanjiNote": "特：特别；売：销售。",
+    "cloze": {
+      "before": "明日は卵の",
+      "answer": "特売",
+      "after": "があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1455250",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "special sale",
+        "bargain sale"
+      ]
+    }
+  },
+  {
+    "id": "w02-a088",
+    "word": "在庫",
+    "reading": "ざいこ",
+    "category": "名词",
+    "meaning": "库存；存货",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "色",
+        "いろ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "在庫",
+        "ざいこ"
+      ],
+      [
+        "はありますか。"
+      ]
+    ],
+    "translation": "这个颜色有库存吗？",
+    "tip": "询问是否有货可说「在庫はありますか」。",
+    "kanjiNote": "在：存在；庫：仓库。",
+    "cloze": {
+      "before": "この色の",
+      "answer": "在庫",
+      "after": "はありますか。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1296470",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "stock",
+        "inventory"
+      ]
+    }
+  },
+  {
+    "id": "w02-a089",
+    "word": "品切れ",
+    "reading": "しなぎれ",
+    "category": "名词",
+    "meaning": "缺货；售罄",
+    "example": [
+      [
+        "欲",
+        "ほ"
+      ],
+      [
+        "しかったパンは"
+      ],
+      [
+        "品切",
+        "しなぎ"
+      ],
+      [
+        "れでした。"
+      ]
+    ],
+    "translation": "我想买的面包已经卖完了。",
+    "tip": "「品切れです」表示目前无货。",
+    "kanjiNote": "「品」读しな，「切れ」读ぎれ。",
+    "cloze": {
+      "before": "欲しかったパンは",
+      "answer": "品切れ",
+      "after": "でした。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1490640",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "out of stock",
+        "sold out"
+      ]
+    }
+  },
+  {
+    "id": "w02-a090",
+    "word": "返品",
+    "reading": "へんぴん",
+    "category": "名词・サ变",
+    "meaning": "退货",
+    "example": [
+      [
+        "返品",
+        "へんぴん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "方法",
+        "ほうほう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "教",
+        "おし"
+      ],
+      [
+        "えてください。"
+      ]
+    ],
+    "translation": "请告诉我退货的方法。",
+    "tip": "作动词时说「返品する」。",
+    "kanjiNote": "返：退回；品：物品。",
+    "cloze": {
+      "before": "",
+      "answer": "返品",
+      "after": "の方法を教えてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1512300",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "returned goods",
+        "returning purchased goods"
+      ]
+    }
+  },
+  {
+    "id": "w02-a091",
+    "word": "交換",
+    "reading": "こうかん",
+    "category": "名词・サ变",
+    "meaning": "更换；交换",
+    "example": [
+      [
+        "小",
+        "ちい"
+      ],
+      [
+        "さかったので、"
+      ],
+      [
+        "大",
+        "おお"
+      ],
+      [
+        "きいサイズに"
+      ],
+      [
+        "交換",
+        "こうかん"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "因为太小，我换成了大一点的尺码。",
+    "tip": "「AをBに交換する」表示把A换成B。",
+    "kanjiNote": "「交換」读こうかん。",
+    "cloze": {
+      "before": "小さかったので、大きいサイズに",
+      "answer": "交換",
+      "after": "しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1271750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "exchange",
+        "interchange",
+        "switching",
+        "reciprocity",
+        "barter",
+        "substitution",
+        "replacement",
+        "clearing (of checks, cheques)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a092",
+    "word": "袋",
+    "reading": "ふくろ",
+    "category": "名词",
+    "meaning": "袋子",
+    "example": [
+      [
+        "袋",
+        "ふくろ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "持",
+        "も"
+      ],
+      [
+        "っているので、いりません。"
+      ]
+    ],
+    "translation": "我带了袋子，所以不需要。",
+    "tip": "购物时说「袋はいりません」表示不需要袋子。",
+    "kanjiNote": "「袋」在本词中读ふくろ。",
+    "cloze": {
+      "before": "",
+      "answer": "袋",
+      "after": "は持っているので、いりません。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1411070",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bag",
+        "sack",
+        "pouch"
+      ]
+    }
+  },
+  {
+    "id": "w02-a093",
+    "word": "かご",
+    "reading": "かご",
+    "category": "名词",
+    "meaning": "篮子；购物篮",
+    "example": [
+      [
+        "野菜",
+        "やさい"
+      ],
+      [
+        "をかごに"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "我把蔬菜放进了篮子。",
+    "tip": "商店中的购物篮常说「買い物かご」。",
+    "kanjiNote": "常写かご或カゴ，汉字写作籠。",
+    "cloze": {
+      "before": "野菜を",
+      "answer": "かご",
+      "after": "に入れました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1590200",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "basket (shopping, etc.)",
+        "hamper",
+        "cage"
+      ]
+    }
+  },
+  {
+    "id": "w02-a094",
+    "word": "カート",
+    "reading": "カート",
+    "category": "名词",
+    "meaning": "购物推车",
+    "example": [
+      [
+        "入口",
+        "いりぐち"
+      ],
+      [
+        "でカートを"
+      ],
+      [
+        "一台",
+        "いちだい"
+      ],
+      [
+        "借",
+        "か"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "我在入口借了一辆购物推车。",
+    "tip": "本卡是购物推车义，不是卡丁车。",
+    "kanjiNote": "カ后有长音符号，写作カート。",
+    "cloze": {
+      "before": "入口で",
+      "answer": "カート",
+      "after": "を一台借りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1036360",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(shopping) cart"
+      ]
+    }
+  },
+  {
+    "id": "w02-a095",
+    "word": "サイズ",
+    "reading": "サイズ",
+    "category": "名词",
+    "meaning": "尺寸；尺码",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "服",
+        "ふく"
+      ],
+      [
+        "はサイズが"
+      ],
+      [
+        "合",
+        "あ"
+      ],
+      [
+        "いません。"
+      ]
+    ],
+    "translation": "这件衣服尺码不合适。",
+    "tip": "尺码合适常说「サイズが合う」。",
+    "kanjiNote": "外来词，用片假名书写。",
+    "cloze": {
+      "before": "この服は",
+      "answer": "サイズ",
+      "after": "が合いません。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1055780",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "size"
+      ]
+    }
+  },
+  {
+    "id": "w02-a096",
+    "word": "試着",
+    "reading": "しちゃく",
+    "category": "名词・サ变",
+    "meaning": "试穿",
+    "example": [
+      [
+        "このジャケットを"
+      ],
+      [
+        "試着",
+        "しちゃく"
+      ],
+      [
+        "してもいいですか。"
+      ]
+    ],
+    "translation": "我可以试穿这件夹克吗？",
+    "tip": "试衣间叫「試着室」。",
+    "kanjiNote": "試：试；着：穿着。",
+    "cloze": {
+      "before": "このジャケットを",
+      "answer": "試着",
+      "after": "してもいいですか。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1312500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "trying on clothes"
+      ]
+    }
+  },
+  {
+    "id": "w02-a097",
+    "word": "注文",
+    "reading": "ちゅうもん",
+    "category": "名词・サ变",
+    "meaning": "订购；点餐；订单",
+    "example": [
+      [
+        "飲",
+        "の"
+      ],
+      [
+        "み"
+      ],
+      [
+        "物",
+        "もの"
+      ],
+      [
+        "は"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "注文",
+        "ちゅうもん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "饮料稍后再点。",
+    "tip": "餐馆点餐和商店订货都可用注文する。",
+    "kanjiNote": "「注文」在本词中读ちゅうもん。",
+    "cloze": {
+      "before": "飲み物は後で",
+      "answer": "注文",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1426650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "order (for an item)"
+      ]
+    }
+  },
+  {
+    "id": "w02-a098",
+    "word": "配達",
+    "reading": "はいたつ",
+    "category": "名词・サ变",
+    "meaning": "配送；递送",
+    "example": [
+      [
+        "配達",
+        "はいたつ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "時間",
+        "じかん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "午後",
+        "ごご"
+      ],
+      [
+        "に"
+      ],
+      [
+        "変",
+        "か"
+      ],
+      [
+        "えたいです。"
+      ]
+    ],
+    "translation": "我想把配送时间改到下午。",
+    "tip": "表示将物品送到目的地，可说配達する。",
+    "kanjiNote": "「配達」读はいたつ。",
+    "cloze": {
+      "before": "",
+      "answer": "配達",
+      "after": "の時間を午後に変えたいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1473140",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "delivery"
+      ]
+    }
+  },
+  {
+    "id": "w02-a099",
+    "word": "宅配便",
+    "reading": "たくはいびん",
+    "category": "名词",
+    "meaning": "快递；送货上门服务",
+    "example": [
+      [
+        "荷物",
+        "にもつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "宅配便",
+        "たくはいびん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "送",
+        "おく"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "我用快递寄出了包裹。",
+    "tip": "「宅配便で送る」表示通过快递寄送。",
+    "kanjiNote": "「便」在宅配便中读びん。",
+    "cloze": {
+      "before": "荷物を",
+      "answer": "宅配便",
+      "after": "で送りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1415790",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "express home delivery service"
+      ]
+    }
+  },
+  {
+    "id": "w02-a100",
+    "word": "送料",
+    "reading": "そうりょう",
+    "category": "名词",
+    "meaning": "运费；邮费",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "商品",
+        "しょうひん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "送料",
+        "そうりょう"
+      ],
+      [
+        "はいくらですか。"
+      ]
+    ],
+    "translation": "这件商品的运费是多少？",
+    "tip": "「送料無料」表示免运费。",
+    "kanjiNote": "送：发送；料：费用。",
+    "cloze": {
+      "before": "この商品の",
+      "answer": "送料",
+      "after": "はいくらですか。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1402870",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "postage",
+        "carriage",
+        "shipping charge"
+      ]
+    }
+  },
+  {
+    "id": "w02-a101",
+    "word": "無料",
+    "reading": "むりょう",
+    "category": "名词（の形）",
+    "meaning": "免费",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "地図",
+        "ちず"
+      ],
+      [
+        "は"
+      ],
+      [
+        "無料",
+        "むりょう"
+      ],
+      [
+        "でもらえます。"
+      ]
+    ],
+    "translation": "这张地图可以免费领取。",
+    "tip": "修饰名词常用「無料の」，作状语用「無料で」。",
+    "kanjiNote": "無：没有；料：费用。",
+    "cloze": {
+      "before": "この地図は",
+      "answer": "無料",
+      "after": "でもらえます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1531040",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "free (of charge)",
+        "gratuitous"
+      ]
+    }
+  },
+  {
+    "id": "w02-a102",
+    "word": "有料",
+    "reading": "ゆうりょう",
+    "category": "名词（の形）",
+    "meaning": "收费；付费",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "では"
+      ],
+      [
+        "袋",
+        "ふくろ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "有料",
+        "ゆうりょう"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "这家店的袋子收费。",
+    "tip": "与無料相对，修饰名词用「有料の」。",
+    "kanjiNote": "有：有；料：费用。",
+    "cloze": {
+      "before": "この店では袋が",
+      "answer": "有料",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1541690",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "fee-charging",
+        "paid",
+        "not free"
+      ]
+    }
+  },
+  {
+    "id": "w02-a103",
+    "word": "予約",
+    "reading": "よやく",
+    "category": "名词・サ变",
+    "meaning": "预约；预订",
+    "example": [
+      [
+        "電話",
+        "でんわ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "予約",
+        "よやく"
+      ],
+      [
+        "をしました。"
+      ]
+    ],
+    "translation": "我打电话预约了餐厅。",
+    "tip": "可说「予約する」或「予約をする」。",
+    "kanjiNote": "「予約」读よやく。",
+    "cloze": {
+      "before": "電話で店の",
+      "answer": "予約",
+      "after": "をしました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1543750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "reservation",
+        "appointment",
+        "booking",
+        "advance order"
+      ]
+    }
+  },
+  {
+    "id": "w02-a104",
+    "word": "営業時間",
+    "reading": "えいぎょうじかん",
+    "category": "名词",
+    "meaning": "营业时间",
+    "example": [
+      [
+        "出",
+        "で"
+      ],
+      [
+        "かける"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "営業時間",
+        "えいぎょうじかん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "調",
+        "しら"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "我出门前会查营业时间。",
+    "tip": "查看店铺信息时常见；不表示员工个人工时。",
+    "kanjiNote": "営業：营业；時間：时间。",
+    "cloze": {
+      "before": "出かける前に",
+      "answer": "営業時間",
+      "after": "を調べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1173450",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "business hours",
+        "opening hours",
+        "office hours"
+      ]
+    }
+  },
+  {
+    "id": "w02-a105",
+    "word": "定休日",
+    "reading": "ていきゅうび",
+    "category": "名词",
+    "meaning": "固定休息日；固定歇业日",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "定休日",
+        "ていきゅうび"
+      ],
+      [
+        "は"
+      ],
+      [
+        "火曜日",
+        "かようび"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "这家店固定周二歇业。",
+    "tip": "区别于临时休业，指定期固定不营业的日子。",
+    "kanjiNote": "定：固定；休日：休息日。",
+    "cloze": {
+      "before": "この店の",
+      "answer": "定休日",
+      "after": "は火曜日です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1435540",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "regular holiday",
+        "fixed day off",
+        "regular closing day"
+      ]
+    }
+  }
+]
+

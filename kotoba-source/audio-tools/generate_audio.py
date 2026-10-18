@@ -125,8 +125,21 @@ def main():
         # All 315 standalone words are checked against the authored kana.
         observed = "".join(n["read"] for n in pyopenjtalk.run_frontend(word_input))
         if clean_read(observed) != clean_read(word["reading"]):
-            raise ValueError(f"Unexpected word pronunciation: {ident}: {observed}")
-        read_audit.append({"id": ident, "word": word["word"], "expected": word["reading"], "frontend": observed})
+            # Authored, source-checked kana resolves heteronyms without changing the displayed word.
+            word_input = word['reading']
+            observed = "".join(n["read"] for n in pyopenjtalk.run_frontend(word_input))
+            if clean_read(observed) != clean_read(word['reading']):
+                raise ValueError(f"Unexpected word pronunciation: {ident}: {observed}")
+        sentence_observed = "".join(n['read'] for n in pyopenjtalk.run_frontend(sentence_input))
+        original_sentence_observed = sentence_observed
+        if clean_read(sentence_observed) != clean_read(sentence_reading):
+            sentence_input = sentence_reading
+            sentence_observed = "".join(n['read'] for n in pyopenjtalk.run_frontend(sentence_input))
+            if clean_read(sentence_observed) != clean_read(sentence_reading):
+                raise ValueError(f"Unexpected sentence pronunciation: {ident}: {sentence_observed} != {sentence_reading}")
+        read_audit.append({"id": ident, "word": word["word"], "expected": word["reading"], "frontend": observed,
+                           "wordInput":word_input,"sentenceExpected":sentence_reading,"sentenceOriginalFrontend":original_sentence_observed,
+                           "sentenceFrontend":sentence_observed,"sentenceInput":sentence_input})
         tasks += [
             (f"{ident}.mp3", word["word"], word_input, word["reading"], "word"),
             (f"{ident}-example.mp3", sentence, sentence_input, sentence_reading, "example"),

@@ -1,0 +1,26 @@
+日々ことば · 2026-10-18 追加课程（第8–14课）
+
+词形、读音与义项：JMdict / Electronic Dictionary Research and Development Group。
+核对所用快照：2026-10-13。每词 sourceEvidence 保留词条 ID、选定义项与来源。
+https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project
+https://www.edrdg.org/edrdg/licence.html
+
+辅助声调：Kanjium，Uros O.，2026-10-13取得的开源资料。
+https://github.com/mifunetoshiro/kanjium
+仅使用词形、读音和词条身份精确匹配且不附未解决条件的数字声调。
+保留变体和证据；不能确认时标记「声调未收录」，不是没有声调。
+这些资料不等同于出版社专业声调词典；合成语音也不用于证明声调。
+
+JMdict、Kanjium及本批基于它们整理的词条数据使用CC BY-SA 4.0。
+https://creativecommons.org/licenses/by-sa/4.0/
+修改：选取日常义项、整理中文释义与学习说明、补写原创学习例句和译文，
+按课编排，并把核验记录附在词条内。未经母语教师逐条审校。
+原始资料的作者与机构未为本站内容背书。
+
+汉字音训：文化庁《常用漢字表》音訓索引，2010年告示，2026-10-18核对。
+https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html
+第36–70字（慰至英）；例词与读音另对照JMdict；壱万円为表内金额组合。
+表内音训不代表本字所有历史或专门读法。词卡小注与独立汉字练习分开。
+
+音频许可与合成说明另见 audio/ATTRIBUTION.txt。
+学习进度与私人数据不包含在公开课程或本来源记录内。
