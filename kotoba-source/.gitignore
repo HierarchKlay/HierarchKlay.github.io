@@ -1,6 +1,9 @@
 dist/
 __pycache__/
 node_modules/
+supabase/.temp/
+supabase/.branches/
+*.local
 audio-tools/python/
 audio-tools/vendor/
 audio-tools/mp3/
