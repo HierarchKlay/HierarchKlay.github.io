@@ -24,3 +24,13 @@ https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyo
 
 音频许可与合成说明另见 audio/ATTRIBUTION.txt。
 学习进度与私人数据不包含在公开课程或本来源记录内。
+
+2026-10-19 · 汉字手帖关联词音调
+汉字例词与练习词的音调来自本站2026-10-13音调包：Kanjium / Uros O.，
+以及中文维基词典贡献者（2026-10-01快照，经Kaikki/Wiktextract提取）。
+按完整写法和假名精确选取，保留不同音调与条件，不从单字或相似词推断。
+本子集为CC BY-SA 4.0；原始记录、词条ID和来源包SHA-256保留于
+kanji-pitch-data.mjs，完整署名、提取过程、来源链接与许可见dictionary/LICENSE.txt。
+https://github.com/mifunetoshiro/kanjium
+https://zh.wiktionary.org/
+https://creativecommons.org/licenses/by-sa/4.0/

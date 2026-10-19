@@ -80,5 +80,7 @@ def main():
     from extend_course import extend_course
     extend_course(data)
     (ROOT/'dist/lesson.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
+    from build_kanji_pitch import write_kanji_pitch
+    write_kanji_pitch(data)
     print(json.dumps({'words':len(data['words']),'days':len(data['days']),'core':sum(len(d['core']) for d in data['days']),'reserve':sum(len(d['reserve']) for d in data['days']),'accent_verified':sum(isinstance(w['accent'],int) for w in data['words'])},ensure_ascii=False))
 if __name__=='__main__':main()

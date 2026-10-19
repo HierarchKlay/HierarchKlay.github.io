@@ -1,3 +1,10 @@
+## 2026-10-19 · Pitch accents beside kanji example readings
+
+- Show whole-word pitch numbers beside the kana of kanji-notebook examples, preserving alternative patterns and marking missing records. 165 of the current 172 distinct example pairs have numeric records.
+- Bundle a small exact-match subset of the existing Kanjium/Wiktionary pitch snapshot with the study page; no dictionary download is needed to see the numbers. Clicking a number opens the dictionary for that word.
+- Include the same labels in revealed kanji exercise answers and lesson printing. Adjust narrow-card rows to keep kana and pitch together with the meaning below.
+- Preserve the course JSON, IDs, audio and progress. Regenerate the subset during course builds and after dictionary pitch refreshes.
+
 ## 2026-10-18 · Lessons 8–14
 
 - Added 245 core words + 70 unique reserve words, 315 original ruby examples/translations and 35 independent kanji (慰–英). Totals: 14 lessons, 630 vocabulary entries and 70 kanji. IDs and original first-seven lessons unchanged; course ID remains `week01-v1`.
