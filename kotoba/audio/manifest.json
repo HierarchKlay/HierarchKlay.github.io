@@ -10,7 +10,7 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
   "notice": "合成朗读辅助，非真人录音；不可作为声调校验依据。",
   "lessonSha256": "5618f23f6718a2e6a7677dfebe4bdb633f4856a07f264738bf33d95f93180b8c",
-  "totalBytes": 17671877,
+  "totalBytes": 26608404,
   "files": [
     {
       "file": "day-01.mp3",
@@ -137,6 +137,69 @@
       "alignmentCorrelation": 0.998669,
       "bytes": 1273129,
       "sha256": "17b3bf337fe8944a38bf1b3641e958fb58ea7c9bda8c5bc85a2f2f46b24d090f"
+    },
+    {
+      "file": "day-15.mp3",
+      "clips": 90,
+      "duration": 209.843542,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998691,
+      "bytes": 1259881,
+      "sha256": "b16fb4baa7b6ae1fb6727dcfc185040adf7bcf904dbc24f65da39248d02ccad2"
+    },
+    {
+      "file": "day-16.mp3",
+      "clips": 90,
+      "duration": 197.469,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998843,
+      "bytes": 1185577,
+      "sha256": "b9ff5589392958e74558d19f928411c99f605ea2989f1f228da29f414f1c6863"
+    },
+    {
+      "file": "day-17.mp3",
+      "clips": 90,
+      "duration": 217.288792,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998864,
+      "bytes": 1304521,
+      "sha256": "a6b18196712dec8aea9f570aef02e11de9990284dc74ed0548b8eed8a86af76f"
+    },
+    {
+      "file": "day-18.mp3",
+      "clips": 90,
+      "duration": 218.20675,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998896,
+      "bytes": 1309993,
+      "sha256": "40cacb5260a1312dcdb799d64fb2730ccd9c3be318e6d47f556ec8abdcc56ca1"
+    },
+    {
+      "file": "day-19.mp3",
+      "clips": 90,
+      "duration": 223.093875,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998846,
+      "bytes": 1339369,
+      "sha256": "455bca9ff81e8d830cc4ff6971802ce230fc5d1b7c5e9711b1429fcc8c443487"
+    },
+    {
+      "file": "day-20.mp3",
+      "clips": 90,
+      "duration": 208.689167,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998714,
+      "bytes": 1252969,
+      "sha256": "58f2cf6119026125636986b64e2d50a71b284035f3e707ac783ec223c53076f1"
+    },
+    {
+      "file": "day-21.mp3",
+      "clips": 90,
+      "duration": 213.9065,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998753,
+      "bytes": 1284217,
+      "sha256": "129f59cd445ca311ffcacce726475ae3c937bd7de78f4c9c9590013f5deee30a"
     }
   ],
   "clips": {
@@ -6439,6 +6502,3156 @@
       "file": "day-14.mp3",
       "start": 208.494292,
       "end": 212.044292
+    },
+    "w03-a001": {
+      "file": "day-15.mp3",
+      "start": 0.0,
+      "end": 1.050708
+    },
+    "w03-a001-example": {
+      "file": "day-15.mp3",
+      "start": 1.050708,
+      "end": 4.866583
+    },
+    "w03-a002": {
+      "file": "day-15.mp3",
+      "start": 4.866583,
+      "end": 6.612542
+    },
+    "w03-a002-example": {
+      "file": "day-15.mp3",
+      "start": 6.612542,
+      "end": 9.502542
+    },
+    "w03-a003": {
+      "file": "day-15.mp3",
+      "start": 9.502542,
+      "end": 11.572542
+    },
+    "w03-a003-example": {
+      "file": "day-15.mp3",
+      "start": 11.572542,
+      "end": 14.797542
+    },
+    "w03-a004": {
+      "file": "day-15.mp3",
+      "start": 14.797542,
+      "end": 15.9675
+    },
+    "w03-a004-example": {
+      "file": "day-15.mp3",
+      "start": 15.9675,
+      "end": 19.2825
+    },
+    "w03-a005": {
+      "file": "day-15.mp3",
+      "start": 19.2825,
+      "end": 20.873042
+    },
+    "w03-a005-example": {
+      "file": "day-15.mp3",
+      "start": 20.873042,
+      "end": 23.893042
+    },
+    "w03-a006": {
+      "file": "day-15.mp3",
+      "start": 23.893042,
+      "end": 25.61825
+    },
+    "w03-a006-example": {
+      "file": "day-15.mp3",
+      "start": 25.61825,
+      "end": 29.40825
+    },
+    "w03-a007": {
+      "file": "day-15.mp3",
+      "start": 29.40825,
+      "end": 31.36325
+    },
+    "w03-a007-example": {
+      "file": "day-15.mp3",
+      "start": 31.36325,
+      "end": 35.03325
+    },
+    "w03-a008": {
+      "file": "day-15.mp3",
+      "start": 35.03325,
+      "end": 36.199583
+    },
+    "w03-a008-example": {
+      "file": "day-15.mp3",
+      "start": 36.199583,
+      "end": 38.719083
+    },
+    "w03-a009": {
+      "file": "day-15.mp3",
+      "start": 38.719083,
+      "end": 40.813583
+    },
+    "w03-a009-example": {
+      "file": "day-15.mp3",
+      "start": 40.813583,
+      "end": 44.273583
+    },
+    "w03-a010": {
+      "file": "day-15.mp3",
+      "start": 44.273583,
+      "end": 46.088583
+    },
+    "w03-a010-example": {
+      "file": "day-15.mp3",
+      "start": 46.088583,
+      "end": 49.307083
+    },
+    "w03-a011": {
+      "file": "day-15.mp3",
+      "start": 49.307083,
+      "end": 51.256667
+    },
+    "w03-a011-example": {
+      "file": "day-15.mp3",
+      "start": 51.256667,
+      "end": 54.286667
+    },
+    "w03-a012": {
+      "file": "day-15.mp3",
+      "start": 54.286667,
+      "end": 56.226667
+    },
+    "w03-a012-example": {
+      "file": "day-15.mp3",
+      "start": 56.226667,
+      "end": 58.945
+    },
+    "w03-a013": {
+      "file": "day-15.mp3",
+      "start": 58.945,
+      "end": 60.3235
+    },
+    "w03-a013-example": {
+      "file": "day-15.mp3",
+      "start": 60.3235,
+      "end": 63.6885
+    },
+    "w03-a014": {
+      "file": "day-15.mp3",
+      "start": 63.6885,
+      "end": 64.792667
+    },
+    "w03-a014-example": {
+      "file": "day-15.mp3",
+      "start": 64.792667,
+      "end": 67.213042
+    },
+    "w03-a015": {
+      "file": "day-15.mp3",
+      "start": 67.213042,
+      "end": 68.355792
+    },
+    "w03-a015-example": {
+      "file": "day-15.mp3",
+      "start": 68.355792,
+      "end": 71.430792
+    },
+    "w03-a016": {
+      "file": "day-15.mp3",
+      "start": 71.430792,
+      "end": 72.635
+    },
+    "w03-a016-example": {
+      "file": "day-15.mp3",
+      "start": 72.635,
+      "end": 76.11
+    },
+    "w03-a017": {
+      "file": "day-15.mp3",
+      "start": 76.11,
+      "end": 77.639958
+    },
+    "w03-a017-example": {
+      "file": "day-15.mp3",
+      "start": 77.639958,
+      "end": 80.238167
+    },
+    "w03-a018": {
+      "file": "day-15.mp3",
+      "start": 80.238167,
+      "end": 82.228375
+    },
+    "w03-a018-example": {
+      "file": "day-15.mp3",
+      "start": 82.228375,
+      "end": 85.663375
+    },
+    "w03-a019": {
+      "file": "day-15.mp3",
+      "start": 85.663375,
+      "end": 86.827292
+    },
+    "w03-a019-example": {
+      "file": "day-15.mp3",
+      "start": 86.827292,
+      "end": 89.727292
+    },
+    "w03-a020": {
+      "file": "day-15.mp3",
+      "start": 89.727292,
+      "end": 91.562542
+    },
+    "w03-a020-example": {
+      "file": "day-15.mp3",
+      "start": 91.562542,
+      "end": 94.3835
+    },
+    "w03-a021": {
+      "file": "day-15.mp3",
+      "start": 94.3835,
+      "end": 96.1235
+    },
+    "w03-a021-example": {
+      "file": "day-15.mp3",
+      "start": 96.1235,
+      "end": 99.309458
+    },
+    "w03-a022": {
+      "file": "day-15.mp3",
+      "start": 99.309458,
+      "end": 100.276833
+    },
+    "w03-a022-example": {
+      "file": "day-15.mp3",
+      "start": 100.276833,
+      "end": 102.694792
+    },
+    "w03-a023": {
+      "file": "day-15.mp3",
+      "start": 102.694792,
+      "end": 104.509792
+    },
+    "w03-a023-example": {
+      "file": "day-15.mp3",
+      "start": 104.509792,
+      "end": 107.530125
+    },
+    "w03-a024": {
+      "file": "day-15.mp3",
+      "start": 107.530125,
+      "end": 109.320125
+    },
+    "w03-a024-example": {
+      "file": "day-15.mp3",
+      "start": 109.320125,
+      "end": 112.335125
+    },
+    "w03-a025": {
+      "file": "day-15.mp3",
+      "start": 112.335125,
+      "end": 113.428708
+    },
+    "w03-a025-example": {
+      "file": "day-15.mp3",
+      "start": 113.428708,
+      "end": 115.881542
+    },
+    "w03-a026": {
+      "file": "day-15.mp3",
+      "start": 115.881542,
+      "end": 117.676542
+    },
+    "w03-a026-example": {
+      "file": "day-15.mp3",
+      "start": 117.676542,
+      "end": 120.476542
+    },
+    "w03-a027": {
+      "file": "day-15.mp3",
+      "start": 120.476542,
+      "end": 121.881875
+    },
+    "w03-a027-example": {
+      "file": "day-15.mp3",
+      "start": 121.881875,
+      "end": 125.176875
+    },
+    "w03-a028": {
+      "file": "day-15.mp3",
+      "start": 125.176875,
+      "end": 126.7115
+    },
+    "w03-a028-example": {
+      "file": "day-15.mp3",
+      "start": 126.7115,
+      "end": 129.57575
+    },
+    "w03-a029": {
+      "file": "day-15.mp3",
+      "start": 129.57575,
+      "end": 131.29575
+    },
+    "w03-a029-example": {
+      "file": "day-15.mp3",
+      "start": 131.29575,
+      "end": 134.28575
+    },
+    "w03-a030": {
+      "file": "day-15.mp3",
+      "start": 134.28575,
+      "end": 135.408292
+    },
+    "w03-a030-example": {
+      "file": "day-15.mp3",
+      "start": 135.408292,
+      "end": 138.598292
+    },
+    "w03-a031": {
+      "file": "day-15.mp3",
+      "start": 138.598292,
+      "end": 139.723417
+    },
+    "w03-a031-example": {
+      "file": "day-15.mp3",
+      "start": 139.723417,
+      "end": 143.158417
+    },
+    "w03-a032": {
+      "file": "day-15.mp3",
+      "start": 143.158417,
+      "end": 145.308417
+    },
+    "w03-a032-example": {
+      "file": "day-15.mp3",
+      "start": 145.308417,
+      "end": 148.803417
+    },
+    "w03-a033": {
+      "file": "day-15.mp3",
+      "start": 148.803417,
+      "end": 149.881833
+    },
+    "w03-a033-example": {
+      "file": "day-15.mp3",
+      "start": 149.881833,
+      "end": 152.641542
+    },
+    "w03-a034": {
+      "file": "day-15.mp3",
+      "start": 152.641542,
+      "end": 154.611542
+    },
+    "w03-a034-example": {
+      "file": "day-15.mp3",
+      "start": 154.611542,
+      "end": 158.141542
+    },
+    "w03-a035": {
+      "file": "day-15.mp3",
+      "start": 158.141542,
+      "end": 159.988
+    },
+    "w03-a035-example": {
+      "file": "day-15.mp3",
+      "start": 159.988,
+      "end": 162.609542
+    },
+    "w03-a036": {
+      "file": "day-15.mp3",
+      "start": 162.609542,
+      "end": 164.44525
+    },
+    "w03-a036-example": {
+      "file": "day-15.mp3",
+      "start": 164.44525,
+      "end": 167.218417
+    },
+    "w03-a037": {
+      "file": "day-15.mp3",
+      "start": 167.218417,
+      "end": 169.278417
+    },
+    "w03-a037-example": {
+      "file": "day-15.mp3",
+      "start": 169.278417,
+      "end": 172.563417
+    },
+    "w03-a038": {
+      "file": "day-15.mp3",
+      "start": 172.563417,
+      "end": 174.223
+    },
+    "w03-a038-example": {
+      "file": "day-15.mp3",
+      "start": 174.223,
+      "end": 178.038
+    },
+    "w03-a039": {
+      "file": "day-15.mp3",
+      "start": 178.038,
+      "end": 179.675125
+    },
+    "w03-a039-example": {
+      "file": "day-15.mp3",
+      "start": 179.675125,
+      "end": 183.509083
+    },
+    "w03-a040": {
+      "file": "day-15.mp3",
+      "start": 183.509083,
+      "end": 184.814667
+    },
+    "w03-a040-example": {
+      "file": "day-15.mp3",
+      "start": 184.814667,
+      "end": 187.58075
+    },
+    "w03-a041": {
+      "file": "day-15.mp3",
+      "start": 187.58075,
+      "end": 189.45575
+    },
+    "w03-a041-example": {
+      "file": "day-15.mp3",
+      "start": 189.45575,
+      "end": 192.243042
+    },
+    "w03-a042": {
+      "file": "day-15.mp3",
+      "start": 192.243042,
+      "end": 193.447458
+    },
+    "w03-a042-example": {
+      "file": "day-15.mp3",
+      "start": 193.447458,
+      "end": 196.407458
+    },
+    "w03-a043": {
+      "file": "day-15.mp3",
+      "start": 196.407458,
+      "end": 197.51775
+    },
+    "w03-a043-example": {
+      "file": "day-15.mp3",
+      "start": 197.51775,
+      "end": 200.131
+    },
+    "w03-a044": {
+      "file": "day-15.mp3",
+      "start": 200.131,
+      "end": 202.080583
+    },
+    "w03-a044-example": {
+      "file": "day-15.mp3",
+      "start": 202.080583,
+      "end": 205.435708
+    },
+    "w03-a045": {
+      "file": "day-15.mp3",
+      "start": 205.435708,
+      "end": 207.271333
+    },
+    "w03-a045-example": {
+      "file": "day-15.mp3",
+      "start": 207.271333,
+      "end": 209.843542
+    },
+    "w03-a046": {
+      "file": "day-16.mp3",
+      "start": 0.0,
+      "end": 1.835708
+    },
+    "w03-a046-example": {
+      "file": "day-16.mp3",
+      "start": 1.835708,
+      "end": 4.686542
+    },
+    "w03-a047": {
+      "file": "day-16.mp3",
+      "start": 4.686542,
+      "end": 5.985875
+    },
+    "w03-a047-example": {
+      "file": "day-16.mp3",
+      "start": 5.985875,
+      "end": 8.307833
+    },
+    "w03-a048": {
+      "file": "day-16.mp3",
+      "start": 8.307833,
+      "end": 9.405792
+    },
+    "w03-a048-example": {
+      "file": "day-16.mp3",
+      "start": 9.405792,
+      "end": 11.795833
+    },
+    "w03-a049": {
+      "file": "day-16.mp3",
+      "start": 11.795833,
+      "end": 13.810833
+    },
+    "w03-a049-example": {
+      "file": "day-16.mp3",
+      "start": 13.810833,
+      "end": 16.631458
+    },
+    "w03-a050": {
+      "file": "day-16.mp3",
+      "start": 16.631458,
+      "end": 17.803167
+    },
+    "w03-a050-example": {
+      "file": "day-16.mp3",
+      "start": 17.803167,
+      "end": 20.183833
+    },
+    "w03-a051": {
+      "file": "day-16.mp3",
+      "start": 20.183833,
+      "end": 21.450167
+    },
+    "w03-a051-example": {
+      "file": "day-16.mp3",
+      "start": 21.450167,
+      "end": 24.470708
+    },
+    "w03-a052": {
+      "file": "day-16.mp3",
+      "start": 24.470708,
+      "end": 26.305375
+    },
+    "w03-a052-example": {
+      "file": "day-16.mp3",
+      "start": 26.305375,
+      "end": 29.487417
+    },
+    "w03-a053": {
+      "file": "day-16.mp3",
+      "start": 29.487417,
+      "end": 31.312417
+    },
+    "w03-a053-example": {
+      "file": "day-16.mp3",
+      "start": 31.312417,
+      "end": 34.537417
+    },
+    "w03-a054": {
+      "file": "day-16.mp3",
+      "start": 34.537417,
+      "end": 36.562417
+    },
+    "w03-a054-example": {
+      "file": "day-16.mp3",
+      "start": 36.562417,
+      "end": 40.172417
+    },
+    "w03-a055": {
+      "file": "day-16.mp3",
+      "start": 40.172417,
+      "end": 41.209583
+    },
+    "w03-a055-example": {
+      "file": "day-16.mp3",
+      "start": 41.209583,
+      "end": 44.065125
+    },
+    "w03-a056": {
+      "file": "day-16.mp3",
+      "start": 44.065125,
+      "end": 45.246583
+    },
+    "w03-a056-example": {
+      "file": "day-16.mp3",
+      "start": 45.246583,
+      "end": 48.080958
+    },
+    "w03-a057": {
+      "file": "day-16.mp3",
+      "start": 48.080958,
+      "end": 49.845958
+    },
+    "w03-a057-example": {
+      "file": "day-16.mp3",
+      "start": 49.845958,
+      "end": 53.865958
+    },
+    "w03-a058": {
+      "file": "day-16.mp3",
+      "start": 53.865958,
+      "end": 55.830958
+    },
+    "w03-a058-example": {
+      "file": "day-16.mp3",
+      "start": 55.830958,
+      "end": 58.825958
+    },
+    "w03-a059": {
+      "file": "day-16.mp3",
+      "start": 58.825958,
+      "end": 60.097875
+    },
+    "w03-a059-example": {
+      "file": "day-16.mp3",
+      "start": 60.097875,
+      "end": 62.499333
+    },
+    "w03-a060": {
+      "file": "day-16.mp3",
+      "start": 62.499333,
+      "end": 64.379333
+    },
+    "w03-a060-example": {
+      "file": "day-16.mp3",
+      "start": 64.379333,
+      "end": 68.049333
+    },
+    "w03-a061": {
+      "file": "day-16.mp3",
+      "start": 68.049333,
+      "end": 69.884583
+    },
+    "w03-a061-example": {
+      "file": "day-16.mp3",
+      "start": 69.884583,
+      "end": 72.999583
+    },
+    "w03-a062": {
+      "file": "day-16.mp3",
+      "start": 72.999583,
+      "end": 74.142208
+    },
+    "w03-a062-example": {
+      "file": "day-16.mp3",
+      "start": 74.142208,
+      "end": 76.589875
+    },
+    "w03-a063": {
+      "file": "day-16.mp3",
+      "start": 76.589875,
+      "end": 78.180792
+    },
+    "w03-a063-example": {
+      "file": "day-16.mp3",
+      "start": 78.180792,
+      "end": 81.00175
+    },
+    "w03-a064": {
+      "file": "day-16.mp3",
+      "start": 81.00175,
+      "end": 83.01175
+    },
+    "w03-a064-example": {
+      "file": "day-16.mp3",
+      "start": 83.01175,
+      "end": 86.47175
+    },
+    "w03-a065": {
+      "file": "day-16.mp3",
+      "start": 86.47175,
+      "end": 87.535417
+    },
+    "w03-a065-example": {
+      "file": "day-16.mp3",
+      "start": 87.535417,
+      "end": 90.038292
+    },
+    "w03-a066": {
+      "file": "day-16.mp3",
+      "start": 90.038292,
+      "end": 91.405542
+    },
+    "w03-a066-example": {
+      "file": "day-16.mp3",
+      "start": 91.405542,
+      "end": 94.226625
+    },
+    "w03-a067": {
+      "file": "day-16.mp3",
+      "start": 94.226625,
+      "end": 95.401333
+    },
+    "w03-a067-example": {
+      "file": "day-16.mp3",
+      "start": 95.401333,
+      "end": 98.059417
+    },
+    "w03-a068": {
+      "file": "day-16.mp3",
+      "start": 98.059417,
+      "end": 99.3575
+    },
+    "w03-a068-example": {
+      "file": "day-16.mp3",
+      "start": 99.3575,
+      "end": 102.015458
+    },
+    "w03-a069": {
+      "file": "day-16.mp3",
+      "start": 102.015458,
+      "end": 103.226417
+    },
+    "w03-a069-example": {
+      "file": "day-16.mp3",
+      "start": 103.226417,
+      "end": 106.646417
+    },
+    "w03-a070": {
+      "file": "day-16.mp3",
+      "start": 106.646417,
+      "end": 107.686
+    },
+    "w03-a070-example": {
+      "file": "day-16.mp3",
+      "start": 107.686,
+      "end": 110.124292
+    },
+    "w03-a071": {
+      "file": "day-16.mp3",
+      "start": 110.124292,
+      "end": 111.133417
+    },
+    "w03-a071-example": {
+      "file": "day-16.mp3",
+      "start": 111.133417,
+      "end": 113.551375
+    },
+    "w03-a072": {
+      "file": "day-16.mp3",
+      "start": 113.551375,
+      "end": 115.321375
+    },
+    "w03-a072-example": {
+      "file": "day-16.mp3",
+      "start": 115.321375,
+      "end": 117.737208
+    },
+    "w03-a073": {
+      "file": "day-16.mp3",
+      "start": 117.737208,
+      "end": 119.571708
+    },
+    "w03-a073-example": {
+      "file": "day-16.mp3",
+      "start": 119.571708,
+      "end": 122.253667
+    },
+    "w03-a074": {
+      "file": "day-16.mp3",
+      "start": 122.253667,
+      "end": 123.36475
+    },
+    "w03-a074-example": {
+      "file": "day-16.mp3",
+      "start": 123.36475,
+      "end": 125.776417
+    },
+    "w03-a075": {
+      "file": "day-16.mp3",
+      "start": 125.776417,
+      "end": 126.854792
+    },
+    "w03-a075-example": {
+      "file": "day-16.mp3",
+      "start": 126.854792,
+      "end": 128.994125
+    },
+    "w03-a076": {
+      "file": "day-16.mp3",
+      "start": 128.994125,
+      "end": 130.774125
+    },
+    "w03-a076-example": {
+      "file": "day-16.mp3",
+      "start": 130.774125,
+      "end": 133.794625
+    },
+    "w03-a077": {
+      "file": "day-16.mp3",
+      "start": 133.794625,
+      "end": 135.071958
+    },
+    "w03-a077-example": {
+      "file": "day-16.mp3",
+      "start": 135.071958,
+      "end": 137.489917
+    },
+    "w03-a078": {
+      "file": "day-16.mp3",
+      "start": 137.489917,
+      "end": 138.6265
+    },
+    "w03-a078-example": {
+      "file": "day-16.mp3",
+      "start": 138.6265,
+      "end": 141.7165
+    },
+    "w03-a079": {
+      "file": "day-16.mp3",
+      "start": 141.7165,
+      "end": 143.246458
+    },
+    "w03-a079-example": {
+      "file": "day-16.mp3",
+      "start": 143.246458,
+      "end": 146.546458
+    },
+    "w03-a080": {
+      "file": "day-16.mp3",
+      "start": 146.546458,
+      "end": 147.581458
+    },
+    "w03-a080-example": {
+      "file": "day-16.mp3",
+      "start": 147.581458,
+      "end": 150.615417
+    },
+    "w03-a081": {
+      "file": "day-16.mp3",
+      "start": 150.615417,
+      "end": 151.79125
+    },
+    "w03-a081-example": {
+      "file": "day-16.mp3",
+      "start": 151.79125,
+      "end": 153.939792
+    },
+    "w03-a082": {
+      "file": "day-16.mp3",
+      "start": 153.939792,
+      "end": 155.402208
+    },
+    "w03-a082-example": {
+      "file": "day-16.mp3",
+      "start": 155.402208,
+      "end": 159.061542
+    },
+    "w03-a083": {
+      "file": "day-16.mp3",
+      "start": 159.061542,
+      "end": 160.652
+    },
+    "w03-a083-example": {
+      "file": "day-16.mp3",
+      "start": 160.652,
+      "end": 164.067
+    },
+    "w03-a084": {
+      "file": "day-16.mp3",
+      "start": 164.067,
+      "end": 166.082
+    },
+    "w03-a084-example": {
+      "file": "day-16.mp3",
+      "start": 166.082,
+      "end": 168.731167
+    },
+    "w03-a085": {
+      "file": "day-16.mp3",
+      "start": 168.731167,
+      "end": 170.2295
+    },
+    "w03-a085-example": {
+      "file": "day-16.mp3",
+      "start": 170.2295,
+      "end": 173.5295
+    },
+    "w03-a086": {
+      "file": "day-16.mp3",
+      "start": 173.5295,
+      "end": 175.6095
+    },
+    "w03-a086-example": {
+      "file": "day-16.mp3",
+      "start": 175.6095,
+      "end": 178.430042
+    },
+    "w03-a087": {
+      "file": "day-16.mp3",
+      "start": 178.430042,
+      "end": 179.506208
+    },
+    "w03-a087-example": {
+      "file": "day-16.mp3",
+      "start": 179.506208,
+      "end": 182.526542
+    },
+    "w03-a088": {
+      "file": "day-16.mp3",
+      "start": 182.526542,
+      "end": 184.172375
+    },
+    "w03-a088-example": {
+      "file": "day-16.mp3",
+      "start": 184.172375,
+      "end": 187.830917
+    },
+    "w03-a089": {
+      "file": "day-16.mp3",
+      "start": 187.830917,
+      "end": 188.929
+    },
+    "w03-a089-example": {
+      "file": "day-16.mp3",
+      "start": 188.929,
+      "end": 192.604
+    },
+    "w03-a090": {
+      "file": "day-16.mp3",
+      "start": 192.604,
+      "end": 193.979667
+    },
+    "w03-a090-example": {
+      "file": "day-16.mp3",
+      "start": 193.979667,
+      "end": 197.469
+    },
+    "w03-a091": {
+      "file": "day-17.mp3",
+      "start": 0.0,
+      "end": 1.053708
+    },
+    "w03-a091-example": {
+      "file": "day-17.mp3",
+      "start": 1.053708,
+      "end": 3.7045
+    },
+    "w03-a092": {
+      "file": "day-17.mp3",
+      "start": 3.7045,
+      "end": 5.6145
+    },
+    "w03-a092-example": {
+      "file": "day-17.mp3",
+      "start": 5.6145,
+      "end": 8.435167
+    },
+    "w03-a093": {
+      "file": "day-17.mp3",
+      "start": 8.435167,
+      "end": 9.716667
+    },
+    "w03-a093-example": {
+      "file": "day-17.mp3",
+      "start": 9.716667,
+      "end": 12.936
+    },
+    "w03-a094": {
+      "file": "day-17.mp3",
+      "start": 12.936,
+      "end": 14.771
+    },
+    "w03-a094-example": {
+      "file": "day-17.mp3",
+      "start": 14.771,
+      "end": 17.322708
+    },
+    "w03-a095": {
+      "file": "day-17.mp3",
+      "start": 17.322708,
+      "end": 19.158125
+    },
+    "w03-a095-example": {
+      "file": "day-17.mp3",
+      "start": 19.158125,
+      "end": 22.748125
+    },
+    "w03-a096": {
+      "file": "day-17.mp3",
+      "start": 22.748125,
+      "end": 24.658125
+    },
+    "w03-a096-example": {
+      "file": "day-17.mp3",
+      "start": 24.658125,
+      "end": 28.063125
+    },
+    "w03-a097": {
+      "file": "day-17.mp3",
+      "start": 28.063125,
+      "end": 29.469125
+    },
+    "w03-a097-example": {
+      "file": "day-17.mp3",
+      "start": 29.469125,
+      "end": 32.209125
+    },
+    "w03-a098": {
+      "file": "day-17.mp3",
+      "start": 32.209125,
+      "end": 33.447167
+    },
+    "w03-a098-example": {
+      "file": "day-17.mp3",
+      "start": 33.447167,
+      "end": 36.267708
+    },
+    "w03-a099": {
+      "file": "day-17.mp3",
+      "start": 36.267708,
+      "end": 37.49725
+    },
+    "w03-a099-example": {
+      "file": "day-17.mp3",
+      "start": 37.49725,
+      "end": 40.04825
+    },
+    "w03-a100": {
+      "file": "day-17.mp3",
+      "start": 40.04825,
+      "end": 41.883333
+    },
+    "w03-a100-example": {
+      "file": "day-17.mp3",
+      "start": 41.883333,
+      "end": 44.963333
+    },
+    "w03-a101": {
+      "file": "day-17.mp3",
+      "start": 44.963333,
+      "end": 46.425625
+    },
+    "w03-a101-example": {
+      "file": "day-17.mp3",
+      "start": 46.425625,
+      "end": 48.815333
+    },
+    "w03-a102": {
+      "file": "day-17.mp3",
+      "start": 48.815333,
+      "end": 50.600333
+    },
+    "w03-a102-example": {
+      "file": "day-17.mp3",
+      "start": 50.600333,
+      "end": 53.258292
+    },
+    "w03-a103": {
+      "file": "day-17.mp3",
+      "start": 53.258292,
+      "end": 54.807958
+    },
+    "w03-a103-example": {
+      "file": "day-17.mp3",
+      "start": 54.807958,
+      "end": 58.092958
+    },
+    "w03-a104": {
+      "file": "day-17.mp3",
+      "start": 58.092958,
+      "end": 60.042958
+    },
+    "w03-a104-example": {
+      "file": "day-17.mp3",
+      "start": 60.042958,
+      "end": 63.547958
+    },
+    "w03-a105": {
+      "file": "day-17.mp3",
+      "start": 63.547958,
+      "end": 64.850958
+    },
+    "w03-a105-example": {
+      "file": "day-17.mp3",
+      "start": 64.850958,
+      "end": 67.500042
+    },
+    "w03-b001": {
+      "file": "day-17.mp3",
+      "start": 67.500042,
+      "end": 69.475042
+    },
+    "w03-b001-example": {
+      "file": "day-17.mp3",
+      "start": 69.475042,
+      "end": 72.145042
+    },
+    "w03-b002": {
+      "file": "day-17.mp3",
+      "start": 72.145042,
+      "end": 74.170042
+    },
+    "w03-b002-example": {
+      "file": "day-17.mp3",
+      "start": 74.170042,
+      "end": 78.264208
+    },
+    "w03-b003": {
+      "file": "day-17.mp3",
+      "start": 78.264208,
+      "end": 79.7075
+    },
+    "w03-b003-example": {
+      "file": "day-17.mp3",
+      "start": 79.7075,
+      "end": 84.219375
+    },
+    "w03-b004": {
+      "file": "day-17.mp3",
+      "start": 84.219375,
+      "end": 86.169375
+    },
+    "w03-b004-example": {
+      "file": "day-17.mp3",
+      "start": 86.169375,
+      "end": 90.464375
+    },
+    "w03-b005": {
+      "file": "day-17.mp3",
+      "start": 90.464375,
+      "end": 92.354375
+    },
+    "w03-b005-example": {
+      "file": "day-17.mp3",
+      "start": 92.354375,
+      "end": 95.540333
+    },
+    "w03-b006": {
+      "file": "day-17.mp3",
+      "start": 95.540333,
+      "end": 97.360833
+    },
+    "w03-b006-example": {
+      "file": "day-17.mp3",
+      "start": 97.360833,
+      "end": 100.2605
+    },
+    "w03-b007": {
+      "file": "day-17.mp3",
+      "start": 100.2605,
+      "end": 102.106958
+    },
+    "w03-b007-example": {
+      "file": "day-17.mp3",
+      "start": 102.106958,
+      "end": 105.951958
+    },
+    "w03-b008": {
+      "file": "day-17.mp3",
+      "start": 105.951958,
+      "end": 107.58925
+    },
+    "w03-b008-example": {
+      "file": "day-17.mp3",
+      "start": 107.58925,
+      "end": 111.015208
+    },
+    "w03-b009": {
+      "file": "day-17.mp3",
+      "start": 111.015208,
+      "end": 112.319708
+    },
+    "w03-b009-example": {
+      "file": "day-17.mp3",
+      "start": 112.319708,
+      "end": 115.854708
+    },
+    "w03-b010": {
+      "file": "day-17.mp3",
+      "start": 115.854708,
+      "end": 117.689583
+    },
+    "w03-b010-example": {
+      "file": "day-17.mp3",
+      "start": 117.689583,
+      "end": 121.179208
+    },
+    "w03-b011": {
+      "file": "day-17.mp3",
+      "start": 121.179208,
+      "end": 122.289125
+    },
+    "w03-b011-example": {
+      "file": "day-17.mp3",
+      "start": 122.289125,
+      "end": 124.572875
+    },
+    "w03-b012": {
+      "file": "day-17.mp3",
+      "start": 124.572875,
+      "end": 126.442875
+    },
+    "w03-b012-example": {
+      "file": "day-17.mp3",
+      "start": 126.442875,
+      "end": 129.135458
+    },
+    "w03-b013": {
+      "file": "day-17.mp3",
+      "start": 129.135458,
+      "end": 131.110458
+    },
+    "w03-b013-example": {
+      "file": "day-17.mp3",
+      "start": 131.110458,
+      "end": 135.085458
+    },
+    "w03-b014": {
+      "file": "day-17.mp3",
+      "start": 135.085458,
+      "end": 137.075667
+    },
+    "w03-b014-example": {
+      "file": "day-17.mp3",
+      "start": 137.075667,
+      "end": 140.720958
+    },
+    "w03-b015": {
+      "file": "day-17.mp3",
+      "start": 140.720958,
+      "end": 142.094875
+    },
+    "w03-b015-example": {
+      "file": "day-17.mp3",
+      "start": 142.094875,
+      "end": 146.109875
+    },
+    "w03-b016": {
+      "file": "day-17.mp3",
+      "start": 146.109875,
+      "end": 147.118625
+    },
+    "w03-b016-example": {
+      "file": "day-17.mp3",
+      "start": 147.118625,
+      "end": 150.548458
+    },
+    "w03-b017": {
+      "file": "day-17.mp3",
+      "start": 150.548458,
+      "end": 151.897583
+    },
+    "w03-b017-example": {
+      "file": "day-17.mp3",
+      "start": 151.897583,
+      "end": 155.652583
+    },
+    "w03-b018": {
+      "file": "day-17.mp3",
+      "start": 155.652583,
+      "end": 157.697583
+    },
+    "w03-b018-example": {
+      "file": "day-17.mp3",
+      "start": 157.697583,
+      "end": 161.612583
+    },
+    "w03-b019": {
+      "file": "day-17.mp3",
+      "start": 161.612583,
+      "end": 162.895333
+    },
+    "w03-b019-example": {
+      "file": "day-17.mp3",
+      "start": 162.895333,
+      "end": 166.115542
+    },
+    "w03-b020": {
+      "file": "day-17.mp3",
+      "start": 166.115542,
+      "end": 167.256208
+    },
+    "w03-b020-example": {
+      "file": "day-17.mp3",
+      "start": 167.256208,
+      "end": 171.349958
+    },
+    "w03-b021": {
+      "file": "day-17.mp3",
+      "start": 171.349958,
+      "end": 172.524667
+    },
+    "w03-b021-example": {
+      "file": "day-17.mp3",
+      "start": 172.524667,
+      "end": 175.34525
+    },
+    "w03-b022": {
+      "file": "day-17.mp3",
+      "start": 175.34525,
+      "end": 177.25525
+    },
+    "w03-b022-example": {
+      "file": "day-17.mp3",
+      "start": 177.25525,
+      "end": 180.41475
+    },
+    "w03-b023": {
+      "file": "day-17.mp3",
+      "start": 180.41475,
+      "end": 182.45975
+    },
+    "w03-b023-example": {
+      "file": "day-17.mp3",
+      "start": 182.45975,
+      "end": 185.88975
+    },
+    "w03-b024": {
+      "file": "day-17.mp3",
+      "start": 185.88975,
+      "end": 187.059958
+    },
+    "w03-b024-example": {
+      "file": "day-17.mp3",
+      "start": 187.059958,
+      "end": 189.383958
+    },
+    "w03-b025": {
+      "file": "day-17.mp3",
+      "start": 189.383958,
+      "end": 191.219667
+    },
+    "w03-b025-example": {
+      "file": "day-17.mp3",
+      "start": 191.219667,
+      "end": 194.302708
+    },
+    "w03-b026": {
+      "file": "day-17.mp3",
+      "start": 194.302708,
+      "end": 196.252708
+    },
+    "w03-b026-example": {
+      "file": "day-17.mp3",
+      "start": 196.252708,
+      "end": 199.103167
+    },
+    "w03-b027": {
+      "file": "day-17.mp3",
+      "start": 199.103167,
+      "end": 200.657125
+    },
+    "w03-b027-example": {
+      "file": "day-17.mp3",
+      "start": 200.657125,
+      "end": 203.771083
+    },
+    "w03-b028": {
+      "file": "day-17.mp3",
+      "start": 203.771083,
+      "end": 205.617333
+    },
+    "w03-b028-example": {
+      "file": "day-17.mp3",
+      "start": 205.617333,
+      "end": 208.299292
+    },
+    "w03-b029": {
+      "file": "day-17.mp3",
+      "start": 208.299292,
+      "end": 209.362875
+    },
+    "w03-b029-example": {
+      "file": "day-17.mp3",
+      "start": 209.362875,
+      "end": 212.077958
+    },
+    "w03-b030": {
+      "file": "day-17.mp3",
+      "start": 212.077958,
+      "end": 213.408792
+    },
+    "w03-b030-example": {
+      "file": "day-17.mp3",
+      "start": 213.408792,
+      "end": 217.288792
+    },
+    "w03-b031": {
+      "file": "day-18.mp3",
+      "start": 0.0,
+      "end": 1.925
+    },
+    "w03-b031-example": {
+      "file": "day-18.mp3",
+      "start": 1.925,
+      "end": 5.69
+    },
+    "w03-b032": {
+      "file": "day-18.mp3",
+      "start": 5.69,
+      "end": 6.7845
+    },
+    "w03-b032-example": {
+      "file": "day-18.mp3",
+      "start": 6.7845,
+      "end": 9.796083
+    },
+    "w03-b033": {
+      "file": "day-18.mp3",
+      "start": 9.796083,
+      "end": 11.243333
+    },
+    "w03-b033-example": {
+      "file": "day-18.mp3",
+      "start": 11.243333,
+      "end": 14.405292
+    },
+    "w03-b034": {
+      "file": "day-18.mp3",
+      "start": 14.405292,
+      "end": 15.711917
+    },
+    "w03-b034-example": {
+      "file": "day-18.mp3",
+      "start": 15.711917,
+      "end": 19.371125
+    },
+    "w03-b035": {
+      "file": "day-18.mp3",
+      "start": 19.371125,
+      "end": 20.478583
+    },
+    "w03-b035-example": {
+      "file": "day-18.mp3",
+      "start": 20.478583,
+      "end": 23.498917
+    },
+    "w03-b036": {
+      "file": "day-18.mp3",
+      "start": 23.498917,
+      "end": 24.727875
+    },
+    "w03-b036-example": {
+      "file": "day-18.mp3",
+      "start": 24.727875,
+      "end": 27.475708
+    },
+    "w03-b037": {
+      "file": "day-18.mp3",
+      "start": 27.475708,
+      "end": 29.043292
+    },
+    "w03-b037-example": {
+      "file": "day-18.mp3",
+      "start": 29.043292,
+      "end": 32.483292
+    },
+    "w03-b038": {
+      "file": "day-18.mp3",
+      "start": 32.483292,
+      "end": 34.433292
+    },
+    "w03-b038-example": {
+      "file": "day-18.mp3",
+      "start": 34.433292,
+      "end": 38.003292
+    },
+    "w03-b039": {
+      "file": "day-18.mp3",
+      "start": 38.003292,
+      "end": 39.738292
+    },
+    "w03-b039-example": {
+      "file": "day-18.mp3",
+      "start": 39.738292,
+      "end": 43.173292
+    },
+    "w03-b040": {
+      "file": "day-18.mp3",
+      "start": 43.173292,
+      "end": 44.362917
+    },
+    "w03-b040-example": {
+      "file": "day-18.mp3",
+      "start": 44.362917,
+      "end": 47.11925
+    },
+    "w03-b041": {
+      "file": "day-18.mp3",
+      "start": 47.11925,
+      "end": 48.321667
+    },
+    "w03-b041-example": {
+      "file": "day-18.mp3",
+      "start": 48.321667,
+      "end": 51.057333
+    },
+    "w03-b042": {
+      "file": "day-18.mp3",
+      "start": 51.057333,
+      "end": 52.235083
+    },
+    "w03-b042-example": {
+      "file": "day-18.mp3",
+      "start": 52.235083,
+      "end": 55.109042
+    },
+    "w03-b043": {
+      "file": "day-18.mp3",
+      "start": 55.109042,
+      "end": 56.687
+    },
+    "w03-b043-example": {
+      "file": "day-18.mp3",
+      "start": 56.687,
+      "end": 60.332
+    },
+    "w03-b044": {
+      "file": "day-18.mp3",
+      "start": 60.332,
+      "end": 61.606
+    },
+    "w03-b044-example": {
+      "file": "day-18.mp3",
+      "start": 61.606,
+      "end": 65.155708
+    },
+    "w03-b045": {
+      "file": "day-18.mp3",
+      "start": 65.155708,
+      "end": 66.776917
+    },
+    "w03-b045-example": {
+      "file": "day-18.mp3",
+      "start": 66.776917,
+      "end": 70.706917
+    },
+    "w03-b046": {
+      "file": "day-18.mp3",
+      "start": 70.706917,
+      "end": 72.081708
+    },
+    "w03-b046-example": {
+      "file": "day-18.mp3",
+      "start": 72.081708,
+      "end": 76.286708
+    },
+    "w03-b047": {
+      "file": "day-18.mp3",
+      "start": 76.286708,
+      "end": 78.121583
+    },
+    "w03-b047-example": {
+      "file": "day-18.mp3",
+      "start": 78.121583,
+      "end": 81.675667
+    },
+    "w03-b048": {
+      "file": "day-18.mp3",
+      "start": 81.675667,
+      "end": 83.511375
+    },
+    "w03-b048-example": {
+      "file": "day-18.mp3",
+      "start": 83.511375,
+      "end": 86.899333
+    },
+    "w03-b049": {
+      "file": "day-18.mp3",
+      "start": 86.899333,
+      "end": 88.889792
+    },
+    "w03-b049-example": {
+      "file": "day-18.mp3",
+      "start": 88.889792,
+      "end": 91.854792
+    },
+    "w03-b050": {
+      "file": "day-18.mp3",
+      "start": 91.854792,
+      "end": 93.689458
+    },
+    "w03-b050-example": {
+      "file": "day-18.mp3",
+      "start": 93.689458,
+      "end": 97.294458
+    },
+    "w03-b051": {
+      "file": "day-18.mp3",
+      "start": 97.294458,
+      "end": 98.370167
+    },
+    "w03-b051-example": {
+      "file": "day-18.mp3",
+      "start": 98.370167,
+      "end": 101.532125
+    },
+    "w03-b052": {
+      "file": "day-18.mp3",
+      "start": 101.532125,
+      "end": 103.537125
+    },
+    "w03-b052-example": {
+      "file": "day-18.mp3",
+      "start": 103.537125,
+      "end": 106.086875
+    },
+    "w03-b053": {
+      "file": "day-18.mp3",
+      "start": 106.086875,
+      "end": 107.921958
+    },
+    "w03-b053-example": {
+      "file": "day-18.mp3",
+      "start": 107.921958,
+      "end": 110.856958
+    },
+    "w03-b054": {
+      "file": "day-18.mp3",
+      "start": 110.856958,
+      "end": 112.386917
+    },
+    "w03-b054-example": {
+      "file": "day-18.mp3",
+      "start": 112.386917,
+      "end": 115.036958
+    },
+    "w03-b055": {
+      "file": "day-18.mp3",
+      "start": 115.036958,
+      "end": 116.332083
+    },
+    "w03-b055-example": {
+      "file": "day-18.mp3",
+      "start": 116.332083,
+      "end": 119.152083
+    },
+    "w03-b056": {
+      "file": "day-18.mp3",
+      "start": 119.152083,
+      "end": 120.411833
+    },
+    "w03-b056-example": {
+      "file": "day-18.mp3",
+      "start": 120.411833,
+      "end": 123.899833
+    },
+    "w03-b057": {
+      "file": "day-18.mp3",
+      "start": 123.899833,
+      "end": 125.890125
+    },
+    "w03-b057-example": {
+      "file": "day-18.mp3",
+      "start": 125.890125,
+      "end": 129.415125
+    },
+    "w03-b058": {
+      "file": "day-18.mp3",
+      "start": 129.415125,
+      "end": 131.250208
+    },
+    "w03-b058-example": {
+      "file": "day-18.mp3",
+      "start": 131.250208,
+      "end": 134.700208
+    },
+    "w03-b059": {
+      "file": "day-18.mp3",
+      "start": 134.700208,
+      "end": 135.9225
+    },
+    "w03-b059-example": {
+      "file": "day-18.mp3",
+      "start": 135.9225,
+      "end": 138.57825
+    },
+    "w03-b060": {
+      "file": "day-18.mp3",
+      "start": 138.57825,
+      "end": 139.9185
+    },
+    "w03-b060-example": {
+      "file": "day-18.mp3",
+      "start": 139.9185,
+      "end": 144.430375
+    },
+    "w03-b061": {
+      "file": "day-18.mp3",
+      "start": 144.430375,
+      "end": 146.265625
+    },
+    "w03-b061-example": {
+      "file": "day-18.mp3",
+      "start": 146.265625,
+      "end": 149.945625
+    },
+    "w03-b062": {
+      "file": "day-18.mp3",
+      "start": 149.945625,
+      "end": 151.176583
+    },
+    "w03-b062-example": {
+      "file": "day-18.mp3",
+      "start": 151.176583,
+      "end": 155.223583
+    },
+    "w03-b063": {
+      "file": "day-18.mp3",
+      "start": 155.223583,
+      "end": 157.058458
+    },
+    "w03-b063-example": {
+      "file": "day-18.mp3",
+      "start": 157.058458,
+      "end": 161.152625
+    },
+    "w03-b064": {
+      "file": "day-18.mp3",
+      "start": 161.152625,
+      "end": 162.998875
+    },
+    "w03-b064-example": {
+      "file": "day-18.mp3",
+      "start": 162.998875,
+      "end": 166.468875
+    },
+    "w03-b065": {
+      "file": "day-18.mp3",
+      "start": 166.468875,
+      "end": 167.743583
+    },
+    "w03-b065-example": {
+      "file": "day-18.mp3",
+      "start": 167.743583,
+      "end": 171.097542
+    },
+    "w03-b066": {
+      "file": "day-18.mp3",
+      "start": 171.097542,
+      "end": 172.709042
+    },
+    "w03-b066-example": {
+      "file": "day-18.mp3",
+      "start": 172.709042,
+      "end": 175.578125
+    },
+    "w03-b067": {
+      "file": "day-18.mp3",
+      "start": 175.578125,
+      "end": 176.676333
+    },
+    "w03-b067-example": {
+      "file": "day-18.mp3",
+      "start": 176.676333,
+      "end": 179.323083
+    },
+    "w03-b068": {
+      "file": "day-18.mp3",
+      "start": 179.323083,
+      "end": 180.72925
+    },
+    "w03-b068-example": {
+      "file": "day-18.mp3",
+      "start": 180.72925,
+      "end": 184.388583
+    },
+    "w03-b069": {
+      "file": "day-18.mp3",
+      "start": 184.388583,
+      "end": 185.664375
+    },
+    "w03-b069-example": {
+      "file": "day-18.mp3",
+      "start": 185.664375,
+      "end": 188.169583
+    },
+    "w03-b070": {
+      "file": "day-18.mp3",
+      "start": 188.169583,
+      "end": 189.50175
+    },
+    "w03-b070-example": {
+      "file": "day-18.mp3",
+      "start": 189.50175,
+      "end": 193.317625
+    },
+    "w03-b071": {
+      "file": "day-18.mp3",
+      "start": 193.317625,
+      "end": 194.6735
+    },
+    "w03-b071-example": {
+      "file": "day-18.mp3",
+      "start": 194.6735,
+      "end": 197.859458
+    },
+    "w03-b072": {
+      "file": "day-18.mp3",
+      "start": 197.859458,
+      "end": 199.188917
+    },
+    "w03-b072-example": {
+      "file": "day-18.mp3",
+      "start": 199.188917,
+      "end": 202.793417
+    },
+    "w03-b073": {
+      "file": "day-18.mp3",
+      "start": 202.793417,
+      "end": 204.673417
+    },
+    "w03-b073-example": {
+      "file": "day-18.mp3",
+      "start": 204.673417,
+      "end": 207.264125
+    },
+    "w03-b074": {
+      "file": "day-18.mp3",
+      "start": 207.264125,
+      "end": 208.458792
+    },
+    "w03-b074-example": {
+      "file": "day-18.mp3",
+      "start": 208.458792,
+      "end": 212.104125
+    },
+    "w03-b075": {
+      "file": "day-18.mp3",
+      "start": 212.104125,
+      "end": 213.694708
+    },
+    "w03-b075-example": {
+      "file": "day-18.mp3",
+      "start": 213.694708,
+      "end": 218.20675
+    },
+    "w03-b076": {
+      "file": "day-19.mp3",
+      "start": 0.0,
+      "end": 1.835083
+    },
+    "w03-b076-example": {
+      "file": "day-19.mp3",
+      "start": 1.835083,
+      "end": 4.631083
+    },
+    "w03-b077": {
+      "file": "day-19.mp3",
+      "start": 4.631083,
+      "end": 5.662792
+    },
+    "w03-b077-example": {
+      "file": "day-19.mp3",
+      "start": 5.662792,
+      "end": 9.756583
+    },
+    "w03-b078": {
+      "file": "day-19.mp3",
+      "start": 9.756583,
+      "end": 11.112417
+    },
+    "w03-b078-example": {
+      "file": "day-19.mp3",
+      "start": 11.112417,
+      "end": 14.587417
+    },
+    "w03-b079": {
+      "file": "day-19.mp3",
+      "start": 14.587417,
+      "end": 16.387417
+    },
+    "w03-b079-example": {
+      "file": "day-19.mp3",
+      "start": 16.387417,
+      "end": 20.202417
+    },
+    "w03-b080": {
+      "file": "day-19.mp3",
+      "start": 20.202417,
+      "end": 22.038042
+    },
+    "w03-b080-example": {
+      "file": "day-19.mp3",
+      "start": 22.038042,
+      "end": 26.048042
+    },
+    "w03-b081": {
+      "file": "day-19.mp3",
+      "start": 26.048042,
+      "end": 27.218
+    },
+    "w03-b081-example": {
+      "file": "day-19.mp3",
+      "start": 27.218,
+      "end": 31.208
+    },
+    "w03-b082": {
+      "file": "day-19.mp3",
+      "start": 31.208,
+      "end": 32.25475
+    },
+    "w03-b082-example": {
+      "file": "day-19.mp3",
+      "start": 32.25475,
+      "end": 36.30475
+    },
+    "w03-b083": {
+      "file": "day-19.mp3",
+      "start": 36.30475,
+      "end": 38.13975
+    },
+    "w03-b083-example": {
+      "file": "day-19.mp3",
+      "start": 38.13975,
+      "end": 42.2335
+    },
+    "w03-b084": {
+      "file": "day-19.mp3",
+      "start": 42.2335,
+      "end": 43.532292
+    },
+    "w03-b084-example": {
+      "file": "day-19.mp3",
+      "start": 43.532292,
+      "end": 47.337292
+    },
+    "w03-b085": {
+      "file": "day-19.mp3",
+      "start": 47.337292,
+      "end": 48.570333
+    },
+    "w03-b085-example": {
+      "file": "day-19.mp3",
+      "start": 48.570333,
+      "end": 52.602917
+    },
+    "w03-b086": {
+      "file": "day-19.mp3",
+      "start": 52.602917,
+      "end": 53.836042
+    },
+    "w03-b086-example": {
+      "file": "day-19.mp3",
+      "start": 53.836042,
+      "end": 58.342
+    },
+    "w03-b087": {
+      "file": "day-19.mp3",
+      "start": 58.342,
+      "end": 60.297
+    },
+    "w03-b087-example": {
+      "file": "day-19.mp3",
+      "start": 60.297,
+      "end": 64.452
+    },
+    "w03-b088": {
+      "file": "day-19.mp3",
+      "start": 64.452,
+      "end": 65.493917
+    },
+    "w03-b088-example": {
+      "file": "day-19.mp3",
+      "start": 65.493917,
+      "end": 68.948917
+    },
+    "w03-b089": {
+      "file": "day-19.mp3",
+      "start": 68.948917,
+      "end": 69.998875
+    },
+    "w03-b089-example": {
+      "file": "day-19.mp3",
+      "start": 69.998875,
+      "end": 73.378875
+    },
+    "w03-b090": {
+      "file": "day-19.mp3",
+      "start": 73.378875,
+      "end": 75.438875
+    },
+    "w03-b090-example": {
+      "file": "day-19.mp3",
+      "start": 75.438875,
+      "end": 79.533875
+    },
+    "w03-b091": {
+      "file": "day-19.mp3",
+      "start": 79.533875,
+      "end": 81.548875
+    },
+    "w03-b091-example": {
+      "file": "day-19.mp3",
+      "start": 81.548875,
+      "end": 85.268875
+    },
+    "w03-b092": {
+      "file": "day-19.mp3",
+      "start": 85.268875,
+      "end": 86.574917
+    },
+    "w03-b092-example": {
+      "file": "day-19.mp3",
+      "start": 86.574917,
+      "end": 90.309917
+    },
+    "w03-b093": {
+      "file": "day-19.mp3",
+      "start": 90.309917,
+      "end": 91.908125
+    },
+    "w03-b093-example": {
+      "file": "day-19.mp3",
+      "start": 91.908125,
+      "end": 95.574083
+    },
+    "w03-b094": {
+      "file": "day-19.mp3",
+      "start": 95.574083,
+      "end": 96.71175
+    },
+    "w03-b094-example": {
+      "file": "day-19.mp3",
+      "start": 96.71175,
+      "end": 101.320792
+    },
+    "w03-b095": {
+      "file": "day-19.mp3",
+      "start": 101.320792,
+      "end": 102.457375
+    },
+    "w03-b095-example": {
+      "file": "day-19.mp3",
+      "start": 102.457375,
+      "end": 106.112375
+    },
+    "w03-b096": {
+      "file": "day-19.mp3",
+      "start": 106.112375,
+      "end": 107.372042
+    },
+    "w03-b096-example": {
+      "file": "day-19.mp3",
+      "start": 107.372042,
+      "end": 110.606
+    },
+    "w03-b097": {
+      "file": "day-19.mp3",
+      "start": 110.606,
+      "end": 111.683375
+    },
+    "w03-b097-example": {
+      "file": "day-19.mp3",
+      "start": 111.683375,
+      "end": 115.283375
+    },
+    "w03-b098": {
+      "file": "day-19.mp3",
+      "start": 115.283375,
+      "end": 116.466208
+    },
+    "w03-b098-example": {
+      "file": "day-19.mp3",
+      "start": 116.466208,
+      "end": 119.486417
+    },
+    "w03-b099": {
+      "file": "day-19.mp3",
+      "start": 119.486417,
+      "end": 120.79825
+    },
+    "w03-b099-example": {
+      "file": "day-19.mp3",
+      "start": 120.79825,
+      "end": 123.643292
+    },
+    "w03-b100": {
+      "file": "day-19.mp3",
+      "start": 123.643292,
+      "end": 124.76525
+    },
+    "w03-b100-example": {
+      "file": "day-19.mp3",
+      "start": 124.76525,
+      "end": 127.232792
+    },
+    "w03-b101": {
+      "file": "day-19.mp3",
+      "start": 127.232792,
+      "end": 129.167792
+    },
+    "w03-b101-example": {
+      "file": "day-19.mp3",
+      "start": 129.167792,
+      "end": 132.837792
+    },
+    "w03-b102": {
+      "file": "day-19.mp3",
+      "start": 132.837792,
+      "end": 134.673417
+    },
+    "w03-b102-example": {
+      "file": "day-19.mp3",
+      "start": 134.673417,
+      "end": 137.33925
+    },
+    "w03-b103": {
+      "file": "day-19.mp3",
+      "start": 137.33925,
+      "end": 139.12925
+    },
+    "w03-b103-example": {
+      "file": "day-19.mp3",
+      "start": 139.12925,
+      "end": 142.86925
+    },
+    "w03-b104": {
+      "file": "day-19.mp3",
+      "start": 142.86925,
+      "end": 144.175792
+    },
+    "w03-b104-example": {
+      "file": "day-19.mp3",
+      "start": 144.175792,
+      "end": 147.40975
+    },
+    "w03-b105": {
+      "file": "day-19.mp3",
+      "start": 147.40975,
+      "end": 148.675708
+    },
+    "w03-b105-example": {
+      "file": "day-19.mp3",
+      "start": 148.675708,
+      "end": 151.905958
+    },
+    "w03-c001": {
+      "file": "day-19.mp3",
+      "start": 151.905958,
+      "end": 153.234
+    },
+    "w03-c001-example": {
+      "file": "day-19.mp3",
+      "start": 153.234,
+      "end": 155.88175
+    },
+    "w03-c002": {
+      "file": "day-19.mp3",
+      "start": 155.88175,
+      "end": 156.96975
+    },
+    "w03-c002-example": {
+      "file": "day-19.mp3",
+      "start": 156.96975,
+      "end": 159.768125
+    },
+    "w03-c003": {
+      "file": "day-19.mp3",
+      "start": 159.768125,
+      "end": 161.838125
+    },
+    "w03-c003-example": {
+      "file": "day-19.mp3",
+      "start": 161.838125,
+      "end": 165.588125
+    },
+    "w03-c004": {
+      "file": "day-19.mp3",
+      "start": 165.588125,
+      "end": 166.920792
+    },
+    "w03-c004-example": {
+      "file": "day-19.mp3",
+      "start": 166.920792,
+      "end": 170.525792
+    },
+    "w03-c005": {
+      "file": "day-19.mp3",
+      "start": 170.525792,
+      "end": 171.715167
+    },
+    "w03-c005-example": {
+      "file": "day-19.mp3",
+      "start": 171.715167,
+      "end": 175.394292
+    },
+    "w03-c006": {
+      "file": "day-19.mp3",
+      "start": 175.394292,
+      "end": 177.150917
+    },
+    "w03-c006-example": {
+      "file": "day-19.mp3",
+      "start": 177.150917,
+      "end": 180.525917
+    },
+    "w03-c007": {
+      "file": "day-19.mp3",
+      "start": 180.525917,
+      "end": 182.580917
+    },
+    "w03-c007-example": {
+      "file": "day-19.mp3",
+      "start": 182.580917,
+      "end": 186.200917
+    },
+    "w03-c008": {
+      "file": "day-19.mp3",
+      "start": 186.200917,
+      "end": 187.688917
+    },
+    "w03-c008-example": {
+      "file": "day-19.mp3",
+      "start": 187.688917,
+      "end": 190.426375
+    },
+    "w03-c009": {
+      "file": "day-19.mp3",
+      "start": 190.426375,
+      "end": 191.799917
+    },
+    "w03-c009-example": {
+      "file": "day-19.mp3",
+      "start": 191.799917,
+      "end": 194.31975
+    },
+    "w03-c010": {
+      "file": "day-19.mp3",
+      "start": 194.31975,
+      "end": 195.868625
+    },
+    "w03-c010-example": {
+      "file": "day-19.mp3",
+      "start": 195.868625,
+      "end": 198.769417
+    },
+    "w03-c011": {
+      "file": "day-19.mp3",
+      "start": 198.769417,
+      "end": 200.002958
+    },
+    "w03-c011-example": {
+      "file": "day-19.mp3",
+      "start": 200.002958,
+      "end": 203.222958
+    },
+    "w03-c012": {
+      "file": "day-19.mp3",
+      "start": 203.222958,
+      "end": 205.069208
+    },
+    "w03-c012-example": {
+      "file": "day-19.mp3",
+      "start": 205.069208,
+      "end": 208.499208
+    },
+    "w03-c013": {
+      "file": "day-19.mp3",
+      "start": 208.499208,
+      "end": 210.334083
+    },
+    "w03-c013-example": {
+      "file": "day-19.mp3",
+      "start": 210.334083,
+      "end": 213.894083
+    },
+    "w03-c014": {
+      "file": "day-19.mp3",
+      "start": 213.894083,
+      "end": 215.740333
+    },
+    "w03-c014-example": {
+      "file": "day-19.mp3",
+      "start": 215.740333,
+      "end": 218.958333
+    },
+    "w03-c015": {
+      "file": "day-19.mp3",
+      "start": 218.958333,
+      "end": 220.704292
+    },
+    "w03-c015-example": {
+      "file": "day-19.mp3",
+      "start": 220.704292,
+      "end": 223.093875
+    },
+    "w03-c016": {
+      "file": "day-20.mp3",
+      "start": 0.0,
+      "end": 1.835
+    },
+    "w03-c016-example": {
+      "file": "day-20.mp3",
+      "start": 1.835,
+      "end": 5.385
+    },
+    "w03-c017": {
+      "file": "day-20.mp3",
+      "start": 5.385,
+      "end": 7.165
+    },
+    "w03-c017-example": {
+      "file": "day-20.mp3",
+      "start": 7.165,
+      "end": 10.18575
+    },
+    "w03-c018": {
+      "file": "day-20.mp3",
+      "start": 10.18575,
+      "end": 11.409292
+    },
+    "w03-c018-example": {
+      "file": "day-20.mp3",
+      "start": 11.409292,
+      "end": 14.564292
+    },
+    "w03-c019": {
+      "file": "day-20.mp3",
+      "start": 14.564292,
+      "end": 16.09425
+    },
+    "w03-c019-example": {
+      "file": "day-20.mp3",
+      "start": 16.09425,
+      "end": 19.49425
+    },
+    "w03-c020": {
+      "file": "day-20.mp3",
+      "start": 19.49425,
+      "end": 20.823458
+    },
+    "w03-c020-example": {
+      "file": "day-20.mp3",
+      "start": 20.823458,
+      "end": 24.052125
+    },
+    "w03-c021": {
+      "file": "day-20.mp3",
+      "start": 24.052125,
+      "end": 25.582083
+    },
+    "w03-c021-example": {
+      "file": "day-20.mp3",
+      "start": 25.582083,
+      "end": 28.3335
+    },
+    "w03-c022": {
+      "file": "day-20.mp3",
+      "start": 28.3335,
+      "end": 29.767458
+    },
+    "w03-c022-example": {
+      "file": "day-20.mp3",
+      "start": 29.767458,
+      "end": 32.555333
+    },
+    "w03-c023": {
+      "file": "day-20.mp3",
+      "start": 32.555333,
+      "end": 34.140042
+    },
+    "w03-c023-example": {
+      "file": "day-20.mp3",
+      "start": 34.140042,
+      "end": 37.542125
+    },
+    "w03-c024": {
+      "file": "day-20.mp3",
+      "start": 37.542125,
+      "end": 39.043583
+    },
+    "w03-c024-example": {
+      "file": "day-20.mp3",
+      "start": 39.043583,
+      "end": 42.063917
+    },
+    "w03-c025": {
+      "file": "day-20.mp3",
+      "start": 42.063917,
+      "end": 43.898792
+    },
+    "w03-c025-example": {
+      "file": "day-20.mp3",
+      "start": 43.898792,
+      "end": 47.208792
+    },
+    "w03-c026": {
+      "file": "day-20.mp3",
+      "start": 47.208792,
+      "end": 49.423792
+    },
+    "w03-c026-example": {
+      "file": "day-20.mp3",
+      "start": 49.423792,
+      "end": 53.107083
+    },
+    "w03-c027": {
+      "file": "day-20.mp3",
+      "start": 53.107083,
+      "end": 54.405875
+    },
+    "w03-c027-example": {
+      "file": "day-20.mp3",
+      "start": 54.405875,
+      "end": 56.994417
+    },
+    "w03-c028": {
+      "file": "day-20.mp3",
+      "start": 56.994417,
+      "end": 58.230375
+    },
+    "w03-c028-example": {
+      "file": "day-20.mp3",
+      "start": 58.230375,
+      "end": 61.879125
+    },
+    "w03-c029": {
+      "file": "day-20.mp3",
+      "start": 61.879125,
+      "end": 63.437917
+    },
+    "w03-c029-example": {
+      "file": "day-20.mp3",
+      "start": 63.437917,
+      "end": 66.510375
+    },
+    "w03-c030": {
+      "file": "day-20.mp3",
+      "start": 66.510375,
+      "end": 68.560375
+    },
+    "w03-c030-example": {
+      "file": "day-20.mp3",
+      "start": 68.560375,
+      "end": 70.981
+    },
+    "w03-c031": {
+      "file": "day-20.mp3",
+      "start": 70.981,
+      "end": 72.618375
+    },
+    "w03-c031-example": {
+      "file": "day-20.mp3",
+      "start": 72.618375,
+      "end": 75.438917
+    },
+    "w03-c032": {
+      "file": "day-20.mp3",
+      "start": 75.438917,
+      "end": 76.8685
+    },
+    "w03-c032-example": {
+      "file": "day-20.mp3",
+      "start": 76.8685,
+      "end": 79.675208
+    },
+    "w03-c033": {
+      "file": "day-20.mp3",
+      "start": 79.675208,
+      "end": 81.510833
+    },
+    "w03-c033-example": {
+      "file": "day-20.mp3",
+      "start": 81.510833,
+      "end": 85.265833
+    },
+    "w03-c034": {
+      "file": "day-20.mp3",
+      "start": 85.265833,
+      "end": 86.583417
+    },
+    "w03-c034-example": {
+      "file": "day-20.mp3",
+      "start": 86.583417,
+      "end": 88.884458
+    },
+    "w03-c035": {
+      "file": "day-20.mp3",
+      "start": 88.884458,
+      "end": 90.377958
+    },
+    "w03-c035-example": {
+      "file": "day-20.mp3",
+      "start": 90.377958,
+      "end": 94.193833
+    },
+    "w03-c036": {
+      "file": "day-20.mp3",
+      "start": 94.193833,
+      "end": 96.184042
+    },
+    "w03-c036-example": {
+      "file": "day-20.mp3",
+      "start": 96.184042,
+      "end": 99.564042
+    },
+    "w03-c037": {
+      "file": "day-20.mp3",
+      "start": 99.564042,
+      "end": 101.5545
+    },
+    "w03-c037-example": {
+      "file": "day-20.mp3",
+      "start": 101.5545,
+      "end": 104.387958
+    },
+    "w03-c038": {
+      "file": "day-20.mp3",
+      "start": 104.387958,
+      "end": 105.615958
+    },
+    "w03-c038-example": {
+      "file": "day-20.mp3",
+      "start": 105.615958,
+      "end": 108.265917
+    },
+    "w03-c039": {
+      "file": "day-20.mp3",
+      "start": 108.265917,
+      "end": 109.892208
+    },
+    "w03-c039-example": {
+      "file": "day-20.mp3",
+      "start": 109.892208,
+      "end": 112.792667
+    },
+    "w03-c040": {
+      "file": "day-20.mp3",
+      "start": 112.792667,
+      "end": 114.797667
+    },
+    "w03-c040-example": {
+      "file": "day-20.mp3",
+      "start": 114.797667,
+      "end": 118.127667
+    },
+    "w03-c041": {
+      "file": "day-20.mp3",
+      "start": 118.127667,
+      "end": 119.922667
+    },
+    "w03-c041-example": {
+      "file": "day-20.mp3",
+      "start": 119.922667,
+      "end": 123.462667
+    },
+    "w03-c042": {
+      "file": "day-20.mp3",
+      "start": 123.462667,
+      "end": 125.507667
+    },
+    "w03-c042-example": {
+      "file": "day-20.mp3",
+      "start": 125.507667,
+      "end": 128.707667
+    },
+    "w03-c043": {
+      "file": "day-20.mp3",
+      "start": 128.707667,
+      "end": 130.442667
+    },
+    "w03-c043-example": {
+      "file": "day-20.mp3",
+      "start": 130.442667,
+      "end": 133.817667
+    },
+    "w03-c044": {
+      "file": "day-20.mp3",
+      "start": 133.817667,
+      "end": 134.905042
+    },
+    "w03-c044-example": {
+      "file": "day-20.mp3",
+      "start": 134.905042,
+      "end": 138.660042
+    },
+    "w03-c045": {
+      "file": "day-20.mp3",
+      "start": 138.660042,
+      "end": 140.065375
+    },
+    "w03-c045-example": {
+      "file": "day-20.mp3",
+      "start": 140.065375,
+      "end": 142.561708
+    },
+    "w03-c046": {
+      "file": "day-20.mp3",
+      "start": 142.561708,
+      "end": 143.597625
+    },
+    "w03-c046-example": {
+      "file": "day-20.mp3",
+      "start": 143.597625,
+      "end": 146.178958
+    },
+    "w03-c047": {
+      "file": "day-20.mp3",
+      "start": 146.178958,
+      "end": 147.082667
+    },
+    "w03-c047-example": {
+      "file": "day-20.mp3",
+      "start": 147.082667,
+      "end": 149.498208
+    },
+    "w03-c048": {
+      "file": "day-20.mp3",
+      "start": 149.498208,
+      "end": 151.508208
+    },
+    "w03-c048-example": {
+      "file": "day-20.mp3",
+      "start": 151.508208,
+      "end": 154.89925
+    },
+    "w03-c049": {
+      "file": "day-20.mp3",
+      "start": 154.89925,
+      "end": 155.829208
+    },
+    "w03-c049-example": {
+      "file": "day-20.mp3",
+      "start": 155.829208,
+      "end": 159.046083
+    },
+    "w03-c050": {
+      "file": "day-20.mp3",
+      "start": 159.046083,
+      "end": 160.451625
+    },
+    "w03-c050-example": {
+      "file": "day-20.mp3",
+      "start": 160.451625,
+      "end": 163.901625
+    },
+    "w03-c051": {
+      "file": "day-20.mp3",
+      "start": 163.901625,
+      "end": 165.606625
+    },
+    "w03-c051-example": {
+      "file": "day-20.mp3",
+      "start": 165.606625,
+      "end": 168.460083
+    },
+    "w03-c052": {
+      "file": "day-20.mp3",
+      "start": 168.460083,
+      "end": 169.432708
+    },
+    "w03-c052-example": {
+      "file": "day-20.mp3",
+      "start": 169.432708,
+      "end": 172.082667
+    },
+    "w03-c053": {
+      "file": "day-20.mp3",
+      "start": 172.082667,
+      "end": 173.887667
+    },
+    "w03-c053-example": {
+      "file": "day-20.mp3",
+      "start": 173.887667,
+      "end": 177.542667
+    },
+    "w03-c054": {
+      "file": "day-20.mp3",
+      "start": 177.542667,
+      "end": 179.378417
+    },
+    "w03-c054-example": {
+      "file": "day-20.mp3",
+      "start": 179.378417,
+      "end": 182.243417
+    },
+    "w03-c055": {
+      "file": "day-20.mp3",
+      "start": 182.243417,
+      "end": 183.278958
+    },
+    "w03-c055-example": {
+      "file": "day-20.mp3",
+      "start": 183.278958,
+      "end": 186.100042
+    },
+    "w03-c056": {
+      "file": "day-20.mp3",
+      "start": 186.100042,
+      "end": 187.860042
+    },
+    "w03-c056-example": {
+      "file": "day-20.mp3",
+      "start": 187.860042,
+      "end": 190.735042
+    },
+    "w03-c057": {
+      "file": "day-20.mp3",
+      "start": 190.735042,
+      "end": 192.0905
+    },
+    "w03-c057-example": {
+      "file": "day-20.mp3",
+      "start": 192.0905,
+      "end": 195.4405
+    },
+    "w03-c058": {
+      "file": "day-20.mp3",
+      "start": 195.4405,
+      "end": 196.451917
+    },
+    "w03-c058-example": {
+      "file": "day-20.mp3",
+      "start": 196.451917,
+      "end": 199.856917
+    },
+    "w03-c059": {
+      "file": "day-20.mp3",
+      "start": 199.856917,
+      "end": 201.776917
+    },
+    "w03-c059-example": {
+      "file": "day-20.mp3",
+      "start": 201.776917,
+      "end": 204.290875
+    },
+    "w03-c060": {
+      "file": "day-20.mp3",
+      "start": 204.290875,
+      "end": 206.126292
+    },
+    "w03-c060-example": {
+      "file": "day-20.mp3",
+      "start": 206.126292,
+      "end": 208.689167
+    },
+    "w03-c061": {
+      "file": "day-21.mp3",
+      "start": 0.0,
+      "end": 1.715
+    },
+    "w03-c061-example": {
+      "file": "day-21.mp3",
+      "start": 1.715,
+      "end": 5.140958
+    },
+    "w03-c062": {
+      "file": "day-21.mp3",
+      "start": 5.140958,
+      "end": 6.347042
+    },
+    "w03-c062-example": {
+      "file": "day-21.mp3",
+      "start": 6.347042,
+      "end": 9.270167
+    },
+    "w03-c063": {
+      "file": "day-21.mp3",
+      "start": 9.270167,
+      "end": 10.907375
+    },
+    "w03-c063-example": {
+      "file": "day-21.mp3",
+      "start": 10.907375,
+      "end": 14.3205
+    },
+    "w03-c064": {
+      "file": "day-21.mp3",
+      "start": 14.3205,
+      "end": 16.155583
+    },
+    "w03-c064-example": {
+      "file": "day-21.mp3",
+      "start": 16.155583,
+      "end": 19.540583
+    },
+    "w03-c065": {
+      "file": "day-21.mp3",
+      "start": 19.540583,
+      "end": 20.860417
+    },
+    "w03-c065-example": {
+      "file": "day-21.mp3",
+      "start": 20.860417,
+      "end": 24.390417
+    },
+    "w03-c066": {
+      "file": "day-21.mp3",
+      "start": 24.390417,
+      "end": 26.380917
+    },
+    "w03-c066-example": {
+      "file": "day-21.mp3",
+      "start": 26.380917,
+      "end": 29.800917
+    },
+    "w03-c067": {
+      "file": "day-21.mp3",
+      "start": 29.800917,
+      "end": 31.636
+    },
+    "w03-c067-example": {
+      "file": "day-21.mp3",
+      "start": 31.636,
+      "end": 35.452667
+    },
+    "w03-c068": {
+      "file": "day-21.mp3",
+      "start": 35.452667,
+      "end": 37.08825
+    },
+    "w03-c068-example": {
+      "file": "day-21.mp3",
+      "start": 37.08825,
+      "end": 40.42325
+    },
+    "w03-c069": {
+      "file": "day-21.mp3",
+      "start": 40.42325,
+      "end": 41.590625
+    },
+    "w03-c069-example": {
+      "file": "day-21.mp3",
+      "start": 41.590625,
+      "end": 45.684375
+    },
+    "w03-c070": {
+      "file": "day-21.mp3",
+      "start": 45.684375,
+      "end": 46.953542
+    },
+    "w03-c070-example": {
+      "file": "day-21.mp3",
+      "start": 46.953542,
+      "end": 50.318542
+    },
+    "w03-c071": {
+      "file": "day-21.mp3",
+      "start": 50.318542,
+      "end": 51.575917
+    },
+    "w03-c071-example": {
+      "file": "day-21.mp3",
+      "start": 51.575917,
+      "end": 54.74275
+    },
+    "w03-c072": {
+      "file": "day-21.mp3",
+      "start": 54.74275,
+      "end": 55.933125
+    },
+    "w03-c072-example": {
+      "file": "day-21.mp3",
+      "start": 55.933125,
+      "end": 59.138125
+    },
+    "w03-c073": {
+      "file": "day-21.mp3",
+      "start": 59.138125,
+      "end": 61.348125
+    },
+    "w03-c073-example": {
+      "file": "day-21.mp3",
+      "start": 61.348125,
+      "end": 64.169792
+    },
+    "w03-c074": {
+      "file": "day-21.mp3",
+      "start": 64.169792,
+      "end": 65.311208
+    },
+    "w03-c074-example": {
+      "file": "day-21.mp3",
+      "start": 65.311208,
+      "end": 68.132292
+    },
+    "w03-c075": {
+      "file": "day-21.mp3",
+      "start": 68.132292,
+      "end": 69.977292
+    },
+    "w03-c075-example": {
+      "file": "day-21.mp3",
+      "start": 69.977292,
+      "end": 72.997625
+    },
+    "w03-c076": {
+      "file": "day-21.mp3",
+      "start": 72.997625,
+      "end": 74.987625
+    },
+    "w03-c076-example": {
+      "file": "day-21.mp3",
+      "start": 74.987625,
+      "end": 78.492625
+    },
+    "w03-c077": {
+      "file": "day-21.mp3",
+      "start": 78.492625,
+      "end": 80.058792
+    },
+    "w03-c077-example": {
+      "file": "day-21.mp3",
+      "start": 80.058792,
+      "end": 82.919542
+    },
+    "w03-c078": {
+      "file": "day-21.mp3",
+      "start": 82.919542,
+      "end": 84.156167
+    },
+    "w03-c078-example": {
+      "file": "day-21.mp3",
+      "start": 84.156167,
+      "end": 87.412167
+    },
+    "w03-c079": {
+      "file": "day-21.mp3",
+      "start": 87.412167,
+      "end": 89.11125
+    },
+    "w03-c079-example": {
+      "file": "day-21.mp3",
+      "start": 89.11125,
+      "end": 93.622833
+    },
+    "w03-c080": {
+      "file": "day-21.mp3",
+      "start": 93.622833,
+      "end": 95.051333
+    },
+    "w03-c080-example": {
+      "file": "day-21.mp3",
+      "start": 95.051333,
+      "end": 97.630042
+    },
+    "w03-c081": {
+      "file": "day-21.mp3",
+      "start": 97.630042,
+      "end": 99.365042
+    },
+    "w03-c081-example": {
+      "file": "day-21.mp3",
+      "start": 99.365042,
+      "end": 102.765042
+    },
+    "w03-c082": {
+      "file": "day-21.mp3",
+      "start": 102.765042,
+      "end": 104.645042
+    },
+    "w03-c082-example": {
+      "file": "day-21.mp3",
+      "start": 104.645042,
+      "end": 106.872208
+    },
+    "w03-c083": {
+      "file": "day-21.mp3",
+      "start": 106.872208,
+      "end": 108.862208
+    },
+    "w03-c083-example": {
+      "file": "day-21.mp3",
+      "start": 108.862208,
+      "end": 112.452208
+    },
+    "w03-c084": {
+      "file": "day-21.mp3",
+      "start": 112.452208,
+      "end": 113.619792
+    },
+    "w03-c084-example": {
+      "file": "day-21.mp3",
+      "start": 113.619792,
+      "end": 116.266292
+    },
+    "w03-c085": {
+      "file": "day-21.mp3",
+      "start": 116.266292,
+      "end": 118.236292
+    },
+    "w03-c085-example": {
+      "file": "day-21.mp3",
+      "start": 118.236292,
+      "end": 121.256667
+    },
+    "w03-c086": {
+      "file": "day-21.mp3",
+      "start": 121.256667,
+      "end": 123.276667
+    },
+    "w03-c086-example": {
+      "file": "day-21.mp3",
+      "start": 123.276667,
+      "end": 125.941708
+    },
+    "w03-c087": {
+      "file": "day-21.mp3",
+      "start": 125.941708,
+      "end": 127.861708
+    },
+    "w03-c087-example": {
+      "file": "day-21.mp3",
+      "start": 127.861708,
+      "end": 130.741708
+    },
+    "w03-c088": {
+      "file": "day-21.mp3",
+      "start": 130.741708,
+      "end": 133.286708
+    },
+    "w03-c088-example": {
+      "file": "day-21.mp3",
+      "start": 133.286708,
+      "end": 137.046708
+    },
+    "w03-c089": {
+      "file": "day-21.mp3",
+      "start": 137.046708,
+      "end": 138.892958
+    },
+    "w03-c089-example": {
+      "file": "day-21.mp3",
+      "start": 138.892958,
+      "end": 141.842958
+    },
+    "w03-c090": {
+      "file": "day-21.mp3",
+      "start": 141.842958,
+      "end": 143.249417
+    },
+    "w03-c090-example": {
+      "file": "day-21.mp3",
+      "start": 143.249417,
+      "end": 145.871
+    },
+    "w03-c091": {
+      "file": "day-21.mp3",
+      "start": 145.871,
+      "end": 147.35375
+    },
+    "w03-c091-example": {
+      "file": "day-21.mp3",
+      "start": 147.35375,
+      "end": 150.783542
+    },
+    "w03-c092": {
+      "file": "day-21.mp3",
+      "start": 150.783542,
+      "end": 152.028792
+    },
+    "w03-c092-example": {
+      "file": "day-21.mp3",
+      "start": 152.028792,
+      "end": 155.223792
+    },
+    "w03-c093": {
+      "file": "day-21.mp3",
+      "start": 155.223792,
+      "end": 157.058667
+    },
+    "w03-c093-example": {
+      "file": "day-21.mp3",
+      "start": 157.058667,
+      "end": 160.813667
+    },
+    "w03-c094": {
+      "file": "day-21.mp3",
+      "start": 160.813667,
+      "end": 162.511625
+    },
+    "w03-c094-example": {
+      "file": "day-21.mp3",
+      "start": 162.511625,
+      "end": 166.558667
+    },
+    "w03-c095": {
+      "file": "day-21.mp3",
+      "start": 166.558667,
+      "end": 168.548875
+    },
+    "w03-c095-example": {
+      "file": "day-21.mp3",
+      "start": 168.548875,
+      "end": 171.369542
+    },
+    "w03-c096": {
+      "file": "day-21.mp3",
+      "start": 171.369542,
+      "end": 172.4675
+    },
+    "w03-c096-example": {
+      "file": "day-21.mp3",
+      "start": 172.4675,
+      "end": 175.7525
+    },
+    "w03-c097": {
+      "file": "day-21.mp3",
+      "start": 175.7525,
+      "end": 177.072583
+    },
+    "w03-c097-example": {
+      "file": "day-21.mp3",
+      "start": 177.072583,
+      "end": 179.540792
+    },
+    "w03-c098": {
+      "file": "day-21.mp3",
+      "start": 179.540792,
+      "end": 180.689042
+    },
+    "w03-c098-example": {
+      "file": "day-21.mp3",
+      "start": 180.689042,
+      "end": 183.118667
+    },
+    "w03-c099": {
+      "file": "day-21.mp3",
+      "start": 183.118667,
+      "end": 184.883667
+    },
+    "w03-c099-example": {
+      "file": "day-21.mp3",
+      "start": 184.883667,
+      "end": 187.541625
+    },
+    "w03-c100": {
+      "file": "day-21.mp3",
+      "start": 187.541625,
+      "end": 189.281625
+    },
+    "w03-c100-example": {
+      "file": "day-21.mp3",
+      "start": 189.281625,
+      "end": 192.947583
+    },
+    "w03-c101": {
+      "file": "day-21.mp3",
+      "start": 192.947583,
+      "end": 194.742583
+    },
+    "w03-c101-example": {
+      "file": "day-21.mp3",
+      "start": 194.742583,
+      "end": 198.087583
+    },
+    "w03-c102": {
+      "file": "day-21.mp3",
+      "start": 198.087583,
+      "end": 199.047917
+    },
+    "w03-c102-example": {
+      "file": "day-21.mp3",
+      "start": 199.047917,
+      "end": 201.599792
+    },
+    "w03-c103": {
+      "file": "day-21.mp3",
+      "start": 201.599792,
+      "end": 202.611833
+    },
+    "w03-c103-example": {
+      "file": "day-21.mp3",
+      "start": 202.611833,
+      "end": 205.773792
+    },
+    "w03-c104": {
+      "file": "day-21.mp3",
+      "start": 205.773792,
+      "end": 206.75825
+    },
+    "w03-c104-example": {
+      "file": "day-21.mp3",
+      "start": 206.75825,
+      "end": 209.1465
+    },
+    "w03-c105": {
+      "file": "day-21.mp3",
+      "start": 209.1465,
+      "end": 210.9165
+    },
+    "w03-c105-example": {
+      "file": "day-21.mp3",
+      "start": 210.9165,
+      "end": 213.9065
     }
   },
   "batches": [
@@ -6456,6 +9669,15 @@
       ],
       "inputSha256": "9e5695ff743d8f4a21c67c43f2d1c0e35dc6743225f9441f81b1acbd5c475748",
       "date": "2026-10-18"
+    },
+    {
+      "days": [
+        15,
+        21
+      ],
+      "inputSha256": "fd5c222f03c5ec82b558ed9f519fb5dbe24ff50392e1e3409658eb58a124ea04",
+      "date": "2026-10-23",
+      "scheduledEdition": "2026-10-25"
     }
   ]
 }

@@ -79,6 +79,8 @@ def main():
     if 'audio' in data:data['sources'].append(['合成音频署名与许可','audio/ATTRIBUTION.txt'])
     from extend_course import extend_course
     extend_course(data)
+    from extend_week03 import extend_week03
+    extend_week03(data)
     (ROOT/'dist/lesson.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
     from build_kanji_pitch import write_kanji_pitch
     write_kanji_pitch(data)

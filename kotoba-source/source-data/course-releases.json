@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "courseId": "week01-v1",
+  "releases": [
+    {
+      "batch": "week02",
+      "scheduledEdition": "2026-10-18",
+      "preparedOn": "2026-10-18",
+      "status": "published",
+      "lessons": [8, 14],
+      "coreWords": 245,
+      "reserveWords": 70,
+      "independentKanji": 35
+    },
+    {
+      "batch": "week03",
+      "scheduledEdition": "2026-10-25",
+      "preparedOn": "2026-10-23",
+      "status": "published",
+      "reason": "User requested this week's update early.",
+      "lessons": [15, 21],
+      "coreWords": 245,
+      "reserveWords": 70,
+      "independentKanji": 35
+    }
+  ]
+}

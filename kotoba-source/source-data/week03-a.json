@@ -1,0 +1,4704 @@
+[
+  {
+    "id": "w03-a001",
+    "word": "上着",
+    "reading": "うわぎ",
+    "category": "名词",
+    "meaning": "外套；上衣",
+    "example": [
+      [
+        "部屋",
+        "へや"
+      ],
+      [
+        "に"
+      ],
+      [
+        "入",
+        "はい"
+      ],
+      [
+        "ったら、"
+      ],
+      [
+        "上着",
+        "うわぎ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "脱",
+        "ぬ"
+      ],
+      [
+        "ぎます。"
+      ]
+    ],
+    "translation": "进屋后脱掉外套。",
+    "tip": "穿外套用「上着を着る」，脱掉用「上着を脱ぐ」。",
+    "kanjiNote": "「上着」这里整体读うわぎ。",
+    "cloze": {
+      "before": "部屋に入ったら、",
+      "answer": "上着",
+      "after": "を脱ぎます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1580340",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "coat",
+        "jacket",
+        "outerwear"
+      ]
+    }
+  },
+  {
+    "id": "w03-a002",
+    "word": "シャツ",
+    "reading": "シャツ",
+    "category": "名词",
+    "meaning": "衬衫",
+    "example": [
+      [
+        "白",
+        "しろ"
+      ],
+      [
+        "いシャツを"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "洗了白衬衫。",
+    "tip": "这里指有领子、纽扣等的外穿衬衫。",
+    "kanjiNote": "片假名外来语，注意小写ャ。",
+    "cloze": {
+      "before": "白い",
+      "answer": "シャツ",
+      "after": "を洗いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1061520",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        "shirt (outerwear; usu. with collar and buttons)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a003",
+    "word": "Ｔシャツ",
+    "reading": "ティーシャツ",
+    "category": "名词",
+    "meaning": "T恤",
+    "example": [
+      [
+        "夏",
+        "なつ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "Ｔシャツ",
+        "ティーシャツ"
+      ],
+      [
+        "をよく"
+      ],
+      [
+        "着",
+        "き"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "夏天经常穿T恤。",
+    "tip": "「Ｔ」读ティー，日常也写作半角T。",
+    "kanjiNote": "字母Ｔ后接片假名シャツ。",
+    "cloze": {
+      "before": "夏は",
+      "answer": "Ｔシャツ",
+      "after": "をよく着ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1000160",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "T-shirt",
+        "tee shirt"
+      ]
+    }
+  },
+  {
+    "id": "w03-a004",
+    "word": "ズボン",
+    "reading": "ズボン",
+    "category": "名词",
+    "meaning": "裤子",
+    "example": [
+      [
+        "このズボンは"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "長",
+        "なが"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这条裤子有点长。",
+    "tip": "穿裤子用「ズボンをはく」。",
+    "kanjiNote": "片假名词，不要把末尾ン读成独立元音。",
+    "cloze": {
+      "before": "この",
+      "answer": "ズボン",
+      "after": "は少し長いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1074260",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "trousers",
+        "pants"
+      ]
+    }
+  },
+  {
+    "id": "w03-a005",
+    "word": "スカート",
+    "reading": "スカート",
+    "category": "名词",
+    "meaning": "裙子",
+    "example": [
+      [
+        "青",
+        "あお"
+      ],
+      [
+        "いスカートを"
+      ],
+      [
+        "選",
+        "えら"
+      ],
+      [
+        "びました。"
+      ]
+    ],
+    "translation": "选了蓝色的裙子。",
+    "tip": "穿裙子也用「はく」。",
+    "kanjiNote": "ー表示前一拍的元音延长。",
+    "cloze": {
+      "before": "青い",
+      "answer": "スカート",
+      "after": "を選びました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1067470",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "skirt"
+      ]
+    }
+  },
+  {
+    "id": "w03-a006",
+    "word": "ワンピース",
+    "reading": "ワンピース",
+    "category": "名词",
+    "meaning": "连衣裙",
+    "example": [
+      [
+        "このワンピースにはポケットがあります。"
+      ]
+    ],
+    "translation": "这条连衣裙有口袋。",
+    "tip": "服装语境中指连衣裙。",
+    "kanjiNote": "注意ピース中的长音。",
+    "cloze": {
+      "before": "この",
+      "answer": "ワンピース",
+      "after": "にはポケットがあります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1149240",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "dress"
+      ]
+    }
+  },
+  {
+    "id": "w03-a007",
+    "word": "セーター",
+    "reading": "セーター",
+    "category": "名词",
+    "meaning": "毛衣",
+    "example": [
+      [
+        "寒",
+        "さむ"
+      ],
+      [
+        "いので、セーターを"
+      ],
+      [
+        "着",
+        "き"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "因为冷，穿上了毛衣。",
+    "tip": "毛衣用「着る」，清洗前可查看洗涤标签。",
+    "kanjiNote": "两个ー都要读足长音。",
+    "cloze": {
+      "before": "寒いので、",
+      "answer": "セーター",
+      "after": "を着ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1074270",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "sweater",
+        "jumper"
+      ]
+    }
+  },
+  {
+    "id": "w03-a008",
+    "word": "コート",
+    "reading": "コート",
+    "category": "名词",
+    "meaning": "大衣；外套",
+    "example": [
+      [
+        "コートをハンガーにかけます。"
+      ]
+    ],
+    "translation": "把大衣挂在衣架上。",
+    "tip": "这里取服装义，不是运动场地的コート。",
+    "kanjiNote": "コ后有长音。",
+    "cloze": {
+      "before": "",
+      "answer": "コート",
+      "after": "をハンガーにかけます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1049000",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "coat"
+      ]
+    }
+  },
+  {
+    "id": "w03-a009",
+    "word": "ジャケット",
+    "reading": "ジャケット",
+    "category": "名词",
+    "meaning": "夹克；短外套",
+    "example": [
+      [
+        "会議",
+        "かいぎ"
+      ],
+      [
+        "にはジャケットを"
+      ],
+      [
+        "着",
+        "き"
+      ],
+      [
+        "ていきます。"
+      ]
+    ],
+    "translation": "去开会时穿夹克外套。",
+    "tip": "也有唱片封套等意思；本课学服装义。",
+    "kanjiNote": "小写ャ与ッ都影响读法。",
+    "cloze": {
+      "before": "会議には",
+      "answer": "ジャケット",
+      "after": "を着ていきます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1065170",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "jacket"
+      ]
+    }
+  },
+  {
+    "id": "w03-a010",
+    "word": "下着",
+    "reading": "したぎ",
+    "category": "名词",
+    "meaning": "内衣",
+    "example": [
+      [
+        "旅行",
+        "りょこう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "下着",
+        "したぎ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "用意",
+        "ようい"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "旅行前准备好内衣。",
+    "tip": "「下着」泛指贴身内衣。",
+    "kanjiNote": "下读した，着在这里读ぎ。",
+    "cloze": {
+      "before": "旅行の前に",
+      "answer": "下着",
+      "after": "を用意します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1185930",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "underwear",
+        "undergarment",
+        "underclothes",
+        "lingerie"
+      ]
+    }
+  },
+  {
+    "id": "w03-a011",
+    "word": "靴下",
+    "reading": "くつした",
+    "category": "名词",
+    "meaning": "袜子",
+    "example": [
+      [
+        "靴下",
+        "くつした"
+      ],
+      [
+        "を"
+      ],
+      [
+        "二足",
+        "にそく"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "买了两双袜子。",
+    "tip": "袜子按双计数常用「足」。",
+    "kanjiNote": "靴读くつ，下读した。",
+    "cloze": {
+      "before": "",
+      "answer": "靴下",
+      "after": "を二足買いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1246740",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "socks",
+        "sock",
+        "stockings",
+        "stocking"
+      ]
+    }
+  },
+  {
+    "id": "w03-a012",
+    "word": "帽子",
+    "reading": "ぼうし",
+    "category": "名词",
+    "meaning": "帽子",
+    "example": [
+      [
+        "外",
+        "そと"
+      ],
+      [
+        "では"
+      ],
+      [
+        "帽子",
+        "ぼうし"
+      ],
+      [
+        "をかぶります。"
+      ]
+    ],
+    "translation": "在外面戴帽子。",
+    "tip": "戴帽子用「かぶる」，不是「着る」。",
+    "kanjiNote": "帽子的读音是ぼうし。",
+    "cloze": {
+      "before": "外では",
+      "answer": "帽子",
+      "after": "をかぶります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1519170",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "hat",
+        "cap"
+      ]
+    }
+  },
+  {
+    "id": "w03-a013",
+    "word": "手袋",
+    "reading": "てぶくろ",
+    "category": "名词",
+    "meaning": "手套",
+    "example": [
+      [
+        "冬",
+        "ふゆ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "手袋",
+        "てぶくろ"
+      ],
+      [
+        "をして"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "かけます。"
+      ]
+    ],
+    "translation": "冬天戴手套出门。",
+    "tip": "戴手套可说「手袋をする」。",
+    "kanjiNote": "袋在这个词中浊化为ぶくろ。",
+    "cloze": {
+      "before": "冬は",
+      "answer": "手袋",
+      "after": "をして出かけます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1328090",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "glove",
+        "mitten",
+        "mitt"
+      ]
+    }
+  },
+  {
+    "id": "w03-a014",
+    "word": "マフラー",
+    "reading": "マフラー",
+    "category": "名词",
+    "meaning": "围巾",
+    "example": [
+      [
+        "首",
+        "くび"
+      ],
+      [
+        "にマフラーを"
+      ],
+      [
+        "巻",
+        "ま"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "把围巾围在脖子上。",
+    "tip": "这里指保暖围巾；汽车语境还可指消声器。",
+    "kanjiNote": "末尾ラー含长音。",
+    "cloze": {
+      "before": "首に",
+      "answer": "マフラー",
+      "after": "を巻きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1129210",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(thick) scarf",
+        "muffler"
+      ]
+    }
+  },
+  {
+    "id": "w03-a015",
+    "word": "ネクタイ",
+    "reading": "ネクタイ",
+    "category": "名词",
+    "meaning": "领带",
+    "example": [
+      [
+        "父",
+        "ちち"
+      ],
+      [
+        "にネクタイを"
+      ],
+      [
+        "贈",
+        "おく"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "送了父亲一条领带。",
+    "tip": "打领带可说「ネクタイを締める」。",
+    "kanjiNote": "外来语，一拍一拍读ネ・ク・タ・イ。",
+    "cloze": {
+      "before": "父に",
+      "answer": "ネクタイ",
+      "after": "を贈りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1092820",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tie",
+        "necktie"
+      ]
+    }
+  },
+  {
+    "id": "w03-a016",
+    "word": "ベルト",
+    "reading": "ベルト",
+    "category": "名词",
+    "meaning": "腰带；皮带",
+    "example": [
+      [
+        "このベルトは"
+      ],
+      [
+        "長",
+        "なが"
+      ],
+      [
+        "さを"
+      ],
+      [
+        "変",
+        "か"
+      ],
+      [
+        "えられます。"
+      ]
+    ],
+    "translation": "这条腰带可以调节长度。",
+    "tip": "服装语境中指系在腰间的带子。",
+    "kanjiNote": "片假名词，末尾ト不读成英语辅音连缀。",
+    "cloze": {
+      "before": "この",
+      "answer": "ベルト",
+      "after": "は長さを変えられます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1120070",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "belt (worn around the waist)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a017",
+    "word": "ハンカチ",
+    "reading": "ハンカチ",
+    "category": "名词",
+    "meaning": "手帕",
+    "example": [
+      [
+        "ポケットにハンカチを"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "把手帕放进口袋。",
+    "tip": "常用「ハンカチを持つ」表示随身带手帕。",
+    "kanjiNote": "ハンカチ是ハンカチーフ的缩略形式。",
+    "cloze": {
+      "before": "ポケットに",
+      "answer": "ハンカチ",
+      "after": "を入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1096420",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "handkerchief"
+      ]
+    }
+  },
+  {
+    "id": "w03-a018",
+    "word": "ポケット",
+    "reading": "ポケット",
+    "category": "名词",
+    "meaning": "口袋",
+    "example": [
+      [
+        "鍵",
+        "かぎ"
+      ],
+      [
+        "はポケットの"
+      ],
+      [
+        "中",
+        "なか"
+      ],
+      [
+        "にあります。"
+      ]
+    ],
+    "translation": "钥匙在口袋里。",
+    "tip": "「ポケットに入れる」是放进口袋。",
+    "kanjiNote": "小写ッ表示一拍停顿。",
+    "cloze": {
+      "before": "鍵は",
+      "answer": "ポケット",
+      "after": "の中にあります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1124970",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pocket"
+      ]
+    }
+  },
+  {
+    "id": "w03-a019",
+    "word": "ボタン",
+    "reading": "ボタン",
+    "category": "名词",
+    "meaning": "纽扣",
+    "example": [
+      [
+        "シャツのボタンが"
+      ],
+      [
+        "取",
+        "と"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "衬衫的纽扣掉了。",
+    "tip": "衣服的纽扣用「ボタン」；扣纽扣可说「留める」。",
+    "kanjiNote": "这里取衣服纽扣义。",
+    "cloze": {
+      "before": "シャツの",
+      "answer": "ボタン",
+      "after": "が取れました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1123880",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "button (clothing)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a020",
+    "word": "ファスナー",
+    "reading": "ファスナー",
+    "category": "名词",
+    "meaning": "拉链",
+    "example": [
+      [
+        "かばんのファスナーを"
+      ],
+      [
+        "閉",
+        "し"
+      ],
+      [
+        "めます。"
+      ]
+    ],
+    "translation": "拉上包的拉链。",
+    "tip": "拉上拉链用「ファスナーを閉める」。",
+    "kanjiNote": "ファ是一个组合音，ナー有长音。",
+    "cloze": {
+      "before": "かばんの",
+      "answer": "ファスナー",
+      "after": "を閉めます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1108160",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "zip fastener",
+        "zipper",
+        "zip"
+      ]
+    }
+  },
+  {
+    "id": "w03-a021",
+    "word": "袖",
+    "reading": "そで",
+    "category": "名词",
+    "meaning": "袖子",
+    "example": [
+      [
+        "このシャツは"
+      ],
+      [
+        "袖",
+        "そで"
+      ],
+      [
+        "が"
+      ],
+      [
+        "長",
+        "なが"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这件衬衫的袖子很长。",
+    "tip": "「袖をまくる」表示卷起袖子。",
+    "kanjiNote": "衣字旁提示与衣服有关。",
+    "cloze": {
+      "before": "このシャツは",
+      "answer": "袖",
+      "after": "が長いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1406000",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "sleeve"
+      ]
+    }
+  },
+  {
+    "id": "w03-a022",
+    "word": "襟",
+    "reading": "えり",
+    "category": "名词",
+    "meaning": "衣领",
+    "example": [
+      [
+        "シャツの"
+      ],
+      [
+        "襟",
+        "えり"
+      ],
+      [
+        "が"
+      ],
+      [
+        "汚",
+        "よご"
+      ],
+      [
+        "れています。"
+      ]
+    ],
+    "translation": "衬衫的领子脏了。",
+    "tip": "常和シャツ、コート等衣服搭配。",
+    "kanjiNote": "衣字旁的襟，读えり。",
+    "cloze": {
+      "before": "シャツの",
+      "answer": "襟",
+      "after": "が汚れています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1588750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "collar",
+        "lapel",
+        "neckband",
+        "neck"
+      ]
+    }
+  },
+  {
+    "id": "w03-a023",
+    "word": "裾",
+    "reading": "すそ",
+    "category": "名词",
+    "meaning": "衣服下摆；裤脚",
+    "example": [
+      [
+        "ズボンの"
+      ],
+      [
+        "裾",
+        "すそ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "短",
+        "みじか"
+      ],
+      [
+        "くします。"
+      ]
+    ],
+    "translation": "把裤脚改短。",
+    "tip": "「裾上げ」指修改裤脚等的长度。",
+    "kanjiNote": "衣字旁的裾，读すそ。",
+    "cloze": {
+      "before": "ズボンの",
+      "answer": "裾",
+      "after": "を短くします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1373610",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "hem",
+        "(trouser) cuff",
+        "shirttail",
+        "bottom (of a kimono)",
+        "train (of a dress)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a024",
+    "word": "生地",
+    "reading": "きじ",
+    "category": "名词",
+    "meaning": "布料；面料",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "生地",
+        "きじ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "柔",
+        "やわ"
+      ],
+      [
+        "らかいです。"
+      ]
+    ],
+    "translation": "这块面料很柔软。",
+    "tip": "本课学布料义；做面包时也能指面团。",
+    "kanjiNote": "这里读きじ，不读せいち。",
+    "cloze": {
+      "before": "この",
+      "answer": "生地",
+      "after": "は柔らかいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1379330",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "cloth",
+        "fabric",
+        "material",
+        "texture"
+      ]
+    }
+  },
+  {
+    "id": "w03-a025",
+    "word": "模様",
+    "reading": "もよう",
+    "category": "名词",
+    "meaning": "花纹；图案",
+    "example": [
+      [
+        "花",
+        "はな"
+      ],
+      [
+        "の"
+      ],
+      [
+        "模様",
+        "もよう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "布",
+        "ぬの"
+      ],
+      [
+        "を"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "买了有花朵图案的布。",
+    "tip": "「～の模様」可说明具体图案。",
+    "kanjiNote": "模读も，様读よう。",
+    "cloze": {
+      "before": "花の",
+      "answer": "模様",
+      "after": "の布を買いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1533720",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pattern",
+        "figure",
+        "design"
+      ]
+    }
+  },
+  {
+    "id": "w03-a026",
+    "word": "無地",
+    "reading": "むじ",
+    "category": "名词",
+    "meaning": "素色；没有花纹",
+    "example": [
+      [
+        "無地",
+        "むじ"
+      ],
+      [
+        "のシャツが"
+      ],
+      [
+        "好",
+        "す"
+      ],
+      [
+        "きです。"
+      ]
+    ],
+    "translation": "我喜欢没有花纹的衬衫。",
+    "tip": "修饰名词用「無地の」。",
+    "kanjiNote": "無表示没有，地在此读じ。",
+    "cloze": {
+      "before": "",
+      "answer": "無地",
+      "after": "のシャツが好きです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1530650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "plain",
+        "unfigured",
+        "patternless",
+        "solid (color)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a027",
+    "word": "綿",
+    "reading": "めん",
+    "category": "名词",
+    "meaning": "棉；棉质材料",
+    "example": [
+      [
+        "このシャツは"
+      ],
+      [
+        "綿",
+        "めん"
+      ],
+      [
+        "でできています。"
+      ]
+    ],
+    "translation": "这件衬衫是棉做的。",
+    "tip": "衣物材质标签中常读めん。",
+    "kanjiNote": "本课取材质义めん；不要与わた的读法混用。",
+    "cloze": {
+      "before": "このシャツは",
+      "answer": "綿",
+      "after": "でできています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1533330",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "cotton"
+      ]
+    }
+  },
+  {
+    "id": "w03-a028",
+    "word": "毛糸",
+    "reading": "けいと",
+    "category": "名词",
+    "meaning": "毛线",
+    "example": [
+      [
+        "赤",
+        "あか"
+      ],
+      [
+        "い"
+      ],
+      [
+        "毛糸",
+        "けいと"
+      ],
+      [
+        "でマフラーを"
+      ],
+      [
+        "編",
+        "あ"
+      ],
+      [
+        "みます。"
+      ]
+    ],
+    "translation": "用红毛线织围巾。",
+    "tip": "「毛糸で編む」表示用毛线编织。",
+    "kanjiNote": "毛读け，糸读いと。",
+    "cloze": {
+      "before": "赤い",
+      "answer": "毛糸",
+      "after": "でマフラーを編みます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1533860",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "knitting wool",
+        "woolen yarn",
+        "woollen yarn"
+      ]
+    }
+  },
+  {
+    "id": "w03-a029",
+    "word": "絹",
+    "reading": "きぬ",
+    "category": "名词",
+    "meaning": "丝；丝绸",
+    "example": [
+      [
+        "これは"
+      ],
+      [
+        "絹",
+        "きぬ"
+      ],
+      [
+        "のスカーフです。"
+      ]
+    ],
+    "translation": "这是一条丝巾。",
+    "tip": "说丝绸制品可用「絹の～」。",
+    "kanjiNote": "绞丝旁提示纤维、织物。",
+    "cloze": {
+      "before": "これは",
+      "answer": "絹",
+      "after": "のスカーフです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1258710",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "silk"
+      ]
+    }
+  },
+  {
+    "id": "w03-a030",
+    "word": "革",
+    "reading": "かわ",
+    "category": "名词",
+    "meaning": "皮革",
+    "example": [
+      [
+        "革",
+        "かわ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "財布",
+        "さいふ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "我在用皮钱包。",
+    "tip": "这里指加工后的皮革，注意与「皮」区别。",
+    "kanjiNote": "革单独作名词读かわ。",
+    "cloze": {
+      "before": "",
+      "answer": "革",
+      "after": "の財布を使っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1483805",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "leather"
+      ]
+    }
+  },
+  {
+    "id": "w03-a031",
+    "word": "指輪",
+    "reading": "ゆびわ",
+    "category": "名词",
+    "meaning": "戒指",
+    "example": [
+      [
+        "指輪",
+        "ゆびわ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "小",
+        "ちい"
+      ],
+      [
+        "さな"
+      ],
+      [
+        "箱",
+        "はこ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "把戒指放进了小盒子。",
+    "tip": "戴戒指可说「指輪をはめる」。",
+    "kanjiNote": "指读ゆび，輪读わ。",
+    "cloze": {
+      "before": "",
+      "answer": "指輪",
+      "after": "を小さな箱に入れました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1310050",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(finger) ring"
+      ]
+    }
+  },
+  {
+    "id": "w03-a032",
+    "word": "ネックレス",
+    "reading": "ネックレス",
+    "category": "名词",
+    "meaning": "项链",
+    "example": [
+      [
+        "母",
+        "はは"
+      ],
+      [
+        "は"
+      ],
+      [
+        "銀",
+        "ぎん"
+      ],
+      [
+        "のネックレスをしています。"
+      ]
+    ],
+    "translation": "母亲戴着银项链。",
+    "tip": "戴项链可以用「ネックレスをする」。",
+    "kanjiNote": "注意ネッ后的促音停顿。",
+    "cloze": {
+      "before": "母は銀の",
+      "answer": "ネックレス",
+      "after": "をしています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1093000",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "necklace"
+      ]
+    }
+  },
+  {
+    "id": "w03-a033",
+    "word": "メガネ",
+    "reading": "メガネ",
+    "category": "名词",
+    "meaning": "眼镜",
+    "example": [
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "読",
+        "よ"
+      ],
+      [
+        "むときにメガネをかけます。"
+      ]
+    ],
+    "translation": "读书时戴眼镜。",
+    "tip": "戴眼镜用「かける」。",
+    "kanjiNote": "常用片假名，也写作「眼鏡（めがね）」。",
+    "cloze": {
+      "before": "本を読むときに",
+      "answer": "メガネ",
+      "after": "をかけます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1577670",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "glasses",
+        "eyeglasses",
+        "spectacles"
+      ]
+    }
+  },
+  {
+    "id": "w03-a034",
+    "word": "スリッパ",
+    "reading": "スリッパ",
+    "category": "名词",
+    "meaning": "拖鞋",
+    "example": [
+      [
+        "玄関",
+        "げんかん"
+      ],
+      [
+        "でスリッパにはきかえます。"
+      ]
+    ],
+    "translation": "在玄关换上拖鞋。",
+    "tip": "「スリッパをはく」是穿拖鞋。",
+    "kanjiNote": "ッ表示停顿，パ带半浊音。",
+    "cloze": {
+      "before": "玄関で",
+      "answer": "スリッパ",
+      "after": "にはきかえます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1073900",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "slipper",
+        "slippers"
+      ]
+    }
+  },
+  {
+    "id": "w03-a035",
+    "word": "パジャマ",
+    "reading": "パジャマ",
+    "category": "名词",
+    "meaning": "睡衣",
+    "example": [
+      [
+        "寝",
+        "ね"
+      ],
+      [
+        "る"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "にパジャマに"
+      ],
+      [
+        "着替",
+        "きが"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "睡前换上睡衣。",
+    "tip": "换成某种衣服用「～に着替える」。",
+    "kanjiNote": "注意ジャ是组合音。",
+    "cloze": {
+      "before": "寝る前に",
+      "answer": "パジャマ",
+      "after": "に着替えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1101430",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pajamas",
+        "pyjamas"
+      ]
+    }
+  },
+  {
+    "id": "w03-a036",
+    "word": "掃除",
+    "reading": "そうじ",
+    "category": "名词・サ变动词",
+    "meaning": "打扫；清洁",
+    "example": [
+      [
+        "日曜日",
+        "にちようび"
+      ],
+      [
+        "に"
+      ],
+      [
+        "部屋",
+        "へや"
+      ],
+      [
+        "の"
+      ],
+      [
+        "掃除",
+        "そうじ"
+      ],
+      [
+        "をします。"
+      ]
+    ],
+    "translation": "星期天打扫房间。",
+    "tip": "动词形式是「掃除する」。",
+    "kanjiNote": "掃、除都与清除有关。",
+    "cloze": {
+      "before": "日曜日に部屋の",
+      "answer": "掃除",
+      "after": "をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1399790",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "cleaning",
+        "sweeping",
+        "dusting",
+        "scrubbing"
+      ]
+    }
+  },
+  {
+    "id": "w03-a037",
+    "word": "洗濯",
+    "reading": "せんたく",
+    "category": "名词・サ变动词",
+    "meaning": "洗衣服；洗涤",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "のうちに"
+      ],
+      [
+        "洗濯",
+        "せんたく"
+      ],
+      [
+        "をします。"
+      ]
+    ],
+    "translation": "趁上午把衣服洗了。",
+    "tip": "「洗濯する」主要用于洗衣物。",
+    "kanjiNote": "洗濯的濯读たく。",
+    "cloze": {
+      "before": "朝のうちに",
+      "answer": "洗濯",
+      "after": "をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1390980",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "washing",
+        "laundry"
+      ]
+    }
+  },
+  {
+    "id": "w03-a038",
+    "word": "片付け",
+    "reading": "かたづけ",
+    "category": "名词",
+    "meaning": "收拾；整理",
+    "example": [
+      [
+        "食事",
+        "しょくじ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "は"
+      ],
+      [
+        "片付",
+        "かたづ"
+      ],
+      [
+        "けを"
+      ],
+      [
+        "手伝",
+        "てつだ"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "饭后帮忙收拾。",
+    "tip": "这是名词；相应动词是「片付ける」。",
+    "kanjiNote": "付け在这里浊化，写づけ。",
+    "cloze": {
+      "before": "食事の後は",
+      "answer": "片付け",
+      "after": "を手伝います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1511780",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tidying up",
+        "finishing"
+      ]
+    }
+  },
+  {
+    "id": "w03-a039",
+    "word": "乾燥",
+    "reading": "かんそう",
+    "category": "名词・サ变动词",
+    "meaning": "干燥；烘干",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "機械",
+        "きかい"
+      ],
+      [
+        "は"
+      ],
+      [
+        "洗濯物",
+        "せんたくもの"
+      ],
+      [
+        "の"
+      ],
+      [
+        "乾燥",
+        "かんそう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "这台机器用于烘干衣物。",
+    "tip": "干燥状态和使物品变干都可用这个词。",
+    "kanjiNote": "乾、燥都表示干燥。",
+    "cloze": {
+      "before": "この機械は洗濯物の",
+      "answer": "乾燥",
+      "after": "に使います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1209920",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "dryness",
+        "aridity",
+        "drying (e.g. clothes)",
+        "dehydration",
+        "desiccation"
+      ]
+    }
+  },
+  {
+    "id": "w03-a040",
+    "word": "収納",
+    "reading": "しゅうのう",
+    "category": "名词・サ变动词",
+    "meaning": "收纳；存放",
+    "example": [
+      [
+        "冬",
+        "ふゆ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "服",
+        "ふく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "箱",
+        "はこ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "収納",
+        "しゅうのう"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "把冬天的衣服收纳进箱子。",
+    "tip": "「～を～に収納する」表示把东西存放到某处。",
+    "kanjiNote": "収、納都含收进、存入的意思。",
+    "cloze": {
+      "before": "冬の服を箱に",
+      "answer": "収納",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1330830",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "storage",
+        "putting away"
+      ]
+    }
+  },
+  {
+    "id": "w03-a041",
+    "word": "整理",
+    "reading": "せいり",
+    "category": "名词・サ变动词",
+    "meaning": "整理；归整",
+    "example": [
+      [
+        "週末",
+        "しゅうまつ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "棚",
+        "たな"
+      ],
+      [
+        "の"
+      ],
+      [
+        "整理",
+        "せいり"
+      ],
+      [
+        "をします。"
+      ]
+    ],
+    "translation": "周末整理架子。",
+    "tip": "「整理する」强调分类、排好。",
+    "kanjiNote": "整表示整齐；理表示条理。",
+    "cloze": {
+      "before": "週末に棚の",
+      "answer": "整理",
+      "after": "をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1376250",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "sorting",
+        "arrangement",
+        "organization",
+        "putting in order",
+        "adjustment",
+        "regulation"
+      ]
+    }
+  },
+  {
+    "id": "w03-a042",
+    "word": "アイロン",
+    "reading": "アイロン",
+    "category": "名词",
+    "meaning": "熨斗",
+    "example": [
+      [
+        "シャツにアイロンをかけます。"
+      ]
+    ],
+    "translation": "熨衬衫。",
+    "tip": "固定搭配是「アイロンをかける」。",
+    "kanjiNote": "这里指熨衣服的工具。",
+    "cloze": {
+      "before": "シャツに",
+      "answer": "アイロン",
+      "after": "をかけます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1014590",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "iron (for pressing clothes)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a043",
+    "word": "ハンガー",
+    "reading": "ハンガー",
+    "category": "名词",
+    "meaning": "衣架",
+    "example": [
+      [
+        "上着",
+        "うわぎ"
+      ],
+      [
+        "をハンガーにかけてください。"
+      ]
+    ],
+    "translation": "请把外套挂到衣架上。",
+    "tip": "放在衣架上用「ハンガーにかける」。",
+    "kanjiNote": "ガー含长音。",
+    "cloze": {
+      "before": "上着を",
+      "answer": "ハンガー",
+      "after": "にかけてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1096430",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(coat) hanger"
+      ]
+    }
+  },
+  {
+    "id": "w03-a044",
+    "word": "洗濯物",
+    "reading": "せんたくもの",
+    "category": "名词",
+    "meaning": "要洗或洗好的衣物",
+    "example": [
+      [
+        "雨",
+        "あめ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "降",
+        "ふ"
+      ],
+      [
+        "る"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "洗濯物",
+        "せんたくもの"
+      ],
+      [
+        "を"
+      ],
+      [
+        "取",
+        "と"
+      ],
+      [
+        "り"
+      ],
+      [
+        "込",
+        "こ"
+      ],
+      [
+        "みます。"
+      ]
+    ],
+    "translation": "下雨前把晾着的衣服收进来。",
+    "tip": "「干す」是晾晒，「取り込む」是收回室内。",
+    "kanjiNote": "物在这里读もの。",
+    "cloze": {
+      "before": "雨が降る前に",
+      "answer": "洗濯物",
+      "after": "を取り込みます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1391020",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "laundry",
+        "the washing"
+      ]
+    }
+  },
+  {
+    "id": "w03-a045",
+    "word": "物干し",
+    "reading": "ものほし",
+    "category": "名词",
+    "meaning": "晾衣架；晾衣设施",
+    "example": [
+      [
+        "ベランダに"
+      ],
+      [
+        "物干",
+        "ものほ"
+      ],
+      [
+        "しを"
+      ],
+      [
+        "置",
+        "お"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "在阳台放晾衣架。",
+    "tip": "「物干しざお」是晾衣杆。",
+    "kanjiNote": "干し来自「干す（ほす）」。",
+    "cloze": {
+      "before": "ベランダに",
+      "answer": "物干し",
+      "after": "を置きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1605290",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "frame for drying clothes",
+        "clotheshorse"
+      ]
+    }
+  },
+  {
+    "id": "w03-a046",
+    "word": "布巾",
+    "reading": "ふきん",
+    "category": "名词",
+    "meaning": "擦餐具或桌面的布巾",
+    "example": [
+      [
+        "きれいな"
+      ],
+      [
+        "布巾",
+        "ふきん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "皿",
+        "さら"
+      ],
+      [
+        "を"
+      ],
+      [
+        "拭",
+        "ふ"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "用干净的布巾擦盘子。",
+    "tip": "多用于厨房、餐具或餐桌的擦拭。",
+    "kanjiNote": "布读ふ，巾读きん。",
+    "cloze": {
+      "before": "きれいな",
+      "answer": "布巾",
+      "after": "で皿を拭きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1496850",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "dish towel",
+        "tea towel",
+        "dishcloth"
+      ]
+    }
+  },
+  {
+    "id": "w03-a047",
+    "word": "雑巾",
+    "reading": "ぞうきん",
+    "category": "名词",
+    "meaning": "抹布",
+    "example": [
+      [
+        "雑巾",
+        "ぞうきん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "床",
+        "ゆか"
+      ],
+      [
+        "を"
+      ],
+      [
+        "拭",
+        "ふ"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "用抹布擦地板。",
+    "tip": "常用于地面等清扫，与擦餐具的布巾区分。",
+    "kanjiNote": "雑在这里读ぞう。",
+    "cloze": {
+      "before": "",
+      "answer": "雑巾",
+      "after": "で床を拭きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1299370",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "house-cloth",
+        "dust cloth"
+      ]
+    }
+  },
+  {
+    "id": "w03-a048",
+    "word": "ほうき",
+    "reading": "ほうき",
+    "category": "名词",
+    "meaning": "扫帚",
+    "example": [
+      [
+        "ほうきで"
+      ],
+      [
+        "玄関",
+        "げんかん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "掃",
+        "は"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "用扫帚扫玄关。",
+    "tip": "「ほうきで掃く」表示用扫帚扫。",
+    "kanjiNote": "通常写假名；汉字写作箒。",
+    "cloze": {
+      "before": "",
+      "answer": "ほうき",
+      "after": "で玄関を掃きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1566500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "broom"
+      ]
+    }
+  },
+  {
+    "id": "w03-a049",
+    "word": "ちりとり",
+    "reading": "ちりとり",
+    "category": "名词",
+    "meaning": "簸箕；垃圾铲",
+    "example": [
+      [
+        "ちりとりにごみを"
+      ],
+      [
+        "集",
+        "あつ"
+      ],
+      [
+        "めます。"
+      ]
+    ],
+    "translation": "把垃圾扫进簸箕。",
+    "tip": "常与ほうき配合使用。",
+    "kanjiNote": "常写假名，也可写塵取り。",
+    "cloze": {
+      "before": "",
+      "answer": "ちりとり",
+      "after": "にごみを集めます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1369920",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "dustpan"
+      ]
+    }
+  },
+  {
+    "id": "w03-a050",
+    "word": "バケツ",
+    "reading": "バケツ",
+    "category": "名词",
+    "meaning": "水桶；桶",
+    "example": [
+      [
+        "バケツに"
+      ],
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "往桶里装水。",
+    "tip": "容器中的位置用「バケツに」。",
+    "kanjiNote": "外来语，末尾ツ要读清。",
+    "cloze": {
+      "before": "",
+      "answer": "バケツ",
+      "after": "に水を入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1098340",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bucket",
+        "pail"
+      ]
+    }
+  },
+  {
+    "id": "w03-a051",
+    "word": "ごみ箱",
+    "reading": "ごみばこ",
+    "category": "名词",
+    "meaning": "垃圾桶",
+    "example": [
+      [
+        "紙",
+        "かみ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "ごみ箱",
+        "ごみばこ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "捨",
+        "す"
+      ],
+      [
+        "てます。"
+      ]
+    ],
+    "translation": "把纸扔进垃圾桶。",
+    "tip": "「ごみ箱に捨てる」是扔进垃圾桶。",
+    "kanjiNote": "箱在复合词里浊化为ばこ。",
+    "cloze": {
+      "before": "紙を",
+      "answer": "ごみ箱",
+      "after": "に捨てます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1005010",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "trash can",
+        "garbage can",
+        "rubbish bin",
+        "dustbin"
+      ]
+    }
+  },
+  {
+    "id": "w03-a052",
+    "word": "分別",
+    "reading": "ぶんべつ",
+    "category": "名词・サ变动词",
+    "meaning": "分类；分类处理",
+    "example": [
+      [
+        "ごみの"
+      ],
+      [
+        "分別",
+        "ぶんべつ"
+      ],
+      [
+        "のルールを"
+      ],
+      [
+        "確認",
+        "かくにん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "确认垃圾分类的规则。",
+    "tip": "垃圾分类读ぶんべつ；ふんべつ是另一个意思。",
+    "kanjiNote": "分读ぶん，別读べつ。",
+    "cloze": {
+      "before": "ごみの",
+      "answer": "分別",
+      "after": "のルールを確認します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1504200",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "separation (e.g. of rubbish when recycling)",
+        "classification",
+        "discrimination",
+        "division",
+        "distinction"
+      ]
+    }
+  },
+  {
+    "id": "w03-a053",
+    "word": "資源",
+    "reading": "しげん",
+    "category": "名词",
+    "meaning": "资源",
+    "example": [
+      [
+        "紙",
+        "かみ"
+      ],
+      [
+        "も"
+      ],
+      [
+        "大切",
+        "たいせつ"
+      ],
+      [
+        "な"
+      ],
+      [
+        "資源",
+        "しげん"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "纸也是重要的资源。",
+    "tip": "「資源を大切にする」表示珍惜资源。",
+    "kanjiNote": "資源读しげん。",
+    "cloze": {
+      "before": "紙も大切な",
+      "answer": "資源",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1312720",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "resources"
+      ]
+    }
+  },
+  {
+    "id": "w03-a054",
+    "word": "回収",
+    "reading": "かいしゅう",
+    "category": "名词・サ变动词",
+    "meaning": "收集；回收",
+    "example": [
+      [
+        "古",
+        "ふる"
+      ],
+      [
+        "い"
+      ],
+      [
+        "新聞",
+        "しんぶん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "回収",
+        "かいしゅう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "明日",
+        "あした"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "明天回收旧报纸。",
+    "tip": "可用于旧物收集，也可用于收回发出的物品。",
+    "kanjiNote": "回表示收回，収表示收取。",
+    "cloze": {
+      "before": "古い新聞の",
+      "answer": "回収",
+      "after": "は明日です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1199470",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "collection",
+        "recovery",
+        "withdrawal",
+        "retrieval"
+      ]
+    }
+  },
+  {
+    "id": "w03-a055",
+    "word": "家具",
+    "reading": "かぐ",
+    "category": "名词",
+    "meaning": "家具",
+    "example": [
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "部屋",
+        "へや"
+      ],
+      [
+        "に"
+      ],
+      [
+        "家具",
+        "かぐ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "運",
+        "はこ"
+      ],
+      [
+        "びます。"
+      ]
+    ],
+    "translation": "把家具搬进新房间。",
+    "tip": "家具是总称，椅子、桌子等都包括在内。",
+    "kanjiNote": "家读か，具读ぐ。",
+    "cloze": {
+      "before": "新しい部屋に",
+      "answer": "家具",
+      "after": "を運びます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1191870",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "furniture"
+      ]
+    }
+  },
+  {
+    "id": "w03-a056",
+    "word": "ベッド",
+    "reading": "ベッド",
+    "category": "名词",
+    "meaning": "床",
+    "example": [
+      [
+        "ベッドの"
+      ],
+      [
+        "下",
+        "した"
+      ],
+      [
+        "を"
+      ],
+      [
+        "掃除",
+        "そうじ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "打扫床底下。",
+    "tip": "注意读作ベッド，不是ベット。",
+    "kanjiNote": "小写ッ后是浊音ド。",
+    "cloze": {
+      "before": "",
+      "answer": "ベッド",
+      "after": "の下を掃除します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1119650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bed"
+      ]
+    }
+  },
+  {
+    "id": "w03-a057",
+    "word": "ソファ",
+    "reading": "ソファ",
+    "category": "名词",
+    "meaning": "沙发",
+    "example": [
+      [
+        "夕食",
+        "ゆうしょく"
+      ],
+      [
+        "の"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "、ソファで"
+      ],
+      [
+        "休",
+        "やす"
+      ],
+      [
+        "みます。"
+      ]
+    ],
+    "translation": "晚饭后在沙发上休息。",
+    "tip": "也常写作ソファー。",
+    "kanjiNote": "ファ是组合音。",
+    "cloze": {
+      "before": "夕食の後、",
+      "answer": "ソファ",
+      "after": "で休みます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1075480",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "sofa",
+        "couch"
+      ]
+    }
+  },
+  {
+    "id": "w03-a058",
+    "word": "クッション",
+    "reading": "クッション",
+    "category": "名词",
+    "meaning": "靠垫；软垫",
+    "example": [
+      [
+        "椅子",
+        "いす"
+      ],
+      [
+        "にクッションを"
+      ],
+      [
+        "置",
+        "お"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "在椅子上放个软垫。",
+    "tip": "这里指可垫或靠的软垫。",
+    "kanjiNote": "促音ッ后接ション。",
+    "cloze": {
+      "before": "椅子に",
+      "answer": "クッション",
+      "after": "を置きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1043810",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "cushion"
+      ]
+    }
+  },
+  {
+    "id": "w03-a059",
+    "word": "じゅうたん",
+    "reading": "じゅうたん",
+    "category": "名词",
+    "meaning": "地毯",
+    "example": [
+      [
+        "じゅうたんの"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "座",
+        "すわ"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "坐在地毯上。",
+    "tip": "铺地毯用「じゅうたんを敷く」。",
+    "kanjiNote": "常写假名；汉字可写絨毯。",
+    "cloze": {
+      "before": "",
+      "answer": "じゅうたん",
+      "after": "の上に座ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1595370",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "carpet",
+        "rug",
+        "runner"
+      ]
+    }
+  },
+  {
+    "id": "w03-a060",
+    "word": "食器",
+    "reading": "しょっき",
+    "category": "名词",
+    "meaning": "餐具",
+    "example": [
+      [
+        "食器",
+        "しょっき"
+      ],
+      [
+        "を"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "ってから"
+      ],
+      [
+        "棚",
+        "たな"
+      ],
+      [
+        "に"
+      ],
+      [
+        "戻",
+        "もど"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "洗好餐具后放回架子。",
+    "tip": "包括盘、碗、杯等用餐器具。",
+    "kanjiNote": "食与器组合时读しょっき，有促音。",
+    "cloze": {
+      "before": "",
+      "answer": "食器",
+      "after": "を洗ってから棚に戻します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1358430",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tableware"
+      ]
+    }
+  },
+  {
+    "id": "w03-a061",
+    "word": "戸棚",
+    "reading": "とだな",
+    "category": "名词",
+    "meaning": "橱柜；柜子",
+    "example": [
+      [
+        "戸棚",
+        "とだな"
+      ],
+      [
+        "からコップを"
+      ],
+      [
+        "出",
+        "だ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "从橱柜里拿出杯子。",
+    "tip": "通常指带门的储物柜。",
+    "kanjiNote": "戸读と，棚在这里读だな。",
+    "cloze": {
+      "before": "",
+      "answer": "戸棚",
+      "after": "からコップを出します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1267050",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "cupboard",
+        "locker",
+        "closet",
+        "wardrobe",
+        "cabinet"
+      ]
+    }
+  },
+  {
+    "id": "w03-a062",
+    "word": "本棚",
+    "reading": "ほんだな",
+    "category": "名词",
+    "meaning": "书架；书柜",
+    "example": [
+      [
+        "本棚",
+        "ほんだな"
+      ],
+      [
+        "に"
+      ],
+      [
+        "辞書",
+        "じしょ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "並",
+        "なら"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "把词典放到书架上排好。",
+    "tip": "书架上的位置可说「本棚に」。",
+    "kanjiNote": "棚在复合词里浊化为だな。",
+    "cloze": {
+      "before": "",
+      "answer": "本棚",
+      "after": "に辞書を並べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1522980",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bookshelves",
+        "bookshelf",
+        "bookcase"
+      ]
+    }
+  },
+  {
+    "id": "w03-a063",
+    "word": "食卓",
+    "reading": "しょくたく",
+    "category": "名词",
+    "meaning": "餐桌",
+    "example": [
+      [
+        "食卓",
+        "しょくたく"
+      ],
+      [
+        "に"
+      ],
+      [
+        "料理",
+        "りょうり"
+      ],
+      [
+        "を"
+      ],
+      [
+        "並",
+        "なら"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "把饭菜摆到餐桌上。",
+    "tip": "强调用餐的桌子。",
+    "kanjiNote": "食读しょく，卓读たく。",
+    "cloze": {
+      "before": "",
+      "answer": "食卓",
+      "after": "に料理を並べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1358530",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "dining table"
+      ]
+    }
+  },
+  {
+    "id": "w03-a064",
+    "word": "テーブル",
+    "reading": "テーブル",
+    "category": "名词",
+    "meaning": "桌子",
+    "example": [
+      [
+        "テーブルを"
+      ],
+      [
+        "窓",
+        "まど"
+      ],
+      [
+        "の"
+      ],
+      [
+        "近",
+        "ちか"
+      ],
+      [
+        "くに"
+      ],
+      [
+        "置",
+        "お"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "把桌子放在窗边。",
+    "tip": "多用于餐桌、茶几等桌子。",
+    "kanjiNote": "テー的长音要读足。",
+    "cloze": {
+      "before": "",
+      "answer": "テーブル",
+      "after": "を窓の近くに置きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1078630",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "table"
+      ]
+    }
+  },
+  {
+    "id": "w03-a065",
+    "word": "鍋",
+    "reading": "なべ",
+    "category": "名词",
+    "meaning": "锅",
+    "example": [
+      [
+        "鍋",
+        "なべ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "と"
+      ],
+      [
+        "野菜",
+        "やさい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "往锅里放水和蔬菜。",
+    "tip": "本课学炊具义；也可指火锅料理。",
+    "kanjiNote": "金字旁的鍋读なべ。",
+    "cloze": {
+      "before": "",
+      "answer": "鍋",
+      "after": "に水と野菜を入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1459720",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pan",
+        "pot",
+        "saucepan"
+      ]
+    }
+  },
+  {
+    "id": "w03-a066",
+    "word": "フライパン",
+    "reading": "フライパン",
+    "category": "名词",
+    "meaning": "平底锅；煎锅",
+    "example": [
+      [
+        "フライパンで"
+      ],
+      [
+        "卵",
+        "たまご"
+      ],
+      [
+        "を"
+      ],
+      [
+        "焼",
+        "や"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "用平底锅煎鸡蛋。",
+    "tip": "「フライパンで焼く」是用平底锅煎。",
+    "kanjiNote": "パン是词的一部分，不是面包义。",
+    "cloze": {
+      "before": "",
+      "answer": "フライパン",
+      "after": "で卵を焼きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1111160",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "fry pan",
+        "frying pan"
+      ]
+    }
+  },
+  {
+    "id": "w03-a067",
+    "word": "やかん",
+    "reading": "やかん",
+    "category": "名词",
+    "meaning": "烧水壶",
+    "example": [
+      [
+        "やかんで"
+      ],
+      [
+        "お湯",
+        "おゆ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "沸",
+        "わ"
+      ],
+      [
+        "かします。"
+      ]
+    ],
+    "translation": "用水壶烧水。",
+    "tip": "烧水壶常用やかん，泡茶的小壶用急須。",
+    "kanjiNote": "通常写假名，汉字可写薬缶。",
+    "cloze": {
+      "before": "",
+      "answer": "やかん",
+      "after": "でお湯を沸かします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1605370",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "kettle"
+      ]
+    }
+  },
+  {
+    "id": "w03-a068",
+    "word": "包丁",
+    "reading": "ほうちょう",
+    "category": "名词",
+    "meaning": "菜刀",
+    "example": [
+      [
+        "包丁",
+        "ほうちょう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "野菜",
+        "やさい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "用菜刀切蔬菜。",
+    "tip": "工具用助词「で」表示。",
+    "kanjiNote": "包、丁合起来读ほうちょう。",
+    "cloze": {
+      "before": "",
+      "answer": "包丁",
+      "after": "で野菜を切ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1515530",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "kitchen knife"
+      ]
+    }
+  },
+  {
+    "id": "w03-a069",
+    "word": "まな板",
+    "reading": "まないた",
+    "category": "名词",
+    "meaning": "砧板；菜板",
+    "example": [
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "った"
+      ],
+      [
+        "まな板",
+        "まないた"
+      ],
+      [
+        "をよく"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "把用过的砧板洗干净。",
+    "tip": "切菜时放在食材下面的板。",
+    "kanjiNote": "板读いた，前半常用假名。",
+    "cloze": {
+      "before": "使った",
+      "answer": "まな板",
+      "after": "をよく洗います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1604140",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "chopping board",
+        "cutting board"
+      ]
+    }
+  },
+  {
+    "id": "w03-a070",
+    "word": "ざる",
+    "reading": "ざる",
+    "category": "名词",
+    "meaning": "滤篮；沥水篮",
+    "example": [
+      [
+        "ゆでた"
+      ],
+      [
+        "麺",
+        "めん"
+      ],
+      [
+        "をざるにあげます。"
+      ]
+    ],
+    "translation": "把煮好的面捞进滤篮沥水。",
+    "tip": "「ざるにあげる」表示捞入滤篮沥水。",
+    "kanjiNote": "通常写假名；汉字写作笊。",
+    "cloze": {
+      "before": "ゆでた麺を",
+      "answer": "ざる",
+      "after": "にあげます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1570240",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "draining basket (traditionally made of bamboo)",
+        "colander",
+        "strainer",
+        "sieve"
+      ]
+    }
+  },
+  {
+    "id": "w03-a071",
+    "word": "ボウル",
+    "reading": "ボウル",
+    "category": "名词",
+    "meaning": "碗状容器；搅拌盆",
+    "example": [
+      [
+        "ボウルに"
+      ],
+      [
+        "卵",
+        "たまご"
+      ],
+      [
+        "を"
+      ],
+      [
+        "割",
+        "わ"
+      ],
+      [
+        "り"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "把鸡蛋打进搅拌盆。",
+    "tip": "厨房中常指调拌食材用的盆。",
+    "kanjiNote": "写作ボウル，可避免与球的ボール混淆。",
+    "cloze": {
+      "before": "",
+      "answer": "ボウル",
+      "after": "に卵を割り入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1123750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bowl"
+      ]
+    }
+  },
+  {
+    "id": "w03-a072",
+    "word": "箸",
+    "reading": "はし",
+    "category": "名词",
+    "meaning": "筷子",
+    "example": [
+      [
+        "箸",
+        "はし"
+      ],
+      [
+        "で"
+      ],
+      [
+        "豆腐",
+        "とうふ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "食",
+        "た"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "用筷子吃豆腐。",
+    "tip": "筷子的量词常用「膳」。",
+    "kanjiNote": "箸与橋读音相同，字义不同。",
+    "cloze": {
+      "before": "",
+      "answer": "箸",
+      "after": "で豆腐を食べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1476410",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "chopsticks"
+      ]
+    }
+  },
+  {
+    "id": "w03-a073",
+    "word": "スプーン",
+    "reading": "スプーン",
+    "category": "名词",
+    "meaning": "勺子",
+    "example": [
+      [
+        "ヨーグルトをスプーンで"
+      ],
+      [
+        "食",
+        "た"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "用勺子吃酸奶。",
+    "tip": "「スプーンで」表示用勺子。",
+    "kanjiNote": "プー含长音。",
+    "cloze": {
+      "before": "ヨーグルトを",
+      "answer": "スプーン",
+      "after": "で食べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1072590",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "spoon"
+      ]
+    }
+  },
+  {
+    "id": "w03-a074",
+    "word": "フォーク",
+    "reading": "フォーク",
+    "category": "名词",
+    "meaning": "餐叉；叉子",
+    "example": [
+      [
+        "サラダはフォークで"
+      ],
+      [
+        "食",
+        "た"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "沙拉用叉子吃。",
+    "tip": "本课学餐具义。",
+    "kanjiNote": "フォ是组合音，后面有长音。",
+    "cloze": {
+      "before": "サラダは",
+      "answer": "フォーク",
+      "after": "で食べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1110110",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "fork"
+      ]
+    }
+  },
+  {
+    "id": "w03-a075",
+    "word": "ナイフ",
+    "reading": "ナイフ",
+    "category": "名词",
+    "meaning": "刀；餐刀",
+    "example": [
+      [
+        "ナイフでパンを"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "用刀切面包。",
+    "tip": "可指餐刀等刀具；厨房菜刀通常说包丁。",
+    "kanjiNote": "ナ・イ・フ各占一拍。",
+    "cloze": {
+      "before": "",
+      "answer": "ナイフ",
+      "after": "でパンを切ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1089890",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "knife"
+      ]
+    }
+  },
+  {
+    "id": "w03-a076",
+    "word": "皿",
+    "reading": "さら",
+    "category": "名词",
+    "meaning": "盘子；碟子",
+    "example": [
+      [
+        "皿",
+        "さら"
+      ],
+      [
+        "に"
+      ],
+      [
+        "果物",
+        "くだもの"
+      ],
+      [
+        "をのせます。"
+      ]
+    ],
+    "translation": "把水果放到盘子上。",
+    "tip": "礼貌地说也常用「お皿」。",
+    "kanjiNote": "皿单独作名词读さら。",
+    "cloze": {
+      "before": "",
+      "answer": "皿",
+      "after": "に果物をのせます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1299680",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "plate",
+        "dish",
+        "platter",
+        "disc"
+      ]
+    }
+  },
+  {
+    "id": "w03-a077",
+    "word": "茶碗",
+    "reading": "ちゃわん",
+    "category": "名词",
+    "meaning": "饭碗；茶碗",
+    "example": [
+      [
+        "茶碗",
+        "ちゃわん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "ご飯",
+        "ごはん"
+      ],
+      [
+        "をよそいます。"
+      ]
+    ],
+    "translation": "往饭碗里盛饭。",
+    "tip": "日常用餐时多指盛米饭的碗。",
+    "kanjiNote": "茶读ちゃ，碗读わん。",
+    "cloze": {
+      "before": "",
+      "answer": "茶碗",
+      "after": "にご飯をよそいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1597530",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "rice bowl",
+        "tea cup",
+        "teacup"
+      ]
+    }
+  },
+  {
+    "id": "w03-a078",
+    "word": "コップ",
+    "reading": "コップ",
+    "category": "名词",
+    "meaning": "杯子；饮水杯",
+    "example": [
+      [
+        "コップに"
+      ],
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "を"
+      ],
+      [
+        "注",
+        "そそ"
+      ],
+      [
+        "ぎます。"
+      ]
+    ],
+    "translation": "往杯子里倒水。",
+    "tip": "常指喝水的杯子，不限于某一种材质。",
+    "kanjiNote": "小写ッ后接半浊音プ。",
+    "cloze": {
+      "before": "",
+      "answer": "コップ",
+      "after": "に水を注ぎます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1050390",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "glass (drinking vessel)",
+        "tumbler"
+      ]
+    }
+  },
+  {
+    "id": "w03-a079",
+    "word": "グラス",
+    "reading": "グラス",
+    "category": "名词",
+    "meaning": "玻璃杯",
+    "example": [
+      [
+        "冷",
+        "つめ"
+      ],
+      [
+        "たい"
+      ],
+      [
+        "お茶",
+        "おちゃ"
+      ],
+      [
+        "をグラスに"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "把凉茶倒进玻璃杯。",
+    "tip": "饮用水、酒等时常见的玻璃杯。",
+    "kanjiNote": "此处取饮水容器义。",
+    "cloze": {
+      "before": "冷たいお茶を",
+      "answer": "グラス",
+      "after": "に入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1046430",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "glass (drinking vessel)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a080",
+    "word": "湯飲み",
+    "reading": "ゆのみ",
+    "category": "名词",
+    "meaning": "茶杯",
+    "example": [
+      [
+        "湯飲",
+        "ゆの"
+      ],
+      [
+        "みに"
+      ],
+      [
+        "温",
+        "あたた"
+      ],
+      [
+        "かい"
+      ],
+      [
+        "お茶",
+        "おちゃ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "注",
+        "そそ"
+      ],
+      [
+        "ぎます。"
+      ]
+    ],
+    "translation": "往茶杯里倒热茶。",
+    "tip": "通常指喝日本茶用的杯子。",
+    "kanjiNote": "湯读ゆ，飲み读のみ。",
+    "cloze": {
+      "before": "",
+      "answer": "湯飲み",
+      "after": "に温かいお茶を注ぎます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1612130",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "teacup"
+      ]
+    }
+  },
+  {
+    "id": "w03-a081",
+    "word": "急須",
+    "reading": "きゅうす",
+    "category": "名词",
+    "meaning": "小茶壶；日式茶壶",
+    "example": [
+      [
+        "急須",
+        "きゅうす"
+      ],
+      [
+        "で"
+      ],
+      [
+        "お茶",
+        "おちゃ"
+      ],
+      [
+        "をいれます。"
+      ]
+    ],
+    "translation": "用小茶壶泡茶。",
+    "tip": "通常带壶嘴和把手，用于泡茶。",
+    "kanjiNote": "急須合起来读きゅうす。",
+    "cloze": {
+      "before": "",
+      "answer": "急須",
+      "after": "でお茶をいれます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1228800",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "small teapot"
+      ]
+    }
+  },
+  {
+    "id": "w03-a082",
+    "word": "弁当箱",
+    "reading": "べんとうばこ",
+    "category": "名词",
+    "meaning": "饭盒；便当盒",
+    "example": [
+      [
+        "弁当箱",
+        "べんとうばこ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "って"
+      ],
+      [
+        "乾",
+        "かわ"
+      ],
+      [
+        "かします。"
+      ]
+    ],
+    "translation": "洗好饭盒并晾干。",
+    "tip": "装便当的盒子，内容物则是弁当。",
+    "kanjiNote": "箱在这里浊化为ばこ。",
+    "cloze": {
+      "before": "",
+      "answer": "弁当箱",
+      "after": "を洗って乾かします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1513080",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "lunch box",
+        "bento box"
+      ]
+    }
+  },
+  {
+    "id": "w03-a083",
+    "word": "水筒",
+    "reading": "すいとう",
+    "category": "名词",
+    "meaning": "水壶；随身水瓶",
+    "example": [
+      [
+        "散歩",
+        "さんぽ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "水筒",
+        "すいとう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "持",
+        "も"
+      ],
+      [
+        "っていきます。"
+      ]
+    ],
+    "translation": "散步时带上水壶。",
+    "tip": "强调可以随身携带的盛水容器。",
+    "kanjiNote": "水读すい，筒读とう。",
+    "cloze": {
+      "before": "散歩に",
+      "answer": "水筒",
+      "after": "を持っていきます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1371910",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "canteen",
+        "flask",
+        "water bottle",
+        "thermos"
+      ]
+    }
+  },
+  {
+    "id": "w03-a084",
+    "word": "栓抜き",
+    "reading": "せんぬき",
+    "category": "名词",
+    "meaning": "开瓶器",
+    "example": [
+      [
+        "栓抜",
+        "せんぬ"
+      ],
+      [
+        "きで"
+      ],
+      [
+        "瓶",
+        "びん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "開",
+        "あ"
+      ],
+      [
+        "けます。"
+      ]
+    ],
+    "translation": "用开瓶器开瓶。",
+    "tip": "用来拔除或撬开瓶塞、瓶盖。",
+    "kanjiNote": "栓指塞子，抜き来自抜く。",
+    "cloze": {
+      "before": "",
+      "answer": "栓抜き",
+      "after": "で瓶を開けます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1390770",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bottle opener",
+        "corkscrew"
+      ]
+    }
+  },
+  {
+    "id": "w03-a085",
+    "word": "缶切り",
+    "reading": "かんきり",
+    "category": "名词",
+    "meaning": "开罐器",
+    "example": [
+      [
+        "缶切",
+        "かんき"
+      ],
+      [
+        "りは"
+      ],
+      [
+        "引",
+        "ひ"
+      ],
+      [
+        "き"
+      ],
+      [
+        "出",
+        "だ"
+      ],
+      [
+        "しにあります。"
+      ]
+    ],
+    "translation": "开罐器在抽屉里。",
+    "tip": "用于打开罐头等容器。",
+    "kanjiNote": "缶读かん，切り读きり。",
+    "cloze": {
+      "before": "",
+      "answer": "缶切り",
+      "after": "は引き出しにあります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1214570",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "can opener"
+      ]
+    }
+  },
+  {
+    "id": "w03-a086",
+    "word": "菜箸",
+    "reading": "さいばし",
+    "category": "名词",
+    "meaning": "烹调用长筷子",
+    "example": [
+      [
+        "菜箸",
+        "さいばし"
+      ],
+      [
+        "で"
+      ],
+      [
+        "野菜",
+        "やさい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "混",
+        "ま"
+      ],
+      [
+        "ぜます。"
+      ]
+    ],
+    "translation": "用长筷子翻拌蔬菜。",
+    "tip": "比一般用餐筷子长，方便烹调。",
+    "kanjiNote": "菜读さい，箸在这里浊化为ばし。",
+    "cloze": {
+      "before": "",
+      "answer": "菜箸",
+      "after": "で野菜を混ぜます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1741430",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "long chopsticks (for cooking, serving, etc.)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a087",
+    "word": "おたま",
+    "reading": "おたま",
+    "category": "名词",
+    "meaning": "长柄汤勺",
+    "example": [
+      [
+        "おたまでスープをすくいます。"
+      ]
+    ],
+    "translation": "用汤勺舀汤。",
+    "tip": "指盛汤、舀汤的大勺。",
+    "kanjiNote": "常写假名，是お玉杓子的简称。",
+    "cloze": {
+      "before": "",
+      "answer": "おたま",
+      "after": "でスープをすくいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1862520",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "ladle"
+      ]
+    }
+  },
+  {
+    "id": "w03-a088",
+    "word": "計量カップ",
+    "reading": "けいりょうカップ",
+    "category": "名词",
+    "meaning": "量杯",
+    "example": [
+      [
+        "計量",
+        "けいりょう"
+      ],
+      [
+        "カップで"
+      ],
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "の"
+      ],
+      [
+        "量",
+        "りょう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "量",
+        "はか"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "用量杯测量水量。",
+    "tip": "料理配方中用来量取液体等。",
+    "kanjiNote": "計量表示测定数量，カップ表示杯。",
+    "cloze": {
+      "before": "",
+      "answer": "計量カップ",
+      "after": "で水の量を量ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "2828385",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "measuring cup"
+      ]
+    }
+  },
+  {
+    "id": "w03-a089",
+    "word": "ラップ",
+    "reading": "ラップ",
+    "category": "名词",
+    "meaning": "保鲜膜",
+    "example": [
+      [
+        "残",
+        "のこ"
+      ],
+      [
+        "った"
+      ],
+      [
+        "ご飯",
+        "ごはん"
+      ],
+      [
+        "をラップで"
+      ],
+      [
+        "包",
+        "つつ"
+      ],
+      [
+        "みます。"
+      ]
+    ],
+    "translation": "把剩饭用保鲜膜包起来。",
+    "tip": "食品保存语境中的ラップ指保鲜膜。",
+    "kanjiNote": "这里不是说唱音乐的ラップ。",
+    "cloze": {
+      "before": "残ったご飯を",
+      "answer": "ラップ",
+      "after": "で包みます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1139250",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "plastic wrap",
+        "cling film",
+        "cling wrap",
+        "food wrap"
+      ]
+    }
+  },
+  {
+    "id": "w03-a090",
+    "word": "アルミホイル",
+    "reading": "アルミホイル",
+    "category": "名词",
+    "meaning": "铝箔；锡纸",
+    "example": [
+      [
+        "魚",
+        "さかな"
+      ],
+      [
+        "をアルミホイルで"
+      ],
+      [
+        "包",
+        "つつ"
+      ],
+      [
+        "んで"
+      ],
+      [
+        "焼",
+        "や"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "把鱼包在铝箔里烤。",
+    "tip": "烹饪和包裹食物时常用。",
+    "kanjiNote": "アルミ是アルミニウム的简称。",
+    "cloze": {
+      "before": "魚を",
+      "answer": "アルミホイル",
+      "after": "で包んで焼きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1019660",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "aluminum foil",
+        "aluminium foil",
+        "tin foil"
+      ]
+    }
+  },
+  {
+    "id": "w03-a091",
+    "word": "バター",
+    "reading": "バター",
+    "category": "名词",
+    "meaning": "黄油",
+    "example": [
+      [
+        "パンにバターを"
+      ],
+      [
+        "塗",
+        "ぬ"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "在面包上抹黄油。",
+    "tip": "涂抹食材用「塗る」。",
+    "kanjiNote": "ター含长音。",
+    "cloze": {
+      "before": "パンに",
+      "answer": "バター",
+      "after": "を塗ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1098620",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "butter"
+      ]
+    }
+  },
+  {
+    "id": "w03-a092",
+    "word": "チーズ",
+    "reading": "チーズ",
+    "category": "名词",
+    "meaning": "奶酪；芝士",
+    "example": [
+      [
+        "パンの"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "にチーズをのせます。"
+      ]
+    ],
+    "translation": "把奶酪放在面包上。",
+    "tip": "本课学食品义。",
+    "kanjiNote": "チー含长音。",
+    "cloze": {
+      "before": "パンの上に",
+      "answer": "チーズ",
+      "after": "をのせます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1077330",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "cheese"
+      ]
+    }
+  },
+  {
+    "id": "w03-a093",
+    "word": "ヨーグルト",
+    "reading": "ヨーグルト",
+    "category": "名词",
+    "meaning": "酸奶",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "はヨーグルトと"
+      ],
+      [
+        "果物",
+        "くだもの"
+      ],
+      [
+        "を"
+      ],
+      [
+        "食",
+        "た"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "早上吃酸奶和水果。",
+    "tip": "酸奶通常说「食べる」，饮用型可用「飲む」。",
+    "kanjiNote": "ヨー含长音。",
+    "cloze": {
+      "before": "朝は",
+      "answer": "ヨーグルト",
+      "after": "と果物を食べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1137520",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "yogurt",
+        "yoghurt"
+      ]
+    }
+  },
+  {
+    "id": "w03-a094",
+    "word": "ジャム",
+    "reading": "ジャム",
+    "category": "名词",
+    "meaning": "果酱",
+    "example": [
+      [
+        "いちごのジャムをパンに"
+      ],
+      [
+        "塗",
+        "ぬ"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "在面包上抹草莓酱。",
+    "tip": "「～のジャム」说明果酱的原料。",
+    "kanjiNote": "ジャ是一个组合音。",
+    "cloze": {
+      "before": "いちごの",
+      "answer": "ジャム",
+      "after": "をパンに塗ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1065680",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "jam"
+      ]
+    }
+  },
+  {
+    "id": "w03-a095",
+    "word": "はちみつ",
+    "reading": "はちみつ",
+    "category": "名词",
+    "meaning": "蜂蜜",
+    "example": [
+      [
+        "紅茶",
+        "こうちゃ"
+      ],
+      [
+        "にはちみつを"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "往红茶里加一点蜂蜜。",
+    "tip": "可用「はちみつをかける」表示淋蜂蜜。",
+    "kanjiNote": "常用假名，汉字写作蜂蜜。",
+    "cloze": {
+      "before": "紅茶に",
+      "answer": "はちみつ",
+      "after": "を少し入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1517860",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "honey"
+      ]
+    }
+  },
+  {
+    "id": "w03-a096",
+    "word": "こしょう",
+    "reading": "こしょう",
+    "category": "名词",
+    "meaning": "胡椒",
+    "example": [
+      [
+        "スープにこしょうを"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "振",
+        "ふ"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "往汤里撒一点胡椒。",
+    "tip": "撒粉末调料可用「振る」。",
+    "kanjiNote": "常写假名，汉字写作胡椒。",
+    "cloze": {
+      "before": "スープに",
+      "answer": "こしょう",
+      "after": "を少し振ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1267600",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pepper"
+      ]
+    }
+  },
+  {
+    "id": "w03-a097",
+    "word": "しょうが",
+    "reading": "しょうが",
+    "category": "名词",
+    "meaning": "生姜",
+    "example": [
+      [
+        "しょうがを"
+      ],
+      [
+        "薄",
+        "うす"
+      ],
+      [
+        "く"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "把生姜切成薄片。",
+    "tip": "做调味食材时常用这个读音。",
+    "kanjiNote": "常写假名，汉字写作生姜。",
+    "cloze": {
+      "before": "",
+      "answer": "しょうが",
+      "after": "を薄く切ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1379620",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "ginger (Zingiber officinale)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a098",
+    "word": "にんにく",
+    "reading": "にんにく",
+    "category": "名词",
+    "meaning": "大蒜",
+    "example": [
+      [
+        "にんにくを"
+      ],
+      [
+        "細",
+        "こま"
+      ],
+      [
+        "かく"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "把大蒜切碎。",
+    "tip": "本课指烹调用的大蒜。",
+    "kanjiNote": "常用假名，避免把少见汉字蒜作为主要写法。",
+    "cloze": {
+      "before": "",
+      "answer": "にんにく",
+      "after": "を細かく切ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1599940",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "garlic (Allium sativum)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a099",
+    "word": "大根",
+    "reading": "だいこん",
+    "category": "名词",
+    "meaning": "白萝卜",
+    "example": [
+      [
+        "大根",
+        "だいこん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "味噌汁",
+        "みそしる"
+      ],
+      [
+        "に"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "往味噌汤里放白萝卜。",
+    "tip": "这里指常见白萝卜。",
+    "kanjiNote": "大读だい，根读こん。",
+    "cloze": {
+      "before": "",
+      "answer": "大根",
+      "after": "を味噌汁に入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1413730",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a100",
+    "word": "白菜",
+    "reading": "はくさい",
+    "category": "名词",
+    "meaning": "大白菜",
+    "example": [
+      [
+        "白菜",
+        "はくさい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "って"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "把大白菜洗净切好。",
+    "tip": "不要和キャベツ（卷心菜）混淆。",
+    "kanjiNote": "白读はく，菜读さい。",
+    "cloze": {
+      "before": "",
+      "answer": "白菜",
+      "after": "を洗って切ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1475170",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "napa cabbage (Brassica rapa subsp. pekinensis)",
+        "nappa cabbage",
+        "Chinese cabbage"
+      ]
+    }
+  },
+  {
+    "id": "w03-a101",
+    "word": "ほうれん草",
+    "reading": "ほうれんそう",
+    "category": "名词",
+    "meaning": "菠菜",
+    "example": [
+      [
+        "ほうれん草",
+        "ほうれんそう"
+      ],
+      [
+        "をゆでます。"
+      ]
+    ],
+    "translation": "焯菠菜。",
+    "tip": "「ゆでる」表示在热水中煮熟、焯熟。",
+    "kanjiNote": "前半常写假名，草读そう。",
+    "cloze": {
+      "before": "",
+      "answer": "ほうれん草",
+      "after": "をゆでます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1603410",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "spinach (Spinacia oleracea)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a102",
+    "word": "なす",
+    "reading": "なす",
+    "category": "名词",
+    "meaning": "茄子",
+    "example": [
+      [
+        "なすを"
+      ],
+      [
+        "油",
+        "あぶら"
+      ],
+      [
+        "で"
+      ],
+      [
+        "炒",
+        "いた"
+      ],
+      [
+        "めます。"
+      ]
+    ],
+    "translation": "用油炒茄子。",
+    "tip": "也有「なすび」的说法，本课记なす。",
+    "kanjiNote": "常用假名，汉字写作茄子。",
+    "cloze": {
+      "before": "",
+      "answer": "なす",
+      "after": "を油で炒めます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1195240",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "eggplant (Solanum melongena)",
+        "aubergine"
+      ]
+    }
+  },
+  {
+    "id": "w03-a103",
+    "word": "かぼちゃ",
+    "reading": "かぼちゃ",
+    "category": "名词",
+    "meaning": "南瓜",
+    "example": [
+      [
+        "かぼちゃを"
+      ],
+      [
+        "小",
+        "ちい"
+      ],
+      [
+        "さく"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "って"
+      ],
+      [
+        "煮",
+        "に"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "把南瓜切小块后煮。",
+    "tip": "「かぼちゃのスープ」是南瓜汤。",
+    "kanjiNote": "常写假名，汉字写作南瓜。",
+    "cloze": {
+      "before": "",
+      "answer": "かぼちゃ",
+      "after": "を小さく切って煮ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1582580",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pumpkin (Cucurbita sp.)",
+        "squash"
+      ]
+    }
+  },
+  {
+    "id": "w03-a104",
+    "word": "レタス",
+    "reading": "レタス",
+    "category": "名词",
+    "meaning": "生菜",
+    "example": [
+      [
+        "レタスを"
+      ],
+      [
+        "洗",
+        "あら"
+      ],
+      [
+        "ってサラダにします。"
+      ]
+    ],
+    "translation": "把生菜洗净做成沙拉。",
+    "tip": "做成某种菜肴可说「～にする」。",
+    "kanjiNote": "片假名词，注意末尾ス。",
+    "cloze": {
+      "before": "",
+      "answer": "レタス",
+      "after": "を洗ってサラダにします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1145450",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "lettuce (Lactuca sativa)"
+      ]
+    }
+  },
+  {
+    "id": "w03-a105",
+    "word": "ピーマン",
+    "reading": "ピーマン",
+    "category": "名词",
+    "meaning": "青椒；甜椒",
+    "example": [
+      [
+        "ピーマンの"
+      ],
+      [
+        "種",
+        "たね"
+      ],
+      [
+        "を"
+      ],
+      [
+        "取",
+        "と"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "去掉青椒籽。",
+    "tip": "日常多指绿色的甜椒，不是辣椒的总称。",
+    "kanjiNote": "ピー含长音。",
+    "cloze": {
+      "before": "",
+      "answer": "ピーマン",
+      "after": "の種を取ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1106340",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bell pepper (esp. green)",
+        "green pepper",
+        "sweet pepper",
+        "capsicum"
+      ]
+    }
+  }
+]

@@ -1,0 +1,5412 @@
+[
+  {
+    "id": "w03-b001",
+    "word": "出勤",
+    "reading": "しゅっきん",
+    "category": "名词・する动词",
+    "meaning": "上班；出勤",
+    "example": [
+      [
+        "出勤",
+        "しゅっきん"
+      ],
+      [
+        "は"
+      ],
+      [
+        "九時",
+        "くじ"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "九点上班。",
+    "tip": "「出勤する」指去工作岗位或到岗。",
+    "kanjiNote": "「勤」在这里读きん。",
+    "cloze": {
+      "before": "",
+      "answer": "出勤",
+      "after": "は九時です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1338600",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "going to work",
+        "leaving for work",
+        "attendance (at work)",
+        "being at work",
+        "presence (in the office)",
+        "reporting for work"
+      ]
+    }
+  },
+  {
+    "id": "w03-b002",
+    "word": "欠勤",
+    "reading": "けっきん",
+    "category": "名词・する动词",
+    "meaning": "缺勤",
+    "example": [
+      [
+        "熱",
+        "ねつ"
+      ],
+      [
+        "があるので、"
+      ],
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "欠勤",
+        "けっきん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "因为发烧，今天缺勤。",
+    "tip": "缺勤原因可用「〜で欠勤する」表达。",
+    "kanjiNote": "「欠」在复合词中发生促音变化：けっきん。",
+    "cloze": {
+      "before": "熱があるので、今日は",
+      "answer": "欠勤",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1253960",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "absence (from work)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b003",
+    "word": "遅刻",
+    "reading": "ちこく",
+    "category": "名词・する动词",
+    "meaning": "迟到",
+    "example": [
+      [
+        "授業",
+        "じゅぎょう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "遅刻",
+        "ちこく"
+      ],
+      [
+        "しないように、"
+      ],
+      [
+        "早",
+        "はや"
+      ],
+      [
+        "く"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "为了上课不迟到，我早点出门。",
+    "tip": "「〜に遅刻する」说明迟到的活动。",
+    "kanjiNote": "「遅」是迟，「刻」表示时刻。",
+    "cloze": {
+      "before": "授業に",
+      "answer": "遅刻",
+      "after": "しないように、早く出ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1422050",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "lateness",
+        "tardiness",
+        "arriving late"
+      ]
+    }
+  },
+  {
+    "id": "w03-b004",
+    "word": "早退",
+    "reading": "そうたい",
+    "category": "名词・する动词",
+    "meaning": "早退",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "病院",
+        "びょういん"
+      ],
+      [
+        "へ"
+      ],
+      [
+        "行",
+        "い"
+      ],
+      [
+        "くので、"
+      ],
+      [
+        "早退",
+        "そうたい"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "今天要去医院，所以提前下班。",
+    "tip": "用于比规定时间早离开学校或单位。",
+    "kanjiNote": "「早退」整体读そうたい。",
+    "cloze": {
+      "before": "今日は病院へ行くので、",
+      "answer": "早退",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1400310",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "leaving early"
+      ]
+    }
+  },
+  {
+    "id": "w03-b005",
+    "word": "休暇",
+    "reading": "きゅうか",
+    "category": "名词",
+    "meaning": "假期；休假",
+    "example": [
+      [
+        "来月",
+        "らいげつ"
+      ],
+      [
+        "、"
+      ],
+      [
+        "休暇",
+        "きゅうか"
+      ],
+      [
+        "を"
+      ],
+      [
+        "取",
+        "と"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "下个月休假。",
+    "tip": "常说「休暇を取る」，表示请假休息。",
+    "kanjiNote": "「暇」在这里读か。",
+    "cloze": {
+      "before": "来月、",
+      "answer": "休暇",
+      "after": "を取ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1227610",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "holiday",
+        "vacation",
+        "day off",
+        "time off",
+        "leave",
+        "furlough"
+      ]
+    }
+  },
+  {
+    "id": "w03-b006",
+    "word": "有給休暇",
+    "reading": "ゆうきゅうきゅうか",
+    "category": "名词",
+    "meaning": "带薪休假",
+    "example": [
+      [
+        "金曜日",
+        "きんようび"
+      ],
+      [
+        "に"
+      ],
+      [
+        "有給休暇",
+        "ゆうきゅうきゅうか"
+      ],
+      [
+        "を"
+      ],
+      [
+        "取",
+        "と"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "星期五我要休带薪假。",
+    "tip": "日常会把「有給休暇」简称为「有給」。",
+    "kanjiNote": "「有給」表示有工资报酬。",
+    "cloze": {
+      "before": "金曜日に",
+      "answer": "有給休暇",
+      "after": "を取ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1541210",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "paid vacation",
+        "paid holiday",
+        "paid leave"
+      ]
+    }
+  },
+  {
+    "id": "w03-b007",
+    "word": "職場",
+    "reading": "しょくば",
+    "category": "名词",
+    "meaning": "工作场所；单位",
+    "example": [
+      [
+        "職場",
+        "しょくば"
+      ],
+      [
+        "までは"
+      ],
+      [
+        "自転車",
+        "じてんしゃ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "通",
+        "かよ"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "我骑自行车去单位上班。",
+    "tip": "强调实际工作的地方。",
+    "kanjiNote": "「職」读しょく，「場」读ば。",
+    "cloze": {
+      "before": "",
+      "answer": "職場",
+      "after": "までは自転車で通っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1357540",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "one's post",
+        "place of work",
+        "workplace"
+      ]
+    }
+  },
+  {
+    "id": "w03-b008",
+    "word": "事務所",
+    "reading": "じむしょ",
+    "category": "名词",
+    "meaning": "办公室；事务所",
+    "example": [
+      [
+        "事務所",
+        "じむしょ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "の"
+      ],
+      [
+        "近",
+        "ちか"
+      ],
+      [
+        "くにあります。"
+      ]
+    ],
+    "translation": "办公室在车站附近。",
+    "tip": "既可指办公室，也可指办理业务的事务所。",
+    "kanjiNote": "「務」在这里读む。",
+    "cloze": {
+      "before": "",
+      "answer": "事務所",
+      "after": "は駅の近くにあります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1314400",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "office"
+      ]
+    }
+  },
+  {
+    "id": "w03-b009",
+    "word": "工場",
+    "reading": "こうじょう",
+    "category": "名词",
+    "meaning": "工厂",
+    "example": [
+      [
+        "父",
+        "ちち"
+      ],
+      [
+        "は"
+      ],
+      [
+        "工場",
+        "こうじょう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "働",
+        "はたら"
+      ],
+      [
+        "いています。"
+      ]
+    ],
+    "translation": "爸爸在工厂工作。",
+    "tip": "本课用读音こうじょう；也有こうば的读法。",
+    "kanjiNote": "「場」在此复合词中读じょう。",
+    "cloze": {
+      "before": "父は",
+      "answer": "工場",
+      "after": "で働いています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1578700",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "factory",
+        "plant",
+        "mill",
+        "workshop"
+      ]
+    }
+  },
+  {
+    "id": "w03-b010",
+    "word": "企業",
+    "reading": "きぎょう",
+    "category": "名词",
+    "meaning": "企业；公司",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "企業",
+        "きぎょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "海外",
+        "かいがい"
+      ],
+      [
+        "にも"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "这家企业在海外也有店铺。",
+    "tip": "比「会社」更常用于产业或经济话题。",
+    "kanjiNote": "「企業」读きぎょう，注意长音。",
+    "cloze": {
+      "before": "この",
+      "answer": "企業",
+      "after": "は海外にも店があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1218190",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "enterprise",
+        "business",
+        "company",
+        "corporation"
+      ]
+    }
+  },
+  {
+    "id": "w03-b011",
+    "word": "業務",
+    "reading": "ぎょうむ",
+    "category": "名词",
+    "meaning": "业务；工作职责",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "業務",
+        "ぎょうむ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "終",
+        "お"
+      ],
+      [
+        "わりました。"
+      ]
+    ],
+    "translation": "今天的工作已经结束了。",
+    "tip": "常用于工作通知，例如「業務内容」。",
+    "kanjiNote": "「業」读ぎょう，「務」读む。",
+    "cloze": {
+      "before": "今日の",
+      "answer": "業務",
+      "after": "は終わりました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1239540",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "business",
+        "work",
+        "operations",
+        "service",
+        "duties"
+      ]
+    }
+  },
+  {
+    "id": "w03-b012",
+    "word": "勤務",
+    "reading": "きんむ",
+    "category": "名词・する动词",
+    "meaning": "工作；任职；值勤",
+    "example": [
+      [
+        "母",
+        "はは"
+      ],
+      [
+        "は"
+      ],
+      [
+        "病院",
+        "びょういん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "勤務",
+        "きんむ"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "妈妈在医院工作。",
+    "tip": "「〜に勤務する」说明任职单位。",
+    "kanjiNote": "「勤」和「務」都与工作有关。",
+    "cloze": {
+      "before": "母は病院に",
+      "answer": "勤務",
+      "after": "しています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1241070",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "service",
+        "duty",
+        "work"
+      ]
+    }
+  },
+  {
+    "id": "w03-b013",
+    "word": "出張",
+    "reading": "しゅっちょう",
+    "category": "名词・する动词",
+    "meaning": "出差",
+    "example": [
+      [
+        "来週",
+        "らいしゅう"
+      ],
+      [
+        "、"
+      ],
+      [
+        "大阪",
+        "おおさか"
+      ],
+      [
+        "へ"
+      ],
+      [
+        "出張",
+        "しゅっちょう"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "下周去大阪出差。",
+    "tip": "目的地常用「〜へ出張する」。",
+    "kanjiNote": "注意促音っ和长音ちょう。",
+    "cloze": {
+      "before": "来週、大阪へ",
+      "answer": "出張",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1339660",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "business trip",
+        "official trip"
+      ]
+    }
+  },
+  {
+    "id": "w03-b014",
+    "word": "研修",
+    "reading": "けんしゅう",
+    "category": "名词・する动词",
+    "meaning": "培训；进修",
+    "example": [
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "社員",
+        "しゃいん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "研修",
+        "けんしゅう"
+      ],
+      [
+        "が"
+      ],
+      [
+        "始",
+        "はじ"
+      ],
+      [
+        "まります。"
+      ]
+    ],
+    "translation": "新员工培训要开始了。",
+    "tip": "工作场景中常指入职或岗位培训。",
+    "kanjiNote": "「修」有学习、修习的意思。",
+    "cloze": {
+      "before": "新しい社員の",
+      "answer": "研修",
+      "after": "が始まります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1258660",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "training (esp. in-service)",
+        "induction course"
+      ]
+    }
+  },
+  {
+    "id": "w03-b015",
+    "word": "採用",
+    "reading": "さいよう",
+    "category": "名词・する动词",
+    "meaning": "录用；招聘",
+    "example": [
+      [
+        "今年",
+        "ことし"
+      ],
+      [
+        "は"
+      ],
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "社員",
+        "しゃいん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "採用",
+        "さいよう"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "今年要录用新员工。",
+    "tip": "「人を採用する」表示录用人员。",
+    "kanjiNote": "「採」在这里读さい。",
+    "cloze": {
+      "before": "今年は新しい社員を",
+      "answer": "採用",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1294890",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        "appointment",
+        "employment",
+        "engagement",
+        "recruitment"
+      ]
+    }
+  },
+  {
+    "id": "w03-b016",
+    "word": "応募",
+    "reading": "おうぼ",
+    "category": "名词・する动词",
+    "meaning": "申请；应征；报名",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "会社",
+        "かいしゃ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "求人",
+        "きゅうじん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "応募",
+        "おうぼ"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "我应聘了这家公司的职位。",
+    "tip": "用「〜に応募する」表示申请某个招募项目。",
+    "kanjiNote": "「募」表示招募。",
+    "cloze": {
+      "before": "この会社の求人に",
+      "answer": "応募",
+      "after": "しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1180030",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "application",
+        "subscription",
+        "entry (competition, raffle, etc.)",
+        "enlistment"
+      ]
+    }
+  },
+  {
+    "id": "w03-b017",
+    "word": "契約",
+    "reading": "けいやく",
+    "category": "名词・する动词",
+    "meaning": "合同；签约",
+    "example": [
+      [
+        "契約",
+        "けいやく"
+      ],
+      [
+        "の"
+      ],
+      [
+        "内容",
+        "ないよう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "確認",
+        "かくにん"
+      ],
+      [
+        "してください。"
+      ]
+    ],
+    "translation": "请确认合同内容。",
+    "tip": "签订合同常说「契約を結ぶ」。",
+    "kanjiNote": "「契」读けい，「約」读やく。",
+    "cloze": {
+      "before": "",
+      "answer": "契約",
+      "after": "の内容を確認してください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1250190",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "contract",
+        "compact",
+        "agreement"
+      ]
+    }
+  },
+  {
+    "id": "w03-b018",
+    "word": "取引",
+    "reading": "とりひき",
+    "category": "名词・する动词",
+    "meaning": "交易；业务往来",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "会社",
+        "かいしゃ"
+      ],
+      [
+        "とは"
+      ],
+      [
+        "長",
+        "なが"
+      ],
+      [
+        "い"
+      ],
+      [
+        "取引",
+        "とりひき"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "我们与这家公司有长期业务往来。",
+    "tip": "「取引先」指有业务往来的客户或合作方。",
+    "kanjiNote": "也可写作「取り引き」，本课采用取引。",
+    "cloze": {
+      "before": "この会社とは長い",
+      "answer": "取引",
+      "after": "があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1599120",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "transactions",
+        "dealings",
+        "business"
+      ]
+    }
+  },
+  {
+    "id": "w03-b019",
+    "word": "営業",
+    "reading": "えいぎょう",
+    "category": "名词",
+    "meaning": "销售工作；营业",
+    "example": [
+      [
+        "営業",
+        "えいぎょう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "仕事",
+        "しごと"
+      ],
+      [
+        "を"
+      ],
+      [
+        "担当",
+        "たんとう"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "我负责销售工作。",
+    "tip": "本句指销售岗位；也可指店铺营业。",
+    "kanjiNote": "「営」读えい，注意长音。",
+    "cloze": {
+      "before": "",
+      "answer": "営業",
+      "after": "の仕事を担当しています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1173430",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        "business",
+        "trade",
+        "operations",
+        "sales"
+      ]
+    }
+  },
+  {
+    "id": "w03-b020",
+    "word": "経理",
+    "reading": "けいり",
+    "category": "名词",
+    "meaning": "财务；会计事务",
+    "example": [
+      [
+        "経理",
+        "けいり"
+      ],
+      [
+        "の"
+      ],
+      [
+        "担当者",
+        "たんとうしゃ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "領収書",
+        "りょうしゅうしょ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "渡",
+        "わた"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "把收据交给财务负责人。",
+    "tip": "常见搭配是「経理の仕事」。",
+    "kanjiNote": "「経」在这里读けい。",
+    "cloze": {
+      "before": "",
+      "answer": "経理",
+      "after": "の担当者に領収書を渡します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1251680",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "accounting",
+        "administration (of money)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b021",
+    "word": "売上",
+    "reading": "うりあげ",
+    "category": "名词",
+    "meaning": "销售额；营业收入",
+    "example": [
+      [
+        "今月",
+        "こんげつ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "売上",
+        "うりあげ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "増",
+        "ふ"
+      ],
+      [
+        "えました。"
+      ]
+    ],
+    "translation": "这个月的销售额增加了。",
+    "tip": "表示卖出的金额，不能直接等同于利润。",
+    "kanjiNote": "也常写作「売り上げ」。",
+    "cloze": {
+      "before": "今月の",
+      "answer": "売上",
+      "after": "は増えました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1588500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "amount sold",
+        "sales",
+        "proceeds",
+        "takings",
+        "turnover"
+      ]
+    }
+  },
+  {
+    "id": "w03-b022",
+    "word": "利益",
+    "reading": "りえき",
+    "category": "名词",
+    "meaning": "利润；收益",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "利益",
+        "りえき"
+      ],
+      [
+        "が"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "ています。"
+      ]
+    ],
+    "translation": "这家店有盈利。",
+    "tip": "「利益が出る」表示产生利润。",
+    "kanjiNote": "本课读りえき，不用宗教语境的りやく。",
+    "cloze": {
+      "before": "この店は",
+      "answer": "利益",
+      "after": "が出ています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1549470",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "profit",
+        "gains"
+      ]
+    }
+  },
+  {
+    "id": "w03-b023",
+    "word": "損失",
+    "reading": "そんしつ",
+    "category": "名词",
+    "meaning": "损失；亏损",
+    "example": [
+      [
+        "今回",
+        "こんかい"
+      ],
+      [
+        "の"
+      ],
+      [
+        "損失",
+        "そんしつ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "大",
+        "おお"
+      ],
+      [
+        "きいです。"
+      ]
+    ],
+    "translation": "这次的损失很大。",
+    "tip": "经济语境可说「損失が出る」。",
+    "kanjiNote": "「損」表示损害，「失」表示失去。",
+    "cloze": {
+      "before": "今回の",
+      "answer": "損失",
+      "after": "は大きいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1406750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "loss (of assets, profit, etc.)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b024",
+    "word": "費用",
+    "reading": "ひよう",
+    "category": "名词",
+    "meaning": "费用；成本",
+    "example": [
+      [
+        "修理",
+        "しゅうり"
+      ],
+      [
+        "の"
+      ],
+      [
+        "費用",
+        "ひよう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "調",
+        "しら"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "查一下修理的费用。",
+    "tip": "常用「〜に費用がかかる」。",
+    "kanjiNote": "「費」读ひ，「用」读よう。",
+    "cloze": {
+      "before": "修理の",
+      "answer": "費用",
+      "after": "を調べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1484620",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "cost",
+        "expense"
+      ]
+    }
+  },
+  {
+    "id": "w03-b025",
+    "word": "予算",
+    "reading": "よさん",
+    "category": "名词",
+    "meaning": "预算",
+    "example": [
+      [
+        "予算",
+        "よさん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "中",
+        "なか"
+      ],
+      [
+        "で"
+      ],
+      [
+        "必要",
+        "ひつよう"
+      ],
+      [
+        "な"
+      ],
+      [
+        "物",
+        "もの"
+      ],
+      [
+        "を"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "在预算范围内购买需要的东西。",
+    "tip": "「予算を立てる」表示制定预算。",
+    "kanjiNote": "「予」表示预先，「算」表示计算。",
+    "cloze": {
+      "before": "",
+      "answer": "予算",
+      "after": "の中で必要な物を買います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1543000",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "estimate (of costs)",
+        "budget"
+      ]
+    }
+  },
+  {
+    "id": "w03-b026",
+    "word": "支払い",
+    "reading": "しはらい",
+    "category": "名词",
+    "meaning": "付款；支付",
+    "example": [
+      [
+        "支払い",
+        "しはらい"
+      ],
+      [
+        "はカードでもできます。"
+      ]
+    ],
+    "translation": "也可以刷卡付款。",
+    "tip": "相应动词为「支払う」。",
+    "kanjiNote": "注意「払い」中的送假名い。",
+    "cloze": {
+      "before": "",
+      "answer": "支払い",
+      "after": "はカードでもできます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1594480",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "payment"
+      ]
+    }
+  },
+  {
+    "id": "w03-b027",
+    "word": "請求",
+    "reading": "せいきゅう",
+    "category": "名词・する动词",
+    "meaning": "请求付款；索取；要求",
+    "example": [
+      [
+        "会社",
+        "かいしゃ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "交通費",
+        "こうつうひ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "請求",
+        "せいきゅう"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "向公司申请报销交通费。",
+    "tip": "「人・会社に費用を請求する」表示要求支付费用。",
+    "kanjiNote": "「請」在这里读せい。",
+    "cloze": {
+      "before": "会社に交通費を",
+      "answer": "請求",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1381320",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "claim",
+        "demand",
+        "charge",
+        "application",
+        "request",
+        "billing (for a service)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b028",
+    "word": "見積もり",
+    "reading": "みつもり",
+    "category": "名词",
+    "meaning": "估价；报价；估算",
+    "example": [
+      [
+        "修理",
+        "しゅうり"
+      ],
+      [
+        "の"
+      ],
+      [
+        "見積もり",
+        "みつもり"
+      ],
+      [
+        "をお"
+      ],
+      [
+        "願",
+        "ねが"
+      ],
+      [
+        "いします。"
+      ]
+    ],
+    "translation": "请估一下修理费用。",
+    "tip": "可用于正式订购前询问预计费用。",
+    "kanjiNote": "「見」读み，「積」读つ。",
+    "cloze": {
+      "before": "修理の",
+      "answer": "見積もり",
+      "after": "をお願いします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1604590",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "estimate",
+        "estimation",
+        "valuation",
+        "quotation"
+      ]
+    }
+  },
+  {
+    "id": "w03-b029",
+    "word": "納期",
+    "reading": "のうき",
+    "category": "名词",
+    "meaning": "交货期限；交货日期",
+    "example": [
+      [
+        "納期",
+        "のうき"
+      ],
+      [
+        "は"
+      ],
+      [
+        "来週",
+        "らいしゅう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "金曜日",
+        "きんようび"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "交货日期是下周五。",
+    "tip": "本课指交货期限，也可用于缴款期限。",
+    "kanjiNote": "「納」读のう，含长音。",
+    "cloze": {
+      "before": "",
+      "answer": "納期",
+      "after": "は来週の金曜日です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1470050",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "appointed date of delivery",
+        "delivery time",
+        "due date for payment",
+        "period for payment",
+        "deadline (for payment or delivery)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b030",
+    "word": "会員",
+    "reading": "かいいん",
+    "category": "名词",
+    "meaning": "会员；成员",
+    "example": [
+      [
+        "このサービスは"
+      ],
+      [
+        "会員",
+        "かいいん"
+      ],
+      [
+        "だけが"
+      ],
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "这项服务只有会员可以使用。",
+    "tip": "「会員になる」表示成为会员。",
+    "kanjiNote": "かい与いん相连，要保留两个い。",
+    "cloze": {
+      "before": "このサービスは",
+      "answer": "会員",
+      "after": "だけが使えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1198230",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "member",
+        "the membership"
+      ]
+    }
+  },
+  {
+    "id": "w03-b031",
+    "word": "名刺",
+    "reading": "めいし",
+    "category": "名词",
+    "meaning": "名片",
+    "example": [
+      [
+        "会議",
+        "かいぎ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "名刺",
+        "めいし"
+      ],
+      [
+        "を"
+      ],
+      [
+        "交換",
+        "こうかん"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "开会前交换了名片。",
+    "tip": "常说「名刺を渡す」「名刺を交換する」。",
+    "kanjiNote": "「刺」在这里读し。",
+    "cloze": {
+      "before": "会議の前に",
+      "answer": "名刺",
+      "after": "を交換しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1531550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "business card"
+      ]
+    }
+  },
+  {
+    "id": "w03-b032",
+    "word": "印鑑",
+    "reading": "いんかん",
+    "category": "名词",
+    "meaning": "印章；印鉴",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "書類",
+        "しょるい"
+      ],
+      [
+        "には"
+      ],
+      [
+        "印鑑",
+        "いんかん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "必要",
+        "ひつよう"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "这份文件需要盖章。",
+    "tip": "盖章常说「印鑑を押す」。",
+    "kanjiNote": "「鑑」读かん。",
+    "cloze": {
+      "before": "この書類には",
+      "answer": "印鑑",
+      "after": "が必要です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1168120",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "stamp",
+        "seal"
+      ]
+    }
+  },
+  {
+    "id": "w03-b033",
+    "word": "署名",
+    "reading": "しょめい",
+    "category": "名词・する动词",
+    "meaning": "签名；署名",
+    "example": [
+      [
+        "ここに"
+      ],
+      [
+        "署名",
+        "しょめい"
+      ],
+      [
+        "をお"
+      ],
+      [
+        "願",
+        "ねが"
+      ],
+      [
+        "いします。"
+      ]
+    ],
+    "translation": "请在这里签名。",
+    "tip": "「署名する」比口语的サインする正式。",
+    "kanjiNote": "「署」读しょ。",
+    "cloze": {
+      "before": "ここに",
+      "answer": "署名",
+      "after": "をお願いします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1343640",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "signature",
+        "autograph"
+      ]
+    }
+  },
+  {
+    "id": "w03-b034",
+    "word": "証明",
+    "reading": "しょうめい",
+    "category": "名词・する动词",
+    "meaning": "证明；证实",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "書類",
+        "しょるい"
+      ],
+      [
+        "で"
+      ],
+      [
+        "住所",
+        "じゅうしょ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "証明",
+        "しょうめい"
+      ],
+      [
+        "できます。"
+      ]
+    ],
+    "translation": "可以用这份文件证明住址。",
+    "tip": "文件证明材料常称「証明書」。",
+    "kanjiNote": "「証」和「明」合起来表示证明。",
+    "cloze": {
+      "before": "この書類で住所を",
+      "answer": "証明",
+      "after": "できます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1351680",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "proof",
+        "testimony",
+        "demonstration",
+        "verification",
+        "certification"
+      ]
+    }
+  },
+  {
+    "id": "w03-b035",
+    "word": "許可",
+    "reading": "きょか",
+    "category": "名词・する动词",
+    "meaning": "许可；批准",
+    "example": [
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "の"
+      ],
+      [
+        "許可",
+        "きょか"
+      ],
+      [
+        "をもらいました。"
+      ]
+    ],
+    "translation": "得到了老师的许可。",
+    "tip": "常用「許可をもらう」「許可を得る」。",
+    "kanjiNote": "「許」在这里读きょ。",
+    "cloze": {
+      "before": "先生の",
+      "answer": "許可",
+      "after": "をもらいました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1232880",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "permission",
+        "approval",
+        "authorization",
+        "license"
+      ]
+    }
+  },
+  {
+    "id": "w03-b036",
+    "word": "科目",
+    "reading": "かもく",
+    "category": "名词",
+    "meaning": "学科；科目",
+    "example": [
+      [
+        "好",
+        "す"
+      ],
+      [
+        "きな"
+      ],
+      [
+        "科目",
+        "かもく"
+      ],
+      [
+        "は"
+      ],
+      [
+        "数学",
+        "すうがく"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "我喜欢的科目是数学。",
+    "tip": "用于学校课程分类，如「試験科目」。",
+    "kanjiNote": "「科目」整体读かもく。",
+    "cloze": {
+      "before": "好きな",
+      "answer": "科目",
+      "after": "は数学です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1590600",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(school) subject",
+        "curriculum",
+        "course"
+      ]
+    }
+  },
+  {
+    "id": "w03-b037",
+    "word": "数学",
+    "reading": "すうがく",
+    "category": "名词",
+    "meaning": "数学",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "数学",
+        "すうがく"
+      ],
+      [
+        "の"
+      ],
+      [
+        "試験",
+        "しけん"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "今天有数学考试。",
+    "tip": "注意与「数字」的区别：数学是学科。",
+    "kanjiNote": "「数」在这里读すう。",
+    "cloze": {
+      "before": "今日は",
+      "answer": "数学",
+      "after": "の試験があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1372980",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "mathematics"
+      ]
+    }
+  },
+  {
+    "id": "w03-b038",
+    "word": "歴史",
+    "reading": "れきし",
+    "category": "名词",
+    "meaning": "历史",
+    "example": [
+      [
+        "日本",
+        "にほん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "歴史",
+        "れきし"
+      ],
+      [
+        "を"
+      ],
+      [
+        "勉強",
+        "べんきょう"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "我正在学习日本历史。",
+    "tip": "国家或地区加「の歴史」表示其历史。",
+    "kanjiNote": "「歴」读れき，「史」读し。",
+    "cloze": {
+      "before": "日本の",
+      "answer": "歴史",
+      "after": "を勉強しています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1558050",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "history"
+      ]
+    }
+  },
+  {
+    "id": "w03-b039",
+    "word": "地理",
+    "reading": "ちり",
+    "category": "名词",
+    "meaning": "地理",
+    "example": [
+      [
+        "地理",
+        "ちり"
+      ],
+      [
+        "の"
+      ],
+      [
+        "授業",
+        "じゅぎょう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "地図",
+        "ちず"
+      ],
+      [
+        "を"
+      ],
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "地理课上使用地图。",
+    "tip": "也可说「この町の地理に詳しい」，表示熟悉地形道路。",
+    "kanjiNote": "「地」在这里读ち。",
+    "cloze": {
+      "before": "",
+      "answer": "地理",
+      "after": "の授業で地図を使います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1421540",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "geography"
+      ]
+    }
+  },
+  {
+    "id": "w03-b040",
+    "word": "科学",
+    "reading": "かがく",
+    "category": "名词",
+    "meaning": "科学",
+    "example": [
+      [
+        "子供",
+        "こども"
+      ],
+      [
+        "と"
+      ],
+      [
+        "科学",
+        "かがく"
+      ],
+      [
+        "の"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "読",
+        "よ"
+      ],
+      [
+        "みました。"
+      ]
+    ],
+    "translation": "和孩子一起读了科学书。",
+    "tip": "「化学」也读かがく，要结合语境区分。",
+    "kanjiNote": "科学是广义科学；化学是化学学科。",
+    "cloze": {
+      "before": "子供と",
+      "answer": "科学",
+      "after": "の本を読みました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1192700",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "science"
+      ]
+    }
+  },
+  {
+    "id": "w03-b041",
+    "word": "文学",
+    "reading": "ぶんがく",
+    "category": "名词",
+    "meaning": "文学",
+    "example": [
+      [
+        "大学",
+        "だいがく"
+      ],
+      [
+        "で"
+      ],
+      [
+        "文学",
+        "ぶんがく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "学",
+        "まな"
+      ],
+      [
+        "んでいます。"
+      ]
+    ],
+    "translation": "我在大学学习文学。",
+    "tip": "「日本文学」指日本文学。",
+    "kanjiNote": "「文」读ぶん，「学」读がく。",
+    "cloze": {
+      "before": "大学で",
+      "answer": "文学",
+      "after": "を学んでいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1505190",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "literature"
+      ]
+    }
+  },
+  {
+    "id": "w03-b042",
+    "word": "文法",
+    "reading": "ぶんぽう",
+    "category": "名词",
+    "meaning": "语法",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "文法",
+        "ぶんぽう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "例文",
+        "れいぶん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "覚",
+        "おぼ"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "通过例句记住这个语法。",
+    "tip": "「文法の間違い」表示语法错误。",
+    "kanjiNote": "「法」在这个词中读ぽう。",
+    "cloze": {
+      "before": "この",
+      "answer": "文法",
+      "after": "を例文で覚えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1505600",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "grammar"
+      ]
+    }
+  },
+  {
+    "id": "w03-b043",
+    "word": "発音",
+    "reading": "はつおん",
+    "category": "名词・する动词",
+    "meaning": "发音",
+    "example": [
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "の"
+      ],
+      [
+        "発音",
+        "はつおん"
+      ],
+      [
+        "をよく"
+      ],
+      [
+        "聞",
+        "き"
+      ],
+      [
+        "いてください。"
+      ]
+    ],
+    "translation": "请仔细听老师的发音。",
+    "tip": "练习时可说「発音を練習する」。",
+    "kanjiNote": "这里是はつおん，不读促音はっおん。",
+    "cloze": {
+      "before": "先生の",
+      "answer": "発音",
+      "after": "をよく聞いてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1477170",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pronunciation"
+      ]
+    }
+  },
+  {
+    "id": "w03-b044",
+    "word": "単語",
+    "reading": "たんご",
+    "category": "名词",
+    "meaning": "单词；词汇",
+    "example": [
+      [
+        "毎日",
+        "まいにち"
+      ],
+      [
+        "、"
+      ],
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "単語",
+        "たんご"
+      ],
+      [
+        "を"
+      ],
+      [
+        "覚",
+        "おぼ"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "每天记新单词。",
+    "tip": "「単語を覚える」表示记单词。",
+    "kanjiNote": "「単」读たん，「語」读ご。",
+    "cloze": {
+      "before": "毎日、新しい",
+      "answer": "単語",
+      "after": "を覚えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1417330",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "word",
+        "vocabulary"
+      ]
+    }
+  },
+  {
+    "id": "w03-b045",
+    "word": "文章",
+    "reading": "ぶんしょう",
+    "category": "名词",
+    "meaning": "文章；成篇的文字",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "文章",
+        "ぶんしょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "短",
+        "みじか"
+      ],
+      [
+        "くて"
+      ],
+      [
+        "読",
+        "よ"
+      ],
+      [
+        "みやすいです。"
+      ]
+    ],
+    "translation": "这篇文章短而易读。",
+    "tip": "本课用常见读法ぶんしょう。",
+    "kanjiNote": "「章」读しょう，注意长音。",
+    "cloze": {
+      "before": "この",
+      "answer": "文章",
+      "after": "は短くて読みやすいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1505470",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "writing",
+        "composition",
+        "essay",
+        "article",
+        "passage",
+        "prose",
+        "(writing) style"
+      ]
+    }
+  },
+  {
+    "id": "w03-b046",
+    "word": "作文",
+    "reading": "さくぶん",
+    "category": "名词・する动词",
+    "meaning": "作文；写作",
+    "example": [
+      [
+        "休",
+        "やす"
+      ],
+      [
+        "みの"
+      ],
+      [
+        "思",
+        "おも"
+      ],
+      [
+        "い"
+      ],
+      [
+        "出",
+        "で"
+      ],
+      [
+        "について"
+      ],
+      [
+        "作文",
+        "さくぶん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "書",
+        "か"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "写了一篇关于假期回忆的作文。",
+    "tip": "常用搭配「作文を書く」。",
+    "kanjiNote": "「作文」在此读さくぶん。",
+    "cloze": {
+      "before": "休みの思い出について",
+      "answer": "作文",
+      "after": "を書きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1297960",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "writing (an essay, prose, etc.)",
+        "composition"
+      ]
+    }
+  },
+  {
+    "id": "w03-b047",
+    "word": "会話",
+    "reading": "かいわ",
+    "category": "名词・する动词",
+    "meaning": "会话；交谈",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "と"
+      ],
+      [
+        "日本語",
+        "にほんご"
+      ],
+      [
+        "の"
+      ],
+      [
+        "会話",
+        "かいわ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "練習",
+        "れんしゅう"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "和朋友练习日语会话。",
+    "tip": "可说「会話をする」，表示交谈。",
+    "kanjiNote": "「話」在这个复合词中读わ。",
+    "cloze": {
+      "before": "友達と日本語の",
+      "answer": "会話",
+      "after": "を練習します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1198880",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "conversation",
+        "talk",
+        "chat"
+      ]
+    }
+  },
+  {
+    "id": "w03-b048",
+    "word": "辞書",
+    "reading": "じしょ",
+    "category": "名词",
+    "meaning": "词典；字典",
+    "example": [
+      [
+        "分",
+        "わ"
+      ],
+      [
+        "からない"
+      ],
+      [
+        "言葉",
+        "ことば"
+      ],
+      [
+        "を"
+      ],
+      [
+        "辞書",
+        "じしょ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "調",
+        "しら"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "用词典查不懂的词。",
+    "tip": "「辞書を引く」也是查词典的常用说法。",
+    "kanjiNote": "「辞」读じ，「書」读しょ。",
+    "cloze": {
+      "before": "分からない言葉を",
+      "answer": "辞書",
+      "after": "で調べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1318970",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "dictionary",
+        "lexicon"
+      ]
+    }
+  },
+  {
+    "id": "w03-b049",
+    "word": "教科書",
+    "reading": "きょうかしょ",
+    "category": "名词",
+    "meaning": "教科书；课本",
+    "example": [
+      [
+        "教科書",
+        "きょうかしょ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "開",
+        "ひら"
+      ],
+      [
+        "いてください。"
+      ]
+    ],
+    "translation": "请打开课本。",
+    "tip": "与补充学习资料「参考書」区别。",
+    "kanjiNote": "「教科」加「書」组成教科书。",
+    "cloze": {
+      "before": "",
+      "answer": "教科書",
+      "after": "を開いてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1237020",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "textbook",
+        "coursebook",
+        "schoolbook"
+      ]
+    }
+  },
+  {
+    "id": "w03-b050",
+    "word": "参考書",
+    "reading": "さんこうしょ",
+    "category": "名词",
+    "meaning": "参考书；辅导书",
+    "example": [
+      [
+        "試験",
+        "しけん"
+      ],
+      [
+        "のために"
+      ],
+      [
+        "参考書",
+        "さんこうしょ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "为了考试买了参考书。",
+    "tip": "常用于课本以外的学习辅导书。",
+    "kanjiNote": "「参」读さん，「考」读こう。",
+    "cloze": {
+      "before": "試験のために",
+      "answer": "参考書",
+      "after": "を買いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1302300",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "reference book",
+        "study-aid book",
+        "supplemental textbook",
+        "student handbook"
+      ]
+    }
+  },
+  {
+    "id": "w03-b051",
+    "word": "ノート",
+    "reading": "ノート",
+    "category": "名词",
+    "meaning": "笔记本；练习本",
+    "example": [
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しいノートを"
+      ],
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "使用新的笔记本。",
+    "tip": "本课指纸质笔记本；记笔记常说「ノートを取る」。",
+    "kanjiNote": "外来语用片假名，ー表示长音。",
+    "cloze": {
+      "before": "新しい",
+      "answer": "ノート",
+      "after": "を使います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1093450",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "notebook",
+        "copy-book",
+        "exercise book"
+      ]
+    }
+  },
+  {
+    "id": "w03-b052",
+    "word": "鉛筆",
+    "reading": "えんぴつ",
+    "category": "名词",
+    "meaning": "铅笔",
+    "example": [
+      [
+        "鉛筆",
+        "えんぴつ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "名前",
+        "なまえ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "書",
+        "か"
+      ],
+      [
+        "いてください。"
+      ]
+    ],
+    "translation": "请用铅笔写名字。",
+    "tip": "工具用助词「で」表示。",
+    "kanjiNote": "「筆」在这里读ぴつ。",
+    "cloze": {
+      "before": "",
+      "answer": "鉛筆",
+      "after": "で名前を書いてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1178590",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(wooden) pencil"
+      ]
+    }
+  },
+  {
+    "id": "w03-b053",
+    "word": "消しゴム",
+    "reading": "けしゴム",
+    "category": "名词",
+    "meaning": "橡皮擦",
+    "example": [
+      [
+        "消しゴム",
+        "けしゴム"
+      ],
+      [
+        "を"
+      ],
+      [
+        "貸",
+        "か"
+      ],
+      [
+        "してください。"
+      ]
+    ],
+    "translation": "请借给我橡皮擦。",
+    "tip": "可用「消しゴムで消す」表示用橡皮擦掉。",
+    "kanjiNote": "「消し」配片假名ゴム，是常用混合写法。",
+    "cloze": {
+      "before": "",
+      "answer": "消しゴム",
+      "after": "を貸してください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1350080",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "eraser",
+        "rubber"
+      ]
+    }
+  },
+  {
+    "id": "w03-b054",
+    "word": "定規",
+    "reading": "じょうぎ",
+    "category": "名词",
+    "meaning": "直尺；尺子",
+    "example": [
+      [
+        "定規",
+        "じょうぎ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "線",
+        "せん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "引",
+        "ひ"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "用尺子画线。",
+    "tip": "常用「定規で長さを測る」。",
+    "kanjiNote": "「定規」整体读じょうぎ。",
+    "cloze": {
+      "before": "",
+      "answer": "定規",
+      "after": "で線を引きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1435520",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(measuring) ruler"
+      ]
+    }
+  },
+  {
+    "id": "w03-b055",
+    "word": "筆箱",
+    "reading": "ふでばこ",
+    "category": "名词",
+    "meaning": "笔盒；文具盒",
+    "example": [
+      [
+        "筆箱",
+        "ふでばこ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "鉛筆",
+        "えんぴつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "把铅笔放进文具盒。",
+    "tip": "也常用外来语「ペンケース」。",
+    "kanjiNote": "「箱」在复合词中浊化为ばこ。",
+    "cloze": {
+      "before": "",
+      "answer": "筆箱",
+      "after": "に鉛筆を入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1487890",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pencil case",
+        "pencil box",
+        "writing brush case"
+      ]
+    }
+  },
+  {
+    "id": "w03-b056",
+    "word": "黒板",
+    "reading": "こくばん",
+    "category": "名词",
+    "meaning": "黑板",
+    "example": [
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "が"
+      ],
+      [
+        "黒板",
+        "こくばん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "字",
+        "じ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "書",
+        "か"
+      ],
+      [
+        "いています。"
+      ]
+    ],
+    "translation": "老师正在黑板上写字。",
+    "tip": "「黒板に書く」表示在黑板上写。",
+    "kanjiNote": "「黒」在这里读こく。",
+    "cloze": {
+      "before": "先生が",
+      "answer": "黒板",
+      "after": "に字を書いています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1288080",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "blackboard"
+      ]
+    }
+  },
+  {
+    "id": "w03-b057",
+    "word": "成績",
+    "reading": "せいせき",
+    "category": "名词",
+    "meaning": "成绩；业绩",
+    "example": [
+      [
+        "今学期",
+        "こんがっき"
+      ],
+      [
+        "は"
+      ],
+      [
+        "成績",
+        "せいせき"
+      ],
+      [
+        "が"
+      ],
+      [
+        "上",
+        "あ"
+      ],
+      [
+        "がりました。"
+      ]
+    ],
+    "translation": "这学期成绩提高了。",
+    "tip": "「成績がいい」表示成绩好。",
+    "kanjiNote": "「績」读せき。",
+    "cloze": {
+      "before": "今学期は",
+      "answer": "成績",
+      "after": "が上がりました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1375760",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "results",
+        "record",
+        "grades",
+        "marks"
+      ]
+    }
+  },
+  {
+    "id": "w03-b058",
+    "word": "点数",
+    "reading": "てんすう",
+    "category": "名词",
+    "meaning": "分数；得分",
+    "example": [
+      [
+        "試験",
+        "しけん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "点数",
+        "てんすう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "確認",
+        "かくにん"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "确认了考试分数。",
+    "tip": "本课指得分；也可表示物品的件数。",
+    "kanjiNote": "「数」读すう，保留长音。",
+    "cloze": {
+      "before": "試験の",
+      "answer": "点数",
+      "after": "を確認しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1441660",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "marks",
+        "points",
+        "score",
+        "grade",
+        "runs (baseball)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b059",
+    "word": "合格",
+    "reading": "ごうかく",
+    "category": "名词・する动词",
+    "meaning": "及格；通过考试",
+    "example": [
+      [
+        "試験",
+        "しけん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "合格",
+        "ごうかく"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "我通过了考试。",
+    "tip": "「試験に合格する」中的助词是に。",
+    "kanjiNote": "「合」读ごう，「格」读かく。",
+    "cloze": {
+      "before": "試験に",
+      "answer": "合格",
+      "after": "しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1284600",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "passing (an exam)",
+        "pass",
+        "success",
+        "passing grade"
+      ]
+    }
+  },
+  {
+    "id": "w03-b060",
+    "word": "不合格",
+    "reading": "ふごうかく",
+    "category": "名词",
+    "meaning": "不及格；未通过",
+    "example": [
+      [
+        "今回",
+        "こんかい"
+      ],
+      [
+        "は"
+      ],
+      [
+        "不合格",
+        "ふごうかく"
+      ],
+      [
+        "でしたが、また"
+      ],
+      [
+        "挑戦",
+        "ちょうせん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "这次没有通过，但我会再次挑战。",
+    "tip": "表示考试或审核未通过。",
+    "kanjiNote": "「不」放在合格前，表示否定。",
+    "cloze": {
+      "before": "今回は",
+      "answer": "不合格",
+      "after": "でしたが、また挑戦します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1492400",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(examination) failure",
+        "rejection",
+        "disqualification"
+      ]
+    }
+  },
+  {
+    "id": "w03-b061",
+    "word": "進学",
+    "reading": "しんがく",
+    "category": "名词・する动词",
+    "meaning": "升学；继续升学",
+    "example": [
+      [
+        "妹",
+        "いもうと"
+      ],
+      [
+        "は"
+      ],
+      [
+        "大学",
+        "だいがく"
+      ],
+      [
+        "に"
+      ],
+      [
+        "進学",
+        "しんがく"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "妹妹要升入大学。",
+    "tip": "「〜に進学する」说明升入的学校阶段。",
+    "kanjiNote": "「進」表示向前、进入下一阶段。",
+    "cloze": {
+      "before": "妹は大学に",
+      "answer": "進学",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1366010",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "advancing to the next stage of education",
+        "going on to (high school, college, etc.)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b062",
+    "word": "入学",
+    "reading": "にゅうがく",
+    "category": "名词・する动词",
+    "meaning": "入学",
+    "example": [
+      [
+        "弟",
+        "おとうと"
+      ],
+      [
+        "は"
+      ],
+      [
+        "四月",
+        "しがつ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "高校",
+        "こうこう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "入学",
+        "にゅうがく"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "弟弟四月份上高中。",
+    "tip": "时间和学校都可用に，分别说明何时、进入哪里。",
+    "kanjiNote": "「入」在这里读にゅう。",
+    "cloze": {
+      "before": "弟は四月に高校に",
+      "answer": "入学",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1465850",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "admission (to a school or university)",
+        "entrance",
+        "enrolment",
+        "enrollment",
+        "matriculation"
+      ]
+    }
+  },
+  {
+    "id": "w03-b063",
+    "word": "卒業",
+    "reading": "そつぎょう",
+    "category": "名词・する动词",
+    "meaning": "毕业",
+    "example": [
+      [
+        "来年",
+        "らいねん"
+      ],
+      [
+        "、"
+      ],
+      [
+        "大学",
+        "だいがく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "卒業",
+        "そつぎょう"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "明年大学毕业。",
+    "tip": "「学校を卒業する」中的助词是を。",
+    "kanjiNote": "「卒」读そつ，「業」读ぎょう。",
+    "cloze": {
+      "before": "来年、大学を",
+      "answer": "卒業",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1405890",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "graduation",
+        "completion (of a course)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b064",
+    "word": "学期",
+    "reading": "がっき",
+    "category": "名词",
+    "meaning": "学期",
+    "example": [
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "学期",
+        "がっき"
+      ],
+      [
+        "が"
+      ],
+      [
+        "始",
+        "はじ"
+      ],
+      [
+        "まりました。"
+      ]
+    ],
+    "translation": "新学期开始了。",
+    "tip": "「今学期」表示本学期。",
+    "kanjiNote": "「学」与期相连发生促音变化。",
+    "cloze": {
+      "before": "新しい",
+      "answer": "学期",
+      "after": "が始まりました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1206650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "school term",
+        "semester"
+      ]
+    }
+  },
+  {
+    "id": "w03-b065",
+    "word": "学年",
+    "reading": "がくねん",
+    "category": "名词",
+    "meaning": "年级；学年",
+    "example": [
+      [
+        "弟",
+        "おとうと"
+      ],
+      [
+        "と"
+      ],
+      [
+        "私",
+        "わたし"
+      ],
+      [
+        "は"
+      ],
+      [
+        "学年",
+        "がくねん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "違",
+        "ちが"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "弟弟和我不在同一年级。",
+    "tip": "本句指年级，也可指学年度。",
+    "kanjiNote": "「学年」读がくねん，不发生促音。",
+    "cloze": {
+      "before": "弟と私は",
+      "answer": "学年",
+      "after": "が違います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1207030",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        "academic year",
+        "school year",
+        "year in school",
+        "grade in school"
+      ]
+    }
+  },
+  {
+    "id": "w03-b066",
+    "word": "専攻",
+    "reading": "せんこう",
+    "category": "名词・する动词",
+    "meaning": "专攻；专业",
+    "example": [
+      [
+        "大学",
+        "だいがく"
+      ],
+      [
+        "での"
+      ],
+      [
+        "専攻",
+        "せんこう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "文学",
+        "ぶんがく"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "我大学的专业是文学。",
+    "tip": "动词用法是「文学を専攻する」。",
+    "kanjiNote": "「専」表示专门，「攻」表示钻研。",
+    "cloze": {
+      "before": "大学での",
+      "answer": "専攻",
+      "after": "は文学です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1389780",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "major subject",
+        "special study"
+      ]
+    }
+  },
+  {
+    "id": "w03-b067",
+    "word": "講義",
+    "reading": "こうぎ",
+    "category": "名词・する动词",
+    "meaning": "讲课；讲座；大学课程",
+    "example": [
+      [
+        "午前",
+        "ごぜん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "講義",
+        "こうぎ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "九時",
+        "くじ"
+      ],
+      [
+        "からです。"
+      ]
+    ],
+    "translation": "上午的课从九点开始。",
+    "tip": "常见于大学语境，「講義を受ける」表示听课。",
+    "kanjiNote": "「講」读こう，「義」读ぎ。",
+    "cloze": {
+      "before": "午前の",
+      "answer": "講義",
+      "after": "は九時からです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1282260",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "lecture"
+      ]
+    }
+  },
+  {
+    "id": "w03-b068",
+    "word": "課題",
+    "reading": "かだい",
+    "category": "名词",
+    "meaning": "作业；需要完成的任务",
+    "example": [
+      [
+        "明日",
+        "あした"
+      ],
+      [
+        "までに"
+      ],
+      [
+        "課題",
+        "かだい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "提出",
+        "ていしゅつ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "明天之前提交作业。",
+    "tip": "本句指布置的学习任务。",
+    "kanjiNote": "「課」读か，「題」读だい。",
+    "cloze": {
+      "before": "明日までに",
+      "answer": "課題",
+      "after": "を提出します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1195820",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        "homework",
+        "assignment"
+      ]
+    }
+  },
+  {
+    "id": "w03-b069",
+    "word": "答案",
+    "reading": "とうあん",
+    "category": "名词",
+    "meaning": "答卷；答题纸",
+    "example": [
+      [
+        "答案",
+        "とうあん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "名前",
+        "なまえ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "書",
+        "か"
+      ],
+      [
+        "いてください。"
+      ]
+    ],
+    "translation": "请在答卷上写名字。",
+    "tip": "常见搭配「答案を提出する」。",
+    "kanjiNote": "「答」读とう，「案」读あん。",
+    "cloze": {
+      "before": "",
+      "answer": "答案",
+      "after": "に名前を書いてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1449550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "examination paper",
+        "examination script",
+        "answer sheet"
+      ]
+    }
+  },
+  {
+    "id": "w03-b070",
+    "word": "解答",
+    "reading": "かいとう",
+    "category": "名词・する动词",
+    "meaning": "解答；答案",
+    "example": [
+      [
+        "問題",
+        "もんだい"
+      ],
+      [
+        "の"
+      ],
+      [
+        "解答",
+        "かいとう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "て"
+      ],
+      [
+        "確認",
+        "かくにん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "看题目的答案来核对。",
+    "tip": "用于试题的解答；一般回复常用「回答」。",
+    "kanjiNote": "「解」强调解开问题。",
+    "cloze": {
+      "before": "問題の",
+      "answer": "解答",
+      "after": "を見て確認します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1199160",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "answer",
+        "solution"
+      ]
+    }
+  },
+  {
+    "id": "w03-b071",
+    "word": "返事",
+    "reading": "へんじ",
+    "category": "名词・する动词",
+    "meaning": "答复；回应",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "から"
+      ],
+      [
+        "返事",
+        "へんじ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "来",
+        "き"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "朋友回复了。",
+    "tip": "既可用于口头回应，也可用于消息答复。",
+    "kanjiNote": "「返」表示返回，「事」在此读じ。",
+    "cloze": {
+      "before": "友達から",
+      "answer": "返事",
+      "after": "が来ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1512220",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "reply",
+        "answer",
+        "response"
+      ]
+    }
+  },
+  {
+    "id": "w03-b072",
+    "word": "返信",
+    "reading": "へんしん",
+    "category": "名词・する动词",
+    "meaning": "回信；回复消息",
+    "example": [
+      [
+        "メールの"
+      ],
+      [
+        "返信",
+        "へんしん"
+      ],
+      [
+        "は"
+      ],
+      [
+        "明日",
+        "あした"
+      ],
+      [
+        "で"
+      ],
+      [
+        "大丈夫",
+        "だいじょうぶ"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "邮件明天回复就可以。",
+    "tip": "常用于邮件、短信等书面通信。",
+    "kanjiNote": "「信」在这里与通信有关。",
+    "cloze": {
+      "before": "メールの",
+      "answer": "返信",
+      "after": "は明日で大丈夫です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1512240",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "reply (e.g. email, fax, letter)",
+        "answer"
+      ]
+    }
+  },
+  {
+    "id": "w03-b073",
+    "word": "通知",
+    "reading": "つうち",
+    "category": "名词・する动词",
+    "meaning": "通知；消息提示",
+    "example": [
+      [
+        "スマートフォンの"
+      ],
+      [
+        "通知",
+        "つうち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "关闭了手机的通知。",
+    "tip": "手机提示常说「通知が来る」。",
+    "kanjiNote": "「通」读つう，含长音。",
+    "cloze": {
+      "before": "スマートフォンの",
+      "answer": "通知",
+      "after": "を切りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1433470",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        "notice",
+        "notification",
+        "report",
+        "posting",
+        "notification (on a smartphone, PC, etc.)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b074",
+    "word": "伝言",
+    "reading": "でんごん",
+    "category": "名词・する动词",
+    "meaning": "口信；留言",
+    "example": [
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "に"
+      ],
+      [
+        "伝言",
+        "でんごん"
+      ],
+      [
+        "をお"
+      ],
+      [
+        "願",
+        "ねが"
+      ],
+      [
+        "いできますか。"
+      ]
+    ],
+    "translation": "可以请您帮忙给老师带个口信吗？",
+    "tip": "「伝言を残す」表示留言。",
+    "kanjiNote": "本词常用读音是でんごん。",
+    "cloze": {
+      "before": "先生に",
+      "answer": "伝言",
+      "after": "をお願いできますか。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1582180",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(verbal) message",
+        "word (from someone)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b075",
+    "word": "発表",
+    "reading": "はっぴょう",
+    "category": "名词・する动词",
+    "meaning": "发表；发布；展示汇报",
+    "example": [
+      [
+        "来週",
+        "らいしゅう"
+      ],
+      [
+        "、"
+      ],
+      [
+        "研究",
+        "けんきゅう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "結果",
+        "けっか"
+      ],
+      [
+        "を"
+      ],
+      [
+        "発表",
+        "はっぴょう"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "下周发表研究结果。",
+    "tip": "也可指课堂或会议中的展示汇报。",
+    "kanjiNote": "注意促音っ及半浊音ぴょ。",
+    "cloze": {
+      "before": "来週、研究の結果を",
+      "answer": "発表",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1477840",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "announcement",
+        "publication",
+        "presenting",
+        "statement",
+        "communique",
+        "making known",
+        "breaking (news story)",
+        "expressing (one's opinion)",
+        "releasing",
+        "unveiling"
+      ]
+    }
+  },
+  {
+    "id": "w03-b076",
+    "word": "提案",
+    "reading": "ていあん",
+    "category": "名词・する动词",
+    "meaning": "提议；建议；提案",
+    "example": [
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "方法",
+        "ほうほう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "提案",
+        "ていあん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "提出一种新的方法。",
+    "tip": "常用「提案に賛成する」表示赞成提议。",
+    "kanjiNote": "「提」读てい，「案」读あん。",
+    "cloze": {
+      "before": "新しい方法を",
+      "answer": "提案",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1436320",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "proposal",
+        "proposition",
+        "suggestion"
+      ]
+    }
+  },
+  {
+    "id": "w03-b077",
+    "word": "依頼",
+    "reading": "いらい",
+    "category": "名词・する动词",
+    "meaning": "委托；请求",
+    "example": [
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "に"
+      ],
+      [
+        "文章",
+        "ぶんしょう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "確認",
+        "かくにん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "依頼",
+        "いらい"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "拜托老师检查文章。",
+    "tip": "「人に仕事を依頼する」表示委托某人做事。",
+    "kanjiNote": "「依」读い，「頼」读らい。",
+    "cloze": {
+      "before": "先生に文章の確認を",
+      "answer": "依頼",
+      "after": "しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1155710",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "request",
+        "commission",
+        "entrusting (with a matter)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b078",
+    "word": "指示",
+    "reading": "しじ",
+    "category": "名词・する动词",
+    "meaning": "指示；指令",
+    "example": [
+      [
+        "上司",
+        "じょうし"
+      ],
+      [
+        "の"
+      ],
+      [
+        "指示",
+        "しじ"
+      ],
+      [
+        "をよく"
+      ],
+      [
+        "聞",
+        "き"
+      ],
+      [
+        "いてください。"
+      ]
+    ],
+    "translation": "请仔细听上司的指示。",
+    "tip": "「指示に従う」表示遵照指示。",
+    "kanjiNote": "本课读しじ，不读另一读法しし。",
+    "cloze": {
+      "before": "上司の",
+      "answer": "指示",
+      "after": "をよく聞いてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1309800",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        "instructions",
+        "directions"
+      ]
+    }
+  },
+  {
+    "id": "w03-b079",
+    "word": "注意",
+    "reading": "ちゅうい",
+    "category": "名词・する动词",
+    "meaning": "注意；留意；小心",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "では"
+      ],
+      [
+        "車",
+        "くるま"
+      ],
+      [
+        "に"
+      ],
+      [
+        "注意",
+        "ちゅうい"
+      ],
+      [
+        "してください。"
+      ]
+    ],
+    "translation": "在这条路上请注意车辆。",
+    "tip": "「〜に注意する」表示留意某事物。",
+    "kanjiNote": "「注」读ちゅう，「意」读い。",
+    "cloze": {
+      "before": "この道では車に",
+      "answer": "注意",
+      "after": "してください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1426530",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        "attention",
+        "notice",
+        "heed",
+        "care",
+        "caution",
+        "precaution",
+        "looking out (for)",
+        "watching out (for)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b080",
+    "word": "許す",
+    "reading": "ゆるす",
+    "category": "五段动词・他动词",
+    "meaning": "原谅；允许",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "の"
+      ],
+      [
+        "間違",
+        "まちが"
+      ],
+      [
+        "いを"
+      ],
+      [
+        "許",
+        "ゆる"
+      ],
+      [
+        "すことにしました。"
+      ]
+    ],
+    "translation": "我决定原谅朋友的错误。",
+    "tip": "本句是原谅的意思，也可表示允许。",
+    "kanjiNote": "「許す」的送假名为す。",
+    "cloze": {
+      "before": "友達の間違いを",
+      "answer": "許す",
+      "after": "ことにしました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1232870",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        "to permit",
+        "to allow",
+        "to approve",
+        "to consent to",
+        "to forgive",
+        "to pardon",
+        "to excuse",
+        "to tolerate"
+      ]
+    }
+  },
+  {
+    "id": "w03-b081",
+    "word": "謝る",
+    "reading": "あやまる",
+    "category": "五段动词",
+    "meaning": "道歉",
+    "example": [
+      [
+        "遅刻",
+        "ちこく"
+      ],
+      [
+        "したことを"
+      ],
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "に"
+      ],
+      [
+        "謝",
+        "あやま"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "就迟到的事情向老师道歉。",
+    "tip": "用「人に謝る」说明道歉对象。",
+    "kanjiNote": "不要与同音的「誤る」混淆。",
+    "cloze": {
+      "before": "遅刻したことを先生に",
+      "answer": "謝ります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1323010",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to apologize (apologise)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b082",
+    "word": "褒める",
+    "reading": "ほめる",
+    "category": "一段动词・他动词",
+    "meaning": "表扬；称赞",
+    "example": [
+      [
+        "子供",
+        "こども"
+      ],
+      [
+        "の"
+      ],
+      [
+        "努力",
+        "どりょく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "褒",
+        "ほ"
+      ],
+      [
+        "めることも"
+      ],
+      [
+        "大切",
+        "たいせつ"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "表扬孩子的努力也很重要。",
+    "tip": "「人を褒める」中的助词是を。",
+    "kanjiNote": "「褒」在这里读ほ。",
+    "cloze": {
+      "before": "子供の努力を",
+      "answer": "褒める",
+      "after": "ことも大切です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1603550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to praise",
+        "to commend",
+        "to compliment",
+        "to speak well of",
+        "to speak highly of"
+      ]
+    }
+  },
+  {
+    "id": "w03-b083",
+    "word": "叱る",
+    "reading": "しかる",
+    "category": "五段动词・他动词",
+    "meaning": "责备；训斥",
+    "example": [
+      [
+        "子供",
+        "こども"
+      ],
+      [
+        "を"
+      ],
+      [
+        "叱",
+        "しか"
+      ],
+      [
+        "る"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に、"
+      ],
+      [
+        "理由",
+        "りゆう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "聞",
+        "き"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "责备孩子之前先听听理由。",
+    "tip": "「人を叱る」表示训斥某人。",
+    "kanjiNote": "「叱」读しか，送假名为る。",
+    "cloze": {
+      "before": "子供を",
+      "answer": "叱る",
+      "after": "前に、理由を聞きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1319580",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to scold",
+        "to chide",
+        "to rebuke",
+        "to reprimand"
+      ]
+    }
+  },
+  {
+    "id": "w03-b084",
+    "word": "励ます",
+    "reading": "はげます",
+    "category": "五段动词・他动词",
+    "meaning": "鼓励；安慰打气",
+    "example": [
+      [
+        "試験",
+        "しけん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "落",
+        "お"
+      ],
+      [
+        "ちた"
+      ],
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "励",
+        "はげ"
+      ],
+      [
+        "ましました。"
+      ]
+    ],
+    "translation": "鼓励了考试没通过的朋友。",
+    "tip": "用于给失落或努力中的人打气。",
+    "kanjiNote": "「励ます」的ます是词的一部分；礼貌过去式为励ましました。",
+    "cloze": {
+      "before": "試験に落ちた友達を",
+      "answer": "励ましました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1557350",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to encourage",
+        "to cheer on",
+        "to cheer (someone) up"
+      ]
+    }
+  },
+  {
+    "id": "w03-b085",
+    "word": "認める",
+    "reading": "みとめる",
+    "category": "一段动词・他动词",
+    "meaning": "承认；认可",
+    "example": [
+      [
+        "自分",
+        "じぶん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "間違",
+        "まちが"
+      ],
+      [
+        "いを"
+      ],
+      [
+        "認",
+        "みと"
+      ],
+      [
+        "めることは"
+      ],
+      [
+        "大切",
+        "たいせつ"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "承认自己的错误很重要。",
+    "tip": "本句表示承认错误；这个词也可表示批准请求。",
+    "kanjiNote": "本课采用常见读音みとめる。",
+    "cloze": {
+      "before": "自分の間違いを",
+      "answer": "認める",
+      "after": "ことは大切です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1467530",
+      "senseIndices": [
+        2,
+        3
+      ],
+      "glosses": [
+        "to approve",
+        "to deem acceptable",
+        "to allow",
+        "to admit",
+        "to accept",
+        "to confess (to a charge)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b086",
+    "word": "疑う",
+    "reading": "うたがう",
+    "category": "五段动词・他动词",
+    "meaning": "怀疑；不相信",
+    "example": [
+      [
+        "まず"
+      ],
+      [
+        "情報",
+        "じょうほう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "疑",
+        "うたが"
+      ],
+      [
+        "って、"
+      ],
+      [
+        "確認",
+        "かくにん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "先对信息保持怀疑，再进行核实。",
+    "tip": "「〜を疑う」表示怀疑其真实性。",
+    "kanjiNote": "「疑」读うたが。",
+    "cloze": {
+      "before": "まず情報を",
+      "answer": "疑って",
+      "after": "、確認します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1225510",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to doubt",
+        "to distrust",
+        "to be suspicious of",
+        "to suspect"
+      ]
+    }
+  },
+  {
+    "id": "w03-b087",
+    "word": "信じる",
+    "reading": "しんじる",
+    "category": "一段动词・他动词",
+    "meaning": "相信；信任",
+    "example": [
+      [
+        "私",
+        "わたし"
+      ],
+      [
+        "は"
+      ],
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "の"
+      ],
+      [
+        "言葉",
+        "ことば"
+      ],
+      [
+        "を"
+      ],
+      [
+        "信",
+        "しん"
+      ],
+      [
+        "じています。"
+      ]
+    ],
+    "translation": "我相信朋友的话。",
+    "tip": "相信某人或某事用「〜を信じる」。",
+    "kanjiNote": "「信」有相信、信任之意。",
+    "cloze": {
+      "before": "私は友達の言葉を",
+      "answer": "信じています",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1359040",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to believe",
+        "to believe in",
+        "to place trust in",
+        "to confide in",
+        "to have faith in"
+      ]
+    }
+  },
+  {
+    "id": "w03-b088",
+    "word": "守る",
+    "reading": "まもる",
+    "category": "五段动词・他动词",
+    "meaning": "遵守；守护",
+    "example": [
+      [
+        "約束",
+        "やくそく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "守",
+        "まも"
+      ],
+      [
+        "るようにしています。"
+      ]
+    ],
+    "translation": "我尽量遵守约定。",
+    "tip": "本句指遵守约定；还可表示保护。",
+    "kanjiNote": "「守」读まも。",
+    "cloze": {
+      "before": "約束を",
+      "answer": "守る",
+      "after": "ようにしています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1327120",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        "to protect",
+        "to guard",
+        "to defend",
+        "to keep (i.e. a promise)",
+        "to abide (by the rules)",
+        "to observe",
+        "to obey",
+        "to follow"
+      ]
+    }
+  },
+  {
+    "id": "w03-b089",
+    "word": "破る",
+    "reading": "やぶる",
+    "category": "五段动词・他动词",
+    "meaning": "违背；撕破",
+    "example": [
+      [
+        "約束",
+        "やくそく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "破",
+        "やぶ"
+      ],
+      [
+        "ってしまいました。"
+      ]
+    ],
+    "translation": "我违背了约定。",
+    "tip": "「約束を破る」与「約束を守る」相对。",
+    "kanjiNote": "本课读やぶる；纸张被撕破也用这个动词。",
+    "cloze": {
+      "before": "約束を",
+      "answer": "破って",
+      "after": "しまいました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1471200",
+      "senseIndices": [
+        0,
+        4
+      ],
+      "glosses": [
+        "to tear",
+        "to rip",
+        "to break",
+        "to destroy",
+        "to violate (e.g. rule)",
+        "to break (e.g. promise)",
+        "to infringe"
+      ]
+    }
+  },
+  {
+    "id": "w03-b090",
+    "word": "支える",
+    "reading": "ささえる",
+    "category": "一段动词・他动词",
+    "meaning": "支持；支撑",
+    "example": [
+      [
+        "家族",
+        "かぞく"
+      ],
+      [
+        "が"
+      ],
+      [
+        "私",
+        "わたし"
+      ],
+      [
+        "の"
+      ],
+      [
+        "生活",
+        "せいかつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "支",
+        "ささ"
+      ],
+      [
+        "えています。"
+      ]
+    ],
+    "translation": "家人支持着我的生活。",
+    "tip": "既可指身体上的支撑，也可指精神或经济支持。",
+    "kanjiNote": "本课读ささえる。",
+    "cloze": {
+      "before": "家族が私の生活を",
+      "answer": "支えています",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1310090",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to support",
+        "to prop",
+        "to sustain",
+        "to underlay",
+        "to hold up",
+        "to defend"
+      ]
+    }
+  },
+  {
+    "id": "w03-b091",
+    "word": "助ける",
+    "reading": "たすける",
+    "category": "一段动词・他动词",
+    "meaning": "帮助；救助",
+    "example": [
+      [
+        "困",
+        "こま"
+      ],
+      [
+        "っている"
+      ],
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "助",
+        "たす"
+      ],
+      [
+        "けたいです。"
+      ]
+    ],
+    "translation": "我想帮助遇到困难的朋友。",
+    "tip": "「人を助ける」表示帮助或救助某人。",
+    "kanjiNote": "「助」读たす。",
+    "cloze": {
+      "before": "困っている友達を",
+      "answer": "助けたい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1344410",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        "to save",
+        "to rescue",
+        "to spare",
+        "to help",
+        "to assist"
+      ]
+    }
+  },
+  {
+    "id": "w03-b092",
+    "word": "引き受ける",
+    "reading": "ひきうける",
+    "category": "一段动词・他动词",
+    "meaning": "承担；接受委托",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "仕事",
+        "しごと"
+      ],
+      [
+        "を"
+      ],
+      [
+        "引",
+        "ひ"
+      ],
+      [
+        "き"
+      ],
+      [
+        "受",
+        "う"
+      ],
+      [
+        "けることにしました。"
+      ]
+    ],
+    "translation": "我决定接下这项工作。",
+    "tip": "强调接受任务并承担责任。",
+    "kanjiNote": "「引き」与「受ける」组成复合动词。",
+    "cloze": {
+      "before": "この仕事を",
+      "answer": "引き受ける",
+      "after": "ことにしました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1601520",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to take on",
+        "to undertake",
+        "to accept",
+        "to take charge of",
+        "to assume responsibility for"
+      ]
+    }
+  },
+  {
+    "id": "w03-b093",
+    "word": "任せる",
+    "reading": "まかせる",
+    "category": "一段动词・他动词",
+    "meaning": "交给；委托",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "仕事",
+        "しごと"
+      ],
+      [
+        "は"
+      ],
+      [
+        "先輩",
+        "せんぱい"
+      ],
+      [
+        "に"
+      ],
+      [
+        "任",
+        "まか"
+      ],
+      [
+        "せます。"
+      ]
+    ],
+    "translation": "这项工作交给前辈。",
+    "tip": "常用句型「人に仕事を任せる」。",
+    "kanjiNote": "「任」读まか。",
+    "cloze": {
+      "before": "この仕事は先輩に",
+      "answer": "任せます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1467150",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to leave (a matter, decision, etc. to someone)",
+        "to entrust (to someone)",
+        "to entrust (someone) with"
+      ]
+    }
+  },
+  {
+    "id": "w03-b094",
+    "word": "省く",
+    "reading": "はぶく",
+    "category": "五段动词・他动词",
+    "meaning": "省略；省去",
+    "example": [
+      [
+        "時間",
+        "じかん"
+      ],
+      [
+        "がないので、"
+      ],
+      [
+        "詳",
+        "くわ"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "説明",
+        "せつめい"
+      ],
+      [
+        "は"
+      ],
+      [
+        "省",
+        "はぶ"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "因为没有时间，详细说明就省略了。",
+    "tip": "指去掉不必保留的内容或步骤。",
+    "kanjiNote": "「省」在这里读はぶ。",
+    "cloze": {
+      "before": "時間がないので、詳しい説明は",
+      "answer": "省きます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1351040",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to omit",
+        "to leave out",
+        "to exclude",
+        "to eliminate"
+      ]
+    }
+  },
+  {
+    "id": "w03-b095",
+    "word": "補う",
+    "reading": "おぎなう",
+    "category": "五段动词・他动词",
+    "meaning": "补充；弥补",
+    "example": [
+      [
+        "足",
+        "た"
+      ],
+      [
+        "りない"
+      ],
+      [
+        "説明",
+        "せつめい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "図",
+        "ず"
+      ],
+      [
+        "で"
+      ],
+      [
+        "補",
+        "おぎな"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "用图补充不足的说明。",
+    "tip": "常与不足、缺少的内容搭配。",
+    "kanjiNote": "「補」读おぎな。",
+    "cloze": {
+      "before": "足りない説明を図で",
+      "answer": "補います",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1514460",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to supplement",
+        "to make up for",
+        "to compensate for",
+        "to cover (a shortage, loss, etc.)",
+        "to fill (e.g. a vacancy)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b096",
+    "word": "加える",
+    "reading": "くわえる",
+    "category": "一段动词・他动词",
+    "meaning": "添加；加上",
+    "example": [
+      [
+        "資料",
+        "しりょう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "情報",
+        "じょうほう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "加",
+        "くわ"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "向资料里添加新信息。",
+    "tip": "「〜に〜を加える」说明添加到哪里、添加什么。",
+    "kanjiNote": "「加」读くわ。",
+    "cloze": {
+      "before": "資料に新しい情報を",
+      "answer": "加えます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1189960",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to add",
+        "to add up",
+        "to sum up",
+        "to append",
+        "to annex"
+      ]
+    }
+  },
+  {
+    "id": "w03-b097",
+    "word": "分ける",
+    "reading": "わける",
+    "category": "一段动词・他动词",
+    "meaning": "分开；分类；分配",
+    "example": [
+      [
+        "資料",
+        "しりょう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "三",
+        "みっ"
+      ],
+      [
+        "つのグループに"
+      ],
+      [
+        "分",
+        "わ"
+      ],
+      [
+        "けます。"
+      ]
+    ],
+    "translation": "把资料分成三组。",
+    "tip": "常用「〜を〜に分ける」。",
+    "kanjiNote": "「分」读わ。",
+    "cloze": {
+      "before": "資料を三つのグループに",
+      "answer": "分けます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1503000",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        "to divide (into)",
+        "to split (into)",
+        "to part",
+        "to separate",
+        "to divide up",
+        "to classify",
+        "to sort out",
+        "to divide out",
+        "to share",
+        "to distribute",
+        "to deal out",
+        "to dish out"
+      ]
+    }
+  },
+  {
+    "id": "w03-b098",
+    "word": "並べる",
+    "reading": "ならべる",
+    "category": "一段动词・他动词",
+    "meaning": "排列；摆放",
+    "example": [
+      [
+        "机",
+        "つくえ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "一列",
+        "いちれつ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "並",
+        "なら"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "把桌子排成一列。",
+    "tip": "自动词「並ぶ」表示自行排成队；並べる表示把东西排好。",
+    "kanjiNote": "「並」读なら。",
+    "cloze": {
+      "before": "机を一列に",
+      "answer": "並べます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1508390",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to line up",
+        "to set up",
+        "to arrange in a line"
+      ]
+    }
+  },
+  {
+    "id": "w03-b099",
+    "word": "数える",
+    "reading": "かぞえる",
+    "category": "一段动词・他动词",
+    "meaning": "数；计数",
+    "example": [
+      [
+        "参加",
+        "さんか"
+      ],
+      [
+        "する"
+      ],
+      [
+        "人",
+        "ひと"
+      ],
+      [
+        "の"
+      ],
+      [
+        "数",
+        "かず"
+      ],
+      [
+        "を"
+      ],
+      [
+        "数",
+        "かぞ"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "数一数参加的人数。",
+    "tip": "对象用を，如「人数を数える」。",
+    "kanjiNote": "同一句中的数分别读かず、かぞ。",
+    "cloze": {
+      "before": "参加する人の数を",
+      "answer": "数えます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1372900",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to count",
+        "to enumerate"
+      ]
+    }
+  },
+  {
+    "id": "w03-b100",
+    "word": "測る",
+    "reading": "はかる",
+    "category": "五段动词・他动词",
+    "meaning": "测量",
+    "example": [
+      [
+        "定規",
+        "じょうぎ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "長",
+        "なが"
+      ],
+      [
+        "さを"
+      ],
+      [
+        "測",
+        "はか"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "用尺子测量长度。",
+    "tip": "测长度、温度等常用「測る」。",
+    "kanjiNote": "与同音的量る、計る按对象区分写法。",
+    "cloze": {
+      "before": "定規で長さを",
+      "answer": "測ります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1600650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to measure",
+        "to weigh",
+        "to survey",
+        "to time (sound, gauge, estimate)"
+      ]
+    }
+  },
+  {
+    "id": "w03-b101",
+    "word": "試す",
+    "reading": "ためす",
+    "category": "五段动词・他动词",
+    "meaning": "尝试；试验",
+    "example": [
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "方法",
+        "ほうほう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "試",
+        "ため"
+      ],
+      [
+        "してみます。"
+      ]
+    ],
+    "translation": "试试看新的方法。",
+    "tip": "「試してみる」表达实际试一试。",
+    "kanjiNote": "「試」读ため。",
+    "cloze": {
+      "before": "新しい方法を",
+      "answer": "試して",
+      "after": "みます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1312260",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to try (out)",
+        "to have a try (at)",
+        "to test",
+        "to put to the test"
+      ]
+    }
+  },
+  {
+    "id": "w03-b102",
+    "word": "繰り返す",
+    "reading": "くりかえす",
+    "category": "五段动词",
+    "meaning": "重复；反复",
+    "example": [
+      [
+        "同",
+        "おな"
+      ],
+      [
+        "じ"
+      ],
+      [
+        "練習",
+        "れんしゅう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "繰",
+        "く"
+      ],
+      [
+        "り"
+      ],
+      [
+        "返",
+        "かえ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "重复相同的练习。",
+    "tip": "强调再做相同动作或步骤。",
+    "kanjiNote": "「繰り」和「返す」组成复合动词。",
+    "cloze": {
+      "before": "同じ練習を",
+      "answer": "繰り返します",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1247030",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "to repeat",
+        "to do over again"
+      ]
+    }
+  },
+  {
+    "id": "w03-b103",
+    "word": "解く",
+    "reading": "とく",
+    "category": "五段动词・他动词",
+    "meaning": "解答；解开",
+    "example": [
+      [
+        "難",
+        "むずか"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "問題",
+        "もんだい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "解",
+        "と"
+      ],
+      [
+        "くのが"
+      ],
+      [
+        "好",
+        "す"
+      ],
+      [
+        "きです。"
+      ]
+    ],
+    "translation": "我喜欢解难题。",
+    "tip": "本课指解题；解开绳结也可用这个词。",
+    "kanjiNote": "本课读とく，区别于解く（ほどく）。",
+    "cloze": {
+      "before": "難しい問題を",
+      "answer": "解く",
+      "after": "のが好きです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1198890",
+      "senseIndices": [
+        0,
+        2
+      ],
+      "glosses": [
+        "to untie",
+        "to unfasten",
+        "to unwrap",
+        "to undo",
+        "to unbind",
+        "to unpack",
+        "to solve",
+        "to work out",
+        "to answer"
+      ]
+    }
+  },
+  {
+    "id": "w03-b104",
+    "word": "公平",
+    "reading": "こうへい",
+    "category": "な形容词・名词",
+    "meaning": "公平；公正",
+    "example": [
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "は"
+      ],
+      [
+        "公平",
+        "こうへい"
+      ],
+      [
+        "に"
+      ],
+      [
+        "点数",
+        "てんすう"
+      ],
+      [
+        "をつけます。"
+      ]
+    ],
+    "translation": "老师公平地打分。",
+    "tip": "修饰动作用「公平に」，修饰名词用「公平な」。",
+    "kanjiNote": "「公」读こう，「平」读へい。",
+    "cloze": {
+      "before": "先生は",
+      "answer": "公平",
+      "after": "に点数をつけます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1274640",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        "fair",
+        "impartial",
+        "just",
+        "objective",
+        "disinterested",
+        "unprejudiced",
+        "fairness",
+        "impartiality",
+        "justice"
+      ]
+    }
+  },
+  {
+    "id": "w03-b105",
+    "word": "不公平",
+    "reading": "ふこうへい",
+    "category": "な形容词・名词",
+    "meaning": "不公平；不公正",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "決",
+        "き"
+      ],
+      [
+        "め"
+      ],
+      [
+        "方",
+        "かた"
+      ],
+      [
+        "は"
+      ],
+      [
+        "不公平",
+        "ふこうへい"
+      ],
+      [
+        "だと"
+      ],
+      [
+        "思",
+        "おも"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "我觉得这种决定方式不公平。",
+    "tip": "「不公平だ」可用于表达对规则的不满。",
+    "kanjiNote": "在公平前加否定前缀「不」。",
+    "cloze": {
+      "before": "この決め方は",
+      "answer": "不公平",
+      "after": "だと思います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1492300",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "unfairness",
+        "injustice",
+        "partiality"
+      ]
+    }
+  }
+]

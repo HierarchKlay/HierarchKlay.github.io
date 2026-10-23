@@ -1,3 +1,13 @@
+## 2026-10-23 · Early October 25 edition, lessons 15–21
+
+- Added 245 core words + 70 unique reserve words, 315 original ruby examples/translations, and 35 independent kanji (映–王). Totals: 21 lessons, 945 vocabulary entries and 105 kanji; course ID stays `week01-v1`.
+- Checked new spellings, readings and selected senses against the retained official JMdict snapshot; checked both normalized headwords and dictionary-entry/reading identities against the previous 630 words. All 70 new kanji example pairs have JMdict evidence and official-table reading records.
+- 284/315 new words have exact unconditional Kanjium numeric pitch records with variants retained; 31 remain unavailable. Extended the adjacent kanji-example pitch bundle to 242 unique pairs (235 with numeric records).
+- Added day-15 through day-21 audio sprites: 630 clips with NIT ATR503 M001 1.05 / Open JTalk, CC BY 3.0. One word and four sentences use checked kana inputs for ambiguous text. Corrected the authored reading of 何か in the 楽器 example to なにか before final synthesis. Kept all earlier sprite bytes and offsets.
+- Added an input-hash guard to the batch installer, retained every clip's reading/waveform audit, and rebuilt font subsets. Extended course/media/DOM tests through lesson 21 and preserved historical deep-equality/progress-migration checks.
+- Recorded the fulfilled 2026-10-25 edition in `source-data/course-releases.json`; the scheduled October 25 run must not append again. Next regular edition is November 1, beginning at lesson 22 / joyo-106.
+- Verification includes source, data, logic, DOM, media and desktop-browser course/kanji checks. Examples have not been reviewed by a native-speaker teacher, synthesized clips have not been individually listened to, and mobile hardware was not tested. Dictionary snapshot, personal homepage, cloud configuration, Site audience and private learning records are preserved.
+
 ## 2026-10-19 · Pitch accents beside kanji example readings
 
 - Show whole-word pitch numbers beside the kana of kanji-notebook examples, preserving alternative patterns and marking missing records. 165 of the current 172 distinct example pairs have numeric records.

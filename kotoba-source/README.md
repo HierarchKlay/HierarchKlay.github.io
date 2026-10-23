@@ -15,13 +15,13 @@ python3 build_course.py
 
 Serve `dist/` over HTTP to preview. Opening `index.html` directly as a file cannot load the JSON/modules in many browsers. Browser progress uses localStorage. Import/export is available; never commit exported progress.
 
-`build_course.py` rebuilds the original seven-day block and calls `extend_course.py` to append the reviewed second block without changing the first block. See `LESSONS.md` for the 14-lesson index. Future additions must preserve both blocks and all audio offsets. `MAINTENANCE.md` describes authorized updates. `test_app.mjs` is a DOM stub; `test_weekly_dom.mjs` uses jsdom with mocked network/audio. Neither is visual/browser verification.
+`build_course.py` rebuilds the original seven-day block, then calls `extend_course.py` and `extend_week03.py` to append the reviewed later blocks without changing earlier records. See `LESSONS.md` for the 21-lesson index and `source-data/course-releases.json` for scheduled editions already fulfilled early. Future additions must preserve all blocks and audio offsets. `MAINTENANCE.md` describes authorized updates. `test_app.mjs` is a DOM stub; `test_weekly_dom.mjs` uses jsdom with mocked network/audio. Neither is visual/browser verification.
 
 PDF rebuilding also requires reportlab and fontTools; `build_v3_pdf.py --out dist/kotoba-sample.pdf` uses the supplied subset fonts. Regenerate subsets with `build_fonts.py` when adding glyphs. Supply full Japanese and Simplified Chinese Noto Sans CJK fonts using its `--full-font-dir` option. The downloadable PDF is the fixed Day 1 lesson; the website can print the current lesson including replacements.
 
 ## Data and pronunciation
 
-- 630 vocabulary entries: 490 core and 140 reserve; 14 independent kanji lessons of 5 characters each.
+- 945 vocabulary entries: 735 core and 210 reserve; 21 independent kanji lessons of 5 characters each.
 - Accent evidence is attached to each verified record. Missing accent evidence stays explicitly unavailable.
 - Audio sprites are synthesized with Open JTalk, not recorded by a human teacher, and do not validate dictionary accents. Preserve `audio/ATTRIBUTION.txt` and its license notice.
 - Lessons contain original study examples and translations, not a transcript or an exact frequency ranking from the referenced video.

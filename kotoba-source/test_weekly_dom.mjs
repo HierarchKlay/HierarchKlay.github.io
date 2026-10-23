@@ -11,8 +11,9 @@ let played;
 globalThis.Audio=class {constructor(url){played=url;this.currentTime=0;}addEventListener(){}play(){return Promise.resolve();}pause(){}};
 const $=s=>document.querySelector(s),state=()=>JSON.parse(localStorage.getItem('kotoba.week01.v3'));
 await import('./dist/app-v3.js');
-assert.equal(document.querySelectorAll('[data-day]').length,14);
-for(let day=8;day<=14;day++){
+assert.equal(course.days.length,21);
+assert.equal(document.querySelectorAll('[data-day]').length,course.days.length);
+for(let day=8;day<=course.days.length;day++){
   $(`[data-day="${day}"]`).click();assert.equal(state().selectedDay,String(day));
   assert.equal(document.querySelectorAll('.index-item').length,35);
   const first=course.words.find(w=>w.id===course.days[day-1].core[0]);
@@ -26,8 +27,8 @@ for(let day=8;day<=14;day++){
   assert.equal(state().kanjiRatings[k.id],'known');
   $('[data-tab="study"]').click();
 }
-const before=state().days['14'].order;
-$('[data-action="master"]').click();assert(state().mastered[before[0]]);assert.equal(state().days['14'].order.length,35);
-assert(state().days['14'].order.includes(course.days[13].reserve[0]));
+const lastDay=course.days.at(-1),before=state().days[lastDay.id].order;
+$('[data-action="master"]').click();assert(state().mastered[before[0]]);assert.equal(state().days[lastDay.id].order.length,35);
+assert(state().days[lastDay.id].order.includes(lastDay.reserve[0]));
 $('[data-day="1"]').click();assert.equal(state().selectedDay,'1');
 dom.window.close();console.log('PASS real DOM: all new lessons, 35-card indexes, sprite paths, independent kanji submit, refill and navigation');

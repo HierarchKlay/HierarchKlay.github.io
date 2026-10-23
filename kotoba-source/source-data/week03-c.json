@@ -1,0 +1,5244 @@
+[
+  {
+    "id": "w03-c001",
+    "word": "観光",
+    "reading": "かんこう",
+    "category": "名词・サ变动词",
+    "meaning": "观光；旅游",
+    "example": [
+      [
+        "午後",
+        "ごご"
+      ],
+      [
+        "は"
+      ],
+      [
+        "町",
+        "まち"
+      ],
+      [
+        "で"
+      ],
+      [
+        "観光",
+        "かんこう"
+      ],
+      [
+        "をします。"
+      ]
+    ],
+    "translation": "下午在城里观光。",
+    "tip": "「観光する」表示游览景点。",
+    "kanjiNote": "「観」有观看之意。",
+    "cloze": {
+      "before": "午後は町で",
+      "answer": "観光",
+      "after": "をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1214840",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "sightseeing",
+          "tourism"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c002",
+    "word": "旅館",
+    "reading": "りょかん",
+    "category": "名词",
+    "meaning": "日式旅馆",
+    "example": [
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "の"
+      ],
+      [
+        "近",
+        "ちか"
+      ],
+      [
+        "くの"
+      ],
+      [
+        "旅館",
+        "りょかん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "泊",
+        "と"
+      ],
+      [
+        "まります。"
+      ]
+    ],
+    "translation": "住在车站附近的日式旅馆。",
+    "tip": "「旅館に泊まる」表示住日式旅馆。",
+    "kanjiNote": "「旅」指旅行，「館」指建筑。",
+    "cloze": {
+      "before": "駅の近くの",
+      "answer": "旅館",
+      "after": "に泊まります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1553130",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "ryokan",
+          "traditional Japanese inn"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c003",
+    "word": "民宿",
+    "reading": "みんしゅく",
+    "category": "名词",
+    "meaning": "家庭旅馆；民宿",
+    "example": [
+      [
+        "海",
+        "うみ"
+      ],
+      [
+        "のそばの"
+      ],
+      [
+        "民宿",
+        "みんしゅく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "予約",
+        "よやく"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "预订了海边的民宿。",
+    "tip": "通常指家庭经营的小型住宿设施。",
+    "kanjiNote": "「宿」在这里读しゅく。",
+    "cloze": {
+      "before": "海のそばの",
+      "answer": "民宿",
+      "after": "を予約しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1528950",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "guest house",
+          "private home providing lodging for travelers",
+          "bed and breakfast",
+          "pension"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c004",
+    "word": "宿泊",
+    "reading": "しゅくはく",
+    "category": "名词・サ变动词",
+    "meaning": "住宿；投宿",
+    "example": [
+      [
+        "宿泊",
+        "しゅくはく"
+      ],
+      [
+        "の"
+      ],
+      [
+        "料金",
+        "りょうきん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "確認",
+        "かくにん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "确认住宿费用。",
+    "tip": "「宿泊する」表示住宿。",
+    "kanjiNote": "「泊」与过夜有关。",
+    "cloze": {
+      "before": "",
+      "answer": "宿泊",
+      "after": "の料金を確認します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1337300",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "accommodation",
+          "lodging"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c005",
+    "word": "旅券",
+    "reading": "りょけん",
+    "category": "名词",
+    "meaning": "护照（正式用语）",
+    "example": [
+      [
+        "申込書",
+        "もうしこみしょ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "旅券",
+        "りょけん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "番号",
+        "ばんごう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "書",
+        "か"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "在申请表上填写护照号码。",
+    "tip": "正式文件常写「旅券」，日常也说「パスポート」。",
+    "kanjiNote": "「旅券」整体读りょけん。",
+    "cloze": {
+      "before": "申込書に",
+      "answer": "旅券",
+      "after": "の番号を書きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1553160",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "passport"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c006",
+    "word": "パスポート",
+    "reading": "パスポート",
+    "category": "名词",
+    "meaning": "护照",
+    "example": [
+      [
+        "空港",
+        "くうこう"
+      ],
+      [
+        "でパスポートを"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "せます。"
+      ]
+    ],
+    "translation": "在机场出示护照。",
+    "tip": "表示出示护照可说「パスポートを見せる」。",
+    "kanjiNote": "外来语，通常用片假名书写。",
+    "cloze": {
+      "before": "空港で",
+      "answer": "パスポート",
+      "after": "を見せます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1101510",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "passport"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c007",
+    "word": "手荷物",
+    "reading": "てにもつ",
+    "category": "名词",
+    "meaning": "随身行李",
+    "example": [
+      [
+        "手荷物",
+        "てにもつ"
+      ],
+      [
+        "はこの"
+      ],
+      [
+        "棚",
+        "たな"
+      ],
+      [
+        "に"
+      ],
+      [
+        "置",
+        "お"
+      ],
+      [
+        "いてください。"
+      ]
+    ],
+    "translation": "请把随身行李放在这个架子上。",
+    "tip": "常见于机场、车站的行李说明。",
+    "kanjiNote": "「荷物」读にもつ。",
+    "cloze": {
+      "before": "",
+      "answer": "手荷物",
+      "after": "はこの棚に置いてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1327360",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "hand luggage",
+          "hand baggage"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c008",
+    "word": "スーツケース",
+    "reading": "スーツケース",
+    "category": "名词",
+    "meaning": "行李箱",
+    "example": [
+      [
+        "スーツケースに"
+      ],
+      [
+        "服",
+        "ふく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "把衣服放进行李箱。",
+    "tip": "可用「大きいスーツケース」描述大行李箱。",
+    "kanjiNote": "通常用片假名书写。",
+    "cloze": {
+      "before": "",
+      "answer": "スーツケース",
+      "after": "に服を入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1066690",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "suitcase"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c009",
+    "word": "案内所",
+    "reading": "あんないじょ",
+    "category": "名词",
+    "meaning": "问讯处；咨询处",
+    "example": [
+      [
+        "案内所",
+        "あんないじょ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "地図",
+        "ちず"
+      ],
+      [
+        "をもらいました。"
+      ]
+    ],
+    "translation": "在问讯处领了地图。",
+    "tip": "询问信息可说「案内所で聞く」。",
+    "kanjiNote": "「所」在这个词中读じょ。",
+    "cloze": {
+      "before": "",
+      "answer": "案内所",
+      "after": "で地図をもらいました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1154880",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "information desk"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c010",
+    "word": "観光客",
+    "reading": "かんこうきゃく",
+    "category": "名词",
+    "meaning": "游客",
+    "example": [
+      [
+        "週末",
+        "しゅうまつ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "観光客",
+        "かんこうきゃく"
+      ],
+      [
+        "が"
+      ],
+      [
+        "多",
+        "おお"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "周末游客很多。",
+    "tip": "指以游览为目的来访的人。",
+    "kanjiNote": "「客」在这里读きゃく。",
+    "cloze": {
+      "before": "週末は",
+      "answer": "観光客",
+      "after": "が多いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1214870",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "tourist"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c011",
+    "word": "お土産",
+    "reading": "おみやげ",
+    "category": "名词",
+    "meaning": "旅行时买来送人的特产或纪念品；伴手礼",
+    "example": [
+      [
+        "家族",
+        "かぞく"
+      ],
+      [
+        "に"
+      ],
+      [
+        "お土産",
+        "おみやげ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "给家人买了伴手礼。",
+    "tip": "「人にお土産を買う」表示给某人买伴手礼。",
+    "kanjiNote": "「土産」是整体记读音的词。",
+    "cloze": {
+      "before": "家族に",
+      "answer": "お土産",
+      "after": "を買いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1002500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "local specialty or souvenir bought as a gift while traveling (travelling)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c012",
+    "word": "名物",
+    "reading": "めいぶつ",
+    "category": "名词",
+    "meaning": "当地特产；有名的特色事物",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "町",
+        "まち"
+      ],
+      [
+        "の"
+      ],
+      [
+        "名物",
+        "めいぶつ"
+      ],
+      [
+        "はお"
+      ],
+      [
+        "菓子",
+        "かし"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "这座城的特产是点心。",
+    "tip": "「土地の名物」常指当地特色食品或产品。",
+    "kanjiNote": "「名」有出名之意。",
+    "cloze": {
+      "before": "この町の",
+      "answer": "名物",
+      "after": "はお菓子です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1531810",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "famous product",
+          "special product",
+          "speciality",
+          "specialty"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c013",
+    "word": "名所",
+    "reading": "めいしょ",
+    "category": "名词",
+    "meaning": "名胜；著名景点",
+    "example": [
+      [
+        "地図",
+        "ちず"
+      ],
+      [
+        "で"
+      ],
+      [
+        "桜",
+        "さくら"
+      ],
+      [
+        "の"
+      ],
+      [
+        "名所",
+        "めいしょ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "探",
+        "さが"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "在地图上寻找赏樱名胜。",
+    "tip": "「桜の名所」是赏樱的著名地点。",
+    "kanjiNote": "「所」在这里读しょ。",
+    "cloze": {
+      "before": "地図で桜の",
+      "answer": "名所",
+      "after": "を探します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1531600",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "famous place",
+          "noted place",
+          "place of (scenic or historical) interest",
+          "sights (to see)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c014",
+    "word": "遺跡",
+    "reading": "いせき",
+    "category": "名词",
+    "meaning": "遗址；古迹",
+    "example": [
+      [
+        "午後",
+        "ごご"
+      ],
+      [
+        "は"
+      ],
+      [
+        "古",
+        "ふる"
+      ],
+      [
+        "い"
+      ],
+      [
+        "遺跡",
+        "いせき"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見学",
+        "けんがく"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "下午参观古老的遗址。",
+    "tip": "常用「遺跡を見学する」。",
+    "kanjiNote": "「遺」有遗留之意，「跡」指痕迹。",
+    "cloze": {
+      "before": "午後は古い",
+      "answer": "遺跡",
+      "after": "を見学します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1159380",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(archeological) remains",
+          "ruins",
+          "relics"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c015",
+    "word": "城",
+    "reading": "しろ",
+    "category": "名词",
+    "meaning": "城堡",
+    "example": [
+      [
+        "丘",
+        "おか"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "城",
+        "しろ"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "山丘上有一座城堡。",
+    "tip": "单独说「城」读しろ，部分城名中读じょう。",
+    "kanjiNote": "注意单字读音しろ。",
+    "cloze": {
+      "before": "丘の上に",
+      "answer": "城",
+      "after": "があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1355710",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "castle"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c016",
+    "word": "神社",
+    "reading": "じんじゃ",
+    "category": "名词",
+    "meaning": "神社（神道祭祀场所）",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "、"
+      ],
+      [
+        "神社",
+        "じんじゃ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "訪",
+        "おとず"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "早晨去了神社。",
+    "tip": "「神社」与佛教的「寺」不同。",
+    "kanjiNote": "「社」在这里浊化读じゃ。",
+    "cloze": {
+      "before": "朝、",
+      "answer": "神社",
+      "after": "を訪れました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1364670",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "Shinto shrine"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c017",
+    "word": "寺",
+    "reading": "てら",
+    "category": "名词",
+    "meaning": "寺庙（佛教）",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "寺",
+        "てら"
+      ],
+      [
+        "は"
+      ],
+      [
+        "庭",
+        "にわ"
+      ],
+      [
+        "がきれいです。"
+      ]
+    ],
+    "translation": "这座寺庙的庭院很美。",
+    "tip": "礼貌说法「お寺」也很常用。",
+    "kanjiNote": "单独说「寺」读てら。",
+    "cloze": {
+      "before": "この",
+      "answer": "寺",
+      "after": "は庭がきれいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1315240",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "temple (Buddhist)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c018",
+    "word": "境内",
+    "reading": "けいだい",
+    "category": "名词",
+    "meaning": "寺社的院内；寺社范围内的场地",
+    "example": [
+      [
+        "境内",
+        "けいだい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "静",
+        "しず"
+      ],
+      [
+        "かに"
+      ],
+      [
+        "歩",
+        "ある"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "安静地走过寺社的院内。",
+    "tip": "主要用于神社或寺庙的用地。",
+    "kanjiNote": "整体读けいだい，不按常见音逐字拼读。",
+    "cloze": {
+      "before": "",
+      "answer": "境内",
+      "after": "を静かに歩きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1236020",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "grounds (esp. of shrines and temples)",
+          "compound",
+          "churchyard",
+          "precincts"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c019",
+    "word": "鳥居",
+    "reading": "とりい",
+    "category": "名词",
+    "meaning": "鸟居（神社入口等处的牌坊）",
+    "example": [
+      [
+        "鳥居",
+        "とりい"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "撮",
+        "と"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "在鸟居前拍了照。",
+    "tip": "是神社中常见的建筑标志。",
+    "kanjiNote": "「鳥」读とり，「居」读い。",
+    "cloze": {
+      "before": "",
+      "answer": "鳥居",
+      "after": "の前で写真を撮りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1430280",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "torii (Shinto shrine archway)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c020",
+    "word": "参道",
+    "reading": "さんどう",
+    "category": "名词",
+    "meaning": "通往神社的参拜道路",
+    "example": [
+      [
+        "参道",
+        "さんどう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "小",
+        "ちい"
+      ],
+      [
+        "さな"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "並",
+        "なら"
+      ],
+      [
+        "んでいます。"
+      ]
+    ],
+    "translation": "参拜道路两旁排列着小店。",
+    "tip": "常见搭配「参道を歩く」。",
+    "kanjiNote": "「参」与参拜有关。",
+    "cloze": {
+      "before": "",
+      "answer": "参道",
+      "after": "に小さな店が並んでいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1302540",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "road approaching a shrine"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c021",
+    "word": "灯台",
+    "reading": "とうだい",
+    "category": "名词",
+    "meaning": "灯塔",
+    "example": [
+      [
+        "海",
+        "うみ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "向",
+        "む"
+      ],
+      [
+        "こうに"
+      ],
+      [
+        "灯台",
+        "とうだい"
+      ],
+      [
+        "が"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "能看到海那边的灯塔。",
+    "tip": "本课取海岸导航用灯塔的意思。",
+    "kanjiNote": "「灯」指灯光。",
+    "cloze": {
+      "before": "海の向こうに",
+      "answer": "灯台",
+      "after": "が見えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1448730",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "lighthouse"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c022",
+    "word": "展望台",
+    "reading": "てんぼうだい",
+    "category": "名词",
+    "meaning": "观景台；瞭望台",
+    "example": [
+      [
+        "展望台",
+        "てんぼうだい"
+      ],
+      [
+        "から"
+      ],
+      [
+        "町",
+        "まち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "从观景台眺望城市。",
+    "tip": "「展望台から」表示从观景台这个位置观看。",
+    "kanjiNote": "「展望」指向远处眺望。",
+    "cloze": {
+      "before": "",
+      "answer": "展望台",
+      "after": "から町を見ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1440650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "viewing platform",
+          "observation deck",
+          "observation platform"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c023",
+    "word": "水族館",
+    "reading": "すいぞくかん",
+    "category": "名词",
+    "meaning": "水族馆",
+    "example": [
+      [
+        "水族館",
+        "すいぞくかん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "大",
+        "おお"
+      ],
+      [
+        "きな"
+      ],
+      [
+        "魚",
+        "さかな"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "在水族馆看到了大鱼。",
+    "tip": "指展示水生生物的场馆。",
+    "kanjiNote": "末尾「館」读かん。",
+    "cloze": {
+      "before": "",
+      "answer": "水族館",
+      "after": "で大きな魚を見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1371820",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "aquarium (building)",
+          "oceanarium"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c024",
+    "word": "動物園",
+    "reading": "どうぶつえん",
+    "category": "名词",
+    "meaning": "动物园",
+    "example": [
+      [
+        "子供",
+        "こども"
+      ],
+      [
+        "と"
+      ],
+      [
+        "動物園",
+        "どうぶつえん"
+      ],
+      [
+        "へ"
+      ],
+      [
+        "行",
+        "い"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "和孩子去动物园。",
+    "tip": "「動物」是动物，「園」表示园地。",
+    "kanjiNote": "「動物」读どうぶつ。",
+    "cloze": {
+      "before": "子供と",
+      "answer": "動物園",
+      "after": "へ行きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1451490",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "zoo",
+          "zoological gardens"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c025",
+    "word": "遊園地",
+    "reading": "ゆうえんち",
+    "category": "名词",
+    "meaning": "游乐园",
+    "example": [
+      [
+        "遊園地",
+        "ゆうえんち"
+      ],
+      [
+        "で"
+      ],
+      [
+        "一日",
+        "いちにち"
+      ],
+      [
+        "遊",
+        "あそ"
+      ],
+      [
+        "びました。"
+      ]
+    ],
+    "translation": "在游乐园玩了一天。",
+    "tip": "通常有游乐设施。",
+    "kanjiNote": "「遊」读ゆう。",
+    "cloze": {
+      "before": "",
+      "answer": "遊園地",
+      "after": "で一日遊びました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1542170",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "amusement park"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c026",
+    "word": "植物園",
+    "reading": "しょくぶつえん",
+    "category": "名词",
+    "meaning": "植物园",
+    "example": [
+      [
+        "植物園",
+        "しょくぶつえん"
+      ],
+      [
+        "には"
+      ],
+      [
+        "珍",
+        "めずら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "花",
+        "はな"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "植物园里有罕见的花。",
+    "tip": "「植物」表示植物。",
+    "kanjiNote": "注意「物」在这里读ぶつ。",
+    "cloze": {
+      "before": "",
+      "answer": "植物園",
+      "after": "には珍しい花があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1357310",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "botanical garden"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c027",
+    "word": "劇場",
+    "reading": "げきじょう",
+    "category": "名词",
+    "meaning": "剧场；剧院",
+    "example": [
+      [
+        "劇場",
+        "げきじょう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "入口",
+        "いりぐち"
+      ],
+      [
+        "で"
+      ],
+      [
+        "待",
+        "ま"
+      ],
+      [
+        "ちます。"
+      ]
+    ],
+    "translation": "在剧院入口等候。",
+    "tip": "与看电影的「映画館」区分。",
+    "kanjiNote": "「劇」与戏剧有关。",
+    "cloze": {
+      "before": "",
+      "answer": "劇場",
+      "after": "の入口で待ちます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1253410",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "theatre",
+          "theater",
+          "playhouse"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c028",
+    "word": "映画館",
+    "reading": "えいがかん",
+    "category": "名词",
+    "meaning": "电影院",
+    "example": [
+      [
+        "駅前",
+        "えきまえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "映画館",
+        "えいがかん"
+      ],
+      [
+        "ができました。"
+      ]
+    ],
+    "translation": "车站前新开了一家电影院。",
+    "tip": "「映画館で映画を見る」表示在电影院看电影。",
+    "kanjiNote": "在「映画」后加「館」。",
+    "cloze": {
+      "before": "駅前に新しい",
+      "answer": "映画館",
+      "after": "ができました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1173750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "movie theatre",
+          "movie theater",
+          "cinema"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c029",
+    "word": "体育館",
+    "reading": "たいいくかん",
+    "category": "名词",
+    "meaning": "体育馆",
+    "example": [
+      [
+        "雨",
+        "あめ"
+      ],
+      [
+        "なので"
+      ],
+      [
+        "体育館",
+        "たいいくかん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "運動",
+        "うんどう"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "因为下雨，在体育馆运动。",
+    "tip": "常用于学校或公共体育设施。",
+    "kanjiNote": "标准读音是たいいくかん。",
+    "cloze": {
+      "before": "雨なので",
+      "answer": "体育館",
+      "after": "で運動します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1409230",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "gymnasium"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c030",
+    "word": "図書館",
+    "reading": "としょかん",
+    "category": "名词",
+    "meaning": "图书馆",
+    "example": [
+      [
+        "図書館",
+        "としょかん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "借",
+        "か"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "在图书馆借书。",
+    "tip": "「本を借りる」表示借入书籍。",
+    "kanjiNote": "「図書」读としょ。",
+    "cloze": {
+      "before": "",
+      "answer": "図書館",
+      "after": "で本を借ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1370420",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "library"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c031",
+    "word": "市役所",
+    "reading": "しやくしょ",
+    "category": "名词",
+    "meaning": "市政府办公机构；市政厅",
+    "example": [
+      [
+        "市役所",
+        "しやくしょ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "手続",
+        "てつづ"
+      ],
+      [
+        "きをします。"
+      ]
+    ],
+    "translation": "在市政厅办理手续。",
+    "tip": "用于市级行政机关的窗口服务场景。",
+    "kanjiNote": "「役所」读やくしょ。",
+    "cloze": {
+      "before": "",
+      "answer": "市役所",
+      "after": "で手続きをします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1308760",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "municipal office",
+          "council",
+          "city hall"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c032",
+    "word": "郵便局",
+    "reading": "ゆうびんきょく",
+    "category": "名词",
+    "meaning": "邮局",
+    "example": [
+      [
+        "郵便局",
+        "ゆうびんきょく"
+      ],
+      [
+        "から"
+      ],
+      [
+        "荷物",
+        "にもつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "送",
+        "おく"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "从邮局寄包裹。",
+    "tip": "「郵便局から送る」强调寄出地点。",
+    "kanjiNote": "「郵便」读ゆうびん。",
+    "cloze": {
+      "before": "",
+      "answer": "郵便局",
+      "after": "から荷物を送ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1542430",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "post office"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c033",
+    "word": "警察",
+    "reading": "けいさつ",
+    "category": "名词",
+    "meaning": "警方；警察机构",
+    "example": [
+      [
+        "事故",
+        "じこ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "て"
+      ],
+      [
+        "警察",
+        "けいさつ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "連絡",
+        "れんらく"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "看到事故后联系了警方。",
+    "tip": "「警察に連絡する」表示联系警方。",
+    "kanjiNote": "注意「察」读さつ。",
+    "cloze": {
+      "before": "事故を見て",
+      "answer": "警察",
+      "after": "に連絡しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1252390",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "police"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c034",
+    "word": "交番",
+    "reading": "こうばん",
+    "category": "名词",
+    "meaning": "派出所；街区警务岗亭",
+    "example": [
+      [
+        "交番",
+        "こうばん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "聞",
+        "き"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "在派出所问了路。",
+    "tip": "日本街头常见的小型警务站。",
+    "kanjiNote": "「交番」整体读こうばん。",
+    "cloze": {
+      "before": "",
+      "answer": "交番",
+      "after": "で道を聞きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1272500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "police box",
+          "koban",
+          "small neighborhood police station"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c035",
+    "word": "消防署",
+    "reading": "しょうぼうしょ",
+    "category": "名词",
+    "meaning": "消防站；消防署",
+    "example": [
+      [
+        "学校",
+        "がっこう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "隣",
+        "となり"
+      ],
+      [
+        "に"
+      ],
+      [
+        "消防署",
+        "しょうぼうしょ"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "学校旁边有一座消防站。",
+    "tip": "与消防车「消防車」区分。",
+    "kanjiNote": "「署」表示机构，读しょ。",
+    "cloze": {
+      "before": "学校の隣に",
+      "answer": "消防署",
+      "after": "があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1350370",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "fire station"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c036",
+    "word": "救急車",
+    "reading": "きゅうきゅうしゃ",
+    "category": "名词",
+    "meaning": "救护车",
+    "example": [
+      [
+        "救急車",
+        "きゅうきゅうしゃ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "病院",
+        "びょういん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "着",
+        "つ"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "救护车到达了医院。",
+    "tip": "呼叫救护车可说「救急車を呼ぶ」。",
+    "kanjiNote": "注意两个连续的きゅう。",
+    "cloze": {
+      "before": "",
+      "answer": "救急車",
+      "after": "が病院に着きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1229100",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "ambulance"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c037",
+    "word": "病室",
+    "reading": "びょうしつ",
+    "category": "名词",
+    "meaning": "病房",
+    "example": [
+      [
+        "病室",
+        "びょうしつ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "窓",
+        "まど"
+      ],
+      [
+        "から"
+      ],
+      [
+        "庭",
+        "にわ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "从病房的窗户能看到庭院。",
+    "tip": "「病室に入る」表示进入病房。",
+    "kanjiNote": "「室」表示房间。",
+    "cloze": {
+      "before": "",
+      "answer": "病室",
+      "after": "の窓から庭が見えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1490310",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "sickroom",
+          "hospital room",
+          "ward"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c038",
+    "word": "入院",
+    "reading": "にゅういん",
+    "category": "名词・サ变动词",
+    "meaning": "住院",
+    "example": [
+      [
+        "祖父",
+        "そふ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "入院",
+        "にゅういん"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "祖父正在住院。",
+    "tip": "「入院している」表示处于住院状态。",
+    "kanjiNote": "「入」表示进入。",
+    "cloze": {
+      "before": "祖父は",
+      "answer": "入院",
+      "after": "しています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1465720",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "hospitalization",
+          "hospitalisation"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c039",
+    "word": "退院",
+    "reading": "たいいん",
+    "category": "名词・サ变动词",
+    "meaning": "出院",
+    "example": [
+      [
+        "明日",
+        "あした"
+      ],
+      [
+        "は"
+      ],
+      [
+        "母",
+        "はは"
+      ],
+      [
+        "の"
+      ],
+      [
+        "退院",
+        "たいいん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "予定",
+        "よてい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "母亲计划明天出院。",
+    "tip": "与「入院」相对。",
+    "kanjiNote": "「退」有离开之意。",
+    "cloze": {
+      "before": "明日は母の",
+      "answer": "退院",
+      "after": "の予定です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1411300",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "leaving hospital",
+          "discharge from hospital"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c040",
+    "word": "患者",
+    "reading": "かんじゃ",
+    "category": "名词",
+    "meaning": "患者；病人",
+    "example": [
+      [
+        "患者",
+        "かんじゃ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "順番",
+        "じゅんばん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "待",
+        "ま"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "患者正在等候叫号。",
+    "tip": "指接受诊疗的人。",
+    "kanjiNote": "「者」在这里读じゃ。",
+    "cloze": {
+      "before": "",
+      "answer": "患者",
+      "after": "は順番を待っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1212210",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "patient"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c041",
+    "word": "医師",
+    "reading": "いし",
+    "category": "名词",
+    "meaning": "医生；医师",
+    "example": [
+      [
+        "医師",
+        "いし"
+      ],
+      [
+        "に"
+      ],
+      [
+        "症状",
+        "しょうじょう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "説明",
+        "せつめい"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "向医生说明了症状。",
+    "tip": "属于正式称谓，口语也常说「お医者さん」。",
+    "kanjiNote": "「師」读し。",
+    "cloze": {
+      "before": "",
+      "answer": "医師",
+      "after": "に症状を説明しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1159930",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "doctor",
+          "physician"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c042",
+    "word": "看護師",
+    "reading": "かんごし",
+    "category": "名词",
+    "meaning": "护士",
+    "example": [
+      [
+        "看護師",
+        "かんごし"
+      ],
+      [
+        "が"
+      ],
+      [
+        "病室",
+        "びょうしつ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "来",
+        "き"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "护士来到了病房。",
+    "tip": "不限定性别的职业名称。",
+    "kanjiNote": "「看護」读かんご。",
+    "cloze": {
+      "before": "",
+      "answer": "看護師",
+      "after": "が病室に来ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1928100",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(hospital) nurse",
+          "registered nurse",
+          "RN"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c043",
+    "word": "歯科",
+    "reading": "しか",
+    "category": "名词",
+    "meaning": "牙科；牙科学",
+    "example": [
+      [
+        "歯科",
+        "しか"
+      ],
+      [
+        "の"
+      ],
+      [
+        "診察",
+        "しんさつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "予約",
+        "よやく"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "预约了牙科诊察。",
+    "tip": "常见于诊所名称「歯科医院」。",
+    "kanjiNote": "「歯」的音读是し。",
+    "cloze": {
+      "before": "",
+      "answer": "歯科",
+      "after": "の診察を予約しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1313110",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "dentistry"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c044",
+    "word": "内科",
+    "reading": "ないか",
+    "category": "名词",
+    "meaning": "内科（科室）",
+    "example": [
+      [
+        "病院",
+        "びょういん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "内科",
+        "ないか"
+      ],
+      [
+        "で"
+      ],
+      [
+        "診察",
+        "しんさつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "受",
+        "う"
+      ],
+      [
+        "けます。"
+      ]
+    ],
+    "translation": "在医院内科接受诊察。",
+    "tip": "本课取医院科室的意思。",
+    "kanjiNote": "「内」读ない。",
+    "cloze": {
+      "before": "病院の",
+      "answer": "内科",
+      "after": "で診察を受けます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1457830",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "department of internal medicine"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c045",
+    "word": "外科",
+    "reading": "げか",
+    "category": "名词",
+    "meaning": "外科（科室）",
+    "example": [
+      [
+        "外科",
+        "げか"
+      ],
+      [
+        "の"
+      ],
+      [
+        "受付",
+        "うけつけ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "二階",
+        "にかい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "外科的接待处在二楼。",
+    "tip": "本课取医院科室的意思。",
+    "kanjiNote": "「外」在这个词中读げ。",
+    "cloze": {
+      "before": "",
+      "answer": "外科",
+      "after": "の受付は二階です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1203380",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "department of surgery"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c046",
+    "word": "皮膚",
+    "reading": "ひふ",
+    "category": "名词",
+    "meaning": "皮肤",
+    "example": [
+      [
+        "医師",
+        "いし"
+      ],
+      [
+        "が"
+      ],
+      [
+        "皮膚",
+        "ひふ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "状態",
+        "じょうたい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "医生查看皮肤的情况。",
+    "tip": "「皮膚科」表示皮肤科。",
+    "kanjiNote": "「膚」读ふ。",
+    "cloze": {
+      "before": "医師が",
+      "answer": "皮膚",
+      "after": "の状態を見ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1483920",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "skin"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c047",
+    "word": "骨",
+    "reading": "ほね",
+    "category": "名词",
+    "meaning": "骨头",
+    "example": [
+      [
+        "魚",
+        "さかな"
+      ],
+      [
+        "の"
+      ],
+      [
+        "骨",
+        "ほね"
+      ],
+      [
+        "を"
+      ],
+      [
+        "取",
+        "と"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "挑掉鱼骨。",
+    "tip": "既可指人体骨骼，也可指动物的骨头。",
+    "kanjiNote": "单字读ほね。",
+    "cloze": {
+      "before": "魚の",
+      "answer": "骨",
+      "after": "を取ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1288550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "bone"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c048",
+    "word": "筋肉",
+    "reading": "きんにく",
+    "category": "名词",
+    "meaning": "肌肉",
+    "example": [
+      [
+        "運動",
+        "うんどう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "、"
+      ],
+      [
+        "筋肉",
+        "きんにく"
+      ],
+      [
+        "が"
+      ],
+      [
+        "痛",
+        "いた"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "运动后肌肉疼。",
+    "tip": "肌肉酸痛常说「筋肉痛」。",
+    "kanjiNote": "「筋」读きん。",
+    "cloze": {
+      "before": "運動の後、",
+      "answer": "筋肉",
+      "after": "が痛いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1241810",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "muscle"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c049",
+    "word": "肺",
+    "reading": "はい",
+    "category": "名词",
+    "meaning": "肺",
+    "example": [
+      [
+        "医師",
+        "いし"
+      ],
+      [
+        "が"
+      ],
+      [
+        "肺",
+        "はい"
+      ],
+      [
+        "の"
+      ],
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "説明",
+        "せつめい"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "医生讲解肺部影像。",
+    "tip": "人体器官名称。",
+    "kanjiNote": "音读はい，不是ばい。",
+    "cloze": {
+      "before": "医師が",
+      "answer": "肺",
+      "after": "の写真を説明します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1472870",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "lung"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c050",
+    "word": "胃",
+    "reading": "い",
+    "category": "名词",
+    "meaning": "胃",
+    "example": [
+      [
+        "食事",
+        "しょくじ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "胃",
+        "い"
+      ],
+      [
+        "が"
+      ],
+      [
+        "痛",
+        "いた"
+      ],
+      [
+        "くなりました。"
+      ]
+    ],
+    "translation": "饭后胃疼了起来。",
+    "tip": "「胃が痛い」表示胃痛。",
+    "kanjiNote": "单字只读一个音拍い。",
+    "cloze": {
+      "before": "食事の後で",
+      "answer": "胃",
+      "after": "が痛くなりました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1158500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "stomach"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c051",
+    "word": "腸",
+    "reading": "ちょう",
+    "category": "名词",
+    "meaning": "肠；肠道",
+    "example": [
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "腸",
+        "ちょう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "働",
+        "はたら"
+      ],
+      [
+        "きを"
+      ],
+      [
+        "調",
+        "しら"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "查书了解肠道的作用。",
+    "tip": "「腸の働き」表示肠道功能。",
+    "kanjiNote": "读音末尾有长音。",
+    "cloze": {
+      "before": "本で",
+      "answer": "腸",
+      "after": "の働きを調べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1428960",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "intestine",
+          "bowel"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c052",
+    "word": "のど",
+    "reading": "のど",
+    "category": "名词",
+    "meaning": "喉咙",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "からのどが"
+      ],
+      [
+        "痛",
+        "いた"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "从早晨开始喉咙就疼。",
+    "tip": "「のどが渇く」表示口渴。",
+    "kanjiNote": "也写作「喉」，本课用常见假名。",
+    "cloze": {
+      "before": "朝から",
+      "answer": "のど",
+      "after": "が痛いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1600280",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "throat"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c053",
+    "word": "腰",
+    "reading": "こし",
+    "category": "名词",
+    "meaning": "腰部；下背部",
+    "example": [
+      [
+        "長",
+        "なが"
+      ],
+      [
+        "く"
+      ],
+      [
+        "座",
+        "すわ"
+      ],
+      [
+        "ると"
+      ],
+      [
+        "腰",
+        "こし"
+      ],
+      [
+        "が"
+      ],
+      [
+        "痛",
+        "いた"
+      ],
+      [
+        "くなります。"
+      ]
+    ],
+    "translation": "坐久了腰会疼。",
+    "tip": "「腰が痛い」是描述腰痛的说法。",
+    "kanjiNote": "单字读こし。",
+    "cloze": {
+      "before": "長く座ると",
+      "answer": "腰",
+      "after": "が痛くなります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1288340",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "lower back",
+          "waist",
+          "hips",
+          "lumbar region"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c054",
+    "word": "ひざ",
+    "reading": "ひざ",
+    "category": "名词",
+    "meaning": "膝盖",
+    "example": [
+      [
+        "転",
+        "ころ"
+      ],
+      [
+        "んでひざを"
+      ],
+      [
+        "打",
+        "う"
+      ],
+      [
+        "ちました。"
+      ]
+    ],
+    "translation": "摔倒时撞到了膝盖。",
+    "tip": "本课取身体部位膝盖的意思。",
+    "kanjiNote": "也写作「膝」。",
+    "cloze": {
+      "before": "転んで",
+      "answer": "ひざ",
+      "after": "を打ちました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1487320",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "knee"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c055",
+    "word": "肘",
+    "reading": "ひじ",
+    "category": "名词",
+    "meaning": "肘部；胳膊肘",
+    "example": [
+      [
+        "肘",
+        "ひじ"
+      ],
+      [
+        "をゆっくり"
+      ],
+      [
+        "曲",
+        "ま"
+      ],
+      [
+        "げます。"
+      ]
+    ],
+    "translation": "慢慢弯曲胳膊肘。",
+    "tip": "常用搭配「肘を曲げる」。",
+    "kanjiNote": "注意读ひじ。",
+    "cloze": {
+      "before": "",
+      "answer": "肘",
+      "after": "をゆっくり曲げます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1487380",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "elbow"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c056",
+    "word": "爪",
+    "reading": "つめ",
+    "category": "名词",
+    "meaning": "指甲；趾甲",
+    "example": [
+      [
+        "爪",
+        "つめ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "短",
+        "みじか"
+      ],
+      [
+        "く"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "把指甲剪短。",
+    "tip": "本课取人体指甲、趾甲的意思。",
+    "kanjiNote": "单字读つめ。",
+    "cloze": {
+      "before": "",
+      "answer": "爪",
+      "after": "を短く切ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1433880",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "nail (e.g. fingernail, toenail)",
+          "claw",
+          "talon",
+          "hoof"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c057",
+    "word": "髪",
+    "reading": "かみ",
+    "category": "名词",
+    "meaning": "头发",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "、"
+      ],
+      [
+        "髪",
+        "かみ"
+      ],
+      [
+        "をとかします。"
+      ]
+    ],
+    "translation": "早晨梳头。",
+    "tip": "「髪をとかす」表示梳理头发。",
+    "kanjiNote": "与纸「紙」读音相同，字形不同。",
+    "cloze": {
+      "before": "朝、",
+      "answer": "髪",
+      "after": "をとかします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1477950",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "hair (on the head)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c058",
+    "word": "眉",
+    "reading": "まゆ",
+    "category": "名词",
+    "meaning": "眉毛",
+    "example": [
+      [
+        "鏡",
+        "かがみ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "眉",
+        "まゆ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "形",
+        "かたち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "照镜子看眉毛的形状。",
+    "tip": "也常说「眉毛」。",
+    "kanjiNote": "单字读まゆ。",
+    "cloze": {
+      "before": "鏡で",
+      "answer": "眉",
+      "after": "の形を見ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1486270",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "eyebrow",
+          "eyebrows"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c059",
+    "word": "まつげ",
+    "reading": "まつげ",
+    "category": "名词",
+    "meaning": "睫毛",
+    "example": [
+      [
+        "彼女",
+        "かのじょ"
+      ],
+      [
+        "はまつげが"
+      ],
+      [
+        "長",
+        "なが"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "她的睫毛很长。",
+    "tip": "指眼睑边缘的毛，不是眉毛。",
+    "kanjiNote": "也写作「睫毛」，日常假名常见。",
+    "cloze": {
+      "before": "彼女は",
+      "answer": "まつげ",
+      "after": "が長いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1569890",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "eyelashes"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c060",
+    "word": "唇",
+    "reading": "くちびる",
+    "category": "名词",
+    "meaning": "嘴唇",
+    "example": [
+      [
+        "冬",
+        "ふゆ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "唇",
+        "くちびる"
+      ],
+      [
+        "が"
+      ],
+      [
+        "乾",
+        "かわ"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "冬天嘴唇容易干。",
+    "tip": "「唇が乾く」表示嘴唇干燥。",
+    "kanjiNote": "整体读くちびる。",
+    "cloze": {
+      "before": "冬は",
+      "answer": "唇",
+      "after": "が乾きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1359940",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "lip",
+          "lips"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c061",
+    "word": "舌",
+    "reading": "した",
+    "category": "名词",
+    "meaning": "舌头",
+    "example": [
+      [
+        "熱",
+        "あつ"
+      ],
+      [
+        "いお"
+      ],
+      [
+        "茶",
+        "ちゃ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "舌",
+        "した"
+      ],
+      [
+        "をやけどしました。"
+      ]
+    ],
+    "translation": "喝热茶时烫到了舌头。",
+    "tip": "「舌を出す」表示伸舌头。",
+    "kanjiNote": "单字读した。",
+    "cloze": {
+      "before": "熱いお茶で",
+      "answer": "舌",
+      "after": "をやけどしました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1387010",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "tongue"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c062",
+    "word": "呼吸",
+    "reading": "こきゅう",
+    "category": "名词・サ变动词",
+    "meaning": "呼吸",
+    "example": [
+      [
+        "走",
+        "はし"
+      ],
+      [
+        "った"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "呼吸",
+        "こきゅう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "整",
+        "ととの"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "跑步后调整呼吸。",
+    "tip": "「呼吸を整える」表示让呼吸恢复平稳。",
+    "kanjiNote": "「吸」读きゅう。",
+    "cloze": {
+      "before": "走った後で",
+      "answer": "呼吸",
+      "after": "を整えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1266470",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "breathing",
+          "respiration"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c063",
+    "word": "睡眠",
+    "reading": "すいみん",
+    "category": "名词",
+    "meaning": "睡眠",
+    "example": [
+      [
+        "昨日",
+        "きのう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "睡眠",
+        "すいみん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "時間",
+        "じかん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "短",
+        "みじか"
+      ],
+      [
+        "かったです。"
+      ]
+    ],
+    "translation": "昨天睡眠时间很短。",
+    "tip": "「睡眠時間」表示睡眠时长。",
+    "kanjiNote": "「睡」读すい。",
+    "cloze": {
+      "before": "昨日は",
+      "answer": "睡眠",
+      "after": "の時間が短かったです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1372370",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "sleep"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c064",
+    "word": "食欲",
+    "reading": "しょくよく",
+    "category": "名词",
+    "meaning": "食欲",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "はあまり"
+      ],
+      [
+        "食欲",
+        "しょくよく"
+      ],
+      [
+        "がありません。"
+      ]
+    ],
+    "translation": "今天没什么食欲。",
+    "tip": "「食欲がある／ない」表示有／没食欲。",
+    "kanjiNote": "「欲」读よく。",
+    "cloze": {
+      "before": "今日はあまり",
+      "answer": "食欲",
+      "after": "がありません。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1358660",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "appetite (for food)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c065",
+    "word": "体温",
+    "reading": "たいおん",
+    "category": "名词",
+    "meaning": "体温",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "、"
+      ],
+      [
+        "体温",
+        "たいおん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "測",
+        "はか"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "早晨测了体温。",
+    "tip": "「体温を測る」表示测量体温。",
+    "kanjiNote": "「温」读おん。",
+    "cloze": {
+      "before": "朝、",
+      "answer": "体温",
+      "after": "を測りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1409250",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "body temperature"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c066",
+    "word": "血圧",
+    "reading": "けつあつ",
+    "category": "名词",
+    "meaning": "血压",
+    "example": [
+      [
+        "看護師",
+        "かんごし"
+      ],
+      [
+        "が"
+      ],
+      [
+        "血圧",
+        "けつあつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "測",
+        "はか"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "护士测量血压。",
+    "tip": "测量搭配「測る」。",
+    "kanjiNote": "「血」音读けつ。",
+    "cloze": {
+      "before": "看護師が",
+      "answer": "血圧",
+      "after": "を測ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1255110",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "blood pressure"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c067",
+    "word": "体重",
+    "reading": "たいじゅう",
+    "category": "名词",
+    "meaning": "体重",
+    "example": [
+      [
+        "毎週",
+        "まいしゅう"
+      ],
+      [
+        "、"
+      ],
+      [
+        "体重",
+        "たいじゅう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "記録",
+        "きろく"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "每周记录体重。",
+    "tip": "通常用キロ表示体重。",
+    "kanjiNote": "「重」在这里读じゅう。",
+    "cloze": {
+      "before": "毎週、",
+      "answer": "体重",
+      "after": "を記録します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1409540",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(body) weight"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c068",
+    "word": "身長",
+    "reading": "しんちょう",
+    "category": "名词",
+    "meaning": "身高",
+    "example": [
+      [
+        "子供",
+        "こども"
+      ],
+      [
+        "の"
+      ],
+      [
+        "身長",
+        "しんちょう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "測",
+        "はか"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "测量孩子的身高。",
+    "tip": "「身長が伸びる」表示长高。",
+    "kanjiNote": "「長」读ちょう。",
+    "cloze": {
+      "before": "子供の",
+      "answer": "身長",
+      "after": "を測ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1365770",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "height (of a person)",
+          "stature"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c069",
+    "word": "頭痛",
+    "reading": "ずつう",
+    "category": "名词",
+    "meaning": "头痛",
+    "example": [
+      [
+        "頭痛",
+        "ずつう"
+      ],
+      [
+        "がするので、"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "休",
+        "やす"
+      ],
+      [
+        "みます。"
+      ]
+    ],
+    "translation": "因为头疼，休息一会儿。",
+    "tip": "常用「頭痛がする」，也可说「頭が痛い」。",
+    "kanjiNote": "「頭」在这个词中读ず。",
+    "cloze": {
+      "before": "",
+      "answer": "頭痛",
+      "after": "がするので、少し休みます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1450890",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "headache"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c070",
+    "word": "腹痛",
+    "reading": "ふくつう",
+    "category": "名词",
+    "meaning": "腹痛；肚子疼",
+    "example": [
+      [
+        "腹痛",
+        "ふくつう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "学校",
+        "がっこう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "休",
+        "やす"
+      ],
+      [
+        "みました。"
+      ]
+    ],
+    "translation": "因腹痛向学校请了假。",
+    "tip": "较口语的表达是「お腹が痛い」。",
+    "kanjiNote": "「腹」音读ふく。",
+    "cloze": {
+      "before": "",
+      "answer": "腹痛",
+      "after": "で学校を休みました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1501230",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "stomach ache",
+          "abdominal pain"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c071",
+    "word": "花粉",
+    "reading": "かふん",
+    "category": "名词",
+    "meaning": "花粉",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "花粉",
+        "かふん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "多",
+        "おお"
+      ],
+      [
+        "く"
+      ],
+      [
+        "飛",
+        "と"
+      ],
+      [
+        "んでいます。"
+      ]
+    ],
+    "translation": "今天空气中飘散着很多花粉。",
+    "tip": "「花粉が飛ぶ」表示花粉飘散。",
+    "kanjiNote": "「粉」读ふん。",
+    "cloze": {
+      "before": "今日は",
+      "answer": "花粉",
+      "after": "が多く飛んでいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1194890",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "pollen"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c072",
+    "word": "日焼け",
+    "reading": "ひやけ",
+    "category": "名词・サ变动词",
+    "meaning": "晒黑；晒伤",
+    "example": [
+      [
+        "海",
+        "うみ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "遊",
+        "あそ"
+      ],
+      [
+        "んで"
+      ],
+      [
+        "日焼け",
+        "ひやけ"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "在海边玩后晒黑了。",
+    "tip": "「日焼けする」既可表示晒黑，也可表示晒伤。",
+    "kanjiNote": "「焼け」来自やける。",
+    "cloze": {
+      "before": "海で遊んで",
+      "answer": "日焼け",
+      "after": "しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1602220",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "sunburn",
+          "suntan",
+          "tan"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c073",
+    "word": "虫刺され",
+    "reading": "むしさされ",
+    "category": "名词",
+    "meaning": "蚊虫叮咬；虫咬处",
+    "example": [
+      [
+        "腕",
+        "うで"
+      ],
+      [
+        "の"
+      ],
+      [
+        "虫刺され",
+        "むしさされ"
+      ],
+      [
+        "がかゆいです。"
+      ]
+    ],
+    "translation": "胳膊上被虫咬的地方很痒。",
+    "tip": "「虫に刺される」表示被虫叮咬。",
+    "kanjiNote": "「虫」读むし。",
+    "cloze": {
+      "before": "腕の",
+      "answer": "虫刺され",
+      "after": "がかゆいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "2159890",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "insect bite",
+          "bug bite",
+          "sting"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c074",
+    "word": "包帯",
+    "reading": "ほうたい",
+    "category": "名词",
+    "meaning": "绷带",
+    "example": [
+      [
+        "看護師",
+        "かんごし"
+      ],
+      [
+        "が"
+      ],
+      [
+        "包帯",
+        "ほうたい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "替",
+        "か"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "护士更换绷带。",
+    "tip": "「包帯を巻く」表示缠绷带。",
+    "kanjiNote": "「帯」读たい。",
+    "cloze": {
+      "before": "看護師が",
+      "answer": "包帯",
+      "after": "を替えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1603360",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "bandage",
+          "dressing"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c075",
+    "word": "湿布",
+    "reading": "しっぷ",
+    "category": "名词",
+    "meaning": "湿敷布；药用敷贴",
+    "example": [
+      [
+        "薬局",
+        "やっきょく"
+      ],
+      [
+        "で"
+      ],
+      [
+        "湿布",
+        "しっぷ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "在药店买了敷贴。",
+    "tip": "日常常指贴在患处的药用敷贴。",
+    "kanjiNote": "注意促音っ。",
+    "cloze": {
+      "before": "薬局で",
+      "answer": "湿布",
+      "after": "を買いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1320510",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(wet) compress",
+          "poultice",
+          "fomentation"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c076",
+    "word": "体操",
+    "reading": "たいそう",
+    "category": "名词・サ变动词",
+    "meaning": "体操；健身操",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "公園",
+        "こうえん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "体操",
+        "たいそう"
+      ],
+      [
+        "をします。"
+      ]
+    ],
+    "translation": "早晨在公园做操。",
+    "tip": "「体操をする」表示做体操。",
+    "kanjiNote": "「操」读そう。",
+    "cloze": {
+      "before": "朝は公園で",
+      "answer": "体操",
+      "after": "をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1409580",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "gymnastics",
+          "physical exercises"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c077",
+    "word": "水泳",
+    "reading": "すいえい",
+    "category": "名词・サ变动词",
+    "meaning": "游泳",
+    "example": [
+      [
+        "妹",
+        "いもうと"
+      ],
+      [
+        "は"
+      ],
+      [
+        "水泳",
+        "すいえい"
+      ],
+      [
+        "が"
+      ],
+      [
+        "得意",
+        "とくい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "妹妹擅长游泳。",
+    "tip": "表示运动项目时常用这个名词。",
+    "kanjiNote": "「泳」音读えい。",
+    "cloze": {
+      "before": "妹は",
+      "answer": "水泳",
+      "after": "が得意です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1371320",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "swimming"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c078",
+    "word": "ジョギング",
+    "reading": "ジョギング",
+    "category": "名词・サ变动词",
+    "meaning": "慢跑",
+    "example": [
+      [
+        "週末",
+        "しゅうまつ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "川沿",
+        "かわぞ"
+      ],
+      [
+        "いでジョギングをします。"
+      ]
+    ],
+    "translation": "周末沿河慢跑。",
+    "tip": "常用「ジョギングをする」。",
+    "kanjiNote": "外来语，通常用片假名。",
+    "cloze": {
+      "before": "週末は川沿いで",
+      "answer": "ジョギング",
+      "after": "をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1066360",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "jogging"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c079",
+    "word": "サイクリング",
+    "reading": "サイクリング",
+    "category": "名词",
+    "meaning": "骑自行车游玩；自行车运动",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "と"
+      ],
+      [
+        "湖",
+        "みずうみ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "周",
+        "まわ"
+      ],
+      [
+        "りでサイクリングをします。"
+      ]
+    ],
+    "translation": "和朋友绕湖骑自行车。",
+    "tip": "常指以休闲、运动为目的的骑行。",
+    "kanjiNote": "通常用片假名书写。",
+    "cloze": {
+      "before": "友達と湖の周りで",
+      "answer": "サイクリング",
+      "after": "をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1055500",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "cycling",
+          "bicycling"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c080",
+    "word": "キャンプ",
+    "reading": "キャンプ",
+    "category": "名词・サ变动词",
+    "meaning": "露营；野营",
+    "example": [
+      [
+        "夏",
+        "なつ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "山",
+        "やま"
+      ],
+      [
+        "でキャンプをします。"
+      ]
+    ],
+    "translation": "夏天在山里露营。",
+    "tip": "「キャンプ場」表示露营地。",
+    "kanjiNote": "「キャ」合起来是一个音拍。",
+    "cloze": {
+      "before": "夏は山で",
+      "answer": "キャンプ",
+      "after": "をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1042200",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "camp",
+          "camping"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c081",
+    "word": "釣り",
+    "reading": "つり",
+    "category": "名词",
+    "meaning": "钓鱼",
+    "example": [
+      [
+        "父",
+        "ちち"
+      ],
+      [
+        "は"
+      ],
+      [
+        "日曜",
+        "にちよう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "釣り",
+        "つり"
+      ],
+      [
+        "に"
+      ],
+      [
+        "行",
+        "い"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "父亲周日去钓鱼。",
+    "tip": "「釣りに行く」表示去钓鱼。",
+    "kanjiNote": "「釣」读つ。",
+    "cloze": {
+      "before": "父は日曜に",
+      "answer": "釣り",
+      "after": "に行きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1434040",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "fishing",
+          "angling"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c082",
+    "word": "スキー",
+    "reading": "スキー",
+    "category": "名词",
+    "meaning": "滑雪",
+    "example": [
+      [
+        "冬",
+        "ふゆ"
+      ],
+      [
+        "にスキーを"
+      ],
+      [
+        "習",
+        "なら"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "冬天学习滑雪。",
+    "tip": "本课取运动项目的意思。",
+    "kanjiNote": "长音符号ー需读足时长。",
+    "cloze": {
+      "before": "冬に",
+      "answer": "スキー",
+      "after": "を習います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1067770",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "skiing"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c083",
+    "word": "スケート",
+    "reading": "スケート",
+    "category": "名词・サ变动词",
+    "meaning": "滑冰",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "とスケートを"
+      ],
+      [
+        "楽",
+        "たの"
+      ],
+      [
+        "しみました。"
+      ]
+    ],
+    "translation": "和朋友一起享受了滑冰的乐趣。",
+    "tip": "通常指冰上滑行，也可用于其他滑行项目。",
+    "kanjiNote": "通常用片假名书写。",
+    "cloze": {
+      "before": "友達と",
+      "answer": "スケート",
+      "after": "を楽しみました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1068770",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "skating (esp. ice)",
+          "skate",
+          "skates"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c084",
+    "word": "野球",
+    "reading": "やきゅう",
+    "category": "名词",
+    "meaning": "棒球",
+    "example": [
+      [
+        "テレビで"
+      ],
+      [
+        "野球",
+        "やきゅう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "試合",
+        "しあい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "在电视上看棒球比赛。",
+    "tip": "「野球の試合」表示棒球比赛。",
+    "kanjiNote": "「野」读や，「球」读きゅう。",
+    "cloze": {
+      "before": "テレビで",
+      "answer": "野球",
+      "after": "の試合を見ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1537300",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "baseball"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c085",
+    "word": "サッカー",
+    "reading": "サッカー",
+    "category": "名词",
+    "meaning": "足球",
+    "example": [
+      [
+        "公園",
+        "こうえん"
+      ],
+      [
+        "でサッカーをしました。"
+      ]
+    ],
+    "translation": "在公园踢了足球。",
+    "tip": "踢足球常说「サッカーをする」。",
+    "kanjiNote": "注意促音ッ和长音ー。",
+    "cloze": {
+      "before": "公園で",
+      "answer": "サッカー",
+      "after": "をしました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1056700",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "soccer",
+          "(association) football"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c086",
+    "word": "卓球",
+    "reading": "たっきゅう",
+    "category": "名词",
+    "meaning": "乒乓球",
+    "example": [
+      [
+        "休",
+        "やす"
+      ],
+      [
+        "みの"
+      ],
+      [
+        "日",
+        "ひ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "卓球",
+        "たっきゅう"
+      ],
+      [
+        "をします。"
+      ]
+    ],
+    "translation": "休息日打乒乓球。",
+    "tip": "常用「卓球をする」。",
+    "kanjiNote": "注意促音っ。",
+    "cloze": {
+      "before": "休みの日に",
+      "answer": "卓球",
+      "after": "をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1415610",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "table tennis",
+          "ping-pong"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c087",
+    "word": "テニス",
+    "reading": "テニス",
+    "category": "名词",
+    "meaning": "网球",
+    "example": [
+      [
+        "姉",
+        "あね"
+      ],
+      [
+        "とテニスをしました。"
+      ]
+    ],
+    "translation": "和姐姐打了网球。",
+    "tip": "「テニスをする」表示打网球。",
+    "kanjiNote": "通常用片假名书写。",
+    "cloze": {
+      "before": "姉と",
+      "answer": "テニス",
+      "after": "をしました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1080000",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "tennis"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c088",
+    "word": "バスケットボール",
+    "reading": "バスケットボール",
+    "category": "名词",
+    "meaning": "篮球",
+    "example": [
+      [
+        "体育館",
+        "たいいくかん"
+      ],
+      [
+        "でバスケットボールをします。"
+      ]
+    ],
+    "translation": "在体育馆打篮球。",
+    "tip": "口语中常简称「バスケ」。",
+    "kanjiNote": "长音位于「ボール」。",
+    "cloze": {
+      "before": "体育館で",
+      "answer": "バスケットボール",
+      "after": "をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1098440",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "basketball"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c089",
+    "word": "楽器",
+    "reading": "がっき",
+    "category": "名词",
+    "meaning": "乐器",
+    "example": [
+      [
+        "何",
+        "なに"
+      ],
+      [
+        "か"
+      ],
+      [
+        "楽器",
+        "がっき"
+      ],
+      [
+        "を"
+      ],
+      [
+        "弾",
+        "ひ"
+      ],
+      [
+        "きますか。"
+      ]
+    ],
+    "translation": "你会演奏什么乐器吗？",
+    "tip": "「楽器を演奏する」可泛指演奏乐器。",
+    "kanjiNote": "注意促音っ。",
+    "cloze": {
+      "before": "何か",
+      "answer": "楽器",
+      "after": "を弾きますか。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1207340",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "musical instrument"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c090",
+    "word": "ギター",
+    "reading": "ギター",
+    "category": "名词",
+    "meaning": "吉他",
+    "example": [
+      [
+        "兄",
+        "あに"
+      ],
+      [
+        "は"
+      ],
+      [
+        "毎晩",
+        "まいばん"
+      ],
+      [
+        "ギターを"
+      ],
+      [
+        "弾",
+        "ひ"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "哥哥每晚弹吉他。",
+    "tip": "吉他搭配动词「弾く」。",
+    "kanjiNote": "末尾有长音ー。",
+    "cloze": {
+      "before": "兄は毎晩",
+      "answer": "ギター",
+      "after": "を弾きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1042820",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "guitar"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c091",
+    "word": "ピアノ",
+    "reading": "ピアノ",
+    "category": "名词",
+    "meaning": "钢琴",
+    "example": [
+      [
+        "子供",
+        "こども"
+      ],
+      [
+        "の"
+      ],
+      [
+        "頃",
+        "ころ"
+      ],
+      [
+        "、ピアノを"
+      ],
+      [
+        "習",
+        "なら"
+      ],
+      [
+        "っていました。"
+      ]
+    ],
+    "translation": "小时候学过钢琴。",
+    "tip": "本课取乐器钢琴的意思。",
+    "kanjiNote": "通常用片假名书写。",
+    "cloze": {
+      "before": "子供の頃、",
+      "answer": "ピアノ",
+      "after": "を習っていました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1106400",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "piano (instrument)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c092",
+    "word": "演奏",
+    "reading": "えんそう",
+    "category": "名词・サ变动词",
+    "meaning": "演奏",
+    "example": [
+      [
+        "学生",
+        "がくせい"
+      ],
+      [
+        "の"
+      ],
+      [
+        "演奏",
+        "えんそう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "聞",
+        "き"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "听了学生的演奏。",
+    "tip": "「演奏する」表示演奏乐器。",
+    "kanjiNote": "「奏」读そう。",
+    "cloze": {
+      "before": "学生の",
+      "answer": "演奏",
+      "after": "を聞きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1607520",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "musical performance"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c093",
+    "word": "コンサート",
+    "reading": "コンサート",
+    "category": "名词",
+    "meaning": "音乐会；演唱会",
+    "example": [
+      [
+        "来週",
+        "らいしゅう"
+      ],
+      [
+        "、コンサートに"
+      ],
+      [
+        "行",
+        "い"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "下周去听音乐会。",
+    "tip": "「コンサートに行く」表示去听音乐会或演唱会。",
+    "kanjiNote": "「サー」含长音。",
+    "cloze": {
+      "before": "来週、",
+      "answer": "コンサート",
+      "after": "に行きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1051970",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "concert"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c094",
+    "word": "展覧会",
+    "reading": "てんらんかい",
+    "category": "名词",
+    "meaning": "展览会",
+    "example": [
+      [
+        "美術館",
+        "びじゅつかん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "展覧会",
+        "てんらんかい"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "美术馆有摄影展。",
+    "tip": "可与「絵」「写真」等组合说明展览内容。",
+    "kanjiNote": "「覧」读らん。",
+    "cloze": {
+      "before": "美術館で写真の",
+      "answer": "展覧会",
+      "after": "があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1440660",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "exhibition"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c095",
+    "word": "お祭り",
+    "reading": "おまつり",
+    "category": "名词",
+    "meaning": "节庆；祭典",
+    "example": [
+      [
+        "今夜",
+        "こんや"
+      ],
+      [
+        "は"
+      ],
+      [
+        "町",
+        "まち"
+      ],
+      [
+        "の"
+      ],
+      [
+        "お祭り",
+        "おまつり"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "今晚是镇上的节庆。",
+    "tip": "「祭り」前加「お」是常见说法。",
+    "kanjiNote": "「祭」读まつ。",
+    "cloze": {
+      "before": "今夜は町の",
+      "answer": "お祭り",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1604135",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "festival",
+          "feast",
+          "carnival",
+          "matsuri"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c096",
+    "word": "花火",
+    "reading": "はなび",
+    "category": "名词",
+    "meaning": "烟花",
+    "example": [
+      [
+        "川",
+        "かわ"
+      ],
+      [
+        "のそばで"
+      ],
+      [
+        "花火",
+        "はなび"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "在河边看了烟花。",
+    "tip": "「花火大会」表示大型烟花活动。",
+    "kanjiNote": "「火」在这里浊化读び。",
+    "cloze": {
+      "before": "川のそばで",
+      "answer": "花火",
+      "after": "を見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1194580",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "fireworks"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c097",
+    "word": "紅葉",
+    "reading": "こうよう",
+    "category": "名词・サ变动词",
+    "meaning": "秋叶变红；秋日红叶",
+    "example": [
+      [
+        "山",
+        "やま"
+      ],
+      [
+        "の"
+      ],
+      [
+        "紅葉",
+        "こうよう"
+      ],
+      [
+        "がきれいです。"
+      ]
+    ],
+    "translation": "山中的红叶很美。",
+    "tip": "本课读こうよう；もみじ常指枫树或其叶。",
+    "kanjiNote": "「紅」读こう，「葉」读よう。",
+    "cloze": {
+      "before": "山の",
+      "answer": "紅葉",
+      "after": "がきれいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1578780",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "leaves turning red (in autumn)",
+          "red leaves",
+          "autumn colours",
+          "fall colors"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c098",
+    "word": "桜",
+    "reading": "さくら",
+    "category": "名词",
+    "meaning": "樱树；樱花",
+    "example": [
+      [
+        "公園",
+        "こうえん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "桜",
+        "さくら"
+      ],
+      [
+        "が"
+      ],
+      [
+        "咲",
+        "さ"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "公园里的樱花开了。",
+    "tip": "「桜が咲く」表示樱花开放。",
+    "kanjiNote": "单字读さくら。",
+    "cloze": {
+      "before": "公園の",
+      "answer": "桜",
+      "after": "が咲きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1593710",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "cherry tree",
+          "cherry blossom",
+          "sakura"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c099",
+    "word": "竹",
+    "reading": "たけ",
+    "category": "名词",
+    "meaning": "竹子",
+    "example": [
+      [
+        "庭",
+        "にわ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "竹",
+        "たけ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "生",
+        "は"
+      ],
+      [
+        "えています。"
+      ]
+    ],
+    "translation": "院子里长着竹子。",
+    "tip": "成片的竹子可称「竹林」。",
+    "kanjiNote": "单字读たけ。",
+    "cloze": {
+      "before": "庭に",
+      "answer": "竹",
+      "after": "が生えています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1422230",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "bamboo (any grass of subfamily Bambusoideae)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c100",
+    "word": "鳥",
+    "reading": "とり",
+    "category": "名词",
+    "meaning": "鸟",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "、"
+      ],
+      [
+        "鳥",
+        "とり"
+      ],
+      [
+        "の"
+      ],
+      [
+        "声",
+        "こえ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "聞",
+        "き"
+      ],
+      [
+        "こえます。"
+      ]
+    ],
+    "translation": "早晨能听到鸟叫声。",
+    "tip": "「鳥の声」表示鸟叫声。",
+    "kanjiNote": "注意与「島」的字形区分。",
+    "cloze": {
+      "before": "朝、",
+      "answer": "鳥",
+      "after": "の声が聞こえます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1430250",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "bird"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c101",
+    "word": "虫",
+    "reading": "むし",
+    "category": "名词",
+    "meaning": "昆虫；小虫",
+    "example": [
+      [
+        "葉",
+        "は"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "小",
+        "ちい"
+      ],
+      [
+        "さな"
+      ],
+      [
+        "虫",
+        "むし"
+      ],
+      [
+        "がいます。"
+      ]
+    ],
+    "translation": "叶子上有一只小虫。",
+    "tip": "本课取昆虫的意思。",
+    "kanjiNote": "单字读むし。",
+    "cloze": {
+      "before": "葉の上に小さな",
+      "answer": "虫",
+      "after": "がいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1426680",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "insect",
+          "bug",
+          "cricket",
+          "moth"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c102",
+    "word": "犬",
+    "reading": "いぬ",
+    "category": "名词",
+    "meaning": "狗",
+    "example": [
+      [
+        "犬",
+        "いぬ"
+      ],
+      [
+        "と"
+      ],
+      [
+        "公園",
+        "こうえん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "散歩",
+        "さんぽ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "和狗在公园散步。",
+    "tip": "狗叫可用「犬がほえる」。",
+    "kanjiNote": "注意右上方的一点。",
+    "cloze": {
+      "before": "",
+      "answer": "犬",
+      "after": "と公園を散歩します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1258330",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "dog (Canis (lupus) familiaris)",
+          "canine"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c103",
+    "word": "猫",
+    "reading": "ねこ",
+    "category": "名词",
+    "meaning": "猫",
+    "example": [
+      [
+        "猫",
+        "ねこ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "椅子",
+        "いす"
+      ],
+      [
+        "の"
+      ],
+      [
+        "下",
+        "した"
+      ],
+      [
+        "で"
+      ],
+      [
+        "寝",
+        "ね"
+      ],
+      [
+        "ています。"
+      ]
+    ],
+    "translation": "猫正在椅子下面睡觉。",
+    "tip": "猫常用助数词「匹」计数。",
+    "kanjiNote": "单字读ねこ。",
+    "cloze": {
+      "before": "",
+      "answer": "猫",
+      "after": "が椅子の下で寝ています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1467640",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "cat (esp. the domestic cat, Felis catus)",
+          "feline"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c104",
+    "word": "馬",
+    "reading": "うま",
+    "category": "名词",
+    "meaning": "马",
+    "example": [
+      [
+        "牧場",
+        "ぼくじょう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "馬",
+        "うま"
+      ],
+      [
+        "に"
+      ],
+      [
+        "乗",
+        "の"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "在牧场骑了马。",
+    "tip": "「馬に乗る」表示骑马。",
+    "kanjiNote": "单字读うま。",
+    "cloze": {
+      "before": "牧場で",
+      "answer": "馬",
+      "after": "に乗りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1471560",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "horse"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w03-c105",
+    "word": "牛",
+    "reading": "うし",
+    "category": "名词",
+    "meaning": "牛",
+    "example": [
+      [
+        "牛",
+        "うし"
+      ],
+      [
+        "が"
+      ],
+      [
+        "草",
+        "くさ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "食",
+        "た"
+      ],
+      [
+        "べています。"
+      ]
+    ],
+    "translation": "牛正在吃草。",
+    "tip": "本课取动物牛的意思；牛肉说「牛肉」。",
+    "kanjiNote": "单字读うし。",
+    "cloze": {
+      "before": "",
+      "answer": "牛",
+      "after": "が草を食べています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1231490",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "cattle (Bos taurus)",
+          "cow",
+          "bull",
+          "ox",
+          "calf"
+        ]
+      ]
+    }
+  }
+]
