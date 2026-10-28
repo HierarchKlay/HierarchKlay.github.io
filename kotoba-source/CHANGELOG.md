@@ -1,3 +1,10 @@
+## 2026-10-28 · More Chinese-to-Japanese retrieval practice
+
+- Mixed rounds now allocate 6 of 10 questions to Chinese-to-Japanese recall; shorter queues round up proportionally. Other formats remain, with cloze replacing unavailable audio or trivial kana-only reading prompts.
+- Move the dedicated Chinese-to-Japanese entry beside mixed practice and explain the emphasis. Keep Japanese, kana and audio hidden until the answer is revealed; then show pitch and a pronunciation button for comparison.
+- “Another round” preserves the selected practice mode, including dedicated recall. Self-ratings require the revealed answer and remain excluded from objective accuracy.
+- Preserve due-word selection, missed-word review, learning schedules, all lesson records and cloud data formats.
+
 ## 2026-10-23 · Early October 25 edition, lessons 15–21
 
 - Added 245 core words + 70 unique reserve words, 315 original ruby examples/translations, and 35 independent kanji (映–王). Totals: 21 lessons, 945 vocabulary entries and 105 kanji; course ID stays `week01-v1`.
