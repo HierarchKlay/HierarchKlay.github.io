@@ -2,6 +2,7 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 const course=JSON.parse(fs.readFileSync(new URL('./dist/lesson.json',import.meta.url),'utf8'));
+assert.equal(course.days.length,28);
 const listeners={},els=new Map(),store=new Map();
 class Element {constructor(){this.innerHTML='';this.textContent='';this.style={};this.dataset={};this.hidden=false;this.open=false;this.classList={add(){},remove(){},toggle(){},contains(){return false;}};}setAttribute(){}removeAttribute(){}addEventListener(){}querySelectorAll(){return [];}showModal(){this.open=true;}close(){this.open=false;}}
 globalThis.document={querySelector(s){if(!els.has(s))els.set(s,new Element());return els.get(s);},querySelectorAll(){return [];},addEventListener(type,fn){(listeners[type]??=[]).push(fn);},hidden:false};

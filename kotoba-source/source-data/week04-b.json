@@ -1,0 +1,5581 @@
+[
+  {
+    "id": "w04-b001",
+    "word": "親戚",
+    "reading": "しんせき",
+    "category": "名词",
+    "meaning": "亲戚",
+    "example": [
+      [
+        "週末",
+        "しゅうまつ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "親戚",
+        "しんせき"
+      ],
+      [
+        "と"
+      ],
+      [
+        "会",
+        "あ"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "周末和亲戚见面。",
+    "tip": "「親戚に会う」「親戚と会う」都可以描述见亲戚。",
+    "kanjiNote": "「戚」读せき，整词读しんせき。",
+    "cloze": {
+      "before": "週末に",
+      "answer": "親戚",
+      "after": "と会います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1365230",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "relative",
+          "relation",
+          "kin"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b002",
+    "word": "親子",
+    "reading": "おやこ",
+    "category": "名词",
+    "meaning": "父母与孩子；亲子",
+    "example": [
+      [
+        "公園",
+        "こうえん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "親子",
+        "おやこ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "遊",
+        "あそ"
+      ],
+      [
+        "んでいます。"
+      ]
+    ],
+    "translation": "公园里有家长和孩子在玩。",
+    "tip": "「親子」把家长与孩子作为一组来称呼。",
+    "kanjiNote": "这是训读组合：親おや、子こ。",
+    "cloze": {
+      "before": "公園で",
+      "answer": "親子",
+      "after": "が遊んでいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1365170",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "parent and child"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b003",
+    "word": "夫婦",
+    "reading": "ふうふ",
+    "category": "名词",
+    "meaning": "夫妻",
+    "example": [
+      [
+        "あの"
+      ],
+      [
+        "夫婦",
+        "ふうふ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "毎朝",
+        "まいあさ"
+      ],
+      [
+        "一緒",
+        "いっしょ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "散歩",
+        "さんぽ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "那对夫妻每天早上一起散步。",
+    "tip": "两个人合称「夫婦」，不是单指丈夫。",
+    "kanjiNote": "「夫婦」读ふうふ，注意中间的长音。",
+    "cloze": {
+      "before": "あの",
+      "answer": "夫婦",
+      "after": "は毎朝一緒に散歩します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1583640",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "married couple",
+          "husband and wife",
+          "man and wife"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b004",
+    "word": "夫",
+    "reading": "おっと",
+    "category": "名词",
+    "meaning": "丈夫",
+    "example": [
+      [
+        "夫",
+        "おっと"
+      ],
+      [
+        "は"
+      ],
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "、"
+      ],
+      [
+        "家",
+        "いえ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "仕事",
+        "しごと"
+      ],
+      [
+        "をしています。"
+      ]
+    ],
+    "translation": "丈夫今天在家工作。",
+    "tip": "向别人谈自己的丈夫时常用「夫」。",
+    "kanjiNote": "单独作“丈夫”时读おっと。",
+    "cloze": {
+      "before": "",
+      "answer": "夫",
+      "after": "は今日、家で仕事をしています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1496480",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "husband"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b005",
+    "word": "妻",
+    "reading": "つま",
+    "category": "名词",
+    "meaning": "妻子",
+    "example": [
+      [
+        "妻",
+        "つま"
+      ],
+      [
+        "と"
+      ],
+      [
+        "旅行",
+        "りょこう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "予定",
+        "よてい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "決",
+        "き"
+      ],
+      [
+        "めます。"
+      ]
+    ],
+    "translation": "我和妻子商量旅行安排。",
+    "tip": "向别人谈自己的妻子时常用「妻」。",
+    "kanjiNote": "「妻」这里读つま。",
+    "cloze": {
+      "before": "",
+      "answer": "妻",
+      "after": "と旅行の予定を決めます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1294330",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "wife"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b006",
+    "word": "息子",
+    "reading": "むすこ",
+    "category": "名词",
+    "meaning": "儿子",
+    "example": [
+      [
+        "息子",
+        "むすこ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "今年",
+        "ことし"
+      ],
+      [
+        "大学",
+        "だいがく"
+      ],
+      [
+        "に"
+      ],
+      [
+        "入",
+        "はい"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "儿子今年上大学了。",
+    "tip": "谈自己的儿子用「息子」；称对方的儿子常用「息子さん」。",
+    "kanjiNote": "整词读むすこ，不按单字音读拼合。",
+    "cloze": {
+      "before": "",
+      "answer": "息子",
+      "after": "は今年大学に入りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1404390",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "son"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b007",
+    "word": "娘",
+    "reading": "むすめ",
+    "category": "名词",
+    "meaning": "女儿",
+    "example": [
+      [
+        "娘",
+        "むすめ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "絵",
+        "え"
+      ],
+      [
+        "を"
+      ],
+      [
+        "描",
+        "か"
+      ],
+      [
+        "くのが"
+      ],
+      [
+        "好",
+        "す"
+      ],
+      [
+        "きです。"
+      ]
+    ],
+    "translation": "女儿喜欢画画。",
+    "tip": "「娘さん」可以用于称呼别人的女儿。",
+    "kanjiNote": "作“女儿”时读むすめ。",
+    "cloze": {
+      "before": "",
+      "answer": "娘",
+      "after": "は絵を描くのが好きです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1531190",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "daughter"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b008",
+    "word": "祖父",
+    "reading": "そふ",
+    "category": "名词",
+    "meaning": "祖父；外祖父",
+    "example": [
+      [
+        "祖父",
+        "そふ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "手紙",
+        "てがみ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "書",
+        "か"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "我给爷爷写信。",
+    "tip": "对外谈自己的祖父或外祖父时可用「祖父」。",
+    "kanjiNote": "「祖」读そ，「父」在这里读ふ。",
+    "cloze": {
+      "before": "",
+      "answer": "祖父",
+      "after": "に手紙を書きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1396840",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "grandfather"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b009",
+    "word": "祖母",
+    "reading": "そぼ",
+    "category": "名词",
+    "meaning": "祖母；外祖母",
+    "example": [
+      [
+        "祖母",
+        "そぼ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "庭",
+        "にわ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "花",
+        "はな"
+      ],
+      [
+        "を"
+      ],
+      [
+        "育",
+        "そだ"
+      ],
+      [
+        "てています。"
+      ]
+    ],
+    "translation": "奶奶在院子里养花。",
+    "tip": "「祖母」本身不区分奶奶与外婆。",
+    "kanjiNote": "「祖母」读そぼ。",
+    "cloze": {
+      "before": "",
+      "answer": "祖母",
+      "after": "は庭で花を育てています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1396860",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "grandmother"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b010",
+    "word": "孫",
+    "reading": "まご",
+    "category": "名词",
+    "meaning": "孙辈；孙子或孙女",
+    "example": [
+      [
+        "祖父",
+        "そふ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "孫",
+        "まご"
+      ],
+      [
+        "と"
+      ],
+      [
+        "話",
+        "はな"
+      ],
+      [
+        "すのを"
+      ],
+      [
+        "楽",
+        "たの"
+      ],
+      [
+        "しみにしています。"
+      ]
+    ],
+    "translation": "爷爷盼着和孙辈聊天。",
+    "tip": "「孫」不区分性别，也可指外孙辈。",
+    "kanjiNote": "单字词「孫」读まご。",
+    "cloze": {
+      "before": "祖父は",
+      "answer": "孫",
+      "after": "と話すのを楽しみにしています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1406230",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "grandchild"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b011",
+    "word": "両親",
+    "reading": "りょうしん",
+    "category": "名词",
+    "meaning": "父母双亲",
+    "example": [
+      [
+        "休",
+        "やす"
+      ],
+      [
+        "みの"
+      ],
+      [
+        "日",
+        "ひ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "両親",
+        "りょうしん"
+      ],
+      [
+        "へ"
+      ],
+      [
+        "電話",
+        "でんわ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "休息日给父母打电话。",
+    "tip": "只说父母中的一位时不用「両親」。",
+    "kanjiNote": "「両」表示双方，「親」读しん。",
+    "cloze": {
+      "before": "休みの日に",
+      "answer": "両親",
+      "after": "へ電話します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1602710",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "parents",
+          "both parents"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b012",
+    "word": "兄弟",
+    "reading": "きょうだい",
+    "category": "名词",
+    "meaning": "兄弟姐妹",
+    "example": [
+      [
+        "私",
+        "わたし"
+      ],
+      [
+        "には"
+      ],
+      [
+        "兄弟",
+        "きょうだい"
+      ],
+      [
+        "がいます。"
+      ]
+    ],
+    "translation": "我有兄弟姐妹。",
+    "tip": "「兄弟」也可泛指兄弟姐妹，不一定只有男性。",
+    "kanjiNote": "整词读きょうだい，注意きょう的长音。",
+    "cloze": {
+      "before": "私には",
+      "answer": "兄弟",
+      "after": "がいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1249960",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "brothers and sisters",
+          "siblings"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b013",
+    "word": "姉妹",
+    "reading": "しまい",
+    "category": "名词",
+    "meaning": "姐妹",
+    "example": [
+      [
+        "あの"
+      ],
+      [
+        "姉妹",
+        "しまい"
+      ],
+      [
+        "は"
+      ],
+      [
+        "同",
+        "おな"
+      ],
+      [
+        "じ"
+      ],
+      [
+        "学校",
+        "がっこう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "通",
+        "かよ"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "那对姐妹在同一所学校上学。",
+    "tip": "「姉妹」专指姐妹。",
+    "kanjiNote": "「姉」读し，「妹」读まい。",
+    "cloze": {
+      "before": "あの",
+      "answer": "姉妹",
+      "after": "は同じ学校に通っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1579490",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "sisters"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b014",
+    "word": "双子",
+    "reading": "ふたご",
+    "category": "名词",
+    "meaning": "双胞胎",
+    "example": [
+      [
+        "隣",
+        "となり"
+      ],
+      [
+        "の"
+      ],
+      [
+        "家",
+        "いえ"
+      ],
+      [
+        "には"
+      ],
+      [
+        "双子",
+        "ふたご"
+      ],
+      [
+        "がいます。"
+      ]
+    ],
+    "translation": "邻居家有一对双胞胎。",
+    "tip": "可说「双子の兄弟」「双子の姉妹」。",
+    "kanjiNote": "「子」在本词中浊化为ご。",
+    "cloze": {
+      "before": "隣の家には",
+      "answer": "双子",
+      "after": "がいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1398750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "twins",
+          "twin"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b015",
+    "word": "親友",
+    "reading": "しんゆう",
+    "category": "名词",
+    "meaning": "挚友；亲密朋友",
+    "example": [
+      [
+        "親友",
+        "しんゆう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "悩",
+        "なや"
+      ],
+      [
+        "みを"
+      ],
+      [
+        "話",
+        "はな"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "我向挚友诉说了烦恼。",
+    "tip": "比一般的「友達」更强调亲近。",
+    "kanjiNote": "「親友」读しんゆう，ゆう是长音。",
+    "cloze": {
+      "before": "",
+      "answer": "親友",
+      "after": "に悩みを話しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1365410",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "close friend",
+          "bosom friend",
+          "buddy",
+          "crony",
+          "chum"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b016",
+    "word": "仲間",
+    "reading": "なかま",
+    "category": "名词",
+    "meaning": "伙伴；同伴",
+    "example": [
+      [
+        "練習",
+        "れんしゅう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "仲間",
+        "なかま"
+      ],
+      [
+        "と"
+      ],
+      [
+        "食事",
+        "しょくじ"
+      ],
+      [
+        "をします。"
+      ]
+    ],
+    "translation": "练习后和伙伴们一起吃饭。",
+    "tip": "共同活动的人可以称为「仲間」。",
+    "kanjiNote": "此处读なかま，不使用其他历史读法。",
+    "cloze": {
+      "before": "練習の後で",
+      "answer": "仲間",
+      "after": "と食事をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1425790",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "companion",
+          "fellow",
+          "friend",
+          "mate",
+          "comrade",
+          "partner",
+          "colleague",
+          "coworker",
+          "associate"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b017",
+    "word": "知人",
+    "reading": "ちじん",
+    "category": "名词",
+    "meaning": "熟人；相识的人",
+    "example": [
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "で"
+      ],
+      [
+        "知人",
+        "ちじん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "会",
+        "あ"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "在车站遇见了一位熟人。",
+    "tip": "「知人」不一定像「友達」那样关系亲近。",
+    "kanjiNote": "「知人」读ちじん。",
+    "cloze": {
+      "before": "駅で",
+      "answer": "知人",
+      "after": "に会いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1420620",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "friend",
+          "acquaintance"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b018",
+    "word": "隣人",
+    "reading": "りんじん",
+    "category": "名词",
+    "meaning": "邻居",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "、"
+      ],
+      [
+        "隣人",
+        "りんじん"
+      ],
+      [
+        "にあいさつをします。"
+      ]
+    ],
+    "translation": "早上向邻居打招呼。",
+    "tip": "比口语的「隣の人」更偏书面。",
+    "kanjiNote": "「隣」音读りん，训读となり。",
+    "cloze": {
+      "before": "朝、",
+      "answer": "隣人",
+      "after": "にあいさつをします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1555850",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "neighbour",
+          "neighbor",
+          "(people in the) neighbourhood",
+          "neighborhood"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b019",
+    "word": "恋人",
+    "reading": "こいびと",
+    "category": "名词",
+    "meaning": "恋人；交往对象",
+    "example": [
+      [
+        "週末",
+        "しゅうまつ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "恋人",
+        "こいびと"
+      ],
+      [
+        "と"
+      ],
+      [
+        "映画",
+        "えいが"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "周末和恋人一起看电影。",
+    "tip": "可指男朋友或女朋友，不限定性别。",
+    "kanjiNote": "「人」在这里读びと。",
+    "cloze": {
+      "before": "週末は",
+      "answer": "恋人",
+      "after": "と映画を見ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1558920",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "lover",
+          "sweetheart",
+          "boyfriend",
+          "girlfriend"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b020",
+    "word": "結婚",
+    "reading": "けっこん",
+    "category": "名词・する动词",
+    "meaning": "结婚",
+    "example": [
+      [
+        "姉",
+        "あね"
+      ],
+      [
+        "は"
+      ],
+      [
+        "来年",
+        "らいねん"
+      ],
+      [
+        "結婚",
+        "けっこん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "姐姐明年结婚。",
+    "tip": "「〜と結婚する」表示与某人结婚。",
+    "kanjiNote": "「結婚」读けっこん，有促音っ。",
+    "cloze": {
+      "before": "姉は来年",
+      "answer": "結婚",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1254790",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "marriage"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b021",
+    "word": "離婚",
+    "reading": "りこん",
+    "category": "名词・する动词",
+    "meaning": "离婚",
+    "example": [
+      [
+        "二人",
+        "ふたり"
+      ],
+      [
+        "は"
+      ],
+      [
+        "話",
+        "はな"
+      ],
+      [
+        "し"
+      ],
+      [
+        "合",
+        "あ"
+      ],
+      [
+        "って"
+      ],
+      [
+        "離婚",
+        "りこん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "決",
+        "き"
+      ],
+      [
+        "めました。"
+      ]
+    ],
+    "translation": "两人商量后决定离婚。",
+    "tip": "可用「離婚する」，也可说「離婚を決める」。",
+    "kanjiNote": "「離」表示分离，读り。",
+    "cloze": {
+      "before": "二人は話し合って",
+      "answer": "離婚",
+      "after": "を決めました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1550880",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "divorce"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b022",
+    "word": "友情",
+    "reading": "ゆうじょう",
+    "category": "名词",
+    "meaning": "友情",
+    "example": [
+      [
+        "二人",
+        "ふたり"
+      ],
+      [
+        "の"
+      ],
+      [
+        "友情",
+        "ゆうじょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "長",
+        "なが"
+      ],
+      [
+        "く"
+      ],
+      [
+        "続",
+        "つづ"
+      ],
+      [
+        "いています。"
+      ]
+    ],
+    "translation": "两人的友情持续了很久。",
+    "tip": "常用「友情を大切にする」表示珍惜友情。",
+    "kanjiNote": "ゆう和じょう都是长音。",
+    "cloze": {
+      "before": "二人の",
+      "answer": "友情",
+      "after": "は長く続いています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1540130",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "friendship",
+          "fellowship",
+          "camaraderie"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b023",
+    "word": "愛情",
+    "reading": "あいじょう",
+    "category": "名词",
+    "meaning": "爱；关爱之情",
+    "example": [
+      [
+        "両親",
+        "りょうしん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "愛情",
+        "あいじょう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "感",
+        "かん"
+      ],
+      [
+        "じます。"
+      ]
+    ],
+    "translation": "我感受到父母的关爱。",
+    "tip": "「愛情を感じる」「愛情を注ぐ」是常见搭配。",
+    "kanjiNote": "「情」在这里读じょう。",
+    "cloze": {
+      "before": "両親の",
+      "answer": "愛情",
+      "after": "を感じます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1150860",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "love",
+          "affection"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b024",
+    "word": "信頼",
+    "reading": "しんらい",
+    "category": "名词・する动词",
+    "meaning": "信任；信赖",
+    "example": [
+      [
+        "私",
+        "わたし"
+      ],
+      [
+        "は"
+      ],
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "信頼",
+        "しんらい"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "我信任老师。",
+    "tip": "「人を信頼する」以人为信任对象。",
+    "kanjiNote": "「頼」音读らい，也见于「頼む」。",
+    "cloze": {
+      "before": "私は先生を",
+      "answer": "信頼",
+      "after": "しています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1359730",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "trust (in)",
+          "confidence",
+          "faith",
+          "reliance"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b025",
+    "word": "尊敬",
+    "reading": "そんけい",
+    "category": "名词・する动词",
+    "meaning": "尊敬",
+    "example": [
+      [
+        "祖母",
+        "そぼ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "尊敬",
+        "そんけい"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "我很尊敬祖母。",
+    "tip": "尊敬的对象用助词「を」。",
+    "kanjiNote": "「尊敬」读そんけい。",
+    "cloze": {
+      "before": "祖母を",
+      "answer": "尊敬",
+      "after": "しています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1406400",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "respect",
+          "esteem",
+          "reverence",
+          "honour",
+          "honor"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b026",
+    "word": "感謝",
+    "reading": "かんしゃ",
+    "category": "名词・する动词",
+    "meaning": "感谢；感激",
+    "example": [
+      [
+        "手伝",
+        "てつだ"
+      ],
+      [
+        "ってくれた"
+      ],
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "に"
+      ],
+      [
+        "感謝",
+        "かんしゃ"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "我很感激帮忙的朋友。",
+    "tip": "向某人表达感激可说「人に感謝する」。",
+    "kanjiNote": "「謝」在此读しゃ，不读あやま。",
+    "cloze": {
+      "before": "手伝ってくれた友達に",
+      "answer": "感謝",
+      "after": "しています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1212380",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "thanks",
+          "gratitude",
+          "appreciation",
+          "thankfulness"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b027",
+    "word": "遠慮",
+    "reading": "えんりょ",
+    "category": "名词・する动词",
+    "meaning": "客气；顾虑而克制",
+    "example": [
+      [
+        "遠慮",
+        "えんりょ"
+      ],
+      [
+        "しないで"
+      ],
+      [
+        "食",
+        "た"
+      ],
+      [
+        "べてください。"
+      ]
+    ],
+    "translation": "请别客气，吃吧。",
+    "tip": "招待别人时常说「遠慮しないで」。",
+    "kanjiNote": "「慮」读りょ，注意不是りよう。",
+    "cloze": {
+      "before": "",
+      "answer": "遠慮",
+      "after": "しないで食べてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1178450",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "reserve",
+          "constraint",
+          "restraint",
+          "modesty",
+          "diffidence",
+          "hesitation",
+          "holding back",
+          "discretion",
+          "tact",
+          "thoughtfulness"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b028",
+    "word": "我慢",
+    "reading": "がまん",
+    "category": "名词・する动词",
+    "meaning": "忍耐；忍受",
+    "example": [
+      [
+        "痛",
+        "いた"
+      ],
+      [
+        "みを"
+      ],
+      [
+        "我慢",
+        "がまん"
+      ],
+      [
+        "しないでください。"
+      ]
+    ],
+    "translation": "疼痛时请不要硬撑。",
+    "tip": "忍受的对象可用「を」，如「痛みを我慢する」。",
+    "kanjiNote": "「我慢」读がまん。",
+    "cloze": {
+      "before": "痛みを",
+      "answer": "我慢",
+      "after": "しないでください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1196970",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "endurance",
+          "patience",
+          "perseverance",
+          "bearing (with something)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b029",
+    "word": "努力",
+    "reading": "どりょく",
+    "category": "名词・する动词",
+    "meaning": "努力",
+    "example": [
+      [
+        "毎日",
+        "まいにち"
+      ],
+      [
+        "の"
+      ],
+      [
+        "努力",
+        "どりょく"
+      ],
+      [
+        "が"
+      ],
+      [
+        "大切",
+        "たいせつ"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "每天的努力很重要。",
+    "tip": "「努力する」比「頑張る」更强调付出。",
+    "kanjiNote": "「努」读ど，「力」读りょく。",
+    "cloze": {
+      "before": "毎日の",
+      "answer": "努力",
+      "after": "が大切です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1445130",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "effort",
+          "exertion",
+          "endeavour",
+          "endeavor",
+          "hard work",
+          "striving"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b030",
+    "word": "自信",
+    "reading": "じしん",
+    "category": "名词",
+    "meaning": "自信",
+    "example": [
+      [
+        "日本語",
+        "にほんご"
+      ],
+      [
+        "で"
+      ],
+      [
+        "話",
+        "はな"
+      ],
+      [
+        "す"
+      ],
+      [
+        "自信",
+        "じしん"
+      ],
+      [
+        "がありません。"
+      ]
+    ],
+    "translation": "我没有用日语说话的自信。",
+    "tip": "常用「〜に自信がある」「〜する自信がある」。",
+    "kanjiNote": "同音词「地震」也读じしん，意义不同。",
+    "cloze": {
+      "before": "日本語で話す",
+      "answer": "自信",
+      "after": "がありません。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1317970",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "self-confidence",
+          "confidence (in oneself)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b031",
+    "word": "勇気",
+    "reading": "ゆうき",
+    "category": "名词",
+    "meaning": "勇气",
+    "example": [
+      [
+        "勇気",
+        "ゆうき"
+      ],
+      [
+        "を"
+      ],
+      [
+        "出",
+        "だ"
+      ],
+      [
+        "して"
+      ],
+      [
+        "質問",
+        "しつもん"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "我鼓起勇气提了问题。",
+    "tip": "「勇気を出す」就是鼓起勇气。",
+    "kanjiNote": "「勇」读ゆう，注意长音。",
+    "cloze": {
+      "before": "",
+      "answer": "勇気",
+      "after": "を出して質問しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1539740",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "courage",
+          "bravery",
+          "valour",
+          "valor",
+          "nerve",
+          "boldness"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b032",
+    "word": "希望",
+    "reading": "きぼう",
+    "category": "名词・する动词",
+    "meaning": "希望；愿望",
+    "example": [
+      [
+        "将来",
+        "しょうらい"
+      ],
+      [
+        "への"
+      ],
+      [
+        "希望",
+        "きぼう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "持",
+        "も"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "我对未来抱有希望。",
+    "tip": "可说「希望を持つ」，也可用「〜を希望する」表达愿望。",
+    "kanjiNote": "「望」读ぼう，注意长音。",
+    "cloze": {
+      "before": "将来への",
+      "answer": "希望",
+      "after": "を持っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1219910",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "hope",
+          "wish",
+          "aspiration"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b033",
+    "word": "夢",
+    "reading": "ゆめ",
+    "category": "名词",
+    "meaning": "梦；梦想",
+    "example": [
+      [
+        "昨夜",
+        "さくや"
+      ],
+      [
+        "、"
+      ],
+      [
+        "楽",
+        "たの"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "夢",
+        "ゆめ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "昨晚做了一个愉快的梦。",
+    "tip": "做梦说「夢を見る」，不用「夢をする」。",
+    "kanjiNote": "「夢」单独使用时读ゆめ。",
+    "cloze": {
+      "before": "昨夜、楽しい",
+      "answer": "夢",
+      "after": "を見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1529410",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        [
+          "dream"
+        ],
+        [
+          "dream",
+          "hope",
+          "wish",
+          "aspiration",
+          "ambition"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b034",
+    "word": "幸福",
+    "reading": "こうふく",
+    "category": "名词・な形容词",
+    "meaning": "幸福",
+    "example": [
+      [
+        "家族",
+        "かぞく"
+      ],
+      [
+        "と"
+      ],
+      [
+        "過",
+        "す"
+      ],
+      [
+        "ごす"
+      ],
+      [
+        "時間",
+        "じかん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "幸福",
+        "こうふく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "感",
+        "かん"
+      ],
+      [
+        "じます。"
+      ]
+    ],
+    "translation": "和家人相处时，我感到幸福。",
+    "tip": "「幸福を感じる」表示感到幸福。",
+    "kanjiNote": "「幸」读こう，「福」读ふく。",
+    "cloze": {
+      "before": "家族と過ごす時間に",
+      "answer": "幸福",
+      "after": "を感じます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1278400",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "happiness",
+          "well-being",
+          "joy",
+          "welfare",
+          "blessedness"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b035",
+    "word": "不安",
+    "reading": "ふあん",
+    "category": "名词・な形容词",
+    "meaning": "不安；担心",
+    "example": [
+      [
+        "初",
+        "はじ"
+      ],
+      [
+        "めての"
+      ],
+      [
+        "仕事",
+        "しごと"
+      ],
+      [
+        "なので、"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "不安",
+        "ふあん"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "因为是第一次做这份工作，我有点不安。",
+    "tip": "「〜が不安だ」可表达对某事的担心。",
+    "kanjiNote": "「不安」读ふあん，三拍。",
+    "cloze": {
+      "before": "初めての仕事なので、少し",
+      "answer": "不安",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1491150",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "anxiety",
+          "uneasiness",
+          "worry",
+          "apprehension",
+          "fear",
+          "insecurity",
+          "suspense"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b036",
+    "word": "緊張",
+    "reading": "きんちょう",
+    "category": "名词・する动词",
+    "meaning": "紧张",
+    "example": [
+      [
+        "面接",
+        "めんせつ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "緊張",
+        "きんちょう"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "面试前我会紧张。",
+    "tip": "精神紧张时可说「緊張する」。",
+    "kanjiNote": "「張」读ちょう，是长音。",
+    "cloze": {
+      "before": "面接の前は",
+      "answer": "緊張",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1241880",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "tension",
+          "strain",
+          "nervousness",
+          "stress"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b037",
+    "word": "満足",
+    "reading": "まんぞく",
+    "category": "名词・な形容词・する动词",
+    "meaning": "满足；满意",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "結果",
+        "けっか"
+      ],
+      [
+        "に"
+      ],
+      [
+        "満足",
+        "まんぞく"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "我对今天的结果很满意。",
+    "tip": "满意的对象用「に」，如「結果に満足する」。",
+    "kanjiNote": "「足」在本词中读ぞく。",
+    "cloze": {
+      "before": "今日の結果に",
+      "answer": "満足",
+      "after": "しています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1526860",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "satisfaction",
+          "contentment",
+          "gratification"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b038",
+    "word": "不満",
+    "reading": "ふまん",
+    "category": "名词・な形容词",
+    "meaning": "不满",
+    "example": [
+      [
+        "説明",
+        "せつめい"
+      ],
+      [
+        "の"
+      ],
+      [
+        "内容",
+        "ないよう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "不満",
+        "ふまん"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "我对说明的内容有些不满。",
+    "tip": "「〜に不満がある」说明不满意的对象。",
+    "kanjiNote": "与「満足」共享「満」字。",
+    "cloze": {
+      "before": "説明の内容に",
+      "answer": "不満",
+      "after": "があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1494970",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "dissatisfaction",
+          "discontent",
+          "displeasure",
+          "complaint",
+          "unhappiness"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b039",
+    "word": "後悔",
+    "reading": "こうかい",
+    "category": "名词・する动词",
+    "meaning": "后悔",
+    "example": [
+      [
+        "何",
+        "なに"
+      ],
+      [
+        "も"
+      ],
+      [
+        "言",
+        "い"
+      ],
+      [
+        "わなかったことを"
+      ],
+      [
+        "後悔",
+        "こうかい"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "我后悔当时什么也没说。",
+    "tip": "「〜したことを後悔する」表示对过去的事后悔。",
+    "kanjiNote": "「悔」在本词中读かい。",
+    "cloze": {
+      "before": "何も言わなかったことを",
+      "answer": "後悔",
+      "after": "しています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1269510",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "regret",
+          "repentance",
+          "remorse"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b040",
+    "word": "感動",
+    "reading": "かんどう",
+    "category": "名词・する动词",
+    "meaning": "感动",
+    "example": [
+      [
+        "映画",
+        "えいが"
+      ],
+      [
+        "の"
+      ],
+      [
+        "最後",
+        "さいご"
+      ],
+      [
+        "の"
+      ],
+      [
+        "場面",
+        "ばめん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "感動",
+        "かんどう"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "电影最后的场景让我很感动。",
+    "tip": "让自己感动的事物常用「に」标出。",
+    "kanjiNote": "「感動」读かんどう。",
+    "cloze": {
+      "before": "映画の最後の場面に",
+      "answer": "感動",
+      "after": "しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1212570",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "being deeply moved emotionally",
+          "excitement",
+          "passion",
+          "inspiration",
+          "deep emotion",
+          "strong impression"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b041",
+    "word": "感情",
+    "reading": "かんじょう",
+    "category": "名词",
+    "meaning": "感情；情绪",
+    "example": [
+      [
+        "音楽",
+        "おんがく"
+      ],
+      [
+        "で"
+      ],
+      [
+        "感情",
+        "かんじょう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "表現",
+        "ひょうげん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "用音乐表达情感。",
+    "tip": "「感情」偏重喜怒哀乐等心理感受。",
+    "kanjiNote": "「情」读じょう，不读せい。",
+    "cloze": {
+      "before": "音楽で",
+      "answer": "感情",
+      "after": "を表現します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1212410",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "emotion",
+          "feeling",
+          "feelings",
+          "sentiment"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b042",
+    "word": "気持ち",
+    "reading": "きもち",
+    "category": "名词",
+    "meaning": "心情；感受",
+    "example": [
+      [
+        "今",
+        "いま"
+      ],
+      [
+        "の"
+      ],
+      [
+        "気持ち",
+        "きもち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "言葉",
+        "ことば"
+      ],
+      [
+        "にしてください。"
+      ]
+    ],
+    "translation": "请用语言表达现在的心情。",
+    "tip": "比「感情」更常用于日常询问与表达感受。",
+    "kanjiNote": "「気」读き；「持ち」读もち。",
+    "cloze": {
+      "before": "今の",
+      "answer": "気持ち",
+      "after": "を言葉にしてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1591430",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "feeling",
+          "sensation",
+          "mood",
+          "state of mind"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b043",
+    "word": "性格",
+    "reading": "せいかく",
+    "category": "名词",
+    "meaning": "性格",
+    "example": [
+      [
+        "兄",
+        "あに"
+      ],
+      [
+        "と"
+      ],
+      [
+        "私",
+        "わたし"
+      ],
+      [
+        "は"
+      ],
+      [
+        "性格",
+        "せいかく"
+      ],
+      [
+        "が"
+      ],
+      [
+        "違",
+        "ちが"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "哥哥和我的性格不同。",
+    "tip": "可用「明るい性格」「穏やかな性格」描述性格。",
+    "kanjiNote": "与「正確」同音，但写法和含义不同。",
+    "cloze": {
+      "before": "兄と私は",
+      "answer": "性格",
+      "after": "が違います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1375290",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "character (of a person)",
+          "personality",
+          "disposition",
+          "nature"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b044",
+    "word": "態度",
+    "reading": "たいど",
+    "category": "名词",
+    "meaning": "态度；举止",
+    "example": [
+      [
+        "丁寧",
+        "ていねい"
+      ],
+      [
+        "な"
+      ],
+      [
+        "態度",
+        "たいど"
+      ],
+      [
+        "で"
+      ],
+      [
+        "話",
+        "はな"
+      ],
+      [
+        "しましょう。"
+      ]
+    ],
+    "translation": "用礼貌的态度说话吧。",
+    "tip": "「〜な態度で」表示以怎样的态度做事。",
+    "kanjiNote": "「態」读たい，「度」读ど。",
+    "cloze": {
+      "before": "丁寧な",
+      "answer": "態度",
+      "after": "で話しましょう。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1410780",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "attitude",
+          "manner",
+          "behaviour",
+          "demeanour",
+          "bearing"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b045",
+    "word": "礼儀",
+    "reading": "れいぎ",
+    "category": "名词",
+    "meaning": "礼仪；礼貌",
+    "example": [
+      [
+        "人",
+        "ひと"
+      ],
+      [
+        "と"
+      ],
+      [
+        "話",
+        "はな"
+      ],
+      [
+        "すときは"
+      ],
+      [
+        "礼儀",
+        "れいぎ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "大切",
+        "たいせつ"
+      ],
+      [
+        "にします。"
+      ]
+    ],
+    "translation": "和人说话时，我注重礼貌。",
+    "tip": "常用「礼儀正しい」形容很有礼貌。",
+    "kanjiNote": "「礼儀」读れいぎ。",
+    "cloze": {
+      "before": "人と話すときは",
+      "answer": "礼儀",
+      "after": "を大切にします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1557470",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "manners",
+          "courtesy",
+          "etiquette"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b046",
+    "word": "常識",
+    "reading": "じょうしき",
+    "category": "名词",
+    "meaning": "常识；一般社会认知",
+    "example": [
+      [
+        "国",
+        "くに"
+      ],
+      [
+        "によって"
+      ],
+      [
+        "常識",
+        "じょうしき"
+      ],
+      [
+        "は"
+      ],
+      [
+        "違",
+        "ちが"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "不同国家的常识观念有所不同。",
+    "tip": "「常識」也包含社会上通常接受的做法。",
+    "kanjiNote": "「常」读じょう，「識」读しき。",
+    "cloze": {
+      "before": "国によって",
+      "answer": "常識",
+      "after": "は違います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1356000",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "common sense",
+          "good sense",
+          "common knowledge",
+          "general knowledge",
+          "common practice",
+          "accepted practice",
+          "social etiquette"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b047",
+    "word": "誠実",
+    "reading": "せいじつ",
+    "category": "な形容词",
+    "meaning": "诚实；真诚",
+    "example": [
+      [
+        "彼",
+        "かれ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "誰",
+        "だれ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "対",
+        "たい"
+      ],
+      [
+        "しても"
+      ],
+      [
+        "誠実",
+        "せいじつ"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "他对谁都很真诚。",
+    "tip": "「誠実な人」强调待人认真、可靠。",
+    "kanjiNote": "「誠」表示真诚，读せい。",
+    "cloze": {
+      "before": "彼は誰に対しても",
+      "answer": "誠実",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1381180",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "sincere",
+          "honest",
+          "faithful"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b048",
+    "word": "素直",
+    "reading": "すなお",
+    "category": "な形容词",
+    "meaning": "坦率；顺从",
+    "example": [
+      [
+        "自分",
+        "じぶん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "気持",
+        "きも"
+      ],
+      [
+        "ちを"
+      ],
+      [
+        "素直",
+        "すなお"
+      ],
+      [
+        "に"
+      ],
+      [
+        "話",
+        "はな"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "我坦率地说出自己的心情。",
+    "tip": "「素直に話す」强调不隐瞒自己的想法。",
+    "kanjiNote": "整词读すなお，不读そちょく。",
+    "cloze": {
+      "before": "自分の気持ちを",
+      "answer": "素直",
+      "after": "に話します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1397340",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        [
+          "obedient",
+          "meek",
+          "docile",
+          "unaffected"
+        ],
+        [
+          "honest",
+          "frank",
+          "upfront (about one's feelings)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b049",
+    "word": "正直",
+    "reading": "しょうじき",
+    "category": "な形容词",
+    "meaning": "诚实；坦诚",
+    "example": [
+      [
+        "彼女",
+        "かのじょ"
+      ],
+      [
+        "はとても"
+      ],
+      [
+        "正直",
+        "しょうじき"
+      ],
+      [
+        "な"
+      ],
+      [
+        "人",
+        "ひと"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "她是个很诚实的人。",
+    "tip": "「正直な人」指不说谎、坦诚的人。",
+    "kanjiNote": "「正」在此读しょう。",
+    "cloze": {
+      "before": "彼女はとても",
+      "answer": "正直",
+      "after": "な人です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1377590",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "honest",
+          "frank",
+          "candid",
+          "straightforward"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b050",
+    "word": "穏やか",
+    "reading": "おだやか",
+    "category": "な形容词",
+    "meaning": "温和；平静",
+    "example": [
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "はいつも"
+      ],
+      [
+        "穏やか",
+        "おだやか"
+      ],
+      [
+        "な"
+      ],
+      [
+        "声",
+        "こえ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "話",
+        "はな"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "老师总是用温和的声音说话。",
+    "tip": "既可描述人的性情，也可描述平静的环境。",
+    "kanjiNote": "「穏」在本词中读おだ。",
+    "cloze": {
+      "before": "先生はいつも",
+      "answer": "穏やか",
+      "after": "な声で話します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1183590",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "calm",
+          "quiet",
+          "gentle",
+          "peaceful",
+          "mild"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b051",
+    "word": "わがまま",
+    "reading": "わがまま",
+    "category": "な形容词・名词",
+    "meaning": "任性；自私",
+    "example": [
+      [
+        "わがままな"
+      ],
+      [
+        "頼",
+        "たの"
+      ],
+      [
+        "みだと"
+      ],
+      [
+        "分",
+        "わ"
+      ],
+      [
+        "かっています。"
+      ]
+    ],
+    "translation": "我知道这是个任性的请求。",
+    "tip": "「わがままな人」是带批评意味的说法。",
+    "kanjiNote": "常用假名书写，汉字写法有「我が儘」。",
+    "cloze": {
+      "before": "",
+      "answer": "わがまま",
+      "after": "な頼みだと分かっています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1197020",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        [
+          "selfish",
+          "egoist"
+        ],
+        [
+          "self-indulgent",
+          "wilful",
+          "willful"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b052",
+    "word": "臆病",
+    "reading": "おくびょう",
+    "category": "な形容词",
+    "meaning": "胆小；怯懦",
+    "example": [
+      [
+        "私",
+        "わたし"
+      ],
+      [
+        "は"
+      ],
+      [
+        "臆病",
+        "おくびょう"
+      ],
+      [
+        "なので、"
+      ],
+      [
+        "暗",
+        "くら"
+      ],
+      [
+        "い"
+      ],
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "が"
+      ],
+      [
+        "苦手",
+        "にがて"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "我比较胆小，害怕走暗路。",
+    "tip": "描述自己胆小可以说「臆病です」。",
+    "kanjiNote": "「病」在这里读びょう。",
+    "cloze": {
+      "before": "私は",
+      "answer": "臆病",
+      "after": "なので、暗い道が苦手です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1182790",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "cowardly",
+          "timid",
+          "easily frightened"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b053",
+    "word": "慎重",
+    "reading": "しんちょう",
+    "category": "な形容词",
+    "meaning": "慎重；谨慎",
+    "example": [
+      [
+        "大切",
+        "たいせつ"
+      ],
+      [
+        "な"
+      ],
+      [
+        "書類",
+        "しょるい"
+      ],
+      [
+        "なので、"
+      ],
+      [
+        "慎重",
+        "しんちょう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "確認",
+        "かくにん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "因为是重要文件，我会仔细确认。",
+    "tip": "「慎重に〜する」表示谨慎地做事。",
+    "kanjiNote": "与「身長」同音，意思不同。",
+    "cloze": {
+      "before": "大切な書類なので、",
+      "answer": "慎重",
+      "after": "に確認します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1361110",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "careful",
+          "cautious",
+          "prudent",
+          "discreet",
+          "deliberate"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b054",
+    "word": "冷静",
+    "reading": "れいせい",
+    "category": "な形容词・名词",
+    "meaning": "冷静",
+    "example": [
+      [
+        "問題",
+        "もんだい"
+      ],
+      [
+        "が"
+      ],
+      [
+        "起",
+        "お"
+      ],
+      [
+        "きても、"
+      ],
+      [
+        "冷静",
+        "れいせい"
+      ],
+      [
+        "に"
+      ],
+      [
+        "考",
+        "かんが"
+      ],
+      [
+        "えましょう。"
+      ]
+    ],
+    "translation": "即使出了问题，也冷静地想一想吧。",
+    "tip": "「冷静になる」表示冷静下来。",
+    "kanjiNote": "「静」在本词中读せい。",
+    "cloze": {
+      "before": "問題が起きても、",
+      "answer": "冷静",
+      "after": "に考えましょう。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1557050",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "calmness",
+          "composure",
+          "coolness",
+          "serenity",
+          "presence of mind"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b055",
+    "word": "積極的",
+    "reading": "せっきょくてき",
+    "category": "な形容词",
+    "meaning": "积极；主动",
+    "example": [
+      [
+        "授業",
+        "じゅぎょう"
+      ],
+      [
+        "では"
+      ],
+      [
+        "積極的",
+        "せっきょくてき"
+      ],
+      [
+        "に"
+      ],
+      [
+        "質問",
+        "しつもん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "上课时我会主动提问。",
+    "tip": "「積極的に参加する」表示积极参加。",
+    "kanjiNote": "「積」与「極」结合时有促音：せっきょく。",
+    "cloze": {
+      "before": "授業では",
+      "answer": "積極的",
+      "after": "に質問します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1383030",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "positive",
+          "assertive",
+          "active",
+          "proactive",
+          "aggressive"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b056",
+    "word": "消極的",
+    "reading": "しょうきょくてき",
+    "category": "な形容词",
+    "meaning": "消极；不主动",
+    "example": [
+      [
+        "彼",
+        "かれ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しい"
+      ],
+      [
+        "提案",
+        "ていあん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "消極的",
+        "しょうきょくてき"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "他对新提议不太积极。",
+    "tip": "和「積極的」相对，强调不愿主动行动。",
+    "kanjiNote": "「消極」读しょうきょく。",
+    "cloze": {
+      "before": "彼は新しい提案に",
+      "answer": "消極的",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1350220",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "negative",
+          "passive",
+          "half-hearted",
+          "unmotivated"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b057",
+    "word": "まぶしい",
+    "reading": "まぶしい",
+    "category": "い形容词",
+    "meaning": "耀眼；刺眼",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "光",
+        "ひかり"
+      ],
+      [
+        "がまぶしいです。"
+      ]
+    ],
+    "translation": "早晨的光线很耀眼。",
+    "tip": "可用「まぶしくて目を開けられない」形容刺眼。",
+    "kanjiNote": "常用假名，也可写「眩しい」。",
+    "cloze": {
+      "before": "朝の光が",
+      "answer": "まぶしい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1569790",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "dazzling",
+          "radiant"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b058",
+    "word": "うるさい",
+    "reading": "うるさい",
+    "category": "い形容词",
+    "meaning": "吵闹；嘈杂",
+    "example": [
+      [
+        "外",
+        "そと"
+      ],
+      [
+        "がうるさいので、"
+      ],
+      [
+        "窓",
+        "まど"
+      ],
+      [
+        "を"
+      ],
+      [
+        "閉",
+        "し"
+      ],
+      [
+        "めます。"
+      ]
+    ],
+    "translation": "外面很吵，我把窗户关上。",
+    "tip": "本课学习“声音吵闹”的含义。",
+    "kanjiNote": "一般用假名书写，不必记少见的汉字写法。",
+    "cloze": {
+      "before": "外が",
+      "answer": "うるさい",
+      "after": "ので、窓を閉めます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1481920",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "noisy",
+          "loud"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b059",
+    "word": "しつこい",
+    "reading": "しつこい",
+    "category": "い形容词",
+    "meaning": "纠缠不休；执拗",
+    "example": [
+      [
+        "同",
+        "おな"
+      ],
+      [
+        "じ"
+      ],
+      [
+        "質問",
+        "しつもん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "何度",
+        "なんど"
+      ],
+      [
+        "もされると、しつこいと"
+      ],
+      [
+        "感",
+        "かん"
+      ],
+      [
+        "じます。"
+      ]
+    ],
+    "translation": "被反复问同一个问题，会觉得对方纠缠不休。",
+    "tip": "本课指行为反复令人厌烦，不是食物油腻。",
+    "kanjiNote": "常用假名，注意是しつこい。",
+    "cloze": {
+      "before": "同じ質問を何度もされると、",
+      "answer": "しつこい",
+      "after": "と感じます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1005550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "insistent",
+          "obstinate",
+          "persistent",
+          "tenacious"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b060",
+    "word": "ずるい",
+    "reading": "ずるい",
+    "category": "い形容词",
+    "meaning": "狡猾；不公平",
+    "example": [
+      [
+        "自分",
+        "じぶん"
+      ],
+      [
+        "だけ"
+      ],
+      [
+        "先",
+        "さき"
+      ],
+      [
+        "に"
+      ],
+      [
+        "帰",
+        "かえ"
+      ],
+      [
+        "るのはずるいです。"
+      ]
+    ],
+    "translation": "只有你自己先回去，太不公平了。",
+    "tip": "常用来抱怨有人占便宜或不守共同规则。",
+    "kanjiNote": "常用假名，汉字可写「狡い」。",
+    "cloze": {
+      "before": "自分だけ先に帰るのは",
+      "answer": "ずるい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1569240",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "sly",
+          "cunning",
+          "sneaky",
+          "crafty",
+          "unfair",
+          "dishonest"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b061",
+    "word": "かわいい",
+    "reading": "かわいい",
+    "category": "い形容词",
+    "meaning": "可爱",
+    "example": [
+      [
+        "あの"
+      ],
+      [
+        "子猫",
+        "こねこ"
+      ],
+      [
+        "はとてもかわいいです。"
+      ]
+    ],
+    "translation": "那只小猫特别可爱。",
+    "tip": "可描述人、动物或物品。",
+    "kanjiNote": "常用假名，也可写「可愛い」。",
+    "cloze": {
+      "before": "あの子猫はとても",
+      "answer": "かわいい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1577200",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "cute",
+          "adorable",
+          "charming",
+          "lovely",
+          "pretty"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b062",
+    "word": "かっこいい",
+    "reading": "かっこいい",
+    "category": "い形容词",
+    "meaning": "帅气；酷",
+    "example": [
+      [
+        "その"
+      ],
+      [
+        "上着",
+        "うわぎ"
+      ],
+      [
+        "はかっこいいですね。"
+      ]
+    ],
+    "translation": "那件外套真帅气啊。",
+    "tip": "否定形式是「かっこよくない」。",
+    "kanjiNote": "常用假名，注意促音っ。",
+    "cloze": {
+      "before": "その上着は",
+      "answer": "かっこいい",
+      "after": "ですね。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1577490",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "attractive",
+          "good-looking",
+          "stylish",
+          "cool",
+          "smooth",
+          "neat",
+          "with-it",
+          "groovy"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b063",
+    "word": "若い",
+    "reading": "わかい",
+    "category": "い形容词",
+    "meaning": "年轻",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "会社",
+        "かいしゃ"
+      ],
+      [
+        "には"
+      ],
+      [
+        "若い",
+        "わかい"
+      ],
+      [
+        "社員",
+        "しゃいん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "多",
+        "おお"
+      ],
+      [
+        "いです。"
+      ]
+    ],
+    "translation": "这家公司年轻员工很多。",
+    "tip": "说人年轻用「若い」，不使用表示物品新旧的「新しい」。",
+    "kanjiNote": "「若」在本词中读わか。",
+    "cloze": {
+      "before": "この会社には",
+      "answer": "若い",
+      "after": "社員が多いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1324300",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "young",
+          "youthful"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b064",
+    "word": "幼い",
+    "reading": "おさない",
+    "category": "い形容词",
+    "meaning": "年幼",
+    "example": [
+      [
+        "幼い",
+        "おさない"
+      ],
+      [
+        "子供",
+        "こども"
+      ],
+      [
+        "と"
+      ],
+      [
+        "手",
+        "て"
+      ],
+      [
+        "をつないで"
+      ],
+      [
+        "歩",
+        "ある"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "我牵着年幼孩子的手走路。",
+    "tip": "「若い」范围较广，「幼い」更偏年幼的孩子。",
+    "kanjiNote": "「幼い」读おさない。",
+    "cloze": {
+      "before": "",
+      "answer": "幼い",
+      "after": "子供と手をつないで歩きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1545110",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "very young",
+          "little"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b065",
+    "word": "賢い",
+    "reading": "かしこい",
+    "category": "い形容词",
+    "meaning": "聪明；明智",
+    "example": [
+      [
+        "彼女",
+        "かのじょ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "賢い",
+        "かしこい"
+      ],
+      [
+        "方法",
+        "ほうほう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "考",
+        "かんが"
+      ],
+      [
+        "えました。"
+      ]
+    ],
+    "translation": "她想出了一个明智的办法。",
+    "tip": "既可说人聪明，也可说做法明智。",
+    "kanjiNote": "「賢」训读かしこ。",
+    "cloze": {
+      "before": "彼女は",
+      "answer": "賢い",
+      "after": "方法を考えました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1260260",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "wise",
+          "clever",
+          "smart"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b066",
+    "word": "偉い",
+    "reading": "えらい",
+    "category": "い形容词",
+    "meaning": "了不起；值得称赞",
+    "example": [
+      [
+        "毎日",
+        "まいにち"
+      ],
+      [
+        "練習",
+        "れんしゅう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "続",
+        "つづ"
+      ],
+      [
+        "けていて、"
+      ],
+      [
+        "偉い",
+        "えらい"
+      ],
+      [
+        "ですね。"
+      ]
+    ],
+    "translation": "每天都坚持练习，真了不起。",
+    "tip": "「偉いね」常用来夸奖孩子或关系亲近的人。",
+    "kanjiNote": "「偉い」读えらい。",
+    "cloze": {
+      "before": "毎日練習を続けていて、",
+      "answer": "偉い",
+      "after": "ですね。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1155780",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "great",
+          "excellent",
+          "admirable",
+          "commendable",
+          "laudable",
+          "honorable",
+          "wonderful",
+          "outstanding",
+          "extraordinary"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b067",
+    "word": "すごい",
+    "reading": "すごい",
+    "category": "い形容词",
+    "meaning": "厉害；惊人",
+    "example": [
+      [
+        "すごい"
+      ],
+      [
+        "演奏",
+        "えんそう"
+      ],
+      [
+        "でしたね。"
+      ]
+    ],
+    "translation": "刚才的演奏真精彩啊。",
+    "tip": "口语中常用于赞叹；本课选择褒义用法。",
+    "kanjiNote": "常用假名，也写作「凄い」。",
+    "cloze": {
+      "before": "",
+      "answer": "すごい",
+      "after": "演奏でしたね。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1374550",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "amazing (e.g. of strength)",
+          "great (e.g. of skills)",
+          "wonderful",
+          "terrific"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b068",
+    "word": "ひどい",
+    "reading": "ひどい",
+    "category": "い形容词",
+    "meaning": "很糟；严重",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "はひどい"
+      ],
+      [
+        "雨",
+        "あめ"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "今天雨下得很大。",
+    "tip": "形容天气或程度时，常表示异常猛烈或严重。",
+    "kanjiNote": "常用假名，也可写「酷い」。",
+    "cloze": {
+      "before": "今日は",
+      "answer": "ひどい",
+      "after": "雨です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1602060",
+      "senseIndices": [
+        1,
+        2
+      ],
+      "glosses": [
+        [
+          "violent",
+          "intense",
+          "strong",
+          "heavy",
+          "extreme"
+        ],
+        [
+          "very bad",
+          "terrible",
+          "awful"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b069",
+    "word": "もったいない",
+    "reading": "もったいない",
+    "category": "い形容词",
+    "meaning": "可惜；浪费",
+    "example": [
+      [
+        "食",
+        "た"
+      ],
+      [
+        "べられるのに"
+      ],
+      [
+        "捨",
+        "す"
+      ],
+      [
+        "てるのはもったいないです。"
+      ]
+    ],
+    "translation": "明明还能吃就扔掉，太浪费了。",
+    "tip": "常用于还能利用的东西被丢弃的情况。",
+    "kanjiNote": "常用假名，注意促音っ：も・っ・た・い・な・い。",
+    "cloze": {
+      "before": "食べられるのに捨てるのは",
+      "answer": "もったいない",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1605250",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "wasteful",
+          "a waste"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b070",
+    "word": "懐かしい",
+    "reading": "なつかしい",
+    "category": "い形容词",
+    "meaning": "令人怀念",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "歌",
+        "うた"
+      ],
+      [
+        "を"
+      ],
+      [
+        "聞",
+        "き"
+      ],
+      [
+        "くと、"
+      ],
+      [
+        "学生",
+        "がくせい"
+      ],
+      [
+        "時代",
+        "じだい"
+      ],
+      [
+        "が"
+      ],
+      [
+        "懐かしい",
+        "なつかしい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "听到这首歌，就怀念起学生时代。",
+    "tip": "强调对过去的人、事、物产生亲切的怀念。",
+    "kanjiNote": "「懐」在本词中读なつ。",
+    "cloze": {
+      "before": "この歌を聞くと、学生時代が",
+      "answer": "懐かしい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1200490",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "dear (old)",
+          "fondly remembered",
+          "beloved",
+          "missed",
+          "nostalgic"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b071",
+    "word": "羨ましい",
+    "reading": "うらやましい",
+    "category": "い形容词",
+    "meaning": "羡慕；令人羡慕",
+    "example": [
+      [
+        "長",
+        "なが"
+      ],
+      [
+        "い"
+      ],
+      [
+        "休",
+        "やす"
+      ],
+      [
+        "みがあって、"
+      ],
+      [
+        "羨ましい",
+        "うらやましい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "有那么长的假期，真让人羡慕。",
+    "tip": "「〜が羨ましい」用于表达对别人所拥有事物的羡慕。",
+    "kanjiNote": "「羨」在本词中读うらや。",
+    "cloze": {
+      "before": "長い休みがあって、",
+      "answer": "羨ましい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1391940",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        [
+          "envious",
+          "jealous"
+        ],
+        [
+          "enviable (position, etc.)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b072",
+    "word": "悔しい",
+    "reading": "くやしい",
+    "category": "い形容词",
+    "meaning": "不甘心；懊恼",
+    "example": [
+      [
+        "試合",
+        "しあい"
+      ],
+      [
+        "に"
+      ],
+      [
+        "負",
+        "ま"
+      ],
+      [
+        "けて、"
+      ],
+      [
+        "悔しい",
+        "くやしい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "比赛输了，我很不甘心。",
+    "tip": "常表达失败后不服气、懊恼的心情。",
+    "kanjiNote": "「悔しい」读くやしい，与「後悔」的音读不同。",
+    "cloze": {
+      "before": "試合に負けて、",
+      "answer": "悔しい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1592350",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "frustrated (over a failure, humiliation or injustice)",
+          "annoyed",
+          "chagrined",
+          "(bitterly) disappointed",
+          "bitter",
+          "vexed",
+          "frustrating",
+          "annoying",
+          "regrettable"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b073",
+    "word": "恐ろしい",
+    "reading": "おそろしい",
+    "category": "い形容词",
+    "meaning": "可怕；令人恐惧",
+    "example": [
+      [
+        "昨夜",
+        "さくや"
+      ],
+      [
+        "は"
+      ],
+      [
+        "恐ろしい",
+        "おそろしい"
+      ],
+      [
+        "夢",
+        "ゆめ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ました。"
+      ]
+    ],
+    "translation": "昨晚做了一个可怕的梦。",
+    "tip": "比日常的「怖い」语气更强一些。",
+    "kanjiNote": "「恐」在本词中读おそ。",
+    "cloze": {
+      "before": "昨夜は",
+      "answer": "恐ろしい",
+      "after": "夢を見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1236690",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "terrible",
+          "dreadful",
+          "terrifying",
+          "frightening"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b074",
+    "word": "怖い",
+    "reading": "こわい",
+    "category": "い形容词",
+    "meaning": "害怕；可怕",
+    "example": [
+      [
+        "暗",
+        "くら"
+      ],
+      [
+        "い"
+      ],
+      [
+        "夜道",
+        "よみち"
+      ],
+      [
+        "は"
+      ],
+      [
+        "怖い",
+        "こわい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "漆黑的夜路让人害怕。",
+    "tip": "「〜が怖い」也可表示害怕某物。",
+    "kanjiNote": "「怖」在本词中读こわ。",
+    "cloze": {
+      "before": "暗い夜道は",
+      "answer": "怖い",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1593480",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "scary",
+          "frightening",
+          "eerie",
+          "dreadful"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b075",
+    "word": "ありがたい",
+    "reading": "ありがたい",
+    "category": "い形容词",
+    "meaning": "值得感谢；令人感激",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "の"
+      ],
+      [
+        "助言",
+        "じょげん"
+      ],
+      [
+        "はありがたいです。"
+      ]
+    ],
+    "translation": "朋友的建议让我很感激。",
+    "tip": "比单独说「ありがとう」更能描述自己感到受益的心情。",
+    "kanjiNote": "常用假名，也可写「有り難い」。",
+    "cloze": {
+      "before": "友達の助言は",
+      "answer": "ありがたい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1541560",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "grateful",
+          "thankful",
+          "welcome",
+          "appreciated",
+          "evoking gratitude"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b076",
+    "word": "めでたい",
+    "reading": "めでたい",
+    "category": "い形容词",
+    "meaning": "可喜；值得庆贺",
+    "example": [
+      [
+        "卒業",
+        "そつぎょう"
+      ],
+      [
+        "はめでたいことです。"
+      ]
+    ],
+    "translation": "毕业是件值得庆贺的事。",
+    "tip": "祝贺时常用「おめでとう」，与此词相关。",
+    "kanjiNote": "常用假名，也可写「目出度い」。",
+    "cloze": {
+      "before": "卒業は",
+      "answer": "めでたい",
+      "after": "ことです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1608630",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "happy",
+          "auspicious",
+          "propitious",
+          "joyous"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b077",
+    "word": "望ましい",
+    "reading": "のぞましい",
+    "category": "い形容词",
+    "meaning": "理想；可取；值得期待",
+    "example": [
+      [
+        "早",
+        "はや"
+      ],
+      [
+        "めの"
+      ],
+      [
+        "予約",
+        "よやく"
+      ],
+      [
+        "が"
+      ],
+      [
+        "望ましい",
+        "のぞましい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "最好提前预约。",
+    "tip": "比「したほうがいい」更偏正式的建议。",
+    "kanjiNote": "「望」在本词中读のぞ。",
+    "cloze": {
+      "before": "早めの予約が",
+      "answer": "望ましい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1519610",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "desirable",
+          "hoped for",
+          "preferable",
+          "advisable"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b078",
+    "word": "苦しい",
+    "reading": "くるしい",
+    "category": "い形容词",
+    "meaning": "痛苦；难受",
+    "example": [
+      [
+        "坂",
+        "さか"
+      ],
+      [
+        "を"
+      ],
+      [
+        "走",
+        "はし"
+      ],
+      [
+        "って"
+      ],
+      [
+        "上",
+        "のぼ"
+      ],
+      [
+        "ったので、"
+      ],
+      [
+        "息",
+        "いき"
+      ],
+      [
+        "が"
+      ],
+      [
+        "苦しい",
+        "くるしい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "跑着上了坡，喘气很难受。",
+    "tip": "「息が苦しい」描述呼吸费力或不畅。",
+    "kanjiNote": "「苦」在本词中读くる。",
+    "cloze": {
+      "before": "坂を走って上ったので、息が",
+      "answer": "苦しい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1244320",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "painful",
+          "difficult",
+          "tough",
+          "hard"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b079",
+    "word": "つらい",
+    "reading": "つらい",
+    "category": "い形容词",
+    "meaning": "痛苦；难熬",
+    "example": [
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "と"
+      ],
+      [
+        "別",
+        "わか"
+      ],
+      [
+        "れるのはつらいです。"
+      ]
+    ],
+    "translation": "和朋友分别让我很难受。",
+    "tip": "本课偏重心理上的难受与痛苦。",
+    "kanjiNote": "常用假名；写作「辛い」时需与からい区分。",
+    "cloze": {
+      "before": "友達と別れるのは",
+      "answer": "つらい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1365860",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "painful",
+          "bitter",
+          "heart-breaking",
+          "difficult (emotionally)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b080",
+    "word": "だるい",
+    "reading": "だるい",
+    "category": "い形容词",
+    "meaning": "乏力；身体沉重",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "体",
+        "からだ"
+      ],
+      [
+        "がだるいです。"
+      ]
+    ],
+    "translation": "今天身体乏力。",
+    "tip": "常用「体がだるい」「足がだるい」。",
+    "kanjiNote": "常用假名，不必记少见汉字。",
+    "cloze": {
+      "before": "今日は体が",
+      "answer": "だるい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1007520",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "sluggish",
+          "languid",
+          "listless",
+          "heavy (heart, legs, etc.)",
+          "dull"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b081",
+    "word": "面倒くさい",
+    "reading": "めんどうくさい",
+    "category": "い形容词",
+    "meaning": "麻烦；嫌费事",
+    "example": [
+      [
+        "毎回",
+        "まいかい"
+      ],
+      [
+        "名前",
+        "なまえ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "書",
+        "か"
+      ],
+      [
+        "くのは"
+      ],
+      [
+        "面倒くさい",
+        "めんどうくさい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "每次都要写名字，真麻烦。",
+    "tip": "口语中也常读成「めんどくさい」。",
+    "kanjiNote": "「面倒」读めんどう，带长音。",
+    "cloze": {
+      "before": "毎回名前を書くのは",
+      "answer": "面倒くさい",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1533560",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "bothersome",
+          "tiresome",
+          "bother to do"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b082",
+    "word": "仕方ない",
+    "reading": "しかたない",
+    "category": "表达・い形容词",
+    "meaning": "没办法；无可奈何",
+    "example": [
+      [
+        "雨",
+        "あめ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "中止",
+        "ちゅうし"
+      ],
+      [
+        "なら、"
+      ],
+      [
+        "仕方ない",
+        "しかたない"
+      ],
+      [
+        "ですね。"
+      ]
+    ],
+    "translation": "如果因为下雨取消，也没办法。",
+    "tip": "也常说「仕方がない」，表示无法改变的情况。",
+    "kanjiNote": "「仕方」读しかた，表示方法或办法。",
+    "cloze": {
+      "before": "雨で中止なら、",
+      "answer": "仕方ない",
+      "after": "ですね。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1305440",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "cannot be helped",
+          "unavoidable",
+          "inevitable",
+          "(there's) nothing one can do",
+          "having no choice"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b083",
+    "word": "くだらない",
+    "reading": "くだらない",
+    "category": "い形容词",
+    "meaning": "无聊；毫无意义",
+    "example": [
+      [
+        "くだらないけんかはやめましょう。"
+      ]
+    ],
+    "translation": "别再为无聊的事吵架了。",
+    "tip": "说别人的想法「くだらない」语气较重。",
+    "kanjiNote": "常用假名，也可写「下らない」。",
+    "cloze": {
+      "before": "",
+      "answer": "くだらない",
+      "after": "けんかはやめましょう。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1184360",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        [
+          "trivial",
+          "trifling",
+          "insignificant",
+          "not worth bothering with",
+          "worthless",
+          "useless",
+          "good-for-nothing"
+        ],
+        [
+          "stupid",
+          "nonsensical",
+          "absurd",
+          "foolish",
+          "silly"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b084",
+    "word": "意外",
+    "reading": "いがい",
+    "category": "な形容词",
+    "meaning": "出乎意料",
+    "example": [
+      [
+        "試験",
+        "しけん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "結果",
+        "けっか"
+      ],
+      [
+        "は"
+      ],
+      [
+        "意外",
+        "いがい"
+      ],
+      [
+        "でした。"
+      ]
+    ],
+    "translation": "考试结果出乎意料。",
+    "tip": "「意外な結果」表示没想到的结果。",
+    "kanjiNote": "与表示“以外”的「以外」同音。",
+    "cloze": {
+      "before": "試験の結果は",
+      "answer": "意外",
+      "after": "でした。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1156410",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "unexpected",
+          "surprising",
+          "unanticipated",
+          "strange",
+          "unforeseen"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b085",
+    "word": "不思議",
+    "reading": "ふしぎ",
+    "category": "な形容词・名词",
+    "meaning": "不可思议；奇妙",
+    "example": [
+      [
+        "空",
+        "そら"
+      ],
+      [
+        "に"
+      ],
+      [
+        "不思議",
+        "ふしぎ"
+      ],
+      [
+        "な"
+      ],
+      [
+        "形",
+        "かたち"
+      ],
+      [
+        "の"
+      ],
+      [
+        "雲",
+        "くも"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "天上有一朵形状奇妙的云。",
+    "tip": "「不思議な〜」可描述难以解释或引人好奇的事物。",
+    "kanjiNote": "「不思議」读ふしぎ，注意ふ不是ぶ。",
+    "cloze": {
+      "before": "空に",
+      "answer": "不思議",
+      "after": "な形の雲があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1492570",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "wonderful",
+          "marvelous",
+          "strange",
+          "incredible",
+          "amazing",
+          "curious",
+          "miraculous",
+          "mysterious"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b086",
+    "word": "深刻",
+    "reading": "しんこく",
+    "category": "な形容词",
+    "meaning": "严重；严峻",
+    "example": [
+      [
+        "これは"
+      ],
+      [
+        "深刻",
+        "しんこく"
+      ],
+      [
+        "な"
+      ],
+      [
+        "問題",
+        "もんだい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "这是一个严重的问题。",
+    "tip": "常与「問題」「状況」搭配。",
+    "kanjiNote": "「刻」在此读こく。",
+    "cloze": {
+      "before": "これは",
+      "answer": "深刻",
+      "after": "な問題です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1362730",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "serious",
+          "severe",
+          "grave",
+          "acute"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b087",
+    "word": "真剣",
+    "reading": "しんけん",
+    "category": "な形容词",
+    "meaning": "认真；严肃",
+    "example": [
+      [
+        "将来",
+        "しょうらい"
+      ],
+      [
+        "について"
+      ],
+      [
+        "真剣",
+        "しんけん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "考",
+        "かんが"
+      ],
+      [
+        "えています。"
+      ]
+    ],
+    "translation": "我正在认真思考未来。",
+    "tip": "「真剣に〜する」强调全心投入。",
+    "kanjiNote": "本课取“认真”义，不是“真刀”义。",
+    "cloze": {
+      "before": "将来について",
+      "answer": "真剣",
+      "after": "に考えています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1363650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "serious",
+          "earnest"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b088",
+    "word": "気楽",
+    "reading": "きらく",
+    "category": "な形容词",
+    "meaning": "轻松；无拘束",
+    "example": [
+      [
+        "家",
+        "いえ"
+      ],
+      [
+        "では"
+      ],
+      [
+        "気楽",
+        "きらく"
+      ],
+      [
+        "に"
+      ],
+      [
+        "過",
+        "す"
+      ],
+      [
+        "ごせます。"
+      ]
+    ],
+    "translation": "在家可以轻松自在地度过。",
+    "tip": "「気楽に」表示不拘束、不紧张。",
+    "kanjiNote": "「気」读き，「楽」读らく。",
+    "cloze": {
+      "before": "家では",
+      "answer": "気楽",
+      "after": "に過ごせます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1222010",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "carefree",
+          "comfortable",
+          "at ease"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b089",
+    "word": "平気",
+    "reading": "へいき",
+    "category": "な形容词",
+    "meaning": "没关系；不要紧",
+    "example": [
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "待",
+        "ま"
+      ],
+      [
+        "っても"
+      ],
+      [
+        "平気",
+        "へいき"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "等一会儿也没关系。",
+    "tip": "回答是否介意或能否承受时可说「平気です」。",
+    "kanjiNote": "「平」在这里读へい。",
+    "cloze": {
+      "before": "少し待っても",
+      "answer": "平気",
+      "after": "です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1507180",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "all right",
+          "fine",
+          "OK",
+          "okay"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b090",
+    "word": "素朴",
+    "reading": "そぼく",
+    "category": "な形容词",
+    "meaning": "朴素；纯朴",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "町",
+        "まち"
+      ],
+      [
+        "には"
+      ],
+      [
+        "素朴",
+        "そぼく"
+      ],
+      [
+        "な"
+      ],
+      [
+        "魅力",
+        "みりょく"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "这座小城有一种质朴的魅力。",
+    "tip": "既可形容风格，也可形容没有做作的人。",
+    "kanjiNote": "「朴」在此读ぼく。",
+    "cloze": {
+      "before": "この町には",
+      "answer": "素朴",
+      "after": "な魅力があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1397390",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "simple",
+          "artless",
+          "naive",
+          "unsophisticated"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b091",
+    "word": "贅沢",
+    "reading": "ぜいたく",
+    "category": "名词・な形容词",
+    "meaning": "奢侈；豪华",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "贅沢",
+        "ぜいたく"
+      ],
+      [
+        "な"
+      ],
+      [
+        "夕食",
+        "ゆうしょく"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "今天的晚餐稍微丰盛奢侈一些。",
+    "tip": "「贅沢な〜」可形容超出日常水平的享受。",
+    "kanjiNote": "「贅沢」读ぜいたく，虽字形复杂但日常常见。",
+    "cloze": {
+      "before": "今日は少し",
+      "answer": "贅沢",
+      "after": "な夕食です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1573150",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "luxury",
+          "extravagance"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b092",
+    "word": "たいてい",
+    "reading": "たいてい",
+    "category": "副词",
+    "meaning": "通常；大多",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "はたいていお"
+      ],
+      [
+        "茶",
+        "ちゃ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "飲",
+        "の"
+      ],
+      [
+        "みます。"
+      ]
+    ],
+    "translation": "早上我通常喝茶。",
+    "tip": "表示多数情况下如此，不等于每一次。",
+    "kanjiNote": "常用假名，也可写「大抵」。",
+    "cloze": {
+      "before": "朝は",
+      "answer": "たいてい",
+      "after": "お茶を飲みます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1414580",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "mostly",
+          "ordinarily",
+          "usually",
+          "generally"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b093",
+    "word": "しばしば",
+    "reading": "しばしば",
+    "category": "副词",
+    "meaning": "常常；屡次",
+    "example": [
+      [
+        "仕事",
+        "しごと"
+      ],
+      [
+        "でしばしば"
+      ],
+      [
+        "大阪",
+        "おおさか"
+      ],
+      [
+        "へ"
+      ],
+      [
+        "行",
+        "い"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "因工作常常去大阪。",
+    "tip": "比「よく」更偏书面，但也可用于正式口语。",
+    "kanjiNote": "常用假名，也有「屡々」等写法。",
+    "cloze": {
+      "before": "仕事で",
+      "answer": "しばしば",
+      "after": "大阪へ行きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1005580",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "often",
+          "again and again",
+          "frequently",
+          "repeatedly"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b094",
+    "word": "めったに",
+    "reading": "めったに",
+    "category": "副词",
+    "meaning": "很少；难得",
+    "example": [
+      [
+        "私",
+        "わたし"
+      ],
+      [
+        "はめったにテレビを"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ません。"
+      ]
+    ],
+    "translation": "我很少看电视。",
+    "tip": "通常与否定形式搭配：「めったに〜ない」。",
+    "kanjiNote": "常用假名；「滅多に」也是常见写法。",
+    "cloze": {
+      "before": "私は",
+      "answer": "めったに",
+      "after": "テレビを見ません。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1612000",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "rarely",
+          "seldom"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b095",
+    "word": "ますます",
+    "reading": "ますます",
+    "category": "副词",
+    "meaning": "越来越；愈发",
+    "example": [
+      [
+        "練習",
+        "れんしゅう"
+      ],
+      [
+        "がますます"
+      ],
+      [
+        "楽",
+        "たの"
+      ],
+      [
+        "しくなりました。"
+      ]
+    ],
+    "translation": "练习变得越来越有趣了。",
+    "tip": "表示已有趋势进一步加强。",
+    "kanjiNote": "常用假名，也可写「益々」。",
+    "cloze": {
+      "before": "練習が",
+      "answer": "ますます",
+      "after": "楽しくなりました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1603950",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "increasingly",
+          "more and more"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b096",
+    "word": "だんだん",
+    "reading": "だんだん",
+    "category": "副词",
+    "meaning": "渐渐；逐渐",
+    "example": [
+      [
+        "日本語",
+        "にほんご"
+      ],
+      [
+        "の"
+      ],
+      [
+        "会話",
+        "かいわ"
+      ],
+      [
+        "にだんだん"
+      ],
+      [
+        "慣",
+        "な"
+      ],
+      [
+        "れてきました。"
+      ]
+    ],
+    "translation": "我渐渐习惯用日语交谈了。",
+    "tip": "强调变化逐步发生。",
+    "kanjiNote": "常用假名，也写作「段々」。",
+    "cloze": {
+      "before": "日本語の会話に",
+      "answer": "だんだん",
+      "after": "慣れてきました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1597350",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "gradually",
+          "by degrees",
+          "little by little",
+          "more and more",
+          "increasingly"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b097",
+    "word": "突然",
+    "reading": "とつぜん",
+    "category": "副词・の形容词",
+    "meaning": "突然；突如其来",
+    "example": [
+      [
+        "突然",
+        "とつぜん"
+      ],
+      [
+        "電話",
+        "でんわ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "鳴",
+        "な"
+      ],
+      [
+        "りました。"
+      ]
+    ],
+    "translation": "电话突然响了。",
+    "tip": "可直接修饰动词，也可说「突然の雨」。",
+    "kanjiNote": "「突然」读とつぜん，不是促音。",
+    "cloze": {
+      "before": "",
+      "answer": "突然",
+      "after": "電話が鳴りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1457040",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "abrupt",
+          "sudden",
+          "unexpected"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b098",
+    "word": "偶然",
+    "reading": "ぐうぜん",
+    "category": "副词・名词",
+    "meaning": "偶然；碰巧",
+    "example": [
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "で"
+      ],
+      [
+        "偶然",
+        "ぐうぜん"
+      ],
+      [
+        "友達",
+        "ともだち"
+      ],
+      [
+        "に"
+      ],
+      [
+        "会",
+        "あ"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "在车站偶然遇见朋友。",
+    "tip": "「偶然会う」强调并非事先约好。",
+    "kanjiNote": "「偶」读ぐう，有长音。",
+    "cloze": {
+      "before": "駅で",
+      "answer": "偶然",
+      "after": "友達に会いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1246270",
+      "senseIndices": [
+        0,
+        1
+      ],
+      "glosses": [
+        [
+          "coincidence",
+          "chance",
+          "accident",
+          "fortuity"
+        ],
+        [
+          "by chance",
+          "unexpectedly",
+          "accidentally"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b099",
+    "word": "うっかり",
+    "reading": "うっかり",
+    "category": "副词",
+    "meaning": "不留神；不小心",
+    "example": [
+      [
+        "うっかり"
+      ],
+      [
+        "鍵",
+        "かぎ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "忘",
+        "わす"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "我不小心忘了带钥匙。",
+    "tip": "常与失误或忘记某事搭配。",
+    "kanjiNote": "常用假名，注意促音っ。",
+    "cloze": {
+      "before": "",
+      "answer": "うっかり",
+      "after": "鍵を忘れました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1001010",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "carelessly",
+          "thoughtlessly",
+          "inadvertently"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b100",
+    "word": "つい",
+    "reading": "つい",
+    "category": "副词",
+    "meaning": "不由得；无意中",
+    "example": [
+      [
+        "おいしくて、つい"
+      ],
+      [
+        "食",
+        "た"
+      ],
+      [
+        "べすぎました。"
+      ]
+    ],
+    "translation": "因为太好吃，不知不觉吃多了。",
+    "tip": "本课取“不由自主”义，不是「ついさっき」的“刚刚”。",
+    "kanjiNote": "只有两拍：つ・い。",
+    "cloze": {
+      "before": "おいしくて、",
+      "answer": "つい",
+      "after": "食べすぎました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1008030",
+      "senseIndices": [
+        2
+      ],
+      "glosses": [
+        [
+          "unintentionally",
+          "subconsciously",
+          "by mistake",
+          "against one's better judgement (judgment)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b101",
+    "word": "どうしても",
+    "reading": "どうしても",
+    "category": "副词",
+    "meaning": "无论如何；怎么也",
+    "example": [
+      [
+        "どうしてもこの"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "読",
+        "よ"
+      ],
+      [
+        "みたいです。"
+      ]
+    ],
+    "translation": "无论如何，我都想读这本书。",
+    "tip": "接肯定句可强调强烈意愿；接否定句可表示怎么也做不到。",
+    "kanjiNote": "常用假名，开头どう是长音。",
+    "cloze": {
+      "before": "",
+      "answer": "どうしても",
+      "after": "この本が読みたいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1466950",
+      "senseIndices": [
+        0,
+        2
+      ],
+      "glosses": [
+        [
+          "by all means",
+          "at any cost",
+          "no matter what",
+          "at any rate",
+          "surely"
+        ],
+        [
+          "on no account",
+          "by no means"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b102",
+    "word": "せっかく",
+    "reading": "せっかく",
+    "category": "副词",
+    "meaning": "好不容易；特意",
+    "example": [
+      [
+        "せっかく"
+      ],
+      [
+        "来",
+        "き"
+      ],
+      [
+        "たので、ゆっくり"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ていきましょう。"
+      ]
+    ],
+    "translation": "既然好不容易来了，就慢慢看看再走吧。",
+    "tip": "常用于珍惜已经付出的努力或难得的机会。",
+    "kanjiNote": "常用假名，也可写「折角」。",
+    "cloze": {
+      "before": "",
+      "answer": "せっかく",
+      "after": "来たので、ゆっくり見ていきましょう。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1596090",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "with trouble",
+          "at great pains"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b103",
+    "word": "あえて",
+    "reading": "あえて",
+    "category": "副词",
+    "meaning": "特意；明知如此仍选择",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "はあえて"
+      ],
+      [
+        "遠",
+        "とお"
+      ],
+      [
+        "い"
+      ],
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "歩",
+        "ある"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "今天我特意选一条更远的路走。",
+    "tip": "强调在知道其他选择的情况下，仍有意这样做。",
+    "kanjiNote": "常用假名，也可写「敢えて」。",
+    "cloze": {
+      "before": "今日は",
+      "answer": "あえて",
+      "after": "遠い道を歩きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1212850",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "purposely (of something needless, unexpected or seemingly counterproductive, etc.)",
+          "daringly (doing something)",
+          "deliberately",
+          "intentionally"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b104",
+    "word": "常に",
+    "reading": "つねに",
+    "category": "副词",
+    "meaning": "始终；经常；总是",
+    "example": [
+      [
+        "仕事",
+        "しごと"
+      ],
+      [
+        "では"
+      ],
+      [
+        "常に",
+        "つねに"
+      ],
+      [
+        "安全",
+        "あんぜん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "意識",
+        "いしき"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "工作时始终注意安全。",
+    "tip": "比「いつも」更偏正式，强调持续保持。",
+    "kanjiNote": "「常」在这里训读つね。",
+    "cloze": {
+      "before": "仕事では",
+      "answer": "常に",
+      "after": "安全を意識します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1355970",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "always",
+          "constantly",
+          "at all times",
+          "habitually"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-b105",
+    "word": "わざと",
+    "reading": "わざと",
+    "category": "副词",
+    "meaning": "故意；有意",
+    "example": [
+      [
+        "わざとゆっくり"
+      ],
+      [
+        "話",
+        "はな"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "我故意放慢了说话速度。",
+    "tip": "既可表示善意安排，也可表示故意做坏事，需看上下文。",
+    "kanjiNote": "常用假名，也可写「態と」。",
+    "cloze": {
+      "before": "",
+      "answer": "わざと",
+      "after": "ゆっくり話しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1410760",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "on purpose",
+          "deliberately",
+          "intentionally"
+        ]
+      ]
+    }
+  }
+]

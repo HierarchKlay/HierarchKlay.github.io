@@ -1,0 +1,5086 @@
+[
+  {
+    "id": "w04-c001",
+    "word": "出す",
+    "reading": "だす",
+    "category": "他动词",
+    "meaning": "拿出；取出",
+    "example": [
+      [
+        "かばんからノートを"
+      ],
+      [
+        "出",
+        "だ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "从包里拿出笔记本。",
+    "tip": "「〜から〜を出す」表示从某处取出东西。",
+    "kanjiNote": "「出」表示由内到外。",
+    "cloze": {
+      "before": "かばんからノートを",
+      "answer": "出します",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1338180",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to take out",
+          "to get out"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c002",
+    "word": "戻る",
+    "reading": "もどる",
+    "category": "自动词",
+    "meaning": "返回；回去",
+    "example": [
+      [
+        "昼",
+        "ひる"
+      ],
+      [
+        "に"
+      ],
+      [
+        "会社",
+        "かいしゃ"
+      ],
+      [
+        "へ"
+      ],
+      [
+        "戻",
+        "もど"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "中午返回公司。",
+    "tip": "「戻る」是自动词，返回的地点用「へ／に」。",
+    "kanjiNote": "「戻」在这里读「もど」。",
+    "cloze": {
+      "before": "昼に会社へ",
+      "answer": "戻ります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1535880",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "to return",
+          "to go back"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c003",
+    "word": "戻す",
+    "reading": "もどす",
+    "category": "他动词",
+    "meaning": "放回；恢复原状",
+    "example": [
+      [
+        "読",
+        "よ"
+      ],
+      [
+        "んだ"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "棚",
+        "たな"
+      ],
+      [
+        "に"
+      ],
+      [
+        "戻",
+        "もど"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "把读过的书放回架子。",
+    "tip": "「戻す」是他动词，与自动词「戻る」配对。",
+    "kanjiNote": "「戻す」表示让事物回到原处。",
+    "cloze": {
+      "before": "読んだ本を棚に",
+      "answer": "戻します",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1535850",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to put back",
+          "to return",
+          "to give back",
+          "to restore (to a previous state, e.g. defrosting, reconstituting, reconciling)",
+          "to turn back (e.g. clock hand)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c004",
+    "word": "動く",
+    "reading": "うごく",
+    "category": "自动词",
+    "meaning": "移动；活动",
+    "example": [
+      [
+        "窓",
+        "まど"
+      ],
+      [
+        "の"
+      ],
+      [
+        "外",
+        "そと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "猫",
+        "ねこ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "動",
+        "うご"
+      ],
+      [
+        "いています。"
+      ]
+    ],
+    "translation": "窗外有只猫正在移动。",
+    "tip": "「〜が動く」强调物体自身移动。",
+    "kanjiNote": "「動」表示运动。",
+    "cloze": {
+      "before": "窓の外で猫が",
+      "answer": "動いています",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1451210",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to move",
+          "to stir",
+          "to shift",
+          "to shake",
+          "to swing"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c005",
+    "word": "動かす",
+    "reading": "うごかす",
+    "category": "他动词",
+    "meaning": "移动；挪动",
+    "example": [
+      [
+        "掃除",
+        "そうじ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "机",
+        "つくえ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "動",
+        "うご"
+      ],
+      [
+        "かします。"
+      ]
+    ],
+    "translation": "打扫之前挪动桌子。",
+    "tip": "「〜を動かす」表示使物体移动。",
+    "kanjiNote": "与「動く」共用「動」字。",
+    "cloze": {
+      "before": "掃除の前に机を",
+      "answer": "動かします",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1451170",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to move",
+          "to shift",
+          "to stir",
+          "to budge",
+          "to change position"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c006",
+    "word": "止まる",
+    "reading": "とまる",
+    "category": "自动词",
+    "meaning": "停止；停下",
+    "example": [
+      [
+        "バスが"
+      ],
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "止",
+        "と"
+      ],
+      [
+        "まります。"
+      ]
+    ],
+    "translation": "公交车在车站前停下。",
+    "tip": "「止まる」为自动词；使其停止可用「止める」。",
+    "kanjiNote": "这里的「止」读「と」。",
+    "cloze": {
+      "before": "バスが駅の前で",
+      "answer": "止まります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1310620",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to stop (moving)",
+          "to come to a stop"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c007",
+    "word": "開く",
+    "reading": "あく",
+    "category": "自动词",
+    "meaning": "打开；开着",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "になると"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "のドアが"
+      ],
+      [
+        "開",
+        "あ"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "到了早晨，店门就打开了。",
+    "tip": "这里读「あく」，是自动词，与「開ける」配对。",
+    "kanjiNote": "「開」也有「ひらく」的读法，注意本词读音。",
+    "cloze": {
+      "before": "朝になると店のドアが",
+      "answer": "開きます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1586270",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to open (e.g. doors)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c008",
+    "word": "閉まる",
+    "reading": "しまる",
+    "category": "自动词",
+    "meaning": "关上；关闭",
+    "example": [
+      [
+        "電車",
+        "でんしゃ"
+      ],
+      [
+        "のドアが"
+      ],
+      [
+        "閉",
+        "し"
+      ],
+      [
+        "まります。"
+      ]
+    ],
+    "translation": "列车门即将关闭。",
+    "tip": "「閉まる」描述门自己关上；关门的动作是「閉める」。",
+    "kanjiNote": "这里的「閉」读「し」。",
+    "cloze": {
+      "before": "電車のドアが",
+      "answer": "閉まります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1436560",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to be shut",
+          "to close",
+          "to be closed"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c009",
+    "word": "上がる",
+    "reading": "あがる",
+    "category": "自动词",
+    "meaning": "上升；升高",
+    "example": [
+      [
+        "午後",
+        "ごご"
+      ],
+      [
+        "は"
+      ],
+      [
+        "気温",
+        "きおん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "上",
+        "あ"
+      ],
+      [
+        "がります。"
+      ]
+    ],
+    "translation": "下午气温会上升。",
+    "tip": "「〜が上がる」表示数值或位置升高。",
+    "kanjiNote": "「上」表示向上。",
+    "cloze": {
+      "before": "午後は気温が",
+      "answer": "上がります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1352290",
+      "senseIndices": [
+        5
+      ],
+      "glosses": [
+        [
+          "to increase",
+          "to be raised (e.g. of a salary)",
+          "to rise"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c010",
+    "word": "受け取る",
+    "reading": "うけとる",
+    "category": "他动词",
+    "meaning": "收到；接过",
+    "example": [
+      [
+        "玄関",
+        "げんかん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "荷物",
+        "にもつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "受",
+        "う"
+      ],
+      [
+        "け"
+      ],
+      [
+        "取",
+        "と"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "在玄关接收包裹。",
+    "tip": "「〜を受け取る」可用于收取物品或文件。",
+    "kanjiNote": "由「受ける」与「取る」组成。",
+    "cloze": {
+      "before": "玄関で荷物を",
+      "answer": "受け取ります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1329650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to receive",
+          "to get",
+          "to accept"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c011",
+    "word": "下がる",
+    "reading": "さがる",
+    "category": "自动词",
+    "meaning": "下降；降低",
+    "example": [
+      [
+        "夜",
+        "よる"
+      ],
+      [
+        "になると"
+      ],
+      [
+        "気温",
+        "きおん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "下",
+        "さ"
+      ],
+      [
+        "がります。"
+      ]
+    ],
+    "translation": "到了夜里气温会下降。",
+    "tip": "自动词，与表示降低某物的「下げる」区分。",
+    "kanjiNote": "「下」表示向下。",
+    "cloze": {
+      "before": "夜になると気温が",
+      "answer": "下がります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1184160",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to come down",
+          "to go down",
+          "to fall",
+          "to drop",
+          "to sink",
+          "to get lower"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c012",
+    "word": "下げる",
+    "reading": "さげる",
+    "category": "他动词",
+    "meaning": "调低；降低",
+    "example": [
+      [
+        "テレビの"
+      ],
+      [
+        "音量",
+        "おんりょう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "下",
+        "さ"
+      ],
+      [
+        "げます。"
+      ]
+    ],
+    "translation": "调低电视音量。",
+    "tip": "他动词，调低的对象用「を」。",
+    "kanjiNote": "与「下がる」共用「下」字。",
+    "cloze": {
+      "before": "テレビの音量を",
+      "answer": "下げます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1184170",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "to lower",
+          "to reduce",
+          "to bring down"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c013",
+    "word": "落ちる",
+    "reading": "おちる",
+    "category": "自动词",
+    "meaning": "掉落；落下",
+    "example": [
+      [
+        "木",
+        "き"
+      ],
+      [
+        "から"
+      ],
+      [
+        "葉",
+        "は"
+      ],
+      [
+        "が"
+      ],
+      [
+        "落",
+        "お"
+      ],
+      [
+        "ちました。"
+      ]
+    ],
+    "translation": "树叶从树上落了下来。",
+    "tip": "「落ちる」是自动词，掉下来的东西用「が」。",
+    "kanjiNote": "「落」表示从上方落下。",
+    "cloze": {
+      "before": "木から葉が",
+      "answer": "落ちました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1548550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to fall",
+          "to drop",
+          "to come down",
+          "to crash",
+          "to collapse",
+          "to cave in",
+          "to give way"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c014",
+    "word": "落とす",
+    "reading": "おとす",
+    "category": "他动词",
+    "meaning": "使掉落；弄掉",
+    "example": [
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "で"
+      ],
+      [
+        "手袋",
+        "てぶくろ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "落",
+        "お"
+      ],
+      [
+        "としました。"
+      ]
+    ],
+    "translation": "在车站把手套弄掉了。",
+    "tip": "「〜を落とす」可表示不小心弄丢随身物品。",
+    "kanjiNote": "与「落ちる」配对记忆。",
+    "cloze": {
+      "before": "駅で手袋を",
+      "answer": "落としました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1589260",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to drop",
+          "to lose",
+          "to let fall",
+          "to shed (light)",
+          "to cast (one's gaze)",
+          "to pour in (liquid)",
+          "to leave behind"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c015",
+    "word": "運ぶ",
+    "reading": "はこぶ",
+    "category": "他动词",
+    "meaning": "搬运；运送",
+    "example": [
+      [
+        "二人",
+        "ふたり"
+      ],
+      [
+        "でテーブルを"
+      ],
+      [
+        "運",
+        "はこ"
+      ],
+      [
+        "びます。"
+      ]
+    ],
+    "translation": "两个人一起搬桌子。",
+    "tip": "「〜を〜へ運ぶ」表示把东西运往某处。",
+    "kanjiNote": "「運」在本词中读「はこ」。",
+    "cloze": {
+      "before": "二人でテーブルを",
+      "answer": "運びます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1172660",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to carry",
+          "to transport",
+          "to move",
+          "to convey"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c016",
+    "word": "届く",
+    "reading": "とどく",
+    "category": "自动词",
+    "meaning": "送到；到达",
+    "example": [
+      [
+        "明日",
+        "あした"
+      ],
+      [
+        "、"
+      ],
+      [
+        "荷物",
+        "にもつ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "届",
+        "とど"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "包裹明天送到。",
+    "tip": "物品送达用「荷物が届く」，不接「を」。",
+    "kanjiNote": "「届」表示到达接收方。",
+    "cloze": {
+      "before": "明日、荷物が",
+      "answer": "届きます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1457200",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "to be delivered",
+          "to arrive"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c017",
+    "word": "届ける",
+    "reading": "とどける",
+    "category": "他动词",
+    "meaning": "送到；递送",
+    "example": [
+      [
+        "忘",
+        "わす"
+      ],
+      [
+        "れ"
+      ],
+      [
+        "物",
+        "もの"
+      ],
+      [
+        "を"
+      ],
+      [
+        "受付",
+        "うけつけ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "届",
+        "とど"
+      ],
+      [
+        "けます。"
+      ]
+    ],
+    "translation": "把遗失物送到接待处。",
+    "tip": "「〜を〜に届ける」表示将物品送到某处。",
+    "kanjiNote": "与「届く」配对记忆。",
+    "cloze": {
+      "before": "忘れ物を受付に",
+      "answer": "届けます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1457210",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to deliver",
+          "to forward",
+          "to send"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c018",
+    "word": "渡る",
+    "reading": "わたる",
+    "category": "自动词",
+    "meaning": "渡过；穿过",
+    "example": [
+      [
+        "信号",
+        "しんごう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "てから"
+      ],
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "渡",
+        "わた"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "看过信号灯后再过马路。",
+    "tip": "经过的路或桥通常用「を」。",
+    "kanjiNote": "「渡」常用于跨越道路、河流。",
+    "cloze": {
+      "before": "信号を見てから道を",
+      "answer": "渡ります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1444680",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to cross over",
+          "to go across"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c019",
+    "word": "渡す",
+    "reading": "わたす",
+    "category": "他动词",
+    "meaning": "递给；交给",
+    "example": [
+      [
+        "受付",
+        "うけつけ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "人",
+        "ひと"
+      ],
+      [
+        "に"
+      ],
+      [
+        "書類",
+        "しょるい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "渡",
+        "わた"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "把文件交给接待人员。",
+    "tip": "「人に物を渡す」表示把东西交给某人。",
+    "kanjiNote": "与「渡る」的动作方向不同。",
+    "cloze": {
+      "before": "受付の人に書類を",
+      "answer": "渡します",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1444610",
+      "senseIndices": [
+        2
+      ],
+      "glosses": [
+        [
+          "to hand over",
+          "to hand in",
+          "to pass",
+          "to give",
+          "to transfer"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c020",
+    "word": "通る",
+    "reading": "とおる",
+    "category": "自动词",
+    "meaning": "通过；经过",
+    "example": [
+      [
+        "毎朝",
+        "まいあさ"
+      ],
+      [
+        "、この"
+      ],
+      [
+        "橋",
+        "はし"
+      ],
+      [
+        "を"
+      ],
+      [
+        "通",
+        "とお"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "每天早晨经过这座桥。",
+    "tip": "经过的地点用「を」；注意长音「とおる」。",
+    "kanjiNote": "「通」在这里读「とお」。",
+    "cloze": {
+      "before": "毎朝、この橋を",
+      "answer": "通ります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1433030",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to go by",
+          "to go past",
+          "to go along",
+          "to travel along",
+          "to pass through",
+          "to use (a road)",
+          "to take (a route)",
+          "to go via",
+          "to go by way of"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c021",
+    "word": "通う",
+    "reading": "かよう",
+    "category": "自动词",
+    "meaning": "定期去；通勤；上学",
+    "example": [
+      [
+        "週",
+        "しゅう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "二回",
+        "にかい"
+      ],
+      [
+        "、"
+      ],
+      [
+        "日本語",
+        "にほんご"
+      ],
+      [
+        "の"
+      ],
+      [
+        "教室",
+        "きょうしつ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "通",
+        "かよ"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "每周去日语教室上两次课。",
+    "tip": "「通う」强调经常往返，不是只去一次。",
+    "kanjiNote": "同是「通」，本词读「かよ」。",
+    "cloze": {
+      "before": "週に二回、日本語の教室に",
+      "answer": "通います",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1432850",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "to go to (school, work, etc.)",
+          "to attend",
+          "to commute",
+          "to frequent"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c022",
+    "word": "曲がる",
+    "reading": "まがる",
+    "category": "自动词",
+    "meaning": "转弯",
+    "example": [
+      [
+        "次",
+        "つぎ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "交差点",
+        "こうさてん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "右",
+        "みぎ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "曲",
+        "ま"
+      ],
+      [
+        "がります。"
+      ]
+    ],
+    "translation": "在下一个路口右转。",
+    "tip": "转弯地点用「で」，方向用「に」。",
+    "kanjiNote": "「曲」有弯曲之意。",
+    "cloze": {
+      "before": "次の交差点で右に",
+      "answer": "曲がります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1239730",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "to turn"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c023",
+    "word": "曲げる",
+    "reading": "まげる",
+    "category": "他动词",
+    "meaning": "弯曲；使弯曲",
+    "example": [
+      [
+        "ゆっくり"
+      ],
+      [
+        "膝",
+        "ひざ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "曲",
+        "ま"
+      ],
+      [
+        "げます。"
+      ]
+    ],
+    "translation": "慢慢弯曲膝盖。",
+    "tip": "「〜を曲げる」是使某物弯曲的他动词。",
+    "kanjiNote": "与「曲がる」配对。",
+    "cloze": {
+      "before": "ゆっくり膝を",
+      "answer": "曲げます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1239740",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to bend",
+          "to crook",
+          "to bow",
+          "to curve",
+          "to curl"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c024",
+    "word": "押す",
+    "reading": "おす",
+    "category": "他动词",
+    "meaning": "按；压",
+    "example": [
+      [
+        "このボタンを"
+      ],
+      [
+        "押",
+        "お"
+      ],
+      [
+        "してください。"
+      ]
+    ],
+    "translation": "请按这个按钮。",
+    "tip": "按钮、开关常与「押す」搭配。",
+    "kanjiNote": "「押」左边是提手旁。",
+    "cloze": {
+      "before": "このボタンを",
+      "answer": "押してください",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1180470",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "to press (down)",
+          "to push (e.g. a button)",
+          "to exert pressure on"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c025",
+    "word": "引く",
+    "reading": "ひく",
+    "category": "他动词",
+    "meaning": "拉；牵引",
+    "example": [
+      [
+        "ドアを"
+      ],
+      [
+        "手前",
+        "てまえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "引",
+        "ひ"
+      ],
+      [
+        "いてください。"
+      ]
+    ],
+    "translation": "请把门向自己这边拉。",
+    "tip": "门上「引く」与「押す」分别表示拉与推。",
+    "kanjiNote": "「引」表示拉动。",
+    "cloze": {
+      "before": "ドアを手前に",
+      "answer": "引いてください",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1169250",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to pull",
+          "to tug",
+          "to lead (e.g. a horse)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c026",
+    "word": "拾う",
+    "reading": "ひろう",
+    "category": "他动词",
+    "meaning": "捡起",
+    "example": [
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "で"
+      ],
+      [
+        "鍵",
+        "かぎ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "拾",
+        "ひろ"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "在路上捡到了一把钥匙。",
+    "tip": "「拾う」可表示捡到别人掉落的物品。",
+    "kanjiNote": "「拾」左边是提手旁。",
+    "cloze": {
+      "before": "道で鍵を",
+      "answer": "拾いました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1332570",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "to find (and pick up; something someone has dropped)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c027",
+    "word": "捨てる",
+    "reading": "すてる",
+    "category": "他动词",
+    "meaning": "扔掉；丢弃",
+    "example": [
+      [
+        "古",
+        "ふる"
+      ],
+      [
+        "いレシートを"
+      ],
+      [
+        "捨",
+        "す"
+      ],
+      [
+        "てます。"
+      ]
+    ],
+    "translation": "把旧收据扔掉。",
+    "tip": "扔掉的对象用「を」。",
+    "kanjiNote": "「捨」在本词中读「す」。",
+    "cloze": {
+      "before": "古いレシートを",
+      "answer": "捨てます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1322320",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to throw away",
+          "to cast away",
+          "to dump",
+          "to discard"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c028",
+    "word": "片付ける",
+    "reading": "かたづける",
+    "category": "他动词",
+    "meaning": "收拾；整理好",
+    "example": [
+      [
+        "食事",
+        "しょくじ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "後",
+        "あと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "食器",
+        "しょっき"
+      ],
+      [
+        "を"
+      ],
+      [
+        "片付",
+        "かたづ"
+      ],
+      [
+        "けます。"
+      ]
+    ],
+    "translation": "吃完饭后收拾餐具。",
+    "tip": "「片付ける」既可指整理房间，也可指收起东西。",
+    "kanjiNote": "「片付け」の「づ」不要写成「ず」。",
+    "cloze": {
+      "before": "食事の後で食器を",
+      "answer": "片付けます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1511790",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to put in order",
+          "to tidy up",
+          "to clean up",
+          "to put away",
+          "to clear away"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c029",
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "category": "自动词",
+    "meaning": "排队；排列",
+    "example": [
+      [
+        "入口",
+        "いりぐち"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "並",
+        "なら"
+      ],
+      [
+        "んでください。"
+      ]
+    ],
+    "translation": "请在入口前排队。",
+    "tip": "自己排队是「並ぶ」，把东西排好是「並べる」。",
+    "kanjiNote": "「並」表示并列。",
+    "cloze": {
+      "before": "入口の前に",
+      "answer": "並んでください",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1508380",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to line up",
+          "to stand in a line"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c030",
+    "word": "倒れる",
+    "reading": "たおれる",
+    "category": "自动词",
+    "meaning": "倒下；倾倒",
+    "example": [
+      [
+        "強",
+        "つよ"
+      ],
+      [
+        "い"
+      ],
+      [
+        "風",
+        "かぜ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "看板",
+        "かんばん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "倒",
+        "たお"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "招牌被大风吹倒了。",
+    "tip": "「倒れる」为自动词，描述物体倒下。",
+    "kanjiNote": "「倒」也出现在「倒す」中。",
+    "cloze": {
+      "before": "強い風で看板が",
+      "answer": "倒れました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1445790",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to fall (over, down)",
+          "to collapse",
+          "to take a fall",
+          "to topple"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c031",
+    "word": "倒す",
+    "reading": "たおす",
+    "category": "他动词",
+    "meaning": "放倒；使倾倒",
+    "example": [
+      [
+        "座席",
+        "ざせき"
+      ],
+      [
+        "を"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "倒",
+        "たお"
+      ],
+      [
+        "してもいいですか。"
+      ]
+    ],
+    "translation": "可以把座椅靠背稍微放倒吗？",
+    "tip": "调低靠背角度可说「座席を倒す」。",
+    "kanjiNote": "这是「倒れる」对应的他动词。",
+    "cloze": {
+      "before": "座席を少し",
+      "answer": "倒して",
+      "after": "もいいですか。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1445770",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to throw down",
+          "to bring down",
+          "to blow down",
+          "to fell",
+          "to knock down",
+          "to set (something) down on its side",
+          "to turn (something) on its side",
+          "to recline (e.g. a seat)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c032",
+    "word": "壊れる",
+    "reading": "こわれる",
+    "category": "自动词",
+    "meaning": "坏掉；故障",
+    "example": [
+      [
+        "洗濯機",
+        "せんたくき"
+      ],
+      [
+        "が"
+      ],
+      [
+        "壊",
+        "こわ"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "洗衣机坏了。",
+    "tip": "描述机器坏了用「〜が壊れる」。",
+    "kanjiNote": "「壊」有损坏之意。",
+    "cloze": {
+      "before": "洗濯機が",
+      "answer": "壊れました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1199900",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "to break (down)",
+          "to stop working"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c033",
+    "word": "壊す",
+    "reading": "こわす",
+    "category": "他动词",
+    "meaning": "弄坏；破坏",
+    "example": [
+      [
+        "弟",
+        "おとうと"
+      ],
+      [
+        "がおもちゃを"
+      ],
+      [
+        "壊",
+        "こわ"
+      ],
+      [
+        "しました。"
+      ]
+    ],
+    "translation": "弟弟把玩具弄坏了。",
+    "tip": "弄坏某物用「〜を壊す」。",
+    "kanjiNote": "与自动词「壊れる」配对。",
+    "cloze": {
+      "before": "弟がおもちゃを",
+      "answer": "壊しました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1199890",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to break",
+          "to destroy",
+          "to demolish"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c034",
+    "word": "汚れる",
+    "reading": "よごれる",
+    "category": "自动词",
+    "meaning": "变脏；沾污",
+    "example": [
+      [
+        "雨",
+        "あめ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "靴",
+        "くつ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "汚",
+        "よご"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "鞋子被雨弄脏了。",
+    "tip": "变脏的物品用「が」。",
+    "kanjiNote": "这里的「汚」读「よご」。",
+    "cloze": {
+      "before": "雨で靴が",
+      "answer": "汚れました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1179005",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to get dirty",
+          "to become dirty"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c035",
+    "word": "汚す",
+    "reading": "よごす",
+    "category": "他动词",
+    "meaning": "弄脏；污染",
+    "example": [
+      [
+        "インクでシャツを"
+      ],
+      [
+        "汚",
+        "よご"
+      ],
+      [
+        "してしまいました。"
+      ]
+    ],
+    "translation": "不小心用墨水弄脏了衬衫。",
+    "tip": "「〜てしまう」在这里带有遗憾的语气。",
+    "kanjiNote": "与「汚れる」配对。",
+    "cloze": {
+      "before": "インクでシャツを",
+      "answer": "汚して",
+      "after": "しまいました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1178960",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to pollute",
+          "to contaminate",
+          "to soil",
+          "to make dirty",
+          "to stain"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c036",
+    "word": "乾く",
+    "reading": "かわく",
+    "category": "自动词",
+    "meaning": "变干；干燥",
+    "example": [
+      [
+        "洗濯物",
+        "せんたくもの"
+      ],
+      [
+        "がよく"
+      ],
+      [
+        "乾",
+        "かわ"
+      ],
+      [
+        "きました。"
+      ]
+    ],
+    "translation": "衣服干得很透。",
+    "tip": "「乾く」描述东西自然变干。",
+    "kanjiNote": "注意不要与「渇く（口渴）」混淆。",
+    "cloze": {
+      "before": "洗濯物がよく",
+      "answer": "乾きました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1209650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to get dry"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c037",
+    "word": "乾かす",
+    "reading": "かわかす",
+    "category": "他动词",
+    "meaning": "弄干；晾干",
+    "example": [
+      [
+        "寝",
+        "ね"
+      ],
+      [
+        "る"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "髪",
+        "かみ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "乾",
+        "かわ"
+      ],
+      [
+        "かします。"
+      ]
+    ],
+    "translation": "睡前把头发弄干。",
+    "tip": "「〜を乾かす」表示主动使东西变干。",
+    "kanjiNote": "与「乾く」配对。",
+    "cloze": {
+      "before": "寝る前に髪を",
+      "answer": "乾かします",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1209630",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to dry (clothes, etc.)",
+          "to desiccate"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c038",
+    "word": "濡れる",
+    "reading": "ぬれる",
+    "category": "自动词",
+    "meaning": "淋湿；变湿",
+    "example": [
+      [
+        "雨",
+        "あめ"
+      ],
+      [
+        "でコートが"
+      ],
+      [
+        "濡",
+        "ぬ"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "外套被雨淋湿了。",
+    "tip": "「〜で濡れる」可说明变湿的原因。",
+    "kanjiNote": "「濡」有三点水。",
+    "cloze": {
+      "before": "雨でコートが",
+      "answer": "濡れました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1467620",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to get wet"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c039",
+    "word": "拭く",
+    "reading": "ふく",
+    "category": "他动词",
+    "meaning": "擦；擦拭",
+    "example": [
+      [
+        "タオルで"
+      ],
+      [
+        "手",
+        "て"
+      ],
+      [
+        "を"
+      ],
+      [
+        "拭",
+        "ふ"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "用毛巾擦手。",
+    "tip": "擦拭工具用「で」，擦拭对象用「を」。",
+    "kanjiNote": "「拭」左边是提手旁。",
+    "cloze": {
+      "before": "タオルで手を",
+      "answer": "拭きます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1357240",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to wipe",
+          "to dry"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c040",
+    "word": "磨く",
+    "reading": "みがく",
+    "category": "他动词",
+    "meaning": "刷；擦亮；打磨",
+    "example": [
+      [
+        "毎朝",
+        "まいあさ"
+      ],
+      [
+        "、"
+      ],
+      [
+        "歯",
+        "は"
+      ],
+      [
+        "を"
+      ],
+      [
+        "磨",
+        "みが"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "每天早晨刷牙。",
+    "tip": "刷牙固定说「歯を磨く」。",
+    "kanjiNote": "「磨」也用于打磨物体。",
+    "cloze": {
+      "before": "毎朝、歯を",
+      "answer": "磨きます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1523940",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to polish",
+          "to shine",
+          "to burnish",
+          "to scour",
+          "to scrub",
+          "to brush (teeth)",
+          "to grind (e.g. a lens)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c041",
+    "word": "切る",
+    "reading": "きる",
+    "category": "他动词",
+    "meaning": "切；剪",
+    "example": [
+      [
+        "包丁",
+        "ほうちょう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "野菜",
+        "やさい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "用菜刀切蔬菜。",
+    "tip": "「切る」是五段动词，ます形是「切ります」。",
+    "kanjiNote": "注意和「着る（きる）」的汉字及活用不同。",
+    "cloze": {
+      "before": "包丁で野菜を",
+      "answer": "切ります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1384830",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to cut",
+          "to cut through",
+          "to perform (surgery)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c042",
+    "word": "切れる",
+    "reading": "きれる",
+    "category": "自动词",
+    "meaning": "断开；断裂",
+    "example": [
+      [
+        "古",
+        "ふる"
+      ],
+      [
+        "いひもが"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "旧绳子断了。",
+    "tip": "「切れる」在这里是自动词，不表示主动去切。",
+    "kanjiNote": "与「切る」配对。",
+    "cloze": {
+      "before": "古いひもが",
+      "answer": "切れました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1384860",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to break",
+          "to snap",
+          "to be cut",
+          "to split",
+          "to crack"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c043",
+    "word": "折る",
+    "reading": "おる",
+    "category": "他动词",
+    "meaning": "折叠；折弯",
+    "example": [
+      [
+        "紙",
+        "かみ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "半分",
+        "はんぶん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "折",
+        "お"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "把纸对折。",
+    "tip": "「半分に折る」表示对折。",
+    "kanjiNote": "「折」左边是提手旁。",
+    "cloze": {
+      "before": "紙を半分に",
+      "answer": "折ります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1385910",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "to fold",
+          "to bend"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c044",
+    "word": "折れる",
+    "reading": "おれる",
+    "category": "自动词",
+    "meaning": "折断；断裂",
+    "example": [
+      [
+        "強",
+        "つよ"
+      ],
+      [
+        "い"
+      ],
+      [
+        "風",
+        "かぜ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "枝",
+        "えだ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "折",
+        "お"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "树枝被大风折断了。",
+    "tip": "自动词，折断的物体用「が」。",
+    "kanjiNote": "与「折る」配对记忆。",
+    "cloze": {
+      "before": "強い風で枝が",
+      "answer": "折れました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1385920",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to break",
+          "to be broken",
+          "to snap",
+          "to fracture"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c045",
+    "word": "包む",
+    "reading": "つつむ",
+    "category": "他动词",
+    "meaning": "包；包裹",
+    "example": [
+      [
+        "プレゼントを"
+      ],
+      [
+        "紙",
+        "かみ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "包",
+        "つつ"
+      ],
+      [
+        "みます。"
+      ]
+    ],
+    "translation": "用纸把礼物包起来。",
+    "tip": "「〜を〜で包む」说明对象与包装材料。",
+    "kanjiNote": "「包」表示包裹。",
+    "cloze": {
+      "before": "プレゼントを紙で",
+      "answer": "包みます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1584060",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to wrap up",
+          "to pack",
+          "to bundle",
+          "to do up"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c046",
+    "word": "結ぶ",
+    "reading": "むすぶ",
+    "category": "他动词",
+    "meaning": "系；打结；连接",
+    "example": [
+      [
+        "靴",
+        "くつ"
+      ],
+      [
+        "のひもを"
+      ],
+      [
+        "結",
+        "むす"
+      ],
+      [
+        "びます。"
+      ]
+    ],
+    "translation": "系鞋带。",
+    "tip": "系鞋带可说「靴のひもを結ぶ」。",
+    "kanjiNote": "「結」与打结、连接有关。",
+    "cloze": {
+      "before": "靴のひもを",
+      "answer": "結びます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1254670",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to tie",
+          "to bind",
+          "to link"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c047",
+    "word": "ほどく",
+    "reading": "ほどく",
+    "category": "他动词",
+    "meaning": "解开；松开",
+    "example": [
+      [
+        "荷物",
+        "にもつ"
+      ],
+      [
+        "のひもをほどきます。"
+      ]
+    ],
+    "translation": "解开行李上的绳子。",
+    "tip": "与「結ぶ」相对，可用于绳结和鞋带。",
+    "kanjiNote": "常写假名，也可写作「解く」。",
+    "cloze": {
+      "before": "荷物のひもを",
+      "answer": "ほどきます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1198900",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to undo",
+          "to untie",
+          "to unfasten",
+          "to unlace",
+          "to unravel",
+          "to loosen",
+          "to unpack"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c048",
+    "word": "貼る",
+    "reading": "はる",
+    "category": "他动词",
+    "meaning": "贴；粘贴",
+    "example": [
+      [
+        "封筒",
+        "ふうとう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "切手",
+        "きって"
+      ],
+      [
+        "を"
+      ],
+      [
+        "貼",
+        "は"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "在信封上贴邮票。",
+    "tip": "贴的东西用「を」，贴到的地方用「に」。",
+    "kanjiNote": "贴邮票常用「貼」，与「張」注意区分。",
+    "cloze": {
+      "before": "封筒に切手を",
+      "answer": "貼ります",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1427900",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to stick",
+          "to paste",
+          "to affix"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c049",
+    "word": "外す",
+    "reading": "はずす",
+    "category": "他动词",
+    "meaning": "取下；摘下；解开",
+    "example": [
+      [
+        "寝",
+        "ね"
+      ],
+      [
+        "る"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "にメガネを"
+      ],
+      [
+        "外",
+        "はず"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "睡前摘下眼镜。",
+    "tip": "「外す」可用于眼镜、口罩和扣子等。",
+    "kanjiNote": "「外」有从原位置移开之意。",
+    "cloze": {
+      "before": "寝る前にメガネを",
+      "answer": "外します",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1203270",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to remove",
+          "to take off",
+          "to detach",
+          "to unfasten",
+          "to undo"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c050",
+    "word": "外れる",
+    "reading": "はずれる",
+    "category": "自动词",
+    "meaning": "脱落；松脱",
+    "example": [
+      [
+        "シャツのボタンが"
+      ],
+      [
+        "外",
+        "はず"
+      ],
+      [
+        "れました。"
+      ]
+    ],
+    "translation": "衬衫的扣子松开了。",
+    "tip": "「外れる」是自动词，与「外す」配对。",
+    "kanjiNote": "与「外す」共用「外」字。",
+    "cloze": {
+      "before": "シャツのボタンが",
+      "answer": "外れました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1203310",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to be disconnected",
+          "to get out of place",
+          "to be off",
+          "to be out (e.g. of gear)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c051",
+    "word": "つながる",
+    "reading": "つながる",
+    "category": "自动词",
+    "meaning": "接通；连上",
+    "example": [
+      [
+        "やっと"
+      ],
+      [
+        "電話",
+        "でんわ"
+      ],
+      [
+        "がつながりました。"
+      ]
+    ],
+    "translation": "电话终于接通了。",
+    "tip": "电话或网络接通可用「つながる」。",
+    "kanjiNote": "常写假名，汉字写作「繋がる」。",
+    "cloze": {
+      "before": "やっと電話が",
+      "answer": "つながりました",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1251880",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "to connect (of a telephone call, the internet, etc.)",
+          "to get through"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c052",
+    "word": "つなぐ",
+    "reading": "つなぐ",
+    "category": "他动词",
+    "meaning": "连接；连起来",
+    "example": [
+      [
+        "パソコンにケーブルをつなぎます。"
+      ]
+    ],
+    "translation": "把电缆接到电脑上。",
+    "tip": "「AにBをつなぐ」表示把B接到A上。",
+    "kanjiNote": "常写假名，汉字写作「繋ぐ」。",
+    "cloze": {
+      "before": "パソコンにケーブルを",
+      "answer": "つなぎます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1251900",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to connect",
+          "to link together"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c053",
+    "word": "隠す",
+    "reading": "かくす",
+    "category": "他动词",
+    "meaning": "藏起；隐藏",
+    "example": [
+      [
+        "箱",
+        "はこ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "中",
+        "なか"
+      ],
+      [
+        "にプレゼントを"
+      ],
+      [
+        "隠",
+        "かく"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "把礼物藏在箱子里。",
+    "tip": "藏起某物用「〜を隠す」。",
+    "kanjiNote": "「隠」表示隐藏。",
+    "cloze": {
+      "before": "箱の中にプレゼントを",
+      "answer": "隠します",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1170650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to hide",
+          "to conceal"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c054",
+    "word": "隠れる",
+    "reading": "かくれる",
+    "category": "自动词",
+    "meaning": "躲藏；藏身",
+    "example": [
+      [
+        "猫",
+        "ねこ"
+      ],
+      [
+        "がベッドの"
+      ],
+      [
+        "下",
+        "した"
+      ],
+      [
+        "に"
+      ],
+      [
+        "隠",
+        "かく"
+      ],
+      [
+        "れています。"
+      ]
+    ],
+    "translation": "猫躲在床底下。",
+    "tip": "「隠れる」表示自己躲藏，位置用「に」。",
+    "kanjiNote": "与「隠す」配对。",
+    "cloze": {
+      "before": "猫がベッドの下に",
+      "answer": "隠れています",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1170660",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to hide",
+          "to conceal oneself",
+          "to take cover"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c055",
+    "word": "残る",
+    "reading": "のこる",
+    "category": "自动词",
+    "meaning": "剩下；留下",
+    "example": [
+      [
+        "冷蔵庫",
+        "れいぞうこ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "卵",
+        "たまご"
+      ],
+      [
+        "が"
+      ],
+      [
+        "二個",
+        "にこ"
+      ],
+      [
+        "残",
+        "のこ"
+      ],
+      [
+        "っています。"
+      ]
+    ],
+    "translation": "冰箱里还剩两个鸡蛋。",
+    "tip": "剩下的东西用「が」，与「残す」区分。",
+    "kanjiNote": "「残」表示剩余。",
+    "cloze": {
+      "before": "冷蔵庫に卵が二個",
+      "answer": "残っています",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1304510",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to remain",
+          "to be left"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c056",
+    "word": "残す",
+    "reading": "のこす",
+    "category": "他动词",
+    "meaning": "留下；留存",
+    "example": [
+      [
+        "メモに"
+      ],
+      [
+        "電話番号",
+        "でんわばんごう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "残",
+        "のこ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "在便条上留下电话号码。",
+    "tip": "「〜を残す」表示主动留下某物或记录。",
+    "kanjiNote": "与「残る」共用「残」字。",
+    "cloze": {
+      "before": "メモに電話番号を",
+      "answer": "残します",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1600260",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to leave (behind)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c057",
+    "word": "足りる",
+    "reading": "たりる",
+    "category": "自动词",
+    "meaning": "足够；够用",
+    "example": [
+      [
+        "お"
+      ],
+      [
+        "金",
+        "かね"
+      ],
+      [
+        "が"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "足",
+        "た"
+      ],
+      [
+        "りません。"
+      ]
+    ],
+    "translation": "钱稍微不够。",
+    "tip": "「足りない」表示数量或金额不足。",
+    "kanjiNote": "这里的「足」读「た」。",
+    "cloze": {
+      "before": "お金が少し",
+      "answer": "足りません",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1404740",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to be sufficient",
+          "to be enough"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c058",
+    "word": "足す",
+    "reading": "たす",
+    "category": "他动词",
+    "meaning": "添加；补足",
+    "example": [
+      [
+        "スープに"
+      ],
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "を"
+      ],
+      [
+        "少",
+        "すこ"
+      ],
+      [
+        "し"
+      ],
+      [
+        "足",
+        "た"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "往汤里加一点水。",
+    "tip": "「〜に〜を足す」表示向某物补加东西。",
+    "kanjiNote": "「足す」也可用于数字相加。",
+    "cloze": {
+      "before": "スープに水を少し",
+      "answer": "足します",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1404700",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "to add (something)",
+          "to top up (with something)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c059",
+    "word": "換える",
+    "reading": "かえる",
+    "category": "他动词",
+    "meaning": "更换；换成",
+    "example": [
+      [
+        "部屋",
+        "へや"
+      ],
+      [
+        "の"
+      ],
+      [
+        "空気",
+        "くうき"
+      ],
+      [
+        "を"
+      ],
+      [
+        "換",
+        "か"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "给房间换换空气。",
+    "tip": "「空気を換える」指换气；「かえる」有多种写法。",
+    "kanjiNote": "「換」侧重交换、替换。",
+    "cloze": {
+      "before": "部屋の空気を",
+      "answer": "換えます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1589780",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to replace",
+          "to convert",
+          "to change"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c060",
+    "word": "移す",
+    "reading": "うつす",
+    "category": "他动词",
+    "meaning": "移动；转移",
+    "example": [
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "別",
+        "べつ"
+      ],
+      [
+        "のフォルダーに"
+      ],
+      [
+        "移",
+        "うつ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "把照片移到另一个文件夹。",
+    "tip": "「〜を〜に移す」表示把东西移往新位置。",
+    "kanjiNote": "不要与「写す（抄写、拍摄）」混淆。",
+    "cloze": {
+      "before": "写真を別のフォルダーに",
+      "answer": "移します",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1158160",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to transfer (to a different place, group, etc.)",
+          "to change",
+          "to move (something)",
+          "to swap",
+          "to substitute",
+          "to relocate"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c061",
+    "word": "パソコン",
+    "reading": "パソコン",
+    "category": "名词",
+    "meaning": "个人电脑",
+    "example": [
+      [
+        "このパソコンは"
+      ],
+      [
+        "仕事",
+        "しごと"
+      ],
+      [
+        "で"
+      ],
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "这台电脑用来工作。",
+    "tip": "「パーソナルコンピューター」的常用简称。",
+    "kanjiNote": "外来语，通常用片假名书写。",
+    "cloze": {
+      "before": "この",
+      "answer": "パソコン",
+      "after": "は仕事で使います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1101570",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "personal computer",
+          "PC"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c062",
+    "word": "スマートフォン",
+    "reading": "スマートフォン",
+    "category": "名词",
+    "meaning": "智能手机",
+    "example": [
+      [
+        "スマートフォンで"
+      ],
+      [
+        "地図",
+        "ちず"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "用智能手机查看地图。",
+    "tip": "口语里常简称「スマホ」。",
+    "kanjiNote": "注意长音「スマート」。",
+    "cloze": {
+      "before": "",
+      "answer": "スマートフォン",
+      "after": "で地図を見ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "2304550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "smartphone",
+          "smart phone"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c063",
+    "word": "画面",
+    "reading": "がめん",
+    "category": "名词",
+    "meaning": "屏幕",
+    "example": [
+      [
+        "画面",
+        "がめん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "文字",
+        "もじ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "大",
+        "おお"
+      ],
+      [
+        "きくします。"
+      ]
+    ],
+    "translation": "把屏幕上的字调大。",
+    "tip": "可用于手机、电脑和电视的屏幕。",
+    "kanjiNote": "「画」与画面、图像有关。",
+    "cloze": {
+      "before": "",
+      "answer": "画面",
+      "after": "の文字を大きくします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1197610",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "screen (of a TV, computer, etc.)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c064",
+    "word": "キーボード",
+    "reading": "キーボード",
+    "category": "名词",
+    "meaning": "键盘",
+    "example": [
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しいキーボードを"
+      ],
+      [
+        "買",
+        "か"
+      ],
+      [
+        "いました。"
+      ]
+    ],
+    "translation": "买了一个新键盘。",
+    "tip": "电脑输入设备，也可指乐器键盘。",
+    "kanjiNote": "注意两个长音「キー」「ボー」。",
+    "cloze": {
+      "before": "新しい",
+      "answer": "キーボード",
+      "after": "を買いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1040910",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "keyboard"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c065",
+    "word": "マウス",
+    "reading": "マウス",
+    "category": "名词",
+    "meaning": "鼠标",
+    "example": [
+      [
+        "マウスを"
+      ],
+      [
+        "右",
+        "みぎ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "動",
+        "うご"
+      ],
+      [
+        "かします。"
+      ]
+    ],
+    "translation": "把鼠标向右移动。",
+    "tip": "这里指电脑鼠标；该词也有实验鼠的意思。",
+    "kanjiNote": "来自英语 mouse，用片假名书写。",
+    "cloze": {
+      "before": "",
+      "answer": "マウス",
+      "after": "を右に動かします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1127140",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "(computer) mouse"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c066",
+    "word": "プリンター",
+    "reading": "プリンター",
+    "category": "名词",
+    "meaning": "打印机",
+    "example": [
+      [
+        "プリンターに"
+      ],
+      [
+        "紙",
+        "かみ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入",
+        "い"
+      ],
+      [
+        "れます。"
+      ]
+    ],
+    "translation": "把纸放进打印机。",
+    "tip": "也写作「プリンタ」，本课保留长音写法。",
+    "kanjiNote": "注意末尾长音「ター」。",
+    "cloze": {
+      "before": "",
+      "answer": "プリンター",
+      "after": "に紙を入れます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1116270",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "printer"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c067",
+    "word": "ファイル",
+    "reading": "ファイル",
+    "category": "名词",
+    "meaning": "计算机文件",
+    "example": [
+      [
+        "このファイルを"
+      ],
+      [
+        "開",
+        "ひら"
+      ],
+      [
+        "いてください。"
+      ]
+    ],
+    "translation": "请打开这个文件。",
+    "tip": "本课采用电脑文件义；也可指纸质文件夹。",
+    "kanjiNote": "注意小写「ァ」组成「ファ」。",
+    "cloze": {
+      "before": "この",
+      "answer": "ファイル",
+      "after": "を開いてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1107800",
+      "senseIndices": [
+        2
+      ],
+      "glosses": [
+        [
+          "file"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c068",
+    "word": "フォルダー",
+    "reading": "フォルダー",
+    "category": "名词",
+    "meaning": "文件夹",
+    "example": [
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "はこのフォルダーにあります。"
+      ]
+    ],
+    "translation": "照片在这个文件夹里。",
+    "tip": "电脑中用来归类文件的目录，也写作「フォルダ」。",
+    "kanjiNote": "注意「フォ」和末尾长音。",
+    "cloze": {
+      "before": "写真はこの",
+      "answer": "フォルダー",
+      "after": "にあります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1110750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "folder"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c069",
+    "word": "データ",
+    "reading": "データ",
+    "category": "名词",
+    "meaning": "数据",
+    "example": [
+      [
+        "大切",
+        "たいせつ"
+      ],
+      [
+        "なデータを"
+      ],
+      [
+        "保存",
+        "ほぞん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "保存重要的数据。",
+    "tip": "可指数字、资料或计算机中的数据。",
+    "kanjiNote": "注意长音「デー」。",
+    "cloze": {
+      "before": "大切な",
+      "answer": "データ",
+      "after": "を保存します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1081190",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "data",
+          "datum"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c070",
+    "word": "アプリ",
+    "reading": "アプリ",
+    "category": "名词",
+    "meaning": "应用程序",
+    "example": [
+      [
+        "このアプリで"
+      ],
+      [
+        "日本語",
+        "にほんご"
+      ],
+      [
+        "を"
+      ],
+      [
+        "勉強",
+        "べんきょう"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "我用这个应用学习日语。",
+    "tip": "「アプリケーション」的常用简称。",
+    "kanjiNote": "外来语简称，用片假名书写。",
+    "cloze": {
+      "before": "この",
+      "answer": "アプリ",
+      "after": "で日本語を勉強しています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1018190",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "app",
+          "application"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c071",
+    "word": "ソフト",
+    "reading": "ソフト",
+    "category": "名词",
+    "meaning": "软件",
+    "example": [
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しいソフトをインストールします。"
+      ]
+    ],
+    "translation": "安装新的软件。",
+    "tip": "这里是「ソフトウェア」的简称。",
+    "kanjiNote": "同样的写法也有“柔和的”等其他意思。",
+    "cloze": {
+      "before": "新しい",
+      "answer": "ソフト",
+      "after": "をインストールします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1075500",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "software"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c072",
+    "word": "インターネット",
+    "reading": "インターネット",
+    "category": "名词",
+    "meaning": "互联网",
+    "example": [
+      [
+        "インターネットで"
+      ],
+      [
+        "店",
+        "みせ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "場所",
+        "ばしょ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "調",
+        "しら"
+      ],
+      [
+        "べます。"
+      ]
+    ],
+    "translation": "上网查店铺的位置。",
+    "tip": "口语中常简称「ネット」。",
+    "kanjiNote": "注意长音「ター」和促音「ット」。",
+    "cloze": {
+      "before": "",
+      "answer": "インターネット",
+      "after": "で店の場所を調べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1022880",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "Internet"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c073",
+    "word": "ウェブサイト",
+    "reading": "ウェブサイト",
+    "category": "名词",
+    "meaning": "网站",
+    "example": [
+      [
+        "会社",
+        "かいしゃ"
+      ],
+      [
+        "のウェブサイトを"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "查看公司的网站。",
+    "tip": "也可简称「サイト」。",
+    "kanjiNote": "「ウェ」由「ウ」与小写「ェ」组成。",
+    "cloze": {
+      "before": "会社の",
+      "answer": "ウェブサイト",
+      "after": "を見ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1986140",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "website",
+          "web site"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c074",
+    "word": "ブラウザー",
+    "reading": "ブラウザー",
+    "category": "名词",
+    "meaning": "浏览器",
+    "example": [
+      [
+        "ブラウザーで"
+      ],
+      [
+        "新",
+        "あたら"
+      ],
+      [
+        "しいタブを"
+      ],
+      [
+        "開",
+        "ひら"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "在浏览器中打开一个新标签页。",
+    "tip": "浏览网页的软件，也写作「ブラウザ」。",
+    "kanjiNote": "本课采用带末尾长音的写法。",
+    "cloze": {
+      "before": "",
+      "answer": "ブラウザー",
+      "after": "で新しいタブを開きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1113620",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(web) browser"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c075",
+    "word": "メール",
+    "reading": "メール",
+    "category": "名词",
+    "meaning": "电子邮件",
+    "example": [
+      [
+        "先生",
+        "せんせい"
+      ],
+      [
+        "にメールを"
+      ],
+      [
+        "送",
+        "おく"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "给老师发送电子邮件。",
+    "tip": "邮件发送常用「メールを送る」。",
+    "kanjiNote": "注意长音「メー」。",
+    "cloze": {
+      "before": "先生に",
+      "answer": "メール",
+      "after": "を送ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1132620",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "email"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c076",
+    "word": "アドレス",
+    "reading": "アドレス",
+    "category": "名词",
+    "meaning": "电子邮箱地址",
+    "example": [
+      [
+        "メールのアドレスを"
+      ],
+      [
+        "教",
+        "おし"
+      ],
+      [
+        "えてください。"
+      ]
+    ],
+    "translation": "请告诉我你的电子邮箱地址。",
+    "tip": "本课采用电子邮箱地址义。",
+    "kanjiNote": "来自英语 address，用片假名书写。",
+    "cloze": {
+      "before": "メールの",
+      "answer": "アドレス",
+      "after": "を教えてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1017240",
+      "senseIndices": [
+        2
+      ],
+      "glosses": [
+        [
+          "email address"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c077",
+    "word": "パスワード",
+    "reading": "パスワード",
+    "category": "名词",
+    "meaning": "密码",
+    "example": [
+      [
+        "パスワードを"
+      ],
+      [
+        "忘",
+        "わす"
+      ],
+      [
+        "れないでください。"
+      ]
+    ],
+    "translation": "请不要忘记密码。",
+    "tip": "登录时使用的密码；通常和账号一起输入。",
+    "kanjiNote": "注意长音「ワー」。",
+    "cloze": {
+      "before": "",
+      "answer": "パスワード",
+      "after": "を忘れないでください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1101520",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "password"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c078",
+    "word": "ログイン",
+    "reading": "ログイン",
+    "category": "名词・サ变动词",
+    "meaning": "登录",
+    "example": [
+      [
+        "まず"
+      ],
+      [
+        "自分",
+        "じぶん"
+      ],
+      [
+        "のアカウントでログインします。"
+      ]
+    ],
+    "translation": "先用自己的账号登录。",
+    "tip": "「ログインする」表示进入账号。",
+    "kanjiNote": "注意和「ログアウト」区分。",
+    "cloze": {
+      "before": "まず自分のアカウントで",
+      "answer": "ログイン",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1147120",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "login"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c079",
+    "word": "ログアウト",
+    "reading": "ログアウト",
+    "category": "名词・サ变动词",
+    "meaning": "退出登录",
+    "example": [
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "い"
+      ],
+      [
+        "終",
+        "お"
+      ],
+      [
+        "わったらログアウトします。"
+      ]
+    ],
+    "translation": "使用完毕后退出登录。",
+    "tip": "退出账号用「ログアウトする」。",
+    "kanjiNote": "「アウト」对应英语 out。",
+    "cloze": {
+      "before": "使い終わったら",
+      "answer": "ログアウト",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1147110",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "logout"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c080",
+    "word": "ダウンロード",
+    "reading": "ダウンロード",
+    "category": "名词・サ变动词",
+    "meaning": "下载",
+    "example": [
+      [
+        "旅行",
+        "りょこう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "地図",
+        "ちず"
+      ],
+      [
+        "をダウンロードします。"
+      ]
+    ],
+    "translation": "旅行前下载地图。",
+    "tip": "「〜をダウンロードする」表示把数据下载到设备。",
+    "kanjiNote": "注意长音「ロー」。",
+    "cloze": {
+      "before": "旅行の前に地図を",
+      "answer": "ダウンロード",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1077010",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "download"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c081",
+    "word": "アップロード",
+    "reading": "アップロード",
+    "category": "名词・サ变动词",
+    "meaning": "上传",
+    "example": [
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "をウェブサイトにアップロードします。"
+      ]
+    ],
+    "translation": "把照片上传到网站。",
+    "tip": "上传目标常用「に」。",
+    "kanjiNote": "「アップ」包含促音「ッ」。",
+    "cloze": {
+      "before": "写真をウェブサイトに",
+      "answer": "アップロード",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1016710",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "upload"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c082",
+    "word": "クリック",
+    "reading": "クリック",
+    "category": "名词・サ变动词",
+    "meaning": "点击",
+    "example": [
+      [
+        "右上",
+        "みぎうえ"
+      ],
+      [
+        "のボタンをクリックしてください。"
+      ]
+    ],
+    "translation": "请点击右上角的按钮。",
+    "tip": "常说「〜をクリックする」。",
+    "kanjiNote": "注意促音「ック」。",
+    "cloze": {
+      "before": "右上のボタンを",
+      "answer": "クリック",
+      "after": "してください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1044910",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(mouse) click"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c083",
+    "word": "入力",
+    "reading": "にゅうりょく",
+    "category": "名词・サ变动词",
+    "meaning": "输入；录入",
+    "example": [
+      [
+        "名前",
+        "なまえ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入力",
+        "にゅうりょく"
+      ],
+      [
+        "してください。"
+      ]
+    ],
+    "translation": "请输入姓名。",
+    "tip": "「入力する」用于向电脑或表格中录入内容。",
+    "kanjiNote": "「入」与「力」组成，但这里指数据输入。",
+    "cloze": {
+      "before": "名前を",
+      "answer": "入力",
+      "after": "してください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1466850",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "input",
+          "(data) entry",
+          "typing"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c084",
+    "word": "保存",
+    "reading": "ほぞん",
+    "category": "名词・サ变动词",
+    "meaning": "保存文件；存储",
+    "example": [
+      [
+        "書",
+        "か"
+      ],
+      [
+        "き"
+      ],
+      [
+        "終",
+        "お"
+      ],
+      [
+        "わったら"
+      ],
+      [
+        "保存",
+        "ほぞん"
+      ],
+      [
+        "してください。"
+      ]
+    ],
+    "translation": "写完后请保存。",
+    "tip": "电脑操作中的「保存する」表示存入文件。",
+    "kanjiNote": "「存」在这里读「ぞん」。",
+    "cloze": {
+      "before": "書き終わったら",
+      "answer": "保存",
+      "after": "してください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1513940",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "save (to storage)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c085",
+    "word": "削除",
+    "reading": "さくじょ",
+    "category": "名词・サ变动词",
+    "meaning": "删除；删去",
+    "example": [
+      [
+        "不要",
+        "ふよう"
+      ],
+      [
+        "なファイルを"
+      ],
+      [
+        "削除",
+        "さくじょ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "删除不需要的文件。",
+    "tip": "「〜を削除する」可用于文件、文字和记录。",
+    "kanjiNote": "「削」与「除」都有去除之意。",
+    "cloze": {
+      "before": "不要なファイルを",
+      "answer": "削除",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1298120",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "deletion",
+          "elimination",
+          "erasure",
+          "striking out"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c086",
+    "word": "検索",
+    "reading": "けんさく",
+    "category": "名词・サ变动词",
+    "meaning": "搜索；检索",
+    "example": [
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "の"
+      ],
+      [
+        "名前",
+        "なまえ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "検索",
+        "けんさく"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "按车站名称搜索。",
+    "tip": "搜索关键词或条件可用「で」。",
+    "kanjiNote": "「検索」读「けんさく」。",
+    "cloze": {
+      "before": "駅の名前で",
+      "answer": "検索",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1257900",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "looking up (e.g. a word in a dictionary)",
+          "search (e.g. on the Internet)",
+          "retrieval (of information)",
+          "reference"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c087",
+    "word": "印刷",
+    "reading": "いんさつ",
+    "category": "名词・サ变动词",
+    "meaning": "打印；印刷",
+    "example": [
+      [
+        "会議",
+        "かいぎ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "資料",
+        "しりょう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "印刷",
+        "いんさつ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "打印会议资料。",
+    "tip": "「〜を印刷する」表示把内容印到纸上。",
+    "kanjiNote": "「印刷」读「いんさつ」。",
+    "cloze": {
+      "before": "会議の資料を",
+      "answer": "印刷",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1168190",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "printing"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c088",
+    "word": "設定",
+    "reading": "せってい",
+    "category": "名词・サ变动词",
+    "meaning": "设置；配置",
+    "example": [
+      [
+        "スマートフォンの"
+      ],
+      [
+        "設定",
+        "せってい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "変",
+        "か"
+      ],
+      [
+        "えます。"
+      ]
+    ],
+    "translation": "更改智能手机的设置。",
+    "tip": "本课采用设备或软件的设置义。",
+    "kanjiNote": "「設」与「定」组成，注意促音「っ」。",
+    "cloze": {
+      "before": "スマートフォンの",
+      "answer": "設定",
+      "after": "を変えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1386060",
+      "senseIndices": [
+        1
+      ],
+      "glosses": [
+        [
+          "options setting",
+          "preference settings",
+          "configuration",
+          "setup"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c089",
+    "word": "更新",
+    "reading": "こうしん",
+    "category": "名词・サ变动词",
+    "meaning": "更新；续期",
+    "example": [
+      [
+        "アプリを"
+      ],
+      [
+        "最新",
+        "さいしん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "版",
+        "はん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "更新",
+        "こうしん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "把应用更新到最新版本。",
+    "tip": "「更新する」也可用于续期证件或刷新记录。",
+    "kanjiNote": "「更」有更换之意。",
+    "cloze": {
+      "before": "アプリを最新の版に",
+      "answer": "更新",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1279370",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "renewal",
+          "update",
+          "replacement",
+          "renovation",
+          "breaking (a record)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c090",
+    "word": "接続",
+    "reading": "せつぞく",
+    "category": "名词・サ变动词",
+    "meaning": "连接",
+    "example": [
+      [
+        "パソコンをインターネットに"
+      ],
+      [
+        "接続",
+        "せつぞく"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "把电脑连接到互联网。",
+    "tip": "「AをBに接続する」表示将A连到B。",
+    "kanjiNote": "「接」与「続」都含连接之意。",
+    "cloze": {
+      "before": "パソコンをインターネットに",
+      "answer": "接続",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1385480",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "connection",
+          "attachment",
+          "union",
+          "join",
+          "joint",
+          "link"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c091",
+    "word": "充電",
+    "reading": "じゅうでん",
+    "category": "名词・サ变动词",
+    "meaning": "充电",
+    "example": [
+      [
+        "寝",
+        "ね"
+      ],
+      [
+        "る"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "にスマートフォンを"
+      ],
+      [
+        "充電",
+        "じゅうでん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "睡觉前给智能手机充电。",
+    "tip": "「充電する」用于电池、手机等。",
+    "kanjiNote": "「充」表示充入，「電」指电。",
+    "cloze": {
+      "before": "寝る前にスマートフォンを",
+      "answer": "充電",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1334390",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "charging (electrically)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c092",
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "category": "名词",
+    "meaning": "银行",
+    "example": [
+      [
+        "午後",
+        "ごご"
+      ],
+      [
+        "、"
+      ],
+      [
+        "銀行",
+        "ぎんこう"
+      ],
+      [
+        "に"
+      ],
+      [
+        "行",
+        "い"
+      ],
+      [
+        "きます。"
+      ]
+    ],
+    "translation": "下午去银行。",
+    "tip": "办理存取款等业务的机构。",
+    "kanjiNote": "「行」在这里读「こう」。",
+    "cloze": {
+      "before": "午後、",
+      "answer": "銀行",
+      "after": "に行きます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1243490",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "bank",
+          "banking institution"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c093",
+    "word": "口座",
+    "reading": "こうざ",
+    "category": "名词",
+    "meaning": "账户；银行账户",
+    "example": [
+      [
+        "銀行",
+        "ぎんこう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "口座",
+        "こうざ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "作",
+        "つく"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "在银行开立账户。",
+    "tip": "常说「口座を作る／開く」。",
+    "kanjiNote": "「座」在这里读「ざ」。",
+    "cloze": {
+      "before": "銀行で",
+      "answer": "口座",
+      "after": "を作ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1276150",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "account (e.g. bank)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c094",
+    "word": "預金",
+    "reading": "よきん",
+    "category": "名词・サ变动词",
+    "meaning": "银行存款",
+    "example": [
+      [
+        "銀行",
+        "ぎんこう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "預金",
+        "よきん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "残高",
+        "ざんだか"
+      ],
+      [
+        "を"
+      ],
+      [
+        "確認",
+        "かくにん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "在银行查询存款余额。",
+    "tip": "偏重存入银行等金融机构的钱。",
+    "kanjiNote": "「預」有寄存之意。",
+    "cloze": {
+      "before": "銀行で",
+      "answer": "預金",
+      "after": "の残高を確認します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1545020",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "deposit",
+          "bank account"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c095",
+    "word": "貯金",
+    "reading": "ちょきん",
+    "category": "名词・サ变动词",
+    "meaning": "储蓄；攒钱",
+    "example": [
+      [
+        "旅行",
+        "りょこう"
+      ],
+      [
+        "のために"
+      ],
+      [
+        "毎月",
+        "まいつき"
+      ],
+      [
+        "貯金",
+        "ちょきん"
+      ],
+      [
+        "しています。"
+      ]
+    ],
+    "translation": "为了旅行，每个月都在存钱。",
+    "tip": "「貯金する」侧重积攒钱的行为。",
+    "kanjiNote": "「貯」表示积存。",
+    "cloze": {
+      "before": "旅行のために毎月",
+      "answer": "貯金",
+      "after": "しています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1427170",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "putting money aside",
+          "savings",
+          "deposit (e.g. in a bank)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c096",
+    "word": "振り込み",
+    "reading": "ふりこみ",
+    "category": "名词",
+    "meaning": "银行转账付款",
+    "example": [
+      [
+        "家賃",
+        "やちん"
+      ],
+      [
+        "は"
+      ],
+      [
+        "振",
+        "ふ"
+      ],
+      [
+        "り"
+      ],
+      [
+        "込",
+        "こ"
+      ],
+      [
+        "みで"
+      ],
+      [
+        "払",
+        "はら"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "房租通过银行转账支付。",
+    "tip": "也常写作「振込」；动词为「振り込む」。",
+    "kanjiNote": "注意「込」在本词中读「こ」。",
+    "cloze": {
+      "before": "家賃は",
+      "answer": "振り込み",
+      "after": "で払います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1602960",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "payment made via bank deposit transfer"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c097",
+    "word": "送金",
+    "reading": "そうきん",
+    "category": "名词・サ变动词",
+    "meaning": "汇款；转账汇款",
+    "example": [
+      [
+        "家族",
+        "かぞく"
+      ],
+      [
+        "に"
+      ],
+      [
+        "送金",
+        "そうきん"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "给家人汇款。",
+    "tip": "汇款对象用「に」。",
+    "kanjiNote": "「送」表示送出，「金」指钱。",
+    "cloze": {
+      "before": "家族に",
+      "answer": "送金",
+      "after": "します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1402750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "remittance",
+          "sending money",
+          "transferring money"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c098",
+    "word": "税金",
+    "reading": "ぜいきん",
+    "category": "名词",
+    "meaning": "税款；税金",
+    "example": [
+      [
+        "税金",
+        "ぜいきん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "期限",
+        "きげん"
+      ],
+      [
+        "までに"
+      ],
+      [
+        "払",
+        "はら"
+      ],
+      [
+        "います。"
+      ]
+    ],
+    "translation": "在期限内缴纳税款。",
+    "tip": "常与「払う」「納める」搭配。",
+    "kanjiNote": "「税」读「ぜい」。",
+    "cloze": {
+      "before": "",
+      "answer": "税金",
+      "after": "を期限までに払います。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1382100",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "tax",
+          "duty"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c099",
+    "word": "手数料",
+    "reading": "てすうりょう",
+    "category": "名词",
+    "meaning": "手续费",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "送金",
+        "そうきん"
+      ],
+      [
+        "には"
+      ],
+      [
+        "手数料",
+        "てすうりょう"
+      ],
+      [
+        "がかかります。"
+      ]
+    ],
+    "translation": "这笔汇款需要支付手续费。",
+    "tip": "「手数料がかかる」表示会产生手续费。",
+    "kanjiNote": "「手数」在本词中读「てすう」。",
+    "cloze": {
+      "before": "この送金には",
+      "answer": "手数料",
+      "after": "がかかります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1327980",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(handling) fee",
+          "charge (e.g. for a cancellation)",
+          "commission",
+          "brokerage"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c100",
+    "word": "残高",
+    "reading": "ざんだか",
+    "category": "名词",
+    "meaning": "账户余额；结余",
+    "example": [
+      [
+        "アプリで"
+      ],
+      [
+        "口座",
+        "こうざ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "残高",
+        "ざんだか"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見",
+        "み"
+      ],
+      [
+        "ます。"
+      ]
+    ],
+    "translation": "在应用中查看账户余额。",
+    "tip": "银行账户里剩余的金额常用「残高」。",
+    "kanjiNote": "「高」在这里读「だか」，不是「たか」。",
+    "cloze": {
+      "before": "アプリで口座の",
+      "answer": "残高",
+      "after": "を見ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1304590",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "(bank) balance",
+          "remainder"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c101",
+    "word": "引き出す",
+    "reading": "ひきだす",
+    "category": "他动词",
+    "meaning": "取款；提取现金",
+    "example": [
+      [
+        "銀行",
+        "ぎんこう"
+      ],
+      [
+        "でお"
+      ],
+      [
+        "金",
+        "かね"
+      ],
+      [
+        "を"
+      ],
+      [
+        "引",
+        "ひ"
+      ],
+      [
+        "き"
+      ],
+      [
+        "出",
+        "だ"
+      ],
+      [
+        "します。"
+      ]
+    ],
+    "translation": "在银行取钱。",
+    "tip": "本课采用从账户中取钱的意思。",
+    "kanjiNote": "「引」与「出」组合，表示向外取出。",
+    "cloze": {
+      "before": "銀行でお金を",
+      "answer": "引き出します",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1601660",
+      "senseIndices": [
+        2
+      ],
+      "glosses": [
+        [
+          "to withdraw (money)",
+          "to draw"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c102",
+    "word": "預ける",
+    "reading": "あずける",
+    "category": "他动词",
+    "meaning": "寄存；存入；托管",
+    "example": [
+      [
+        "銀行",
+        "ぎんこう"
+      ],
+      [
+        "にお"
+      ],
+      [
+        "金",
+        "かね"
+      ],
+      [
+        "を"
+      ],
+      [
+        "預",
+        "あず"
+      ],
+      [
+        "けます。"
+      ]
+    ],
+    "translation": "把钱存进银行。",
+    "tip": "「場所に物を預ける」表示把东西交给某处保管。",
+    "kanjiNote": "「預」与保管、寄存有关。",
+    "cloze": {
+      "before": "銀行にお金を",
+      "answer": "預けます",
+      "after": "。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1544990",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "to leave (in someone's keeping)",
+          "to put (in someone's care)",
+          "to place (in someone's custody)",
+          "to entrust (someone) with",
+          "to deposit"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c103",
+    "word": "両替",
+    "reading": "りょうがえ",
+    "category": "名词・サ变动词",
+    "meaning": "兑换货币；换钱",
+    "example": [
+      [
+        "空港",
+        "くうこう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "両替",
+        "りょうがえ"
+      ],
+      [
+        "をします。"
+      ]
+    ],
+    "translation": "在机场兑换货币。",
+    "tip": "「両替する」可指换外币或换零钱。",
+    "kanjiNote": "注意「替」在这里读「がえ」。",
+    "cloze": {
+      "before": "空港で",
+      "answer": "両替",
+      "after": "をします。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1553820",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "change",
+          "money exchange"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c104",
+    "word": "電源",
+    "reading": "でんげん",
+    "category": "名词",
+    "meaning": "电源",
+    "example": [
+      [
+        "使",
+        "つか"
+      ],
+      [
+        "わないときは"
+      ],
+      [
+        "電源",
+        "でんげん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "切",
+        "き"
+      ],
+      [
+        "ります。"
+      ]
+    ],
+    "translation": "不用时关闭电源。",
+    "tip": "「電源を入れる／切る」表示开启／关闭电源。",
+    "kanjiNote": "「源」有来源之意。",
+    "cloze": {
+      "before": "使わないときは",
+      "answer": "電源",
+      "after": "を切ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1443220",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "source of electricity",
+          "electrical power"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "w04-c105",
+    "word": "クレジットカード",
+    "reading": "クレジットカード",
+    "category": "名词",
+    "meaning": "信用卡",
+    "example": [
+      [
+        "クレジットカードで"
+      ],
+      [
+        "払",
+        "はら"
+      ],
+      [
+        "えますか。"
+      ]
+    ],
+    "translation": "可以用信用卡付款吗？",
+    "tip": "付款方式用「で」。",
+    "kanjiNote": "注意「ジット」的促音与「カード」的长音。",
+    "cloze": {
+      "before": "",
+      "answer": "クレジットカード",
+      "after": "で払えますか。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1045340",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        [
+          "credit card"
+        ]
+      ]
+    }
+  }
+]

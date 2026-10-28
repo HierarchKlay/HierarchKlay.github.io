@@ -81,6 +81,8 @@ def main():
     extend_course(data)
     from extend_week03 import extend_week03
     extend_week03(data)
+    from extend_week04 import extend_week04
+    extend_week04(data)
     (ROOT/'dist/lesson.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
     from build_kanji_pitch import write_kanji_pitch
     write_kanji_pitch(data)

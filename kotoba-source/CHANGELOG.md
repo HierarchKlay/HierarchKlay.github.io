@@ -1,3 +1,13 @@
+## 2026-10-28 · Early November 1 edition, lessons 22–28
+
+- Added 245 core words + 70 unique reserve words with 315 original ruby examples/translations, and 35 independent kanji (凹–価). Totals: 28 lessons, 1260 words and 140 kanji; course ID remains `week01-v1`.
+- Checked all new headwords/readings and selected senses against the retained official JMdict snapshot; rejected duplicate normalized headwords and dictionary-entry/reading identities against the prior 945 words. All 70 kanji example pairs retain exact dictionary sense evidence. Re-fetched the official Culture Agency table and confirmed its bytes are unchanged.
+- 256/315 new words have exact unconditional Kanjium numeric pitch records, with variants retained; 59 remain explicitly unavailable. Kanji-example pitch bundle now covers 312 distinct pairs, 304 with numeric records.
+- Added day-22 through day-28 sprites: 630 clips using licensed NIT ATR503 M001 1.05 / Open JTalk, CC BY 3.0. Five words and six sentences use checked kana inputs to resolve reading ambiguity. Every clip is decoded and waveform-checked; sprite boundaries are validated against their sample timelines. All earlier sprites and offsets remain unchanged.
+- Extended tests for source senses/restrictions, pitch evidence, full audio audits, previous-content/progress compatibility, new-lesson navigation, kanji drills, reserve replacement and Chinese-to-Japanese recall. Rebuilt Chinese/Japanese font subsets.
+- Recorded the fulfilled 2026-11-01 edition in `source-data/course-releases.json`; November 1 must not append again. Next regular edition is November 8, beginning at lesson 29 / joyo-141.
+- Preserved the October 28 practice improvements, offline dictionary snapshot, homepage, cloud configuration and Site audience. No private progress was accessed. Original examples/translations were reviewed independently but not by a native-speaker teacher; synthesized clips were not individually listened to and mobile hardware was not tested.
+
 ## 2026-10-28 · More Chinese-to-Japanese retrieval practice
 
 - Mixed rounds now allocate 6 of 10 questions to Chinese-to-Japanese recall; shorter queues round up proportionally. Other formats remain, with cloze replacing unavailable audio or trivial kana-only reading prompts.

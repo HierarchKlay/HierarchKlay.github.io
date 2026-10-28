@@ -10,7 +10,7 @@
   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
   "notice": "合成朗读辅助，非真人录音；不可作为声调校验依据。",
   "lessonSha256": "5618f23f6718a2e6a7677dfebe4bdb633f4856a07f264738bf33d95f93180b8c",
-  "totalBytes": 26608404,
+  "totalBytes": 35626867,
   "files": [
     {
       "file": "day-01.mp3",
@@ -200,6 +200,69 @@
       "alignmentCorrelation": 0.998753,
       "bytes": 1284217,
       "sha256": "129f59cd445ca311ffcacce726475ae3c937bd7de78f4c9c9590013f5deee30a"
+    },
+    {
+      "file": "day-22.mp3",
+      "clips": 90,
+      "duration": 212.727792,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.99877,
+      "bytes": 1277161,
+      "sha256": "b8591c809f47b98e8cda3f6032bb5c1046b64cd9cce3493ef14d5cba61c21a10"
+    },
+    {
+      "file": "day-23.mp3",
+      "clips": 90,
+      "duration": 207.627,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998718,
+      "bytes": 1246633,
+      "sha256": "71e6a9f9abcd6944bb77cd457a7c7129bb7ebc751e1321b70ad2b3f6f4d8b4b3"
+    },
+    {
+      "file": "day-24.mp3",
+      "clips": 90,
+      "duration": 219.033708,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998731,
+      "bytes": 1315033,
+      "sha256": "13e2e597866829a29d14e58c05c836ec9ce18f1977aac781290dc25b0e3cccb5"
+    },
+    {
+      "file": "day-25.mp3",
+      "clips": 90,
+      "duration": 235.276417,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998796,
+      "bytes": 1412521,
+      "sha256": "94025e5c7630a46c565246798ea4048c13137fa7c1ef71e211d0d1961fd30790"
+    },
+    {
+      "file": "day-26.mp3",
+      "clips": 90,
+      "duration": 216.548583,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998702,
+      "bytes": 1300057,
+      "sha256": "2c3100f153e559ef1d47bdcd54cbcd4a1957f46cdbdfa202921d3de976dd0140"
+    },
+    {
+      "file": "day-27.mp3",
+      "clips": 90,
+      "duration": 202.848542,
+      "decodedTailDeltaSamples": 34,
+      "alignmentCorrelation": 0.99874,
+      "bytes": 1217977,
+      "sha256": "6f88abcf6382eec195f3c38850002ccfdebb80711b96702e397b1a6c642c74d4"
+    },
+    {
+      "file": "day-28.mp3",
+      "clips": 90,
+      "duration": 208.039542,
+      "decodedTailDeltaSamples": 0,
+      "alignmentCorrelation": 0.998844,
+      "bytes": 1249081,
+      "sha256": "d35efc4c9c4ac38a376697d793ee51a9b6af3d46c5190b87055efb0332603429"
     }
   ],
   "clips": {
@@ -9652,6 +9715,3156 @@
       "file": "day-21.mp3",
       "start": 210.9165,
       "end": 213.9065
+    },
+    "w04-a001": {
+      "file": "day-22.mp3",
+      "start": 0.0,
+      "end": 1.059
+    },
+    "w04-a001-example": {
+      "file": "day-22.mp3",
+      "start": 1.059,
+      "end": 3.918958
+    },
+    "w04-a002": {
+      "file": "day-22.mp3",
+      "start": 3.918958,
+      "end": 5.868958
+    },
+    "w04-a002-example": {
+      "file": "day-22.mp3",
+      "start": 5.868958,
+      "end": 10.108958
+    },
+    "w04-a003": {
+      "file": "day-22.mp3",
+      "start": 10.108958,
+      "end": 11.928958
+    },
+    "w04-a003-example": {
+      "file": "day-22.mp3",
+      "start": 11.928958,
+      "end": 14.949333
+    },
+    "w04-a004": {
+      "file": "day-22.mp3",
+      "start": 14.949333,
+      "end": 15.999667
+    },
+    "w04-a004-example": {
+      "file": "day-22.mp3",
+      "start": 15.999667,
+      "end": 19.218167
+    },
+    "w04-a005": {
+      "file": "day-22.mp3",
+      "start": 19.218167,
+      "end": 21.05325
+    },
+    "w04-a005-example": {
+      "file": "day-22.mp3",
+      "start": 21.05325,
+      "end": 23.99325
+    },
+    "w04-a006": {
+      "file": "day-22.mp3",
+      "start": 23.99325,
+      "end": 25.523208
+    },
+    "w04-a006-example": {
+      "file": "day-22.mp3",
+      "start": 25.523208,
+      "end": 28.17325
+    },
+    "w04-a007": {
+      "file": "day-22.mp3",
+      "start": 28.17325,
+      "end": 29.96325
+    },
+    "w04-a007-example": {
+      "file": "day-22.mp3",
+      "start": 29.96325,
+      "end": 33.77825
+    },
+    "w04-a008": {
+      "file": "day-22.mp3",
+      "start": 33.77825,
+      "end": 35.624583
+    },
+    "w04-a008-example": {
+      "file": "day-22.mp3",
+      "start": 35.624583,
+      "end": 38.645333
+    },
+    "w04-a009": {
+      "file": "day-22.mp3",
+      "start": 38.645333,
+      "end": 40.495333
+    },
+    "w04-a009-example": {
+      "file": "day-22.mp3",
+      "start": 40.495333,
+      "end": 43.580333
+    },
+    "w04-a010": {
+      "file": "day-22.mp3",
+      "start": 43.580333,
+      "end": 45.147042
+    },
+    "w04-a010-example": {
+      "file": "day-22.mp3",
+      "start": 45.147042,
+      "end": 48.777
+    },
+    "w04-a011": {
+      "file": "day-22.mp3",
+      "start": 48.777,
+      "end": 50.645833
+    },
+    "w04-a011-example": {
+      "file": "day-22.mp3",
+      "start": 50.645833,
+      "end": 54.305542
+    },
+    "w04-a012": {
+      "file": "day-22.mp3",
+      "start": 54.305542,
+      "end": 56.810542
+    },
+    "w04-a012-example": {
+      "file": "day-22.mp3",
+      "start": 56.810542,
+      "end": 60.545542
+    },
+    "w04-a013": {
+      "file": "day-22.mp3",
+      "start": 60.545542,
+      "end": 61.903958
+    },
+    "w04-a013-example": {
+      "file": "day-22.mp3",
+      "start": 61.903958,
+      "end": 64.26525
+    },
+    "w04-a014": {
+      "file": "day-22.mp3",
+      "start": 64.26525,
+      "end": 65.387208
+    },
+    "w04-a014-example": {
+      "file": "day-22.mp3",
+      "start": 65.387208,
+      "end": 69.632208
+    },
+    "w04-a015": {
+      "file": "day-22.mp3",
+      "start": 69.632208,
+      "end": 71.038792
+    },
+    "w04-a015-example": {
+      "file": "day-22.mp3",
+      "start": 71.038792,
+      "end": 73.163333
+    },
+    "w04-a016": {
+      "file": "day-22.mp3",
+      "start": 73.163333,
+      "end": 74.440792
+    },
+    "w04-a016-example": {
+      "file": "day-22.mp3",
+      "start": 74.440792,
+      "end": 78.305792
+    },
+    "w04-a017": {
+      "file": "day-22.mp3",
+      "start": 78.305792,
+      "end": 79.763792
+    },
+    "w04-a017-example": {
+      "file": "day-22.mp3",
+      "start": 79.763792,
+      "end": 83.021792
+    },
+    "w04-a018": {
+      "file": "day-22.mp3",
+      "start": 83.021792,
+      "end": 84.868042
+    },
+    "w04-a018-example": {
+      "file": "day-22.mp3",
+      "start": 84.868042,
+      "end": 87.47125
+    },
+    "w04-a019": {
+      "file": "day-22.mp3",
+      "start": 87.47125,
+      "end": 89.001208
+    },
+    "w04-a019-example": {
+      "file": "day-22.mp3",
+      "start": 89.001208,
+      "end": 92.660042
+    },
+    "w04-a020": {
+      "file": "day-22.mp3",
+      "start": 92.660042,
+      "end": 93.769708
+    },
+    "w04-a020-example": {
+      "file": "day-22.mp3",
+      "start": 93.769708,
+      "end": 97.274708
+    },
+    "w04-a021": {
+      "file": "day-22.mp3",
+      "start": 97.274708,
+      "end": 98.454958
+    },
+    "w04-a021-example": {
+      "file": "day-22.mp3",
+      "start": 98.454958,
+      "end": 100.842458
+    },
+    "w04-a022": {
+      "file": "day-22.mp3",
+      "start": 100.842458,
+      "end": 102.437333
+    },
+    "w04-a022-example": {
+      "file": "day-22.mp3",
+      "start": 102.437333,
+      "end": 105.867333
+    },
+    "w04-a023": {
+      "file": "day-22.mp3",
+      "start": 105.867333,
+      "end": 107.056333
+    },
+    "w04-a023-example": {
+      "file": "day-22.mp3",
+      "start": 107.056333,
+      "end": 111.150125
+    },
+    "w04-a024": {
+      "file": "day-22.mp3",
+      "start": 111.150125,
+      "end": 112.527667
+    },
+    "w04-a024-example": {
+      "file": "day-22.mp3",
+      "start": 112.527667,
+      "end": 116.217667
+    },
+    "w04-a025": {
+      "file": "day-22.mp3",
+      "start": 116.217667,
+      "end": 117.41175
+    },
+    "w04-a025-example": {
+      "file": "day-22.mp3",
+      "start": 117.41175,
+      "end": 120.54175
+    },
+    "w04-a026": {
+      "file": "day-22.mp3",
+      "start": 120.54175,
+      "end": 121.851542
+    },
+    "w04-a026-example": {
+      "file": "day-22.mp3",
+      "start": 121.851542,
+      "end": 124.886542
+    },
+    "w04-a027": {
+      "file": "day-22.mp3",
+      "start": 124.886542,
+      "end": 126.257292
+    },
+    "w04-a027-example": {
+      "file": "day-22.mp3",
+      "start": 126.257292,
+      "end": 129.892292
+    },
+    "w04-a028": {
+      "file": "day-22.mp3",
+      "start": 129.892292,
+      "end": 131.857292
+    },
+    "w04-a028-example": {
+      "file": "day-22.mp3",
+      "start": 131.857292,
+      "end": 134.488
+    },
+    "w04-a029": {
+      "file": "day-22.mp3",
+      "start": 134.488,
+      "end": 135.818417
+    },
+    "w04-a029-example": {
+      "file": "day-22.mp3",
+      "start": 135.818417,
+      "end": 139.059333
+    },
+    "w04-a030": {
+      "file": "day-22.mp3",
+      "start": 139.059333,
+      "end": 140.650417
+    },
+    "w04-a030-example": {
+      "file": "day-22.mp3",
+      "start": 140.650417,
+      "end": 143.507208
+    },
+    "w04-a031": {
+      "file": "day-22.mp3",
+      "start": 143.507208,
+      "end": 144.693708
+    },
+    "w04-a031-example": {
+      "file": "day-22.mp3",
+      "start": 144.693708,
+      "end": 148.328708
+    },
+    "w04-a032": {
+      "file": "day-22.mp3",
+      "start": 148.328708,
+      "end": 149.684208
+    },
+    "w04-a032-example": {
+      "file": "day-22.mp3",
+      "start": 149.684208,
+      "end": 153.414208
+    },
+    "w04-a033": {
+      "file": "day-22.mp3",
+      "start": 153.414208,
+      "end": 155.219208
+    },
+    "w04-a033-example": {
+      "file": "day-22.mp3",
+      "start": 155.219208,
+      "end": 158.439208
+    },
+    "w04-a034": {
+      "file": "day-22.mp3",
+      "start": 158.439208,
+      "end": 159.969167
+    },
+    "w04-a034-example": {
+      "file": "day-22.mp3",
+      "start": 159.969167,
+      "end": 163.152292
+    },
+    "w04-a035": {
+      "file": "day-22.mp3",
+      "start": 163.152292,
+      "end": 164.593708
+    },
+    "w04-a035-example": {
+      "file": "day-22.mp3",
+      "start": 164.593708,
+      "end": 168.508708
+    },
+    "w04-a036": {
+      "file": "day-22.mp3",
+      "start": 168.508708,
+      "end": 169.924292
+    },
+    "w04-a036-example": {
+      "file": "day-22.mp3",
+      "start": 169.924292,
+      "end": 172.518417
+    },
+    "w04-a037": {
+      "file": "day-22.mp3",
+      "start": 172.518417,
+      "end": 173.755958
+    },
+    "w04-a037-example": {
+      "file": "day-22.mp3",
+      "start": 173.755958,
+      "end": 176.866625
+    },
+    "w04-a038": {
+      "file": "day-22.mp3",
+      "start": 176.866625,
+      "end": 178.272625
+    },
+    "w04-a038-example": {
+      "file": "day-22.mp3",
+      "start": 178.272625,
+      "end": 181.762708
+    },
+    "w04-a039": {
+      "file": "day-22.mp3",
+      "start": 181.762708,
+      "end": 182.78525
+    },
+    "w04-a039-example": {
+      "file": "day-22.mp3",
+      "start": 182.78525,
+      "end": 184.989125
+    },
+    "w04-a040": {
+      "file": "day-22.mp3",
+      "start": 184.989125,
+      "end": 186.380708
+    },
+    "w04-a040-example": {
+      "file": "day-22.mp3",
+      "start": 186.380708,
+      "end": 189.470708
+    },
+    "w04-a041": {
+      "file": "day-22.mp3",
+      "start": 189.470708,
+      "end": 191.000667
+    },
+    "w04-a041-example": {
+      "file": "day-22.mp3",
+      "start": 191.000667,
+      "end": 194.020542
+    },
+    "w04-a042": {
+      "file": "day-22.mp3",
+      "start": 194.020542,
+      "end": 195.236167
+    },
+    "w04-a042-example": {
+      "file": "day-22.mp3",
+      "start": 195.236167,
+      "end": 199.013875
+    },
+    "w04-a043": {
+      "file": "day-22.mp3",
+      "start": 199.013875,
+      "end": 200.803875
+    },
+    "w04-a043-example": {
+      "file": "day-22.mp3",
+      "start": 200.803875,
+      "end": 203.210083
+    },
+    "w04-a044": {
+      "file": "day-22.mp3",
+      "start": 203.210083,
+      "end": 204.357792
+    },
+    "w04-a044-example": {
+      "file": "day-22.mp3",
+      "start": 204.357792,
+      "end": 207.732792
+    },
+    "w04-a045": {
+      "file": "day-22.mp3",
+      "start": 207.732792,
+      "end": 209.632792
+    },
+    "w04-a045-example": {
+      "file": "day-22.mp3",
+      "start": 209.632792,
+      "end": 212.727792
+    },
+    "w04-a046": {
+      "file": "day-23.mp3",
+      "start": 0.0,
+      "end": 1.905
+    },
+    "w04-a046-example": {
+      "file": "day-23.mp3",
+      "start": 1.905,
+      "end": 4.8
+    },
+    "w04-a047": {
+      "file": "day-23.mp3",
+      "start": 4.8,
+      "end": 6.725
+    },
+    "w04-a047-example": {
+      "file": "day-23.mp3",
+      "start": 6.725,
+      "end": 10.02
+    },
+    "w04-a048": {
+      "file": "day-23.mp3",
+      "start": 10.02,
+      "end": 11.180417
+    },
+    "w04-a048-example": {
+      "file": "day-23.mp3",
+      "start": 11.180417,
+      "end": 13.730833
+    },
+    "w04-a049": {
+      "file": "day-23.mp3",
+      "start": 13.730833,
+      "end": 14.9315
+    },
+    "w04-a049-example": {
+      "file": "day-23.mp3",
+      "start": 14.9315,
+      "end": 18.5315
+    },
+    "w04-a050": {
+      "file": "day-23.mp3",
+      "start": 18.5315,
+      "end": 20.3165
+    },
+    "w04-a050-example": {
+      "file": "day-23.mp3",
+      "start": 20.3165,
+      "end": 23.7665
+    },
+    "w04-a051": {
+      "file": "day-23.mp3",
+      "start": 23.7665,
+      "end": 24.799917
+    },
+    "w04-a051-example": {
+      "file": "day-23.mp3",
+      "start": 24.799917,
+      "end": 27.894917
+    },
+    "w04-a052": {
+      "file": "day-23.mp3",
+      "start": 27.894917,
+      "end": 28.926042
+    },
+    "w04-a052-example": {
+      "file": "day-23.mp3",
+      "start": 28.926042,
+      "end": 33.104917
+    },
+    "w04-a053": {
+      "file": "day-23.mp3",
+      "start": 33.104917,
+      "end": 34.850875
+    },
+    "w04-a053-example": {
+      "file": "day-23.mp3",
+      "start": 34.850875,
+      "end": 38.330875
+    },
+    "w04-a054": {
+      "file": "day-23.mp3",
+      "start": 38.330875,
+      "end": 40.215875
+    },
+    "w04-a054-example": {
+      "file": "day-23.mp3",
+      "start": 40.215875,
+      "end": 42.6975
+    },
+    "w04-a055": {
+      "file": "day-23.mp3",
+      "start": 42.6975,
+      "end": 44.6225
+    },
+    "w04-a055-example": {
+      "file": "day-23.mp3",
+      "start": 44.6225,
+      "end": 47.5875
+    },
+    "w04-a056": {
+      "file": "day-23.mp3",
+      "start": 47.5875,
+      "end": 49.3175
+    },
+    "w04-a056-example": {
+      "file": "day-23.mp3",
+      "start": 49.3175,
+      "end": 52.2925
+    },
+    "w04-a057": {
+      "file": "day-23.mp3",
+      "start": 52.2925,
+      "end": 54.12775
+    },
+    "w04-a057-example": {
+      "file": "day-23.mp3",
+      "start": 54.12775,
+      "end": 56.426417
+    },
+    "w04-a058": {
+      "file": "day-23.mp3",
+      "start": 56.426417,
+      "end": 57.514125
+    },
+    "w04-a058-example": {
+      "file": "day-23.mp3",
+      "start": 57.514125,
+      "end": 60.879958
+    },
+    "w04-a059": {
+      "file": "day-23.mp3",
+      "start": 60.879958,
+      "end": 62.659958
+    },
+    "w04-a059-example": {
+      "file": "day-23.mp3",
+      "start": 62.659958,
+      "end": 65.821917
+    },
+    "w04-a060": {
+      "file": "day-23.mp3",
+      "start": 65.821917,
+      "end": 67.731917
+    },
+    "w04-a060-example": {
+      "file": "day-23.mp3",
+      "start": 67.731917,
+      "end": 70.631917
+    },
+    "w04-a061": {
+      "file": "day-23.mp3",
+      "start": 70.631917,
+      "end": 71.669208
+    },
+    "w04-a061-example": {
+      "file": "day-23.mp3",
+      "start": 71.669208,
+      "end": 75.174208
+    },
+    "w04-a062": {
+      "file": "day-23.mp3",
+      "start": 75.174208,
+      "end": 77.144208
+    },
+    "w04-a062-example": {
+      "file": "day-23.mp3",
+      "start": 77.144208,
+      "end": 79.984125
+    },
+    "w04-a063": {
+      "file": "day-23.mp3",
+      "start": 79.984125,
+      "end": 81.689125
+    },
+    "w04-a063-example": {
+      "file": "day-23.mp3",
+      "start": 81.689125,
+      "end": 85.139125
+    },
+    "w04-a064": {
+      "file": "day-23.mp3",
+      "start": 85.139125,
+      "end": 86.894125
+    },
+    "w04-a064-example": {
+      "file": "day-23.mp3",
+      "start": 86.894125,
+      "end": 89.648083
+    },
+    "w04-a065": {
+      "file": "day-23.mp3",
+      "start": 89.648083,
+      "end": 91.308083
+    },
+    "w04-a065-example": {
+      "file": "day-23.mp3",
+      "start": 91.308083,
+      "end": 94.403083
+    },
+    "w04-a066": {
+      "file": "day-23.mp3",
+      "start": 94.403083,
+      "end": 95.435042
+    },
+    "w04-a066-example": {
+      "file": "day-23.mp3",
+      "start": 95.435042,
+      "end": 98.965042
+    },
+    "w04-a067": {
+      "file": "day-23.mp3",
+      "start": 98.965042,
+      "end": 100.320542
+    },
+    "w04-a067-example": {
+      "file": "day-23.mp3",
+      "start": 100.320542,
+      "end": 103.810542
+    },
+    "w04-a068": {
+      "file": "day-23.mp3",
+      "start": 103.810542,
+      "end": 105.575542
+    },
+    "w04-a068-example": {
+      "file": "day-23.mp3",
+      "start": 105.575542,
+      "end": 108.870542
+    },
+    "w04-a069": {
+      "file": "day-23.mp3",
+      "start": 108.870542,
+      "end": 110.650542
+    },
+    "w04-a069-example": {
+      "file": "day-23.mp3",
+      "start": 110.650542,
+      "end": 113.339208
+    },
+    "w04-a070": {
+      "file": "day-23.mp3",
+      "start": 113.339208,
+      "end": 114.611625
+    },
+    "w04-a070-example": {
+      "file": "day-23.mp3",
+      "start": 114.611625,
+      "end": 117.917583
+    },
+    "w04-a071": {
+      "file": "day-23.mp3",
+      "start": 117.917583,
+      "end": 119.682583
+    },
+    "w04-a071-example": {
+      "file": "day-23.mp3",
+      "start": 119.682583,
+      "end": 122.887583
+    },
+    "w04-a072": {
+      "file": "day-23.mp3",
+      "start": 122.887583,
+      "end": 123.859458
+    },
+    "w04-a072-example": {
+      "file": "day-23.mp3",
+      "start": 123.859458,
+      "end": 126.549458
+    },
+    "w04-a073": {
+      "file": "day-23.mp3",
+      "start": 126.549458,
+      "end": 127.583708
+    },
+    "w04-a073-example": {
+      "file": "day-23.mp3",
+      "start": 127.583708,
+      "end": 131.033708
+    },
+    "w04-a074": {
+      "file": "day-23.mp3",
+      "start": 131.033708,
+      "end": 132.853708
+    },
+    "w04-a074-example": {
+      "file": "day-23.mp3",
+      "start": 132.853708,
+      "end": 135.868708
+    },
+    "w04-a075": {
+      "file": "day-23.mp3",
+      "start": 135.868708,
+      "end": 137.398667
+    },
+    "w04-a075-example": {
+      "file": "day-23.mp3",
+      "start": 137.398667,
+      "end": 140.234583
+    },
+    "w04-a076": {
+      "file": "day-23.mp3",
+      "start": 140.234583,
+      "end": 141.308542
+    },
+    "w04-a076-example": {
+      "file": "day-23.mp3",
+      "start": 141.308542,
+      "end": 144.4705
+    },
+    "w04-a077": {
+      "file": "day-23.mp3",
+      "start": 144.4705,
+      "end": 146.2355
+    },
+    "w04-a077-example": {
+      "file": "day-23.mp3",
+      "start": 146.2355,
+      "end": 149.6255
+    },
+    "w04-a078": {
+      "file": "day-23.mp3",
+      "start": 149.6255,
+      "end": 151.4105
+    },
+    "w04-a078-example": {
+      "file": "day-23.mp3",
+      "start": 151.4105,
+      "end": 153.790083
+    },
+    "w04-a079": {
+      "file": "day-23.mp3",
+      "start": 153.790083,
+      "end": 154.864833
+    },
+    "w04-a079-example": {
+      "file": "day-23.mp3",
+      "start": 154.864833,
+      "end": 157.729833
+    },
+    "w04-a080": {
+      "file": "day-23.mp3",
+      "start": 157.729833,
+      "end": 158.693292
+    },
+    "w04-a080-example": {
+      "file": "day-23.mp3",
+      "start": 158.693292,
+      "end": 161.319333
+    },
+    "w04-a081": {
+      "file": "day-23.mp3",
+      "start": 161.319333,
+      "end": 163.165667
+    },
+    "w04-a081-example": {
+      "file": "day-23.mp3",
+      "start": 163.165667,
+      "end": 166.447625
+    },
+    "w04-a082": {
+      "file": "day-23.mp3",
+      "start": 166.447625,
+      "end": 168.293875
+    },
+    "w04-a082-example": {
+      "file": "day-23.mp3",
+      "start": 168.293875,
+      "end": 170.481
+    },
+    "w04-a083": {
+      "file": "day-23.mp3",
+      "start": 170.481,
+      "end": 171.428042
+    },
+    "w04-a083-example": {
+      "file": "day-23.mp3",
+      "start": 171.428042,
+      "end": 173.822542
+    },
+    "w04-a084": {
+      "file": "day-23.mp3",
+      "start": 173.822542,
+      "end": 175.877542
+    },
+    "w04-a084-example": {
+      "file": "day-23.mp3",
+      "start": 175.877542,
+      "end": 179.387542
+    },
+    "w04-a085": {
+      "file": "day-23.mp3",
+      "start": 179.387542,
+      "end": 180.743
+    },
+    "w04-a085-example": {
+      "file": "day-23.mp3",
+      "start": 180.743,
+      "end": 183.454333
+    },
+    "w04-a086": {
+      "file": "day-23.mp3",
+      "start": 183.454333,
+      "end": 185.28975
+    },
+    "w04-a086-example": {
+      "file": "day-23.mp3",
+      "start": 185.28975,
+      "end": 188.84975
+    },
+    "w04-a087": {
+      "file": "day-23.mp3",
+      "start": 188.84975,
+      "end": 190.63475
+    },
+    "w04-a087-example": {
+      "file": "day-23.mp3",
+      "start": 190.63475,
+      "end": 193.94475
+    },
+    "w04-a088": {
+      "file": "day-23.mp3",
+      "start": 193.94475,
+      "end": 194.879708
+    },
+    "w04-a088-example": {
+      "file": "day-23.mp3",
+      "start": 194.879708,
+      "end": 198.504708
+    },
+    "w04-a089": {
+      "file": "day-23.mp3",
+      "start": 198.504708,
+      "end": 200.254708
+    },
+    "w04-a089-example": {
+      "file": "day-23.mp3",
+      "start": 200.254708,
+      "end": 202.492
+    },
+    "w04-a090": {
+      "file": "day-23.mp3",
+      "start": 202.492,
+      "end": 204.212
+    },
+    "w04-a090-example": {
+      "file": "day-23.mp3",
+      "start": 204.212,
+      "end": 207.627
+    },
+    "w04-a091": {
+      "file": "day-24.mp3",
+      "start": 0.0,
+      "end": 1.76
+    },
+    "w04-a091-example": {
+      "file": "day-24.mp3",
+      "start": 1.76,
+      "end": 4.625292
+    },
+    "w04-a092": {
+      "file": "day-24.mp3",
+      "start": 4.625292,
+      "end": 6.575292
+    },
+    "w04-a092-example": {
+      "file": "day-24.mp3",
+      "start": 6.575292,
+      "end": 9.76125
+    },
+    "w04-a093": {
+      "file": "day-24.mp3",
+      "start": 9.76125,
+      "end": 12.03125
+    },
+    "w04-a093-example": {
+      "file": "day-24.mp3",
+      "start": 12.03125,
+      "end": 15.97125
+    },
+    "w04-a094": {
+      "file": "day-24.mp3",
+      "start": 15.97125,
+      "end": 16.907
+    },
+    "w04-a094-example": {
+      "file": "day-24.mp3",
+      "start": 16.907,
+      "end": 20.412
+    },
+    "w04-a095": {
+      "file": "day-24.mp3",
+      "start": 20.412,
+      "end": 21.949375
+    },
+    "w04-a095-example": {
+      "file": "day-24.mp3",
+      "start": 21.949375,
+      "end": 25.739375
+    },
+    "w04-a096": {
+      "file": "day-24.mp3",
+      "start": 25.739375,
+      "end": 27.575083
+    },
+    "w04-a096-example": {
+      "file": "day-24.mp3",
+      "start": 27.575083,
+      "end": 31.66925
+    },
+    "w04-a097": {
+      "file": "day-24.mp3",
+      "start": 31.66925,
+      "end": 33.260208
+    },
+    "w04-a097-example": {
+      "file": "day-24.mp3",
+      "start": 33.260208,
+      "end": 36.615208
+    },
+    "w04-a098": {
+      "file": "day-24.mp3",
+      "start": 36.615208,
+      "end": 38.865208
+    },
+    "w04-a098-example": {
+      "file": "day-24.mp3",
+      "start": 38.865208,
+      "end": 42.885792
+    },
+    "w04-a099": {
+      "file": "day-24.mp3",
+      "start": 42.885792,
+      "end": 44.721
+    },
+    "w04-a099-example": {
+      "file": "day-24.mp3",
+      "start": 44.721,
+      "end": 48.074958
+    },
+    "w04-a100": {
+      "file": "day-24.mp3",
+      "start": 48.074958,
+      "end": 50.689958
+    },
+    "w04-a100-example": {
+      "file": "day-24.mp3",
+      "start": 50.689958,
+      "end": 53.488208
+    },
+    "w04-a101": {
+      "file": "day-24.mp3",
+      "start": 53.488208,
+      "end": 54.611792
+    },
+    "w04-a101-example": {
+      "file": "day-24.mp3",
+      "start": 54.611792,
+      "end": 58.626792
+    },
+    "w04-a102": {
+      "file": "day-24.mp3",
+      "start": 58.626792,
+      "end": 60.15675
+    },
+    "w04-a102-example": {
+      "file": "day-24.mp3",
+      "start": 60.15675,
+      "end": 62.590667
+    },
+    "w04-a103": {
+      "file": "day-24.mp3",
+      "start": 62.590667,
+      "end": 64.480667
+    },
+    "w04-a103-example": {
+      "file": "day-24.mp3",
+      "start": 64.480667,
+      "end": 66.9025
+    },
+    "w04-a104": {
+      "file": "day-24.mp3",
+      "start": 66.9025,
+      "end": 67.832458
+    },
+    "w04-a104-example": {
+      "file": "day-24.mp3",
+      "start": 67.832458,
+      "end": 71.462458
+    },
+    "w04-a105": {
+      "file": "day-24.mp3",
+      "start": 71.462458,
+      "end": 72.557
+    },
+    "w04-a105-example": {
+      "file": "day-24.mp3",
+      "start": 72.557,
+      "end": 75.492
+    },
+    "w04-b001": {
+      "file": "day-24.mp3",
+      "start": 75.492,
+      "end": 77.547
+    },
+    "w04-b001-example": {
+      "file": "day-24.mp3",
+      "start": 77.547,
+      "end": 80.368417
+    },
+    "w04-b002": {
+      "file": "day-24.mp3",
+      "start": 80.368417,
+      "end": 81.452875
+    },
+    "w04-b002-example": {
+      "file": "day-24.mp3",
+      "start": 81.452875,
+      "end": 84.473208
+    },
+    "w04-b003": {
+      "file": "day-24.mp3",
+      "start": 84.473208,
+      "end": 85.539625
+    },
+    "w04-b003-example": {
+      "file": "day-24.mp3",
+      "start": 85.539625,
+      "end": 89.554625
+    },
+    "w04-b004": {
+      "file": "day-24.mp3",
+      "start": 89.554625,
+      "end": 91.434625
+    },
+    "w04-b004-example": {
+      "file": "day-24.mp3",
+      "start": 91.434625,
+      "end": 95.580583
+    },
+    "w04-b005": {
+      "file": "day-24.mp3",
+      "start": 95.580583,
+      "end": 97.340583
+    },
+    "w04-b005-example": {
+      "file": "day-24.mp3",
+      "start": 97.340583,
+      "end": 100.017542
+    },
+    "w04-b006": {
+      "file": "day-24.mp3",
+      "start": 100.017542,
+      "end": 101.947542
+    },
+    "w04-b006-example": {
+      "file": "day-24.mp3",
+      "start": 101.947542,
+      "end": 105.702542
+    },
+    "w04-b007": {
+      "file": "day-24.mp3",
+      "start": 105.702542,
+      "end": 107.632542
+    },
+    "w04-b007-example": {
+      "file": "day-24.mp3",
+      "start": 107.632542,
+      "end": 110.65275
+    },
+    "w04-b008": {
+      "file": "day-24.mp3",
+      "start": 110.65275,
+      "end": 112.42275
+    },
+    "w04-b008-example": {
+      "file": "day-24.mp3",
+      "start": 112.42275,
+      "end": 115.080708
+    },
+    "w04-b009": {
+      "file": "day-24.mp3",
+      "start": 115.080708,
+      "end": 116.845708
+    },
+    "w04-b009-example": {
+      "file": "day-24.mp3",
+      "start": 116.845708,
+      "end": 119.820875
+    },
+    "w04-b010": {
+      "file": "day-24.mp3",
+      "start": 119.820875,
+      "end": 120.791625
+    },
+    "w04-b010-example": {
+      "file": "day-24.mp3",
+      "start": 120.791625,
+      "end": 124.885375
+    },
+    "w04-b011": {
+      "file": "day-24.mp3",
+      "start": 124.885375,
+      "end": 126.72025
+    },
+    "w04-b011-example": {
+      "file": "day-24.mp3",
+      "start": 126.72025,
+      "end": 129.939375
+    },
+    "w04-b012": {
+      "file": "day-24.mp3",
+      "start": 129.939375,
+      "end": 131.469333
+    },
+    "w04-b012-example": {
+      "file": "day-24.mp3",
+      "start": 131.469333,
+      "end": 134.489542
+    },
+    "w04-b013": {
+      "file": "day-24.mp3",
+      "start": 134.489542,
+      "end": 136.329542
+    },
+    "w04-b013-example": {
+      "file": "day-24.mp3",
+      "start": 136.329542,
+      "end": 140.423333
+    },
+    "w04-b014": {
+      "file": "day-24.mp3",
+      "start": 140.423333,
+      "end": 141.590083
+    },
+    "w04-b014-example": {
+      "file": "day-24.mp3",
+      "start": 141.590083,
+      "end": 144.885083
+    },
+    "w04-b015": {
+      "file": "day-24.mp3",
+      "start": 144.885083,
+      "end": 146.720708
+    },
+    "w04-b015-example": {
+      "file": "day-24.mp3",
+      "start": 146.720708,
+      "end": 150.010708
+    },
+    "w04-b016": {
+      "file": "day-24.mp3",
+      "start": 150.010708,
+      "end": 151.170417
+    },
+    "w04-b016-example": {
+      "file": "day-24.mp3",
+      "start": 151.170417,
+      "end": 154.986292
+    },
+    "w04-b017": {
+      "file": "day-24.mp3",
+      "start": 154.986292,
+      "end": 156.906292
+    },
+    "w04-b017-example": {
+      "file": "day-24.mp3",
+      "start": 156.906292,
+      "end": 159.831292
+    },
+    "w04-b018": {
+      "file": "day-24.mp3",
+      "start": 159.831292,
+      "end": 161.117125
+    },
+    "w04-b018-example": {
+      "file": "day-24.mp3",
+      "start": 161.117125,
+      "end": 164.992125
+    },
+    "w04-b019": {
+      "file": "day-24.mp3",
+      "start": 164.992125,
+      "end": 166.367667
+    },
+    "w04-b019-example": {
+      "file": "day-24.mp3",
+      "start": 166.367667,
+      "end": 169.275917
+    },
+    "w04-b020": {
+      "file": "day-24.mp3",
+      "start": 169.275917,
+      "end": 170.897292
+    },
+    "w04-b020-example": {
+      "file": "day-24.mp3",
+      "start": 170.897292,
+      "end": 173.9175
+    },
+    "w04-b021": {
+      "file": "day-24.mp3",
+      "start": 173.9175,
+      "end": 175.000708
+    },
+    "w04-b021-example": {
+      "file": "day-24.mp3",
+      "start": 175.000708,
+      "end": 178.231667
+    },
+    "w04-b022": {
+      "file": "day-24.mp3",
+      "start": 178.231667,
+      "end": 179.461333
+    },
+    "w04-b022-example": {
+      "file": "day-24.mp3",
+      "start": 179.461333,
+      "end": 182.68925
+    },
+    "w04-b023": {
+      "file": "day-24.mp3",
+      "start": 182.68925,
+      "end": 183.964417
+    },
+    "w04-b023-example": {
+      "file": "day-24.mp3",
+      "start": 183.964417,
+      "end": 186.615583
+    },
+    "w04-b024": {
+      "file": "day-24.mp3",
+      "start": 186.615583,
+      "end": 188.450792
+    },
+    "w04-b024-example": {
+      "file": "day-24.mp3",
+      "start": 188.450792,
+      "end": 192.210792
+    },
+    "w04-b025": {
+      "file": "day-24.mp3",
+      "start": 192.210792,
+      "end": 194.045292
+    },
+    "w04-b025-example": {
+      "file": "day-24.mp3",
+      "start": 194.045292,
+      "end": 196.70325
+    },
+    "w04-b026": {
+      "file": "day-24.mp3",
+      "start": 196.70325,
+      "end": 198.63825
+    },
+    "w04-b026-example": {
+      "file": "day-24.mp3",
+      "start": 198.63825,
+      "end": 202.732417
+    },
+    "w04-b027": {
+      "file": "day-24.mp3",
+      "start": 202.732417,
+      "end": 203.830917
+    },
+    "w04-b027-example": {
+      "file": "day-24.mp3",
+      "start": 203.830917,
+      "end": 206.299292
+    },
+    "w04-b028": {
+      "file": "day-24.mp3",
+      "start": 206.299292,
+      "end": 207.37325
+    },
+    "w04-b028-example": {
+      "file": "day-24.mp3",
+      "start": 207.37325,
+      "end": 209.913792
+    },
+    "w04-b029": {
+      "file": "day-24.mp3",
+      "start": 209.913792,
+      "end": 211.062292
+    },
+    "w04-b029-example": {
+      "file": "day-24.mp3",
+      "start": 211.062292,
+      "end": 214.193125
+    },
+    "w04-b030": {
+      "file": "day-24.mp3",
+      "start": 214.193125,
+      "end": 216.028333
+    },
+    "w04-b030-example": {
+      "file": "day-24.mp3",
+      "start": 216.028333,
+      "end": 219.033708
+    },
+    "w04-b031": {
+      "file": "day-25.mp3",
+      "start": 0.0,
+      "end": 1.368417
+    },
+    "w04-b031-example": {
+      "file": "day-25.mp3",
+      "start": 1.368417,
+      "end": 4.623417
+    },
+    "w04-b032": {
+      "file": "day-25.mp3",
+      "start": 4.623417,
+      "end": 5.894583
+    },
+    "w04-b032-example": {
+      "file": "day-25.mp3",
+      "start": 5.894583,
+      "end": 9.209583
+    },
+    "w04-b033": {
+      "file": "day-25.mp3",
+      "start": 9.209583,
+      "end": 10.283542
+    },
+    "w04-b033-example": {
+      "file": "day-25.mp3",
+      "start": 10.283542,
+      "end": 14.0695
+    },
+    "w04-b034": {
+      "file": "day-25.mp3",
+      "start": 14.0695,
+      "end": 15.366833
+    },
+    "w04-b034-example": {
+      "file": "day-25.mp3",
+      "start": 15.366833,
+      "end": 18.9225
+    },
+    "w04-b035": {
+      "file": "day-25.mp3",
+      "start": 18.9225,
+      "end": 20.044458
+    },
+    "w04-b035-example": {
+      "file": "day-25.mp3",
+      "start": 20.044458,
+      "end": 23.876417
+    },
+    "w04-b036": {
+      "file": "day-25.mp3",
+      "start": 23.876417,
+      "end": 25.7115
+    },
+    "w04-b036-example": {
+      "file": "day-25.mp3",
+      "start": 25.7115,
+      "end": 29.1615
+    },
+    "w04-b037": {
+      "file": "day-25.mp3",
+      "start": 29.1615,
+      "end": 30.394833
+    },
+    "w04-b037-example": {
+      "file": "day-25.mp3",
+      "start": 30.394833,
+      "end": 33.864833
+    },
+    "w04-b038": {
+      "file": "day-25.mp3",
+      "start": 33.864833,
+      "end": 35.000958
+    },
+    "w04-b038-example": {
+      "file": "day-25.mp3",
+      "start": 35.000958,
+      "end": 37.970917
+    },
+    "w04-b039": {
+      "file": "day-25.mp3",
+      "start": 37.970917,
+      "end": 39.404875
+    },
+    "w04-b039-example": {
+      "file": "day-25.mp3",
+      "start": 39.404875,
+      "end": 43.439875
+    },
+    "w04-b040": {
+      "file": "day-25.mp3",
+      "start": 43.439875,
+      "end": 44.760292
+    },
+    "w04-b040-example": {
+      "file": "day-25.mp3",
+      "start": 44.760292,
+      "end": 47.89825
+    },
+    "w04-b041": {
+      "file": "day-25.mp3",
+      "start": 47.89825,
+      "end": 49.2745
+    },
+    "w04-b041-example": {
+      "file": "day-25.mp3",
+      "start": 49.2745,
+      "end": 52.078542
+    },
+    "w04-b042": {
+      "file": "day-25.mp3",
+      "start": 52.078542,
+      "end": 54.008542
+    },
+    "w04-b042-example": {
+      "file": "day-25.mp3",
+      "start": 54.008542,
+      "end": 57.633542
+    },
+    "w04-b043": {
+      "file": "day-25.mp3",
+      "start": 57.633542,
+      "end": 59.62375
+    },
+    "w04-b043-example": {
+      "file": "day-25.mp3",
+      "start": 59.62375,
+      "end": 62.660417
+    },
+    "w04-b044": {
+      "file": "day-25.mp3",
+      "start": 62.660417,
+      "end": 64.496125
+    },
+    "w04-b044-example": {
+      "file": "day-25.mp3",
+      "start": 64.496125,
+      "end": 67.136625
+    },
+    "w04-b045": {
+      "file": "day-25.mp3",
+      "start": 67.136625,
+      "end": 68.666583
+    },
+    "w04-b045-example": {
+      "file": "day-25.mp3",
+      "start": 68.666583,
+      "end": 72.145333
+    },
+    "w04-b046": {
+      "file": "day-25.mp3",
+      "start": 72.145333,
+      "end": 74.24
+    },
+    "w04-b046-example": {
+      "file": "day-25.mp3",
+      "start": 74.24,
+      "end": 77.835
+    },
+    "w04-b047": {
+      "file": "day-25.mp3",
+      "start": 77.835,
+      "end": 79.4335
+    },
+    "w04-b047-example": {
+      "file": "day-25.mp3",
+      "start": 79.4335,
+      "end": 83.0485
+    },
+    "w04-b048": {
+      "file": "day-25.mp3",
+      "start": 83.0485,
+      "end": 84.8985
+    },
+    "w04-b048-example": {
+      "file": "day-25.mp3",
+      "start": 84.8985,
+      "end": 88.117375
+    },
+    "w04-b049": {
+      "file": "day-25.mp3",
+      "start": 88.117375,
+      "end": 90.107667
+    },
+    "w04-b049-example": {
+      "file": "day-25.mp3",
+      "start": 90.107667,
+      "end": 93.727667
+    },
+    "w04-b050": {
+      "file": "day-25.mp3",
+      "start": 93.727667,
+      "end": 94.901292
+    },
+    "w04-b050-example": {
+      "file": "day-25.mp3",
+      "start": 94.901292,
+      "end": 98.454917
+    },
+    "w04-b051": {
+      "file": "day-25.mp3",
+      "start": 98.454917,
+      "end": 99.739417
+    },
+    "w04-b051-example": {
+      "file": "day-25.mp3",
+      "start": 99.739417,
+      "end": 103.454417
+    },
+    "w04-b052": {
+      "file": "day-25.mp3",
+      "start": 103.454417,
+      "end": 104.625667
+    },
+    "w04-b052-example": {
+      "file": "day-25.mp3",
+      "start": 104.625667,
+      "end": 109.137708
+    },
+    "w04-b053": {
+      "file": "day-25.mp3",
+      "start": 109.137708,
+      "end": 110.773292
+    },
+    "w04-b053-example": {
+      "file": "day-25.mp3",
+      "start": 110.773292,
+      "end": 115.793292
+    },
+    "w04-b054": {
+      "file": "day-25.mp3",
+      "start": 115.793292,
+      "end": 117.383958
+    },
+    "w04-b054-example": {
+      "file": "day-25.mp3",
+      "start": 117.383958,
+      "end": 121.125
+    },
+    "w04-b055": {
+      "file": "day-25.mp3",
+      "start": 121.125,
+      "end": 123.485
+    },
+    "w04-b055-example": {
+      "file": "day-25.mp3",
+      "start": 123.485,
+      "end": 127.575
+    },
+    "w04-b056": {
+      "file": "day-25.mp3",
+      "start": 127.575,
+      "end": 129.410625
+    },
+    "w04-b056-example": {
+      "file": "day-25.mp3",
+      "start": 129.410625,
+      "end": 133.504792
+    },
+    "w04-b057": {
+      "file": "day-25.mp3",
+      "start": 133.504792,
+      "end": 135.495
+    },
+    "w04-b057-example": {
+      "file": "day-25.mp3",
+      "start": 135.495,
+      "end": 138.515792
+    },
+    "w04-b058": {
+      "file": "day-25.mp3",
+      "start": 138.515792,
+      "end": 140.362042
+    },
+    "w04-b058-example": {
+      "file": "day-25.mp3",
+      "start": 140.362042,
+      "end": 144.377042
+    },
+    "w04-b059": {
+      "file": "day-25.mp3",
+      "start": 144.377042,
+      "end": 146.317042
+    },
+    "w04-b059-example": {
+      "file": "day-25.mp3",
+      "start": 146.317042,
+      "end": 151.441125
+    },
+    "w04-b060": {
+      "file": "day-25.mp3",
+      "start": 151.441125,
+      "end": 152.478167
+    },
+    "w04-b060-example": {
+      "file": "day-25.mp3",
+      "start": 152.478167,
+      "end": 155.453167
+    },
+    "w04-b061": {
+      "file": "day-25.mp3",
+      "start": 155.453167,
+      "end": 157.001958
+    },
+    "w04-b061-example": {
+      "file": "day-25.mp3",
+      "start": 157.001958,
+      "end": 159.755917
+    },
+    "w04-b062": {
+      "file": "day-25.mp3",
+      "start": 159.755917,
+      "end": 161.590583
+    },
+    "w04-b062-example": {
+      "file": "day-25.mp3",
+      "start": 161.590583,
+      "end": 164.665583
+    },
+    "w04-b063": {
+      "file": "day-25.mp3",
+      "start": 164.665583,
+      "end": 165.729375
+    },
+    "w04-b063-example": {
+      "file": "day-25.mp3",
+      "start": 165.729375,
+      "end": 169.539375
+    },
+    "w04-b064": {
+      "file": "day-25.mp3",
+      "start": 169.539375,
+      "end": 171.544375
+    },
+    "w04-b064-example": {
+      "file": "day-25.mp3",
+      "start": 171.544375,
+      "end": 175.429375
+    },
+    "w04-b065": {
+      "file": "day-25.mp3",
+      "start": 175.429375,
+      "end": 177.419375
+    },
+    "w04-b065-example": {
+      "file": "day-25.mp3",
+      "start": 177.419375,
+      "end": 181.114417
+    },
+    "w04-b066": {
+      "file": "day-25.mp3",
+      "start": 181.114417,
+      "end": 182.114417
+    },
+    "w04-b066-example": {
+      "file": "day-25.mp3",
+      "start": 182.114417,
+      "end": 185.9125
+    },
+    "w04-b067": {
+      "file": "day-25.mp3",
+      "start": 185.9125,
+      "end": 187.7675
+    },
+    "w04-b067-example": {
+      "file": "day-25.mp3",
+      "start": 187.7675,
+      "end": 190.4125
+    },
+    "w04-b068": {
+      "file": "day-25.mp3",
+      "start": 190.4125,
+      "end": 191.942458
+    },
+    "w04-b068-example": {
+      "file": "day-25.mp3",
+      "start": 191.942458,
+      "end": 194.592292
+    },
+    "w04-b069": {
+      "file": "day-25.mp3",
+      "start": 194.592292,
+      "end": 196.5825
+    },
+    "w04-b069-example": {
+      "file": "day-25.mp3",
+      "start": 196.5825,
+      "end": 200.5175
+    },
+    "w04-b070": {
+      "file": "day-25.mp3",
+      "start": 200.5175,
+      "end": 202.7775
+    },
+    "w04-b070-example": {
+      "file": "day-25.mp3",
+      "start": 202.7775,
+      "end": 207.289667
+    },
+    "w04-b071": {
+      "file": "day-25.mp3",
+      "start": 207.289667,
+      "end": 209.674667
+    },
+    "w04-b071-example": {
+      "file": "day-25.mp3",
+      "start": 209.674667,
+      "end": 213.954667
+    },
+    "w04-b072": {
+      "file": "day-25.mp3",
+      "start": 213.954667,
+      "end": 216.039667
+    },
+    "w04-b072-example": {
+      "file": "day-25.mp3",
+      "start": 216.039667,
+      "end": 219.674667
+    },
+    "w04-b073": {
+      "file": "day-25.mp3",
+      "start": 219.674667,
+      "end": 221.879667
+    },
+    "w04-b073-example": {
+      "file": "day-25.mp3",
+      "start": 221.879667,
+      "end": 225.344667
+    },
+    "w04-b074": {
+      "file": "day-25.mp3",
+      "start": 225.344667,
+      "end": 227.180292
+    },
+    "w04-b074-example": {
+      "file": "day-25.mp3",
+      "start": 227.180292,
+      "end": 230.175292
+    },
+    "w04-b075": {
+      "file": "day-25.mp3",
+      "start": 230.175292,
+      "end": 231.756417
+    },
+    "w04-b075-example": {
+      "file": "day-25.mp3",
+      "start": 231.756417,
+      "end": 235.276417
+    },
+    "w04-b076": {
+      "file": "day-26.mp3",
+      "start": 0.0,
+      "end": 1.146792
+    },
+    "w04-b076-example": {
+      "file": "day-26.mp3",
+      "start": 1.146792,
+      "end": 4.167167
+    },
+    "w04-b077": {
+      "file": "day-26.mp3",
+      "start": 4.167167,
+      "end": 6.013417
+    },
+    "w04-b077-example": {
+      "file": "day-26.mp3",
+      "start": 6.013417,
+      "end": 9.463417
+    },
+    "w04-b078": {
+      "file": "day-26.mp3",
+      "start": 9.463417,
+      "end": 11.508417
+    },
+    "w04-b078-example": {
+      "file": "day-26.mp3",
+      "start": 11.508417,
+      "end": 16.288417
+    },
+    "w04-b079": {
+      "file": "day-26.mp3",
+      "start": 16.288417,
+      "end": 17.818375
+    },
+    "w04-b079-example": {
+      "file": "day-26.mp3",
+      "start": 17.818375,
+      "end": 21.298375
+    },
+    "w04-b080": {
+      "file": "day-26.mp3",
+      "start": 21.298375,
+      "end": 22.326958
+    },
+    "w04-b080-example": {
+      "file": "day-26.mp3",
+      "start": 22.326958,
+      "end": 24.75925
+    },
+    "w04-b081": {
+      "file": "day-26.mp3",
+      "start": 24.75925,
+      "end": 26.233083
+    },
+    "w04-b081-example": {
+      "file": "day-26.mp3",
+      "start": 26.233083,
+      "end": 29.4935
+    },
+    "w04-b082": {
+      "file": "day-26.mp3",
+      "start": 29.4935,
+      "end": 31.6035
+    },
+    "w04-b082-example": {
+      "file": "day-26.mp3",
+      "start": 31.6035,
+      "end": 34.992458
+    },
+    "w04-b083": {
+      "file": "day-26.mp3",
+      "start": 34.992458,
+      "end": 36.827333
+    },
+    "w04-b083-example": {
+      "file": "day-26.mp3",
+      "start": 36.827333,
+      "end": 39.417875
+    },
+    "w04-b084": {
+      "file": "day-26.mp3",
+      "start": 39.417875,
+      "end": 40.436917
+    },
+    "w04-b084-example": {
+      "file": "day-26.mp3",
+      "start": 40.436917,
+      "end": 43.506917
+    },
+    "w04-b085": {
+      "file": "day-26.mp3",
+      "start": 43.506917,
+      "end": 45.351917
+    },
+    "w04-b085-example": {
+      "file": "day-26.mp3",
+      "start": 45.351917,
+      "end": 49.167792
+    },
+    "w04-b086": {
+      "file": "day-26.mp3",
+      "start": 49.167792,
+      "end": 50.75825
+    },
+    "w04-b086-example": {
+      "file": "day-26.mp3",
+      "start": 50.75825,
+      "end": 54.02325
+    },
+    "w04-b087": {
+      "file": "day-26.mp3",
+      "start": 54.02325,
+      "end": 55.357583
+    },
+    "w04-b087-example": {
+      "file": "day-26.mp3",
+      "start": 55.357583,
+      "end": 58.761542
+    },
+    "w04-b088": {
+      "file": "day-26.mp3",
+      "start": 58.761542,
+      "end": 60.681542
+    },
+    "w04-b088-example": {
+      "file": "day-26.mp3",
+      "start": 60.681542,
+      "end": 63.8435
+    },
+    "w04-b089": {
+      "file": "day-26.mp3",
+      "start": 63.8435,
+      "end": 65.679125
+    },
+    "w04-b089-example": {
+      "file": "day-26.mp3",
+      "start": 65.679125,
+      "end": 68.639125
+    },
+    "w04-b090": {
+      "file": "day-26.mp3",
+      "start": 68.639125,
+      "end": 70.127167
+    },
+    "w04-b090-example": {
+      "file": "day-26.mp3",
+      "start": 70.127167,
+      "end": 73.942667
+    },
+    "w04-b091": {
+      "file": "day-26.mp3",
+      "start": 73.942667,
+      "end": 75.222208
+    },
+    "w04-b091-example": {
+      "file": "day-26.mp3",
+      "start": 75.222208,
+      "end": 78.881542
+    },
+    "w04-b092": {
+      "file": "day-26.mp3",
+      "start": 78.881542,
+      "end": 80.821542
+    },
+    "w04-b092-example": {
+      "file": "day-26.mp3",
+      "start": 80.821542,
+      "end": 83.340583
+    },
+    "w04-b093": {
+      "file": "day-26.mp3",
+      "start": 83.340583,
+      "end": 85.385583
+    },
+    "w04-b093-example": {
+      "file": "day-26.mp3",
+      "start": 85.385583,
+      "end": 89.010583
+    },
+    "w04-b094": {
+      "file": "day-26.mp3",
+      "start": 89.010583,
+      "end": 90.845833
+    },
+    "w04-b094-example": {
+      "file": "day-26.mp3",
+      "start": 90.845833,
+      "end": 94.365833
+    },
+    "w04-b095": {
+      "file": "day-26.mp3",
+      "start": 94.365833,
+      "end": 96.461083
+    },
+    "w04-b095-example": {
+      "file": "day-26.mp3",
+      "start": 96.461083,
+      "end": 100.261083
+    },
+    "w04-b096": {
+      "file": "day-26.mp3",
+      "start": 100.261083,
+      "end": 101.489792
+    },
+    "w04-b096-example": {
+      "file": "day-26.mp3",
+      "start": 101.489792,
+      "end": 104.60375
+    },
+    "w04-b097": {
+      "file": "day-26.mp3",
+      "start": 104.60375,
+      "end": 106.68375
+    },
+    "w04-b097-example": {
+      "file": "day-26.mp3",
+      "start": 106.68375,
+      "end": 109.77375
+    },
+    "w04-b098": {
+      "file": "day-26.mp3",
+      "start": 109.77375,
+      "end": 111.053542
+    },
+    "w04-b098-example": {
+      "file": "day-26.mp3",
+      "start": 111.053542,
+      "end": 114.274
+    },
+    "w04-b099": {
+      "file": "day-26.mp3",
+      "start": 114.274,
+      "end": 115.767333
+    },
+    "w04-b099-example": {
+      "file": "day-26.mp3",
+      "start": 115.767333,
+      "end": 118.837333
+    },
+    "w04-b100": {
+      "file": "day-26.mp3",
+      "start": 118.837333,
+      "end": 120.517333
+    },
+    "w04-b100-example": {
+      "file": "day-26.mp3",
+      "start": 120.517333,
+      "end": 124.222333
+    },
+    "w04-b101": {
+      "file": "day-26.mp3",
+      "start": 124.222333,
+      "end": 126.057
+    },
+    "w04-b101-example": {
+      "file": "day-26.mp3",
+      "start": 126.057,
+      "end": 129.545917
+    },
+    "w04-b102": {
+      "file": "day-26.mp3",
+      "start": 129.545917,
+      "end": 131.615917
+    },
+    "w04-b102-example": {
+      "file": "day-26.mp3",
+      "start": 131.615917,
+      "end": 135.945917
+    },
+    "w04-b103": {
+      "file": "day-26.mp3",
+      "start": 135.945917,
+      "end": 137.811875
+    },
+    "w04-b103-example": {
+      "file": "day-26.mp3",
+      "start": 137.811875,
+      "end": 141.281875
+    },
+    "w04-b104": {
+      "file": "day-26.mp3",
+      "start": 141.281875,
+      "end": 143.156875
+    },
+    "w04-b104-example": {
+      "file": "day-26.mp3",
+      "start": 143.156875,
+      "end": 146.972958
+    },
+    "w04-b105": {
+      "file": "day-26.mp3",
+      "start": 146.972958,
+      "end": 148.246083
+    },
+    "w04-b105-example": {
+      "file": "day-26.mp3",
+      "start": 148.246083,
+      "end": 151.408042
+    },
+    "w04-c001": {
+      "file": "day-26.mp3",
+      "start": 151.408042,
+      "end": 153.213042
+    },
+    "w04-c001-example": {
+      "file": "day-26.mp3",
+      "start": 153.213042,
+      "end": 156.233583
+    },
+    "w04-c002": {
+      "file": "day-26.mp3",
+      "start": 156.233583,
+      "end": 157.260167
+    },
+    "w04-c002-example": {
+      "file": "day-26.mp3",
+      "start": 157.260167,
+      "end": 160.220167
+    },
+    "w04-c003": {
+      "file": "day-26.mp3",
+      "start": 160.220167,
+      "end": 162.140167
+    },
+    "w04-c003-example": {
+      "file": "day-26.mp3",
+      "start": 162.140167,
+      "end": 164.702125
+    },
+    "w04-c004": {
+      "file": "day-26.mp3",
+      "start": 164.702125,
+      "end": 165.752083
+    },
+    "w04-c004-example": {
+      "file": "day-26.mp3",
+      "start": 165.752083,
+      "end": 168.467833
+    },
+    "w04-c005": {
+      "file": "day-26.mp3",
+      "start": 168.467833,
+      "end": 170.045792
+    },
+    "w04-c005-example": {
+      "file": "day-26.mp3",
+      "start": 170.045792,
+      "end": 173.277458
+    },
+    "w04-c006": {
+      "file": "day-26.mp3",
+      "start": 173.277458,
+      "end": 174.807417
+    },
+    "w04-c006-example": {
+      "file": "day-26.mp3",
+      "start": 174.807417,
+      "end": 178.132417
+    },
+    "w04-c007": {
+      "file": "day-26.mp3",
+      "start": 178.132417,
+      "end": 179.119875
+    },
+    "w04-c007-example": {
+      "file": "day-26.mp3",
+      "start": 179.119875,
+      "end": 182.609167
+    },
+    "w04-c008": {
+      "file": "day-26.mp3",
+      "start": 182.609167,
+      "end": 184.444375
+    },
+    "w04-c008-example": {
+      "file": "day-26.mp3",
+      "start": 184.444375,
+      "end": 187.46475
+    },
+    "w04-c009": {
+      "file": "day-26.mp3",
+      "start": 187.46475,
+      "end": 188.528375
+    },
+    "w04-c009-example": {
+      "file": "day-26.mp3",
+      "start": 188.528375,
+      "end": 190.909542
+    },
+    "w04-c010": {
+      "file": "day-26.mp3",
+      "start": 190.909542,
+      "end": 192.108
+    },
+    "w04-c010-example": {
+      "file": "day-26.mp3",
+      "start": 192.108,
+      "end": 194.6735
+    },
+    "w04-c011": {
+      "file": "day-26.mp3",
+      "start": 194.6735,
+      "end": 196.5485
+    },
+    "w04-c011-example": {
+      "file": "day-26.mp3",
+      "start": 196.5485,
+      "end": 199.196042
+    },
+    "w04-c012": {
+      "file": "day-26.mp3",
+      "start": 199.196042,
+      "end": 201.066042
+    },
+    "w04-c012-example": {
+      "file": "day-26.mp3",
+      "start": 201.066042,
+      "end": 204.086833
+    },
+    "w04-c013": {
+      "file": "day-26.mp3",
+      "start": 204.086833,
+      "end": 205.922583
+    },
+    "w04-c013-example": {
+      "file": "day-26.mp3",
+      "start": 205.922583,
+      "end": 208.587583
+    },
+    "w04-c014": {
+      "file": "day-26.mp3",
+      "start": 208.587583,
+      "end": 210.517583
+    },
+    "w04-c014-example": {
+      "file": "day-26.mp3",
+      "start": 210.517583,
+      "end": 212.908542
+    },
+    "w04-c015": {
+      "file": "day-26.mp3",
+      "start": 212.908542,
+      "end": 214.043917
+    },
+    "w04-c015-example": {
+      "file": "day-26.mp3",
+      "start": 214.043917,
+      "end": 216.548583
+    },
+    "w04-c016": {
+      "file": "day-27.mp3",
+      "start": 0.0,
+      "end": 1.449667
+    },
+    "w04-c016-example": {
+      "file": "day-27.mp3",
+      "start": 1.449667,
+      "end": 4.995625
+    },
+    "w04-c017": {
+      "file": "day-27.mp3",
+      "start": 4.995625,
+      "end": 6.8305
+    },
+    "w04-c017-example": {
+      "file": "day-27.mp3",
+      "start": 6.8305,
+      "end": 9.660542
+    },
+    "w04-c018": {
+      "file": "day-27.mp3",
+      "start": 9.660542,
+      "end": 10.751708
+    },
+    "w04-c018-example": {
+      "file": "day-27.mp3",
+      "start": 10.751708,
+      "end": 13.656583
+    },
+    "w04-c019": {
+      "file": "day-27.mp3",
+      "start": 13.656583,
+      "end": 15.491458
+    },
+    "w04-c019-example": {
+      "file": "day-27.mp3",
+      "start": 15.491458,
+      "end": 19.150667
+    },
+    "w04-c020": {
+      "file": "day-27.mp3",
+      "start": 19.150667,
+      "end": 20.518333
+    },
+    "w04-c020-example": {
+      "file": "day-27.mp3",
+      "start": 20.518333,
+      "end": 24.283333
+    },
+    "w04-c021": {
+      "file": "day-27.mp3",
+      "start": 24.283333,
+      "end": 25.762042
+    },
+    "w04-c021-example": {
+      "file": "day-27.mp3",
+      "start": 25.762042,
+      "end": 29.790042
+    },
+    "w04-c022": {
+      "file": "day-27.mp3",
+      "start": 29.790042,
+      "end": 30.842458
+    },
+    "w04-c022-example": {
+      "file": "day-27.mp3",
+      "start": 30.842458,
+      "end": 33.813667
+    },
+    "w04-c023": {
+      "file": "day-27.mp3",
+      "start": 33.813667,
+      "end": 34.8675
+    },
+    "w04-c023-example": {
+      "file": "day-27.mp3",
+      "start": 34.8675,
+      "end": 37.7625
+    },
+    "w04-c024": {
+      "file": "day-27.mp3",
+      "start": 37.7625,
+      "end": 39.5525
+    },
+    "w04-c024-example": {
+      "file": "day-27.mp3",
+      "start": 39.5525,
+      "end": 42.210458
+    },
+    "w04-c025": {
+      "file": "day-27.mp3",
+      "start": 42.210458,
+      "end": 43.249083
+    },
+    "w04-c025-example": {
+      "file": "day-27.mp3",
+      "start": 43.249083,
+      "end": 45.907167
+    },
+    "w04-c026": {
+      "file": "day-27.mp3",
+      "start": 45.907167,
+      "end": 47.047292
+    },
+    "w04-c026-example": {
+      "file": "day-27.mp3",
+      "start": 47.047292,
+      "end": 49.997292
+    },
+    "w04-c027": {
+      "file": "day-27.mp3",
+      "start": 49.997292,
+      "end": 51.807292
+    },
+    "w04-c027-example": {
+      "file": "day-27.mp3",
+      "start": 51.807292,
+      "end": 54.742292
+    },
+    "w04-c028": {
+      "file": "day-27.mp3",
+      "start": 54.742292,
+      "end": 56.577917
+    },
+    "w04-c028-example": {
+      "file": "day-27.mp3",
+      "start": 56.577917,
+      "end": 59.81925
+    },
+    "w04-c029": {
+      "file": "day-27.mp3",
+      "start": 59.81925,
+      "end": 60.893208
+    },
+    "w04-c029-example": {
+      "file": "day-27.mp3",
+      "start": 60.893208,
+      "end": 63.440208
+    },
+    "w04-c030": {
+      "file": "day-27.mp3",
+      "start": 63.440208,
+      "end": 64.928042
+    },
+    "w04-c030-example": {
+      "file": "day-27.mp3",
+      "start": 64.928042,
+      "end": 68.523042
+    },
+    "w04-c031": {
+      "file": "day-27.mp3",
+      "start": 68.523042,
+      "end": 70.403042
+    },
+    "w04-c031-example": {
+      "file": "day-27.mp3",
+      "start": 70.403042,
+      "end": 73.923042
+    },
+    "w04-c032": {
+      "file": "day-27.mp3",
+      "start": 73.923042,
+      "end": 75.141
+    },
+    "w04-c032-example": {
+      "file": "day-27.mp3",
+      "start": 75.141,
+      "end": 78.061
+    },
+    "w04-c033": {
+      "file": "day-27.mp3",
+      "start": 78.061,
+      "end": 79.976
+    },
+    "w04-c033-example": {
+      "file": "day-27.mp3",
+      "start": 79.976,
+      "end": 83.03475
+    },
+    "w04-c034": {
+      "file": "day-27.mp3",
+      "start": 83.03475,
+      "end": 84.208875
+    },
+    "w04-c034-example": {
+      "file": "day-27.mp3",
+      "start": 84.208875,
+      "end": 87.208875
+    },
+    "w04-c035": {
+      "file": "day-27.mp3",
+      "start": 87.208875,
+      "end": 88.729667
+    },
+    "w04-c035-example": {
+      "file": "day-27.mp3",
+      "start": 88.729667,
+      "end": 92.259667
+    },
+    "w04-c036": {
+      "file": "day-27.mp3",
+      "start": 92.259667,
+      "end": 93.477625
+    },
+    "w04-c036-example": {
+      "file": "day-27.mp3",
+      "start": 93.477625,
+      "end": 96.842625
+    },
+    "w04-c037": {
+      "file": "day-27.mp3",
+      "start": 96.842625,
+      "end": 98.791792
+    },
+    "w04-c037-example": {
+      "file": "day-27.mp3",
+      "start": 98.791792,
+      "end": 102.131792
+    },
+    "w04-c038": {
+      "file": "day-27.mp3",
+      "start": 102.131792,
+      "end": 103.15775
+    },
+    "w04-c038-example": {
+      "file": "day-27.mp3",
+      "start": 103.15775,
+      "end": 105.359708
+    },
+    "w04-c039": {
+      "file": "day-27.mp3",
+      "start": 105.359708,
+      "end": 106.351833
+    },
+    "w04-c039-example": {
+      "file": "day-27.mp3",
+      "start": 106.351833,
+      "end": 109.031833
+    },
+    "w04-c040": {
+      "file": "day-27.mp3",
+      "start": 109.031833,
+      "end": 110.165
+    },
+    "w04-c040-example": {
+      "file": "day-27.mp3",
+      "start": 110.165,
+      "end": 113.515
+    },
+    "w04-c041": {
+      "file": "day-27.mp3",
+      "start": 113.515,
+      "end": 115.23
+    },
+    "w04-c041-example": {
+      "file": "day-27.mp3",
+      "start": 115.23,
+      "end": 117.887958
+    },
+    "w04-c042": {
+      "file": "day-27.mp3",
+      "start": 117.887958,
+      "end": 119.732958
+    },
+    "w04-c042-example": {
+      "file": "day-27.mp3",
+      "start": 119.732958,
+      "end": 122.472958
+    },
+    "w04-c043": {
+      "file": "day-27.mp3",
+      "start": 122.472958,
+      "end": 123.330917
+    },
+    "w04-c043-example": {
+      "file": "day-27.mp3",
+      "start": 123.330917,
+      "end": 125.71725
+    },
+    "w04-c044": {
+      "file": "day-27.mp3",
+      "start": 125.71725,
+      "end": 126.72925
+    },
+    "w04-c044-example": {
+      "file": "day-27.mp3",
+      "start": 126.72925,
+      "end": 129.88875
+    },
+    "w04-c045": {
+      "file": "day-27.mp3",
+      "start": 129.88875,
+      "end": 131.77375
+    },
+    "w04-c045-example": {
+      "file": "day-27.mp3",
+      "start": 131.77375,
+      "end": 135.10375
+    },
+    "w04-c046": {
+      "file": "day-27.mp3",
+      "start": 135.10375,
+      "end": 137.03375
+    },
+    "w04-c046-example": {
+      "file": "day-27.mp3",
+      "start": 137.03375,
+      "end": 139.854375
+    },
+    "w04-c047": {
+      "file": "day-27.mp3",
+      "start": 139.854375,
+      "end": 140.967083
+    },
+    "w04-c047-example": {
+      "file": "day-27.mp3",
+      "start": 140.967083,
+      "end": 143.6255
+    },
+    "w04-c048": {
+      "file": "day-27.mp3",
+      "start": 143.6255,
+      "end": 144.587625
+    },
+    "w04-c048-example": {
+      "file": "day-27.mp3",
+      "start": 144.587625,
+      "end": 147.014333
+    },
+    "w04-c049": {
+      "file": "day-27.mp3",
+      "start": 147.014333,
+      "end": 148.464875
+    },
+    "w04-c049-example": {
+      "file": "day-27.mp3",
+      "start": 148.464875,
+      "end": 150.980083
+    },
+    "w04-c050": {
+      "file": "day-27.mp3",
+      "start": 150.980083,
+      "end": 152.213667
+    },
+    "w04-c050-example": {
+      "file": "day-27.mp3",
+      "start": 152.213667,
+      "end": 155.234167
+    },
+    "w04-c051": {
+      "file": "day-27.mp3",
+      "start": 155.234167,
+      "end": 157.269167
+    },
+    "w04-c051-example": {
+      "file": "day-27.mp3",
+      "start": 157.269167,
+      "end": 160.514167
+    },
+    "w04-c052": {
+      "file": "day-27.mp3",
+      "start": 160.514167,
+      "end": 162.404167
+    },
+    "w04-c052-example": {
+      "file": "day-27.mp3",
+      "start": 162.404167,
+      "end": 165.140458
+    },
+    "w04-c053": {
+      "file": "day-27.mp3",
+      "start": 165.140458,
+      "end": 167.055458
+    },
+    "w04-c053-example": {
+      "file": "day-27.mp3",
+      "start": 167.055458,
+      "end": 170.721417
+    },
+    "w04-c054": {
+      "file": "day-27.mp3",
+      "start": 170.721417,
+      "end": 171.953708
+    },
+    "w04-c054-example": {
+      "file": "day-27.mp3",
+      "start": 171.953708,
+      "end": 175.568708
+    },
+    "w04-c055": {
+      "file": "day-27.mp3",
+      "start": 175.568708,
+      "end": 176.589333
+    },
+    "w04-c055-example": {
+      "file": "day-27.mp3",
+      "start": 176.589333,
+      "end": 179.775292
+    },
+    "w04-c056": {
+      "file": "day-27.mp3",
+      "start": 179.775292,
+      "end": 181.715292
+    },
+    "w04-c056-example": {
+      "file": "day-27.mp3",
+      "start": 181.715292,
+      "end": 184.438625
+    },
+    "w04-c057": {
+      "file": "day-27.mp3",
+      "start": 184.438625,
+      "end": 185.868125
+    },
+    "w04-c057-example": {
+      "file": "day-27.mp3",
+      "start": 185.868125,
+      "end": 188.798125
+    },
+    "w04-c058": {
+      "file": "day-27.mp3",
+      "start": 188.798125,
+      "end": 190.603125
+    },
+    "w04-c058-example": {
+      "file": "day-27.mp3",
+      "start": 190.603125,
+      "end": 193.909083
+    },
+    "w04-c059": {
+      "file": "day-27.mp3",
+      "start": 193.909083,
+      "end": 195.099167
+    },
+    "w04-c059-example": {
+      "file": "day-27.mp3",
+      "start": 195.099167,
+      "end": 197.289208
+    },
+    "w04-c060": {
+      "file": "day-27.mp3",
+      "start": 197.289208,
+      "end": 199.189208
+    },
+    "w04-c060-example": {
+      "file": "day-27.mp3",
+      "start": 199.189208,
+      "end": 202.848542
+    },
+    "w04-c061": {
+      "file": "day-28.mp3",
+      "start": 0.0,
+      "end": 1.375625
+    },
+    "w04-c061-example": {
+      "file": "day-28.mp3",
+      "start": 1.375625,
+      "end": 5.030625
+    },
+    "w04-c062": {
+      "file": "day-28.mp3",
+      "start": 5.030625,
+      "end": 6.596625
+    },
+    "w04-c062-example": {
+      "file": "day-28.mp3",
+      "start": 6.596625,
+      "end": 9.092
+    },
+    "w04-c063": {
+      "file": "day-28.mp3",
+      "start": 9.092,
+      "end": 10.190708
+    },
+    "w04-c063-example": {
+      "file": "day-28.mp3",
+      "start": 10.190708,
+      "end": 12.710167
+    },
+    "w04-c064": {
+      "file": "day-28.mp3",
+      "start": 12.710167,
+      "end": 14.202458
+    },
+    "w04-c064-example": {
+      "file": "day-28.mp3",
+      "start": 14.202458,
+      "end": 17.577458
+    },
+    "w04-c065": {
+      "file": "day-28.mp3",
+      "start": 17.577458,
+      "end": 19.443417
+    },
+    "w04-c065-example": {
+      "file": "day-28.mp3",
+      "start": 19.443417,
+      "end": 22.463792
+    },
+    "w04-c066": {
+      "file": "day-28.mp3",
+      "start": 22.463792,
+      "end": 23.769083
+    },
+    "w04-c066-example": {
+      "file": "day-28.mp3",
+      "start": 23.769083,
+      "end": 26.427792
+    },
+    "w04-c067": {
+      "file": "day-28.mp3",
+      "start": 26.427792,
+      "end": 27.547667
+    },
+    "w04-c067-example": {
+      "file": "day-28.mp3",
+      "start": 27.547667,
+      "end": 30.568
+    },
+    "w04-c068": {
+      "file": "day-28.mp3",
+      "start": 30.568,
+      "end": 31.704542
+    },
+    "w04-c068-example": {
+      "file": "day-28.mp3",
+      "start": 31.704542,
+      "end": 35.154542
+    },
+    "w04-c069": {
+      "file": "day-28.mp3",
+      "start": 35.154542,
+      "end": 36.99025
+    },
+    "w04-c069-example": {
+      "file": "day-28.mp3",
+      "start": 36.99025,
+      "end": 40.34025
+    },
+    "w04-c070": {
+      "file": "day-28.mp3",
+      "start": 40.34025,
+      "end": 41.372708
+    },
+    "w04-c070-example": {
+      "file": "day-28.mp3",
+      "start": 41.372708,
+      "end": 44.991208
+    },
+    "w04-c071": {
+      "file": "day-28.mp3",
+      "start": 44.991208,
+      "end": 46.826958
+    },
+    "w04-c071-example": {
+      "file": "day-28.mp3",
+      "start": 46.826958,
+      "end": 50.521958
+    },
+    "w04-c072": {
+      "file": "day-28.mp3",
+      "start": 50.521958,
+      "end": 52.153375
+    },
+    "w04-c072-example": {
+      "file": "day-28.mp3",
+      "start": 52.153375,
+      "end": 56.053375
+    },
+    "w04-c073": {
+      "file": "day-28.mp3",
+      "start": 56.053375,
+      "end": 57.543417
+    },
+    "w04-c073-example": {
+      "file": "day-28.mp3",
+      "start": 57.543417,
+      "end": 60.683417
+    },
+    "w04-c074": {
+      "file": "day-28.mp3",
+      "start": 60.683417,
+      "end": 61.929792
+    },
+    "w04-c074-example": {
+      "file": "day-28.mp3",
+      "start": 61.929792,
+      "end": 65.419333
+    },
+    "w04-c075": {
+      "file": "day-28.mp3",
+      "start": 65.419333,
+      "end": 66.525583
+    },
+    "w04-c075-example": {
+      "file": "day-28.mp3",
+      "start": 66.525583,
+      "end": 69.345833
+    },
+    "w04-c076": {
+      "file": "day-28.mp3",
+      "start": 69.345833,
+      "end": 70.91475
+    },
+    "w04-c076-example": {
+      "file": "day-28.mp3",
+      "start": 70.91475,
+      "end": 74.33475
+    },
+    "w04-c077": {
+      "file": "day-28.mp3",
+      "start": 74.33475,
+      "end": 76.106375
+    },
+    "w04-c077-example": {
+      "file": "day-28.mp3",
+      "start": 76.106375,
+      "end": 79.426375
+    },
+    "w04-c078": {
+      "file": "day-28.mp3",
+      "start": 79.426375,
+      "end": 80.596333
+    },
+    "w04-c078-example": {
+      "file": "day-28.mp3",
+      "start": 80.596333,
+      "end": 83.648375
+    },
+    "w04-c079": {
+      "file": "day-28.mp3",
+      "start": 83.648375,
+      "end": 84.947875
+    },
+    "w04-c079-example": {
+      "file": "day-28.mp3",
+      "start": 84.947875,
+      "end": 88.332875
+    },
+    "w04-c080": {
+      "file": "day-28.mp3",
+      "start": 88.332875,
+      "end": 89.659958
+    },
+    "w04-c080-example": {
+      "file": "day-28.mp3",
+      "start": 89.659958,
+      "end": 92.843083
+    },
+    "w04-c081": {
+      "file": "day-28.mp3",
+      "start": 92.843083,
+      "end": 94.220417
+    },
+    "w04-c081-example": {
+      "file": "day-28.mp3",
+      "start": 94.220417,
+      "end": 97.985417
+    },
+    "w04-c082": {
+      "file": "day-28.mp3",
+      "start": 97.985417,
+      "end": 99.831667
+    },
+    "w04-c082-example": {
+      "file": "day-28.mp3",
+      "start": 99.831667,
+      "end": 102.722292
+    },
+    "w04-c083": {
+      "file": "day-28.mp3",
+      "start": 102.722292,
+      "end": 103.959458
+    },
+    "w04-c083-example": {
+      "file": "day-28.mp3",
+      "start": 103.959458,
+      "end": 106.341292
+    },
+    "w04-c084": {
+      "file": "day-28.mp3",
+      "start": 106.341292,
+      "end": 107.520625
+    },
+    "w04-c084-example": {
+      "file": "day-28.mp3",
+      "start": 107.520625,
+      "end": 110.113833
+    },
+    "w04-c085": {
+      "file": "day-28.mp3",
+      "start": 110.113833,
+      "end": 111.948708
+    },
+    "w04-c085-example": {
+      "file": "day-28.mp3",
+      "start": 111.948708,
+      "end": 114.50125
+    },
+    "w04-c086": {
+      "file": "day-28.mp3",
+      "start": 114.50125,
+      "end": 116.491542
+    },
+    "w04-c086-example": {
+      "file": "day-28.mp3",
+      "start": 116.491542,
+      "end": 119.801542
+    },
+    "w04-c087": {
+      "file": "day-28.mp3",
+      "start": 119.801542,
+      "end": 121.370167
+    },
+    "w04-c087-example": {
+      "file": "day-28.mp3",
+      "start": 121.370167,
+      "end": 124.730167
+    },
+    "w04-c088": {
+      "file": "day-28.mp3",
+      "start": 124.730167,
+      "end": 126.695167
+    },
+    "w04-c088-example": {
+      "file": "day-28.mp3",
+      "start": 126.695167,
+      "end": 130.165167
+    },
+    "w04-c089": {
+      "file": "day-28.mp3",
+      "start": 130.165167,
+      "end": 132.155375
+    },
+    "w04-c089-example": {
+      "file": "day-28.mp3",
+      "start": 132.155375,
+      "end": 135.813875
+    },
+    "w04-c090": {
+      "file": "day-28.mp3",
+      "start": 135.813875,
+      "end": 137.649083
+    },
+    "w04-c090-example": {
+      "file": "day-28.mp3",
+      "start": 137.649083,
+      "end": 141.675042
+    },
+    "w04-c091": {
+      "file": "day-28.mp3",
+      "start": 141.675042,
+      "end": 142.948
+    },
+    "w04-c091-example": {
+      "file": "day-28.mp3",
+      "start": 142.948,
+      "end": 146.0
+    },
+    "w04-c092": {
+      "file": "day-28.mp3",
+      "start": 146.0,
+      "end": 147.167708
+    },
+    "w04-c092-example": {
+      "file": "day-28.mp3",
+      "start": 147.167708,
+      "end": 149.818792
+    },
+    "w04-c093": {
+      "file": "day-28.mp3",
+      "start": 149.818792,
+      "end": 151.046292
+    },
+    "w04-c093-example": {
+      "file": "day-28.mp3",
+      "start": 151.046292,
+      "end": 153.600708
+    },
+    "w04-c094": {
+      "file": "day-28.mp3",
+      "start": 153.600708,
+      "end": 154.8145
+    },
+    "w04-c094-example": {
+      "file": "day-28.mp3",
+      "start": 154.8145,
+      "end": 158.117583
+    },
+    "w04-c095": {
+      "file": "day-28.mp3",
+      "start": 158.117583,
+      "end": 159.963833
+    },
+    "w04-c095-example": {
+      "file": "day-28.mp3",
+      "start": 159.963833,
+      "end": 163.149792
+    },
+    "w04-c096": {
+      "file": "day-28.mp3",
+      "start": 163.149792,
+      "end": 164.336333
+    },
+    "w04-c096-example": {
+      "file": "day-28.mp3",
+      "start": 164.336333,
+      "end": 166.957458
+    },
+    "w04-c097": {
+      "file": "day-28.mp3",
+      "start": 166.957458,
+      "end": 168.583833
+    },
+    "w04-c097-example": {
+      "file": "day-28.mp3",
+      "start": 168.583833,
+      "end": 171.503833
+    },
+    "w04-c098": {
+      "file": "day-28.mp3",
+      "start": 171.503833,
+      "end": 172.8095
+    },
+    "w04-c098-example": {
+      "file": "day-28.mp3",
+      "start": 172.8095,
+      "end": 175.531833
+    },
+    "w04-c099": {
+      "file": "day-28.mp3",
+      "start": 175.531833,
+      "end": 177.378083
+    },
+    "w04-c099-example": {
+      "file": "day-28.mp3",
+      "start": 177.378083,
+      "end": 181.036625
+    },
+    "w04-c100": {
+      "file": "day-28.mp3",
+      "start": 181.036625,
+      "end": 182.254875
+    },
+    "w04-c100-example": {
+      "file": "day-28.mp3",
+      "start": 182.254875,
+      "end": 185.150792
+    },
+    "w04-c101": {
+      "file": "day-28.mp3",
+      "start": 185.150792,
+      "end": 186.685333
+    },
+    "w04-c101-example": {
+      "file": "day-28.mp3",
+      "start": 186.685333,
+      "end": 189.436375
+    },
+    "w04-c102": {
+      "file": "day-28.mp3",
+      "start": 189.436375,
+      "end": 190.990333
+    },
+    "w04-c102-example": {
+      "file": "day-28.mp3",
+      "start": 190.990333,
+      "end": 193.470958
+    },
+    "w04-c103": {
+      "file": "day-28.mp3",
+      "start": 193.470958,
+      "end": 194.732792
+    },
+    "w04-c103-example": {
+      "file": "day-28.mp3",
+      "start": 194.732792,
+      "end": 197.391458
+    },
+    "w04-c104": {
+      "file": "day-28.mp3",
+      "start": 197.391458,
+      "end": 198.684542
+    },
+    "w04-c104-example": {
+      "file": "day-28.mp3",
+      "start": 198.684542,
+      "end": 202.264542
+    },
+    "w04-c105": {
+      "file": "day-28.mp3",
+      "start": 202.264542,
+      "end": 204.789542
+    },
+    "w04-c105-example": {
+      "file": "day-28.mp3",
+      "start": 204.789542,
+      "end": 208.039542
     }
   },
   "batches": [
@@ -9678,6 +12891,15 @@
       "inputSha256": "fd5c222f03c5ec82b558ed9f519fb5dbe24ff50392e1e3409658eb58a124ea04",
       "date": "2026-10-23",
       "scheduledEdition": "2026-10-25"
+    },
+    {
+      "days": [
+        22,
+        28
+      ],
+      "inputSha256": "0d7f7448404aa29d7ea5d1c190bbcec5c12c47b377cdb32f2cd8a304652cb248",
+      "date": "2026-10-28",
+      "scheduledEdition": "2026-11-01"
     }
   ]
 }

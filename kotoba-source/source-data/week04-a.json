@@ -1,0 +1,5114 @@
+[
+  {
+    "id": "w04-a001",
+    "word": "大雨",
+    "reading": "おおあめ",
+    "category": "名词",
+    "meaning": "大雨；暴雨",
+    "example": [
+      [
+        "大雨",
+        "おおあめ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "川",
+        "かわ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "が"
+      ],
+      [
+        "増えています",
+        "ふえています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "大雨使河里的水增多了。",
+    "tip": "日常会话常读おおあめ。",
+    "kanjiNote": "「雨」在这个词里读あめ。",
+    "cloze": {
+      "before": "",
+      "answer": "大雨",
+      "after": "で川の水が増えています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1413070",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "heavy rain",
+        "torrential rainfall",
+        "downpour"
+      ]
+    }
+  },
+  {
+    "id": "w04-a002",
+    "word": "小雨",
+    "reading": "こさめ",
+    "category": "名词",
+    "meaning": "小雨；毛毛雨",
+    "example": [
+      [
+        "小雨",
+        "こさめ"
+      ],
+      [
+        "ですが、"
+      ],
+      [
+        "傘",
+        "かさ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "持って",
+        "もって"
+      ],
+      [
+        "出かけます",
+        "でかけます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "虽然是小雨，还是带伞出门。",
+    "tip": "日常常用读音是こさめ。",
+    "kanjiNote": "「小」在这里读こ。",
+    "cloze": {
+      "before": "",
+      "answer": "小雨",
+      "after": "ですが、傘を持って出かけます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1347810",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "light rain",
+        "drizzle"
+      ]
+    }
+  },
+  {
+    "id": "w04-a003",
+    "word": "傘",
+    "reading": "かさ",
+    "category": "名词",
+    "meaning": "伞；雨伞",
+    "example": [
+      [
+        "玄関",
+        "げんかん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "傘",
+        "かさ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "置きました",
+        "おきました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "把伞放在了玄关。",
+    "tip": "打伞说「傘を差す」。",
+    "kanjiNote": "「傘」单独读かさ。",
+    "cloze": {
+      "before": "玄関に",
+      "answer": "傘",
+      "after": "を置きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1301940",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "umbrella",
+        "parasol"
+      ]
+    }
+  },
+  {
+    "id": "w04-a004",
+    "word": "雨具",
+    "reading": "あまぐ",
+    "category": "名词",
+    "meaning": "雨具",
+    "example": [
+      [
+        "山",
+        "やま"
+      ],
+      [
+        "に"
+      ],
+      [
+        "行く",
+        "いく"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "雨具",
+        "あまぐ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "用意します",
+        "よういします"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "去山里之前准备好雨具。",
+    "tip": "包括雨衣、雨伞等防雨用品。",
+    "kanjiNote": "「雨具」读あまぐ。",
+    "cloze": {
+      "before": "山に行く前に",
+      "answer": "雨具",
+      "after": "を用意します。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1171940",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "rain gear"
+      ]
+    }
+  },
+  {
+    "id": "w04-a005",
+    "word": "晴天",
+    "reading": "せいてん",
+    "category": "名词",
+    "meaning": "晴天；晴朗天气",
+    "example": [
+      [
+        "晴天",
+        "せいてん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "続いています",
+        "つづいています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "晴朗天气持续着。",
+    "tip": "与「雨天」相对的天气用语。",
+    "kanjiNote": "「晴天」读せいてん。",
+    "cloze": {
+      "before": "",
+      "answer": "晴天",
+      "after": "が続いています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1376550",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "fine weather (i.e. little or no clouds)",
+        "fair weather",
+        "clear weather",
+        "clear sky",
+        "fair skies"
+      ]
+    }
+  },
+  {
+    "id": "w04-a006",
+    "word": "夕立",
+    "reading": "ゆうだち",
+    "category": "名词",
+    "meaning": "夏日下午或傍晚的阵雨",
+    "example": [
+      [
+        "夕立",
+        "ゆうだち"
+      ],
+      [
+        "で"
+      ],
+      [
+        "服",
+        "ふく"
+      ],
+      [
+        "が"
+      ],
+      [
+        "濡れました",
+        "ぬれました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "衣服被傍晚的阵雨淋湿了。",
+    "tip": "通常指夏季突然而来的强阵雨。",
+    "kanjiNote": "「夕立」读ゆうだち。",
+    "cloze": {
+      "before": "",
+      "answer": "夕立",
+      "after": "で服が濡れました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1542820",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(sudden, heavy) shower (on a summer afternoon or evening)",
+        "evening shower"
+      ]
+    }
+  },
+  {
+    "id": "w04-a007",
+    "word": "梅雨",
+    "reading": "つゆ",
+    "category": "名词",
+    "meaning": "梅雨季；雨季",
+    "example": [
+      [
+        "梅雨",
+        "つゆ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "洗濯物",
+        "せんたくもの"
+      ],
+      [
+        "が"
+      ],
+      [
+        "乾きにくい",
+        "かわきにくい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "梅雨季衣服不容易晾干。",
+    "tip": "日常谈雨季时常读つゆ。",
+    "kanjiNote": "熟字训，整体读つゆ。",
+    "cloze": {
+      "before": "",
+      "answer": "梅雨",
+      "after": "は洗濯物が乾きにくいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1582960",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(East Asian) rainy season (in Japan, usu. from early June to mid-July)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a008",
+    "word": "日差し",
+    "reading": "ひざし",
+    "category": "名词",
+    "meaning": "阳光；日照",
+    "example": [
+      [
+        "今日",
+        "きょう"
+      ],
+      [
+        "は"
+      ],
+      [
+        "日差し",
+        "ひざし"
+      ],
+      [
+        "が"
+      ],
+      [
+        "強い",
+        "つよい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "今天阳光很强。",
+    "tip": "常搭配「強い」「柔らかい」。",
+    "kanjiNote": "「日」读ひ，「差し」读ざし。",
+    "cloze": {
+      "before": "今日は",
+      "answer": "日差し",
+      "after": "が強いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1601830",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "sunlight",
+        "rays of the Sun"
+      ]
+    }
+  },
+  {
+    "id": "w04-a009",
+    "word": "日陰",
+    "reading": "ひかげ",
+    "category": "名词",
+    "meaning": "背阴处；阴凉处",
+    "example": [
+      [
+        "日陰",
+        "ひかげ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "少し",
+        "すこし"
+      ],
+      [
+        "休みましょう",
+        "やすみましょう"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在阴凉处稍微休息一下吧。",
+    "tip": "指阳光照不到的地方。",
+    "kanjiNote": "「日」读ひ，「陰」读かげ。",
+    "cloze": {
+      "before": "",
+      "answer": "日陰",
+      "after": "で少し休みましょう。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1463840",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "shade",
+        "shadow"
+      ]
+    }
+  },
+  {
+    "id": "w04-a010",
+    "word": "風速",
+    "reading": "ふうそく",
+    "category": "名词",
+    "meaning": "风速",
+    "example": [
+      [
+        "天気予報",
+        "てんきよほう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "風速",
+        "ふうそく"
+      ],
+      [
+        "を"
+      ],
+      [
+        "確認しました",
+        "かくにんしました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "通过天气预报确认了风速。",
+    "tip": "风有多快用「風速」表示。",
+    "kanjiNote": "「風速」读ふうそく。",
+    "cloze": {
+      "before": "天気予報で",
+      "answer": "風速",
+      "after": "を確認しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1499950",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "wind speed"
+      ]
+    }
+  },
+  {
+    "id": "w04-a011",
+    "word": "天気予報",
+    "reading": "てんきよほう",
+    "category": "名词",
+    "meaning": "天气预报",
+    "example": [
+      [
+        "天気予報",
+        "てんきよほう"
+      ],
+      [
+        "では、"
+      ],
+      [
+        "明日",
+        "あした"
+      ],
+      [
+        "は"
+      ],
+      [
+        "雨",
+        "あめ"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "天气预报说，明天有雨。",
+    "tip": "引用预报内容可用「天気予報では」。",
+    "kanjiNote": "「天気予報」读てんきよほう。",
+    "cloze": {
+      "before": "",
+      "answer": "天気予報",
+      "after": "では、明日は雨です。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1438770",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "weather forecast",
+        "weather report"
+      ]
+    }
+  },
+  {
+    "id": "w04-a012",
+    "word": "降水確率",
+    "reading": "こうすいかくりつ",
+    "category": "名词",
+    "meaning": "降水概率",
+    "example": [
+      [
+        "明日",
+        "あした"
+      ],
+      [
+        "の"
+      ],
+      [
+        "降水確率",
+        "こうすいかくりつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "調べます",
+        "しらべます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "查一下明天的降水概率。",
+    "tip": "天气预报中以百分比表示。",
+    "kanjiNote": "「降水確率」读こうすいかくりつ。",
+    "cloze": {
+      "before": "明日の",
+      "answer": "降水確率",
+      "after": "を調べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "2235800",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "chance of precipitation",
+        "chance of rain"
+      ]
+    }
+  },
+  {
+    "id": "w04-a013",
+    "word": "氷",
+    "reading": "こおり",
+    "category": "名词",
+    "meaning": "冰",
+    "example": [
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "に"
+      ],
+      [
+        "氷",
+        "こおり"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入れて",
+        "いれて"
+      ],
+      [
+        "ください。"
+      ]
+    ],
+    "translation": "请在水里加冰。",
+    "tip": "读こおり，注意中间是お。",
+    "kanjiNote": "读こおり，注意不是こうり。",
+    "cloze": {
+      "before": "水に",
+      "answer": "氷",
+      "after": "を入れてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1488840",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "ice"
+      ]
+    }
+  },
+  {
+    "id": "w04-a014",
+    "word": "霜",
+    "reading": "しも",
+    "category": "名词",
+    "meaning": "霜",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "、"
+      ],
+      [
+        "庭",
+        "にわ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "草",
+        "くさ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "霜",
+        "しも"
+      ],
+      [
+        "が"
+      ],
+      [
+        "降りていました",
+        "おりていました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "早晨，院里的草上结了霜。",
+    "tip": "结霜常说「霜が降りる」。",
+    "kanjiNote": "「霜」读しも。",
+    "cloze": {
+      "before": "朝、庭の草に",
+      "answer": "霜",
+      "after": "が降りていました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1402930",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "frost"
+      ]
+    }
+  },
+  {
+    "id": "w04-a015",
+    "word": "吹雪",
+    "reading": "ふぶき",
+    "category": "名词",
+    "meaning": "暴风雪",
+    "example": [
+      [
+        "吹雪",
+        "ふぶき"
+      ],
+      [
+        "で"
+      ],
+      [
+        "前",
+        "まえ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "見えません",
+        "みえません"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "暴风雪让人看不清前方。",
+    "tip": "风雪交加时使用。",
+    "kanjiNote": "整体读ふぶき。",
+    "cloze": {
+      "before": "",
+      "answer": "吹雪",
+      "after": "で前が見えません。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1370780",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "snow storm",
+        "blizzard"
+      ]
+    }
+  },
+  {
+    "id": "w04-a016",
+    "word": "雪だるま",
+    "reading": "ゆきだるま",
+    "category": "名词",
+    "meaning": "雪人",
+    "example": [
+      [
+        "子供",
+        "こども"
+      ],
+      [
+        "たちが"
+      ],
+      [
+        "雪だるま",
+        "ゆきだるま"
+      ],
+      [
+        "を"
+      ],
+      [
+        "作っています",
+        "つくっています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "孩子们正在堆雪人。",
+    "tip": "堆雪人用「雪だるまを作る」。",
+    "kanjiNote": "汉字「雪」读ゆき，其余用假名。",
+    "cloze": {
+      "before": "子供たちが",
+      "answer": "雪だるま",
+      "after": "を作っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1386510",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "snowman"
+      ]
+    }
+  },
+  {
+    "id": "w04-a017",
+    "word": "洪水",
+    "reading": "こうずい",
+    "category": "名词",
+    "meaning": "洪水；水灾",
+    "example": [
+      [
+        "洪水",
+        "こうずい"
+      ],
+      [
+        "で"
+      ],
+      [
+        "道路",
+        "どうろ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "につかりました。"
+      ]
+    ],
+    "translation": "洪水淹没了道路。",
+    "tip": "表示河水等泛滥造成的水灾。",
+    "kanjiNote": "「洪水」读こうずい。",
+    "cloze": {
+      "before": "",
+      "answer": "洪水",
+      "after": "で道路が水につかりました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1279930",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "flood",
+        "flooding"
+      ]
+    }
+  },
+  {
+    "id": "w04-a018",
+    "word": "津波",
+    "reading": "つなみ",
+    "category": "名词",
+    "meaning": "海啸",
+    "example": [
+      [
+        "津波",
+        "つなみ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "警報",
+        "けいほう"
+      ],
+      [
+        "が"
+      ],
+      [
+        "出ています",
+        "でています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "目前已发布海啸警报。",
+    "tip": "「津波警報」是海啸警报。",
+    "kanjiNote": "「津波」读つなみ。",
+    "cloze": {
+      "before": "",
+      "answer": "津波",
+      "after": "の警報が出ています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1432220",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tsunami",
+        "tidal wave"
+      ]
+    }
+  },
+  {
+    "id": "w04-a019",
+    "word": "火山",
+    "reading": "かざん",
+    "category": "名词",
+    "meaning": "火山",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "博物館",
+        "はくぶつかん"
+      ],
+      [
+        "では"
+      ],
+      [
+        "火山",
+        "かざん"
+      ],
+      [
+        "について"
+      ],
+      [
+        "学べます",
+        "まなべます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在这座博物馆可以学习火山知识。",
+    "tip": "不要与「火事」（火灾）混淆。",
+    "kanjiNote": "「火山」读かざん。",
+    "cloze": {
+      "before": "この博物館では",
+      "answer": "火山",
+      "after": "について学べます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1193910",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "volcano"
+      ]
+    }
+  },
+  {
+    "id": "w04-a020",
+    "word": "噴火",
+    "reading": "ふんか",
+    "category": "名词",
+    "meaning": "火山喷发",
+    "example": [
+      [
+        "火山",
+        "かざん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "噴火",
+        "ふんか"
+      ],
+      [
+        "を"
+      ],
+      [
+        "ニュース",
+        "ニュース"
+      ],
+      [
+        "で"
+      ],
+      [
+        "知りました",
+        "しりました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "通过新闻得知了火山喷发的消息。",
+    "tip": "动词形式为「噴火する」。",
+    "kanjiNote": "「噴火」读ふんか。",
+    "cloze": {
+      "before": "火山の",
+      "answer": "噴火",
+      "after": "をニュースで知りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1504560",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "eruption",
+        "volcanic eruption"
+      ]
+    }
+  },
+  {
+    "id": "w04-a021",
+    "word": "地面",
+    "reading": "じめん",
+    "category": "名词",
+    "meaning": "地面",
+    "example": [
+      [
+        "雨",
+        "あめ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "地面",
+        "じめん"
+      ],
+      [
+        "が"
+      ],
+      [
+        "濡れています",
+        "ぬれています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "地面被雨淋湿了。",
+    "tip": "读じめん，不读ちめん。",
+    "kanjiNote": "「地」在这里读じ。",
+    "cloze": {
+      "before": "雨で",
+      "answer": "地面",
+      "after": "が濡れています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1421510",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "ground",
+        "earth's surface"
+      ]
+    }
+  },
+  {
+    "id": "w04-a022",
+    "word": "大陸",
+    "reading": "たいりく",
+    "category": "名词",
+    "meaning": "大陆",
+    "example": [
+      [
+        "地図",
+        "ちず"
+      ],
+      [
+        "で"
+      ],
+      [
+        "大陸",
+        "たいりく"
+      ],
+      [
+        "の"
+      ],
+      [
+        "形",
+        "かたち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見ます",
+        "みます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在地图上看大陆的形状。",
+    "tip": "与「島」（岛屿）相区别。",
+    "kanjiNote": "「大陸」读たいりく。",
+    "cloze": {
+      "before": "地図で",
+      "answer": "大陸",
+      "after": "の形を見ます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1415150",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "continent"
+      ]
+    }
+  },
+  {
+    "id": "w04-a023",
+    "word": "半島",
+    "reading": "はんとう",
+    "category": "名词",
+    "meaning": "半岛",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "半島",
+        "はんとう"
+      ],
+      [
+        "には"
+      ],
+      [
+        "小さな",
+        "ちいさな"
+      ],
+      [
+        "港",
+        "みなと"
+      ],
+      [
+        "がたくさんあります。"
+      ]
+    ],
+    "translation": "这个半岛上有许多小港口。",
+    "tip": "地理上指三面临水的陆地。",
+    "kanjiNote": "「半島」读はんとう。",
+    "cloze": {
+      "before": "この",
+      "answer": "半島",
+      "after": "には小さな港がたくさんあります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1479770",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "peninsula"
+      ]
+    }
+  },
+  {
+    "id": "w04-a024",
+    "word": "海岸",
+    "reading": "かいがん",
+    "category": "名词",
+    "meaning": "海岸；海滨",
+    "example": [
+      [
+        "海岸",
+        "かいがん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "沿って",
+        "そって"
+      ],
+      [
+        "道",
+        "みち"
+      ],
+      [
+        "が"
+      ],
+      [
+        "続いています",
+        "つづいています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "道路沿着海岸延伸。",
+    "tip": "「海岸沿い」指沿海一带。",
+    "kanjiNote": "「海岸」读かいがん。",
+    "cloze": {
+      "before": "",
+      "answer": "海岸",
+      "after": "に沿って道が続いています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1201280",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "seashore",
+        "coast",
+        "seaside",
+        "waterfront",
+        "beach"
+      ]
+    }
+  },
+  {
+    "id": "w04-a025",
+    "word": "海辺",
+    "reading": "うみべ",
+    "category": "名词",
+    "meaning": "海边",
+    "example": [
+      [
+        "海辺",
+        "うみべ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "町",
+        "まち"
+      ],
+      [
+        "で"
+      ],
+      [
+        "育ちました",
+        "そだちました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "我在海边的小镇长大。",
+    "tip": "日常会话常读うみべ。",
+    "kanjiNote": "「辺」在这里读べ。",
+    "cloze": {
+      "before": "",
+      "answer": "海辺",
+      "after": "の町で育ちました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1201750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "beach",
+        "seashore",
+        "seaside",
+        "coast"
+      ]
+    }
+  },
+  {
+    "id": "w04-a026",
+    "word": "海底",
+    "reading": "かいてい",
+    "category": "名词",
+    "meaning": "海底",
+    "example": [
+      [
+        "海底",
+        "かいてい"
+      ],
+      [
+        "の"
+      ],
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見ました",
+        "みました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "看了海底的照片。",
+    "tip": "「底」在这里读てい。",
+    "kanjiNote": "「海底」读かいてい。",
+    "cloze": {
+      "before": "",
+      "answer": "海底",
+      "after": "の写真を見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1201650",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bottom of the ocean",
+        "seafloor",
+        "seabed"
+      ]
+    }
+  },
+  {
+    "id": "w04-a027",
+    "word": "砂浜",
+    "reading": "すなはま",
+    "category": "名词",
+    "meaning": "沙滩",
+    "example": [
+      [
+        "砂浜",
+        "すなはま"
+      ],
+      [
+        "に"
+      ],
+      [
+        "足跡",
+        "あしあと"
+      ],
+      [
+        "が"
+      ],
+      [
+        "残っています",
+        "のこっています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "沙滩上留着脚印。",
+    "tip": "强调由沙子构成的海滩。",
+    "kanjiNote": "「砂浜」读すなはま。",
+    "cloze": {
+      "before": "",
+      "answer": "砂浜",
+      "after": "に足跡が残っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1291620",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "sandy beach"
+      ]
+    }
+  },
+  {
+    "id": "w04-a028",
+    "word": "砂漠",
+    "reading": "さばく",
+    "category": "名词",
+    "meaning": "沙漠",
+    "example": [
+      [
+        "砂漠",
+        "さばく"
+      ],
+      [
+        "の"
+      ],
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "見ました",
+        "みました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在书里看到了沙漠的照片。",
+    "tip": "读さばく，注意浊音ば。",
+    "kanjiNote": "「砂漠」读さばく。",
+    "cloze": {
+      "before": "",
+      "answer": "砂漠",
+      "after": "の写真を本で見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1593800",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "desert"
+      ]
+    }
+  },
+  {
+    "id": "w04-a029",
+    "word": "高原",
+    "reading": "こうげん",
+    "category": "名词",
+    "meaning": "高原",
+    "example": [
+      [
+        "夏",
+        "なつ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "高原",
+        "こうげん"
+      ],
+      [
+        "でキャンプをしました。"
+      ]
+    ],
+    "translation": "夏天在高原露营了。",
+    "tip": "常见搭配有「高原の風」。",
+    "kanjiNote": "「高原」读こうげん。",
+    "cloze": {
+      "before": "夏に",
+      "answer": "高原",
+      "after": "でキャンプをしました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1283490",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tableland",
+        "plateau"
+      ]
+    }
+  },
+  {
+    "id": "w04-a030",
+    "word": "草原",
+    "reading": "そうげん",
+    "category": "名词",
+    "meaning": "草原；草地",
+    "example": [
+      [
+        "草原",
+        "そうげん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "馬",
+        "うま"
+      ],
+      [
+        "が"
+      ],
+      [
+        "草",
+        "くさ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "食べています",
+        "たべています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "马在草原上吃草。",
+    "tip": "读そうげん；也有其他读法。",
+    "kanjiNote": "「草原」读そうげん。",
+    "cloze": {
+      "before": "",
+      "answer": "草原",
+      "after": "で馬が草を食べています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1401970",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "grassy field",
+        "grassland",
+        "meadow"
+      ]
+    }
+  },
+  {
+    "id": "w04-a031",
+    "word": "平野",
+    "reading": "へいや",
+    "category": "名词",
+    "meaning": "平原",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "平野",
+        "へいや"
+      ],
+      [
+        "では"
+      ],
+      [
+        "米",
+        "こめ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "作っています",
+        "つくっています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "这片平原种植水稻。",
+    "tip": "表示宽广而平坦的地形。",
+    "kanjiNote": "「平野」读へいや。",
+    "cloze": {
+      "before": "この",
+      "answer": "平野",
+      "after": "では米を作っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1508030",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "plain",
+        "open field"
+      ]
+    }
+  },
+  {
+    "id": "w04-a032",
+    "word": "谷",
+    "reading": "たに",
+    "category": "名词",
+    "meaning": "山谷；峡谷",
+    "example": [
+      [
+        "谷",
+        "たに"
+      ],
+      [
+        "を"
+      ],
+      [
+        "流れる",
+        "ながれる"
+      ],
+      [
+        "川",
+        "かわ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "音",
+        "おと"
+      ],
+      [
+        "が"
+      ],
+      [
+        "聞こえます",
+        "きこえます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "能听到河水流经山谷的声音。",
+    "tip": "单独使用时常读たに。",
+    "kanjiNote": "「谷」读たに。",
+    "cloze": {
+      "before": "",
+      "answer": "谷",
+      "after": "を流れる川の音が聞こえます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1581590",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "valley",
+        "ravine",
+        "gorge",
+        "canyon"
+      ]
+    }
+  },
+  {
+    "id": "w04-a033",
+    "word": "滝",
+    "reading": "たき",
+    "category": "名词",
+    "meaning": "瀑布",
+    "example": [
+      [
+        "滝",
+        "たき"
+      ],
+      [
+        "の"
+      ],
+      [
+        "近く",
+        "ちかく"
+      ],
+      [
+        "は"
+      ],
+      [
+        "涼しい",
+        "すずしい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "瀑布附近很凉快。",
+    "tip": "瀑布用「滝」表示。",
+    "kanjiNote": "「滝」读たき。",
+    "cloze": {
+      "before": "",
+      "answer": "滝",
+      "after": "の近くは涼しいです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1415520",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "waterfall"
+      ]
+    }
+  },
+  {
+    "id": "w04-a034",
+    "word": "泉",
+    "reading": "いずみ",
+    "category": "名词",
+    "meaning": "泉水；泉",
+    "example": [
+      [
+        "森",
+        "もり"
+      ],
+      [
+        "の"
+      ],
+      [
+        "中",
+        "なか"
+      ],
+      [
+        "に"
+      ],
+      [
+        "小さな",
+        "ちいさな"
+      ],
+      [
+        "泉",
+        "いずみ"
+      ],
+      [
+        "があります。"
+      ]
+    ],
+    "translation": "森林里有一眼小泉。",
+    "tip": "指水从地下涌出的地方。",
+    "kanjiNote": "「泉」读いずみ。",
+    "cloze": {
+      "before": "森の中に小さな",
+      "answer": "泉",
+      "after": "があります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1390780",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "spring",
+        "fountain"
+      ]
+    }
+  },
+  {
+    "id": "w04-a035",
+    "word": "地球",
+    "reading": "ちきゅう",
+    "category": "名词",
+    "meaning": "地球",
+    "example": [
+      [
+        "地球",
+        "ちきゅう"
+      ],
+      [
+        "の"
+      ],
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "教室",
+        "きょうしつ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "飾りました",
+        "かざりました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "把地球的照片挂在了教室里。",
+    "tip": "注意きゅう的拗音和长音。",
+    "kanjiNote": "「地球」读ちきゅう。",
+    "cloze": {
+      "before": "",
+      "answer": "地球",
+      "after": "の写真を教室に飾りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1420970",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "Earth",
+        "the globe"
+      ]
+    }
+  },
+  {
+    "id": "w04-a036",
+    "word": "宇宙",
+    "reading": "うちゅう",
+    "category": "名词",
+    "meaning": "宇宙；太空",
+    "example": [
+      [
+        "宇宙",
+        "うちゅう"
+      ],
+      [
+        "についての"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "借りました",
+        "かりました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "借了一本介绍宇宙的书。",
+    "tip": "「宇宙飛行士」指宇航员。",
+    "kanjiNote": "「宇宙」读うちゅう。",
+    "cloze": {
+      "before": "",
+      "answer": "宇宙",
+      "after": "についての本を借りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1171300",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "universe",
+        "cosmos",
+        "space"
+      ]
+    }
+  },
+  {
+    "id": "w04-a037",
+    "word": "日光",
+    "reading": "にっこう",
+    "category": "名词",
+    "meaning": "日光；阳光",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "部屋",
+        "へや"
+      ],
+      [
+        "には"
+      ],
+      [
+        "日光",
+        "にっこう"
+      ],
+      [
+        "がよく"
+      ],
+      [
+        "入ります",
+        "はいります"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "这个房间阳光充足。",
+    "tip": "这里表示阳光，不是地名日光。",
+    "kanjiNote": "「日光」读にっこう。",
+    "cloze": {
+      "before": "この部屋には",
+      "answer": "日光",
+      "after": "がよく入ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1464030",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "sunlight",
+        "sunshine",
+        "sunbeams"
+      ]
+    }
+  },
+  {
+    "id": "w04-a038",
+    "word": "影",
+    "reading": "かげ",
+    "category": "名词",
+    "meaning": "影子；阴影",
+    "example": [
+      [
+        "壁",
+        "かべ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "猫",
+        "ねこ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "影",
+        "かげ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "映っています",
+        "うつっています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "墙上映着猫的影子。",
+    "tip": "可说「影が伸びる」（影子拉长）。",
+    "kanjiNote": "「影」读かげ。",
+    "cloze": {
+      "before": "壁に猫の",
+      "answer": "影",
+      "after": "が映っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1590145",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "shadow",
+        "silhouette",
+        "figure",
+        "shape"
+      ]
+    }
+  },
+  {
+    "id": "w04-a039",
+    "word": "豚",
+    "reading": "ぶた",
+    "category": "名词",
+    "meaning": "猪",
+    "example": [
+      [
+        "牧場",
+        "ぼくじょう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "豚",
+        "ぶた"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見ました",
+        "みました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在牧场看到了猪。",
+    "tip": "动物是「豚」，猪肉是「豚肉」。",
+    "kanjiNote": "本课读ぶた；豚肉读ぶたにく。",
+    "cloze": {
+      "before": "牧場で",
+      "answer": "豚",
+      "after": "を見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1457390",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pig (Sus scrofa domesticus)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a040",
+    "word": "羊",
+    "reading": "ひつじ",
+    "category": "名词",
+    "meaning": "绵羊",
+    "example": [
+      [
+        "羊",
+        "ひつじ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "草",
+        "くさ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "食べています",
+        "たべています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "绵羊正在吃草。",
+    "tip": "不要与「ヤギ」（山羊）混淆。",
+    "kanjiNote": "「羊」读ひつじ。",
+    "cloze": {
+      "before": "",
+      "answer": "羊",
+      "after": "が草を食べています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1546490",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "sheep (Ovis aries)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a041",
+    "word": "ヤギ",
+    "reading": "ヤギ",
+    "category": "名词",
+    "meaning": "山羊",
+    "example": [
+      [
+        "ヤギが"
+      ],
+      [
+        "岩",
+        "いわ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "立っています",
+        "たっています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "山羊站在岩石上。",
+    "tip": "也写作「山羊」。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "ヤギ",
+      "after": "が岩の上に立っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1303200",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "goat"
+      ]
+    }
+  },
+  {
+    "id": "w04-a042",
+    "word": "鶏",
+    "reading": "にわとり",
+    "category": "名词",
+    "meaning": "鸡",
+    "example": [
+      [
+        "朝",
+        "あさ"
+      ],
+      [
+        "、"
+      ],
+      [
+        "鶏",
+        "にわとり"
+      ],
+      [
+        "の"
+      ],
+      [
+        "鳴き声",
+        "なきごえ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "目",
+        "め"
+      ],
+      [
+        "が"
+      ],
+      [
+        "覚めました",
+        "さめました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "早晨，被鸡叫声吵醒了。",
+    "tip": "本课读にわとり，指家鸡。",
+    "kanjiNote": "本课按动物名整体读にわとり。",
+    "cloze": {
+      "before": "朝、",
+      "answer": "鶏",
+      "after": "の鳴き声で目が覚めました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1252990",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "chicken (Gallus gallus domesticus)",
+        "domestic chicken"
+      ]
+    }
+  },
+  {
+    "id": "w04-a043",
+    "word": "鴨",
+    "reading": "かも",
+    "category": "名词",
+    "meaning": "鸭；野鸭",
+    "example": [
+      [
+        "池",
+        "いけ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "鴨",
+        "かも"
+      ],
+      [
+        "が"
+      ],
+      [
+        "泳いでいます",
+        "およいでいます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "鸭子在池塘里游泳。",
+    "tip": "动物名也常写成片假名カモ。",
+    "kanjiNote": "「鴨」读かも。",
+    "cloze": {
+      "before": "池で",
+      "answer": "鴨",
+      "after": "が泳いでいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1209250",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "duck"
+      ]
+    }
+  },
+  {
+    "id": "w04-a044",
+    "word": "鳩",
+    "reading": "はと",
+    "category": "名词",
+    "meaning": "鸽子",
+    "example": [
+      [
+        "広場",
+        "ひろば"
+      ],
+      [
+        "に"
+      ],
+      [
+        "鳩",
+        "はと"
+      ],
+      [
+        "が"
+      ],
+      [
+        "集まっています",
+        "あつまっています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "鸽子聚集在广场上。",
+    "tip": "单独的动物名称读はと。",
+    "kanjiNote": "「鳩」读はと。",
+    "cloze": {
+      "before": "広場に",
+      "answer": "鳩",
+      "after": "が集まっています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1478330",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pigeon",
+        "dove"
+      ]
+    }
+  },
+  {
+    "id": "w04-a045",
+    "word": "カラス",
+    "reading": "カラス",
+    "category": "名词",
+    "meaning": "乌鸦",
+    "example": [
+      [
+        "カラスが"
+      ],
+      [
+        "屋根",
+        "やね"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "にいます。"
+      ]
+    ],
+    "translation": "乌鸦在屋顶上。",
+    "tip": "注意和「ガラス」（玻璃）的浊音区别。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "カラス",
+      "after": "が屋根の上にいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1171450",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "crow (Corvus spp.)",
+        "raven"
+      ]
+    }
+  },
+  {
+    "id": "w04-a046",
+    "word": "スズメ",
+    "reading": "スズメ",
+    "category": "名词",
+    "meaning": "麻雀",
+    "example": [
+      [
+        "庭",
+        "にわ"
+      ],
+      [
+        "にスズメが"
+      ],
+      [
+        "来ました",
+        "きました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "院子里来了一只麻雀。",
+    "tip": "也写作「雀」。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "庭に",
+      "answer": "スズメ",
+      "after": "が来ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1373560",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tree sparrow (Passer montanus)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a047",
+    "word": "ツバメ",
+    "reading": "ツバメ",
+    "category": "名词",
+    "meaning": "燕子",
+    "example": [
+      [
+        "ツバメが"
+      ],
+      [
+        "駅",
+        "えき"
+      ],
+      [
+        "に"
+      ],
+      [
+        "巣",
+        "す"
+      ],
+      [
+        "を"
+      ],
+      [
+        "作りました",
+        "つくりました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "燕子在车站筑了巢。",
+    "tip": "也写作「燕」。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "ツバメ",
+      "after": "が駅に巣を作りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1177350",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "swallow (bird of the Hirundinidae family)",
+        "martin"
+      ]
+    }
+  },
+  {
+    "id": "w04-a048",
+    "word": "フクロウ",
+    "reading": "フクロウ",
+    "category": "名词",
+    "meaning": "猫头鹰",
+    "example": [
+      [
+        "動物園",
+        "どうぶつえん"
+      ],
+      [
+        "でフクロウを"
+      ],
+      [
+        "見ました",
+        "みました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在动物园看到了猫头鹰。",
+    "tip": "动物名通常可用片假名书写。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "動物園で",
+      "answer": "フクロウ",
+      "after": "を見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1568080",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "owl (esp. the Ural owl, Strix uralensis)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a049",
+    "word": "カエル",
+    "reading": "カエル",
+    "category": "名词",
+    "meaning": "青蛙",
+    "example": [
+      [
+        "田んぼ",
+        "たんぼ"
+      ],
+      [
+        "からカエルの"
+      ],
+      [
+        "声",
+        "こえ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "聞こえます",
+        "きこえます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "稻田里传来了蛙声。",
+    "tip": "与动词「帰る」读音相同，注意语境。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "田んぼから",
+      "answer": "カエル",
+      "after": "の声が聞こえます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1577460",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "frog"
+      ]
+    }
+  },
+  {
+    "id": "w04-a050",
+    "word": "亀",
+    "reading": "かめ",
+    "category": "名词",
+    "meaning": "龟；乌龟",
+    "example": [
+      [
+        "亀",
+        "かめ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "石",
+        "いし"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "休んでいます",
+        "やすんでいます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "乌龟在石头上休息。",
+    "tip": "动物名也可写作カメ。",
+    "kanjiNote": "「亀」读かめ。",
+    "cloze": {
+      "before": "",
+      "answer": "亀",
+      "after": "が石の上で休んでいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1224260",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tortoise",
+        "turtle"
+      ]
+    }
+  },
+  {
+    "id": "w04-a051",
+    "word": "蛇",
+    "reading": "へび",
+    "category": "名词",
+    "meaning": "蛇",
+    "example": [
+      [
+        "草",
+        "くさ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "中",
+        "なか"
+      ],
+      [
+        "に"
+      ],
+      [
+        "蛇",
+        "へび"
+      ],
+      [
+        "がいました。"
+      ]
+    ],
+    "translation": "草丛里有一条蛇。",
+    "tip": "本课读へび。",
+    "kanjiNote": "「蛇」读へび。",
+    "cloze": {
+      "before": "草の中に",
+      "answer": "蛇",
+      "after": "がいました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1323350",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "snake"
+      ]
+    }
+  },
+  {
+    "id": "w04-a052",
+    "word": "熊",
+    "reading": "くま",
+    "category": "名词",
+    "meaning": "熊",
+    "example": [
+      [
+        "山",
+        "やま"
+      ],
+      [
+        "の"
+      ],
+      [
+        "入口",
+        "いりぐち"
+      ],
+      [
+        "に"
+      ],
+      [
+        "熊",
+        "くま"
+      ],
+      [
+        "への"
+      ],
+      [
+        "注意",
+        "ちゅうい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "促す",
+        "うながす"
+      ],
+      [
+        "看板",
+        "かんばん"
+      ],
+      [
+        "がありました。"
+      ]
+    ],
+    "translation": "山的入口有提醒注意熊出没的告示牌。",
+    "tip": "动物名也常写成クマ。",
+    "kanjiNote": "「熊」读くま。",
+    "cloze": {
+      "before": "山の入口に",
+      "answer": "熊",
+      "after": "への注意を促す看板がありました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1246850",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bear (any mammal of family Ursidae)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a053",
+    "word": "鹿",
+    "reading": "しか",
+    "category": "名词",
+    "meaning": "鹿",
+    "example": [
+      [
+        "林",
+        "はやし"
+      ],
+      [
+        "の"
+      ],
+      [
+        "中",
+        "なか"
+      ],
+      [
+        "で"
+      ],
+      [
+        "鹿",
+        "しか"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見かけました",
+        "みかけました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在树林里看到了鹿。",
+    "tip": "单独指动物时读しか。",
+    "kanjiNote": "「鹿」读しか。",
+    "cloze": {
+      "before": "林の中で",
+      "answer": "鹿",
+      "after": "を見かけました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1319030",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "deer (esp. the sika deer, Cervus nippon)",
+        "cervid"
+      ]
+    }
+  },
+  {
+    "id": "w04-a054",
+    "word": "キツネ",
+    "reading": "キツネ",
+    "category": "名词",
+    "meaning": "狐狸",
+    "example": [
+      [
+        "絵本",
+        "えほん"
+      ],
+      [
+        "にキツネが"
+      ],
+      [
+        "出てきます",
+        "でてきます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "绘本中出现了狐狸。",
+    "tip": "本课指动物，不是料理名称。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "絵本に",
+      "answer": "キツネ",
+      "after": "が出てきます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1267340",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "fox (esp. the red fox, Vulpes vulpes)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a055",
+    "word": "タヌキ",
+    "reading": "タヌキ",
+    "category": "名词",
+    "meaning": "貉；日本貉",
+    "example": [
+      [
+        "タヌキの"
+      ],
+      [
+        "写真",
+        "しゃしん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見ました",
+        "みました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "看了貉的照片。",
+    "tip": "タヌキ是貉，不是アライグマ（浣熊）。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "タヌキ",
+      "after": "の写真を見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1416770",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tanuki (Nyctereutes procyonoides)",
+        "raccoon dog"
+      ]
+    }
+  },
+  {
+    "id": "w04-a056",
+    "word": "猿",
+    "reading": "さる",
+    "category": "名词",
+    "meaning": "猴子",
+    "example": [
+      [
+        "猿",
+        "さる"
+      ],
+      [
+        "が"
+      ],
+      [
+        "木",
+        "き"
+      ],
+      [
+        "に"
+      ],
+      [
+        "登っています",
+        "のぼっています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "猴子正在爬树。",
+    "tip": "本课指动物；常见搭配「野生の猿」。",
+    "kanjiNote": "「猿」读さる。",
+    "cloze": {
+      "before": "",
+      "answer": "猿",
+      "after": "が木に登っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1177390",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "monkey (esp. the Japanese macaque, Macaca fuscata)",
+        "ape",
+        "non-human primate"
+      ]
+    }
+  },
+  {
+    "id": "w04-a057",
+    "word": "ウサギ",
+    "reading": "ウサギ",
+    "category": "名词",
+    "meaning": "兔子",
+    "example": [
+      [
+        "ウサギの"
+      ],
+      [
+        "耳",
+        "みみ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "長い",
+        "ながい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "兔子有长耳朵。",
+    "tip": "也可写作平假名うさぎ。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "ウサギ",
+      "after": "の耳は長いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1443970",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "rabbit",
+        "hare",
+        "coney",
+        "cony",
+        "lagomorph (esp. leporids)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a058",
+    "word": "ネズミ",
+    "reading": "ネズミ",
+    "category": "名词",
+    "meaning": "鼠；老鼠",
+    "example": [
+      [
+        "ネズミが"
+      ],
+      [
+        "小さな",
+        "ちいさな"
+      ],
+      [
+        "穴",
+        "あな"
+      ],
+      [
+        "に"
+      ],
+      [
+        "入りました",
+        "はいりました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "老鼠钻进了小洞。",
+    "tip": "同时可指小鼠和大鼠。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "ネズミ",
+      "after": "が小さな穴に入りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1397840",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "mouse",
+        "rat"
+      ]
+    }
+  },
+  {
+    "id": "w04-a059",
+    "word": "リス",
+    "reading": "リス",
+    "category": "名词",
+    "meaning": "松鼠",
+    "example": [
+      [
+        "リスが"
+      ],
+      [
+        "木",
+        "き"
+      ],
+      [
+        "の"
+      ],
+      [
+        "実",
+        "み"
+      ],
+      [
+        "を"
+      ],
+      [
+        "食べています",
+        "たべています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "松鼠正在吃树上的果实。",
+    "tip": "本课是动物名称，不是外来语的其他义项。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "リス",
+      "after": "が木の実を食べています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1246890",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "squirrel (any mammal of family Sciuridae)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a060",
+    "word": "クジラ",
+    "reading": "クジラ",
+    "category": "名词",
+    "meaning": "鲸",
+    "example": [
+      [
+        "船",
+        "ふね"
+      ],
+      [
+        "からクジラを"
+      ],
+      [
+        "見ました",
+        "みました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "从船上看到了鲸。",
+    "tip": "也写作「鯨」。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "船から",
+      "answer": "クジラ",
+      "after": "を見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1253270",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "whale (Cetacea spp.)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a061",
+    "word": "イルカ",
+    "reading": "イルカ",
+    "category": "名词",
+    "meaning": "海豚",
+    "example": [
+      [
+        "イルカが"
+      ],
+      [
+        "水面",
+        "すいめん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "顔",
+        "かお"
+      ],
+      [
+        "を"
+      ],
+      [
+        "出しました",
+        "だしました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "海豚把头露出了水面。",
+    "tip": "日常通常用片假名书写。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "イルカ",
+      "after": "が水面に顔を出しました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1201670",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "dolphin (or other small toothed whales, incl. porpoises, belugas, etc.)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a062",
+    "word": "ペンギン",
+    "reading": "ペンギン",
+    "category": "名词",
+    "meaning": "企鹅",
+    "example": [
+      [
+        "ペンギンが"
+      ],
+      [
+        "水",
+        "みず"
+      ],
+      [
+        "の"
+      ],
+      [
+        "中",
+        "なか"
+      ],
+      [
+        "を"
+      ],
+      [
+        "泳いでいます",
+        "およいでいます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "企鹅在水中游泳。",
+    "tip": "注意中间的拨音ン。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "ペンギン",
+      "after": "が水の中を泳いでいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1121410",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "penguin"
+      ]
+    }
+  },
+  {
+    "id": "w04-a063",
+    "word": "蝶",
+    "reading": "ちょう",
+    "category": "名词",
+    "meaning": "蝴蝶",
+    "example": [
+      [
+        "黄色い",
+        "きいろい"
+      ],
+      [
+        "蝶",
+        "ちょう"
+      ],
+      [
+        "が"
+      ],
+      [
+        "花",
+        "はな"
+      ],
+      [
+        "に"
+      ],
+      [
+        "止まりました",
+        "とまりました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "黄色的蝴蝶停在花上。",
+    "tip": "读ちょう，保留长音。",
+    "kanjiNote": "「蝶」读ちょう。",
+    "cloze": {
+      "before": "黄色い",
+      "answer": "蝶",
+      "after": "が花に止まりました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1429010",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "butterfly"
+      ]
+    }
+  },
+  {
+    "id": "w04-a064",
+    "word": "蜂",
+    "reading": "はち",
+    "category": "名词",
+    "meaning": "蜂；蜜蜂、黄蜂等",
+    "example": [
+      [
+        "蜂",
+        "はち"
+      ],
+      [
+        "が"
+      ],
+      [
+        "花",
+        "はな"
+      ],
+      [
+        "の"
+      ],
+      [
+        "周り",
+        "まわり"
+      ],
+      [
+        "を"
+      ],
+      [
+        "飛んでいます",
+        "とんでいます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "蜂在花的周围飞。",
+    "tip": "是蜂类的总称，不仅指蜜蜂。",
+    "kanjiNote": "「蜂」读はち。",
+    "cloze": {
+      "before": "",
+      "answer": "蜂",
+      "after": "が花の周りを飛んでいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1517840",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "bee",
+        "wasp",
+        "hornet"
+      ]
+    }
+  },
+  {
+    "id": "w04-a065",
+    "word": "蚊",
+    "reading": "か",
+    "category": "名词",
+    "meaning": "蚊子",
+    "example": [
+      [
+        "部屋",
+        "へや"
+      ],
+      [
+        "に"
+      ],
+      [
+        "蚊",
+        "か"
+      ],
+      [
+        "が"
+      ],
+      [
+        "入ってきました",
+        "はいってきました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "蚊子飞进了房间。",
+    "tip": "被蚊子叮说「蚊に刺される」。",
+    "kanjiNote": "「蚊」读か。",
+    "cloze": {
+      "before": "部屋に",
+      "answer": "蚊",
+      "after": "が入ってきました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1196540",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "mosquito"
+      ]
+    }
+  },
+  {
+    "id": "w04-a066",
+    "word": "ハエ",
+    "reading": "ハエ",
+    "category": "名词",
+    "meaning": "苍蝇",
+    "example": [
+      [
+        "ハエが"
+      ],
+      [
+        "窓",
+        "まど"
+      ],
+      [
+        "の"
+      ],
+      [
+        "外",
+        "そと"
+      ],
+      [
+        "へ"
+      ],
+      [
+        "飛んでいきました",
+        "とんでいきました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "苍蝇飞到窗外去了。",
+    "tip": "日常可用片假名ハエ。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "ハエ",
+      "after": "が窓の外へ飛んでいきました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1474210",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "fly (any insect of infraorder Muscomorpha)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a067",
+    "word": "アリ",
+    "reading": "アリ",
+    "category": "名词",
+    "meaning": "蚂蚁",
+    "example": [
+      [
+        "アリが"
+      ],
+      [
+        "列",
+        "れつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "作って",
+        "つくって"
+      ],
+      [
+        "歩いています",
+        "あるいています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "蚂蚁排着队爬行。",
+    "tip": "也写作「蟻」。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "アリ",
+      "after": "が列を作って歩いています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1225940",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "ant"
+      ]
+    }
+  },
+  {
+    "id": "w04-a068",
+    "word": "クモ",
+    "reading": "クモ",
+    "category": "名词",
+    "meaning": "蜘蛛",
+    "example": [
+      [
+        "庭",
+        "にわ"
+      ],
+      [
+        "でクモの"
+      ],
+      [
+        "巣",
+        "す"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見つけました",
+        "みつけました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在院子里发现了蜘蛛网。",
+    "tip": "蜘蛛网说「クモの巣」。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "庭で",
+      "answer": "クモ",
+      "after": "の巣を見つけました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1421960",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "spider"
+      ]
+    }
+  },
+  {
+    "id": "w04-a069",
+    "word": "セミ",
+    "reading": "セミ",
+    "category": "名词",
+    "meaning": "蝉",
+    "example": [
+      [
+        "公園",
+        "こうえん"
+      ],
+      [
+        "でセミが"
+      ],
+      [
+        "鳴いています",
+        "ないています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "公园里蝉在鸣叫。",
+    "tip": "本课是昆虫名，不是「半」的外来语前缀。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "公園で",
+      "answer": "セミ",
+      "after": "が鳴いています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1387080",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "cicada",
+        "locust"
+      ]
+    }
+  },
+  {
+    "id": "w04-a070",
+    "word": "トンボ",
+    "reading": "トンボ",
+    "category": "名词",
+    "meaning": "蜻蜓",
+    "example": [
+      [
+        "トンボが"
+      ],
+      [
+        "池",
+        "いけ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "上",
+        "うえ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "飛んでいます",
+        "とんでいます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "蜻蜓在池塘上方飞。",
+    "tip": "昆虫名称常用片假名。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "トンボ",
+      "after": "が池の上を飛んでいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1585910",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "dragonfly"
+      ]
+    }
+  },
+  {
+    "id": "w04-a071",
+    "word": "種",
+    "reading": "たね",
+    "category": "名词",
+    "meaning": "种子；果核",
+    "example": [
+      [
+        "植木鉢",
+        "うえきばち"
+      ],
+      [
+        "に"
+      ],
+      [
+        "種",
+        "たね"
+      ],
+      [
+        "をまきました。"
+      ]
+    ],
+    "translation": "在花盆里播下了种子。",
+    "tip": "本课读たね；「種類」中的種读しゅ。",
+    "kanjiNote": "「種」读たね。",
+    "cloze": {
+      "before": "植木鉢に",
+      "answer": "種",
+      "after": "をまきました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1328820",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "seed (e.g. of a plant)",
+        "pip",
+        "kernel",
+        "stone (e.g. of a peach)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a072",
+    "word": "芽",
+    "reading": "め",
+    "category": "名词",
+    "meaning": "芽；嫩芽",
+    "example": [
+      [
+        "土",
+        "つち"
+      ],
+      [
+        "から"
+      ],
+      [
+        "芽",
+        "め"
+      ],
+      [
+        "が"
+      ],
+      [
+        "出ました",
+        "でました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "嫩芽从土里冒出来了。",
+    "tip": "发芽常说「芽が出る」。",
+    "kanjiNote": "「芽」读め。",
+    "cloze": {
+      "before": "土から",
+      "answer": "芽",
+      "after": "が出ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1197710",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "sprout",
+        "shoot",
+        "bud"
+      ]
+    }
+  },
+  {
+    "id": "w04-a073",
+    "word": "茎",
+    "reading": "くき",
+    "category": "名词",
+    "meaning": "茎；植物的茎秆",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "植物",
+        "しょくぶつ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "茎",
+        "くき"
+      ],
+      [
+        "は"
+      ],
+      [
+        "細い",
+        "ほそい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "这种植物的茎很细。",
+    "tip": "区别于树干「幹」。",
+    "kanjiNote": "「茎」读くき。",
+    "cloze": {
+      "before": "この植物の",
+      "answer": "茎",
+      "after": "は細いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1251950",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "stalk",
+        "stem"
+      ]
+    }
+  },
+  {
+    "id": "w04-a074",
+    "word": "幹",
+    "reading": "みき",
+    "category": "名词",
+    "meaning": "树干",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "木",
+        "き"
+      ],
+      [
+        "の"
+      ],
+      [
+        "幹",
+        "みき"
+      ],
+      [
+        "は"
+      ],
+      [
+        "太い",
+        "ふとい"
+      ],
+      [
+        "です。"
+      ]
+    ],
+    "translation": "这棵树的树干很粗。",
+    "tip": "本课读みき，指树的主干。",
+    "kanjiNote": "树干的「幹」读みき。",
+    "cloze": {
+      "before": "この木の",
+      "answer": "幹",
+      "after": "は太いです。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1577640",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tree trunk",
+        "bole"
+      ]
+    }
+  },
+  {
+    "id": "w04-a075",
+    "word": "実",
+    "reading": "み",
+    "category": "名词",
+    "meaning": "果实；坚果",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "木",
+        "き"
+      ],
+      [
+        "には"
+      ],
+      [
+        "赤い",
+        "あかい"
+      ],
+      [
+        "実",
+        "み"
+      ],
+      [
+        "がなります。"
+      ]
+    ],
+    "translation": "这棵树会结出红色果实。",
+    "tip": "结果实用「実がなる」。",
+    "kanjiNote": "本课读み；表示果实。",
+    "cloze": {
+      "before": "この木には赤い",
+      "answer": "実",
+      "after": "がなります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1320810",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "fruit",
+        "nut"
+      ]
+    }
+  },
+  {
+    "id": "w04-a076",
+    "word": "稲",
+    "reading": "いね",
+    "category": "名词",
+    "meaning": "水稻；稻子",
+    "example": [
+      [
+        "田んぼ",
+        "たんぼ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "稲",
+        "いね"
+      ],
+      [
+        "が"
+      ],
+      [
+        "育っています",
+        "そだっています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "稻子在稻田里生长。",
+    "tip": "植物是稲，收获后的米粒是米。",
+    "kanjiNote": "「稲」读いね。",
+    "cloze": {
+      "before": "田んぼで",
+      "answer": "稲",
+      "after": "が育っています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1167820",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "rice plant (Oryza sativa)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a077",
+    "word": "麦",
+    "reading": "むぎ",
+    "category": "名词",
+    "meaning": "麦；小麦、大麦等",
+    "example": [
+      [
+        "麦",
+        "むぎ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "畑",
+        "はたけ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "広がっています",
+        "ひろがっています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "麦田向远处延伸。",
+    "tip": "是麦类总称；小麦是こむぎ。",
+    "kanjiNote": "单字读むぎ；小麦读こむぎ。",
+    "cloze": {
+      "before": "",
+      "answer": "麦",
+      "after": "の畑が広がっています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1476080",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "wheat",
+        "barley",
+        "oat (oats)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a078",
+    "word": "松",
+    "reading": "まつ",
+    "category": "名词",
+    "meaning": "松树",
+    "example": [
+      [
+        "庭",
+        "にわ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "松",
+        "まつ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "植えました",
+        "うえました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在院子里种了松树。",
+    "tip": "本课指树木，不是等级名称。",
+    "kanjiNote": "「松」读まつ。",
+    "cloze": {
+      "before": "庭に",
+      "answer": "松",
+      "after": "を植えました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1349860",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "pine tree (Pinus spp.)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a079",
+    "word": "梅",
+    "reading": "うめ",
+    "category": "名词",
+    "meaning": "梅；梅树、梅子",
+    "example": [
+      [
+        "梅",
+        "うめ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "花",
+        "はな"
+      ],
+      [
+        "が"
+      ],
+      [
+        "咲きました",
+        "さきました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "梅花开了。",
+    "tip": "「梅干し」是盐渍梅子。",
+    "kanjiNote": "「梅」读うめ。",
+    "cloze": {
+      "before": "",
+      "answer": "梅",
+      "after": "の花が咲きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1473460",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "Japanese apricot (Prunus mume)",
+        "Japanese plum",
+        "ume",
+        "Chinese plum"
+      ]
+    }
+  },
+  {
+    "id": "w04-a080",
+    "word": "桃",
+    "reading": "もも",
+    "category": "名词",
+    "meaning": "桃；桃子",
+    "example": [
+      [
+        "冷蔵庫",
+        "れいぞうこ"
+      ],
+      [
+        "で"
+      ],
+      [
+        "桃",
+        "もも"
+      ],
+      [
+        "を"
+      ],
+      [
+        "冷やしています",
+        "ひやしています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "把桃子放在冰箱里冷藏。",
+    "tip": "读もも，不要与腿部的もも混淆。",
+    "kanjiNote": "「桃」读もも。",
+    "cloze": {
+      "before": "冷蔵庫で",
+      "answer": "桃",
+      "after": "を冷やしています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1448290",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "peach (Prunus persica)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a081",
+    "word": "つぼみ",
+    "reading": "つぼみ",
+    "category": "名词",
+    "meaning": "花蕾；花苞",
+    "example": [
+      [
+        "バラのつぼみが"
+      ],
+      [
+        "開き始めました",
+        "ひらきはじめました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "玫瑰的花苞开始绽放了。",
+    "tip": "指花开放前的花苞。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "バラの",
+      "answer": "つぼみ",
+      "after": "が開き始めました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1571800",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "(flower) bud"
+      ]
+    }
+  },
+  {
+    "id": "w04-a082",
+    "word": "ヒマワリ",
+    "reading": "ヒマワリ",
+    "category": "名词",
+    "meaning": "向日葵",
+    "example": [
+      [
+        "庭",
+        "にわ"
+      ],
+      [
+        "にヒマワリを"
+      ],
+      [
+        "植えました",
+        "うえました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在院子里种了向日葵。",
+    "tip": "常用平假名或片假名书写。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "庭に",
+      "answer": "ヒマワリ",
+      "after": "を植えました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1277290",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "sunflower (Helianthus annuus)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a083",
+    "word": "バラ",
+    "reading": "バラ",
+    "category": "名词",
+    "meaning": "玫瑰；蔷薇",
+    "example": [
+      [
+        "母",
+        "はは"
+      ],
+      [
+        "にバラを"
+      ],
+      [
+        "贈りました",
+        "おくりました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "送了玫瑰给母亲。",
+    "tip": "本课是花名，不是散装物品的ばら。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "母に",
+      "answer": "バラ",
+      "after": "を贈りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1571760",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "rose"
+      ]
+    }
+  },
+  {
+    "id": "w04-a084",
+    "word": "チューリップ",
+    "reading": "チューリップ",
+    "category": "名词",
+    "meaning": "郁金香",
+    "example": [
+      [
+        "花壇",
+        "かだん"
+      ],
+      [
+        "にチューリップが"
+      ],
+      [
+        "並んでいます",
+        "ならんでいます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "花坛里郁金香排列着。",
+    "tip": "注意长音ー和促音ッ。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "花壇に",
+      "answer": "チューリップ",
+      "after": "が並んでいます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1078160",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "tulip"
+      ]
+    }
+  },
+  {
+    "id": "w04-a085",
+    "word": "紙",
+    "reading": "かみ",
+    "category": "名词",
+    "meaning": "纸",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "紙",
+        "かみ"
+      ],
+      [
+        "に"
+      ],
+      [
+        "名前",
+        "なまえ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "書いて",
+        "かいて"
+      ],
+      [
+        "ください。"
+      ]
+    ],
+    "translation": "请在这张纸上写名字。",
+    "tip": "与「髪」读音相同，注意语境。",
+    "kanjiNote": "「紙」读かみ。",
+    "cloze": {
+      "before": "この",
+      "answer": "紙",
+      "after": "に名前を書いてください。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1311530",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "paper"
+      ]
+    }
+  },
+  {
+    "id": "w04-a086",
+    "word": "金属",
+    "reading": "きんぞく",
+    "category": "名词",
+    "meaning": "金属",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "箱",
+        "はこ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "金属",
+        "きんぞく"
+      ],
+      [
+        "でできています。"
+      ]
+    ],
+    "translation": "这个盒子是金属做的。",
+    "tip": "材质可用「金属製」表示。",
+    "kanjiNote": "「金属」读きんぞく。",
+    "cloze": {
+      "before": "この箱は",
+      "answer": "金属",
+      "after": "でできています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1243040",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "metal"
+      ]
+    }
+  },
+  {
+    "id": "w04-a087",
+    "word": "鉄",
+    "reading": "てつ",
+    "category": "名词",
+    "meaning": "铁",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "鍋",
+        "なべ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "鉄",
+        "てつ"
+      ],
+      [
+        "でできています。"
+      ]
+    ],
+    "translation": "这口锅是铁做的。",
+    "tip": "「鉄製」表示铁制。",
+    "kanjiNote": "「鉄」读てつ。",
+    "cloze": {
+      "before": "この鍋は",
+      "answer": "鉄",
+      "after": "でできています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1437780",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "iron (Fe)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a088",
+    "word": "銅",
+    "reading": "どう",
+    "category": "名词",
+    "meaning": "铜",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "像",
+        "ぞう"
+      ],
+      [
+        "には"
+      ],
+      [
+        "銅",
+        "どう"
+      ],
+      [
+        "が"
+      ],
+      [
+        "使われています",
+        "つかわれています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "这座雕像使用了铜。",
+    "tip": "本课指金属，不是铜牌的简称。",
+    "kanjiNote": "「銅」读どう。",
+    "cloze": {
+      "before": "この像には",
+      "answer": "銅",
+      "after": "が使われています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1582390",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "copper (Cu)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a089",
+    "word": "銀",
+    "reading": "ぎん",
+    "category": "名词",
+    "meaning": "银",
+    "example": [
+      [
+        "銀",
+        "ぎん"
+      ],
+      [
+        "の"
+      ],
+      [
+        "指輪",
+        "ゆびわ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "磨きました",
+        "みがきました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "擦亮了银戒指。",
+    "tip": "这里表示材质，不是银色或银牌。",
+    "kanjiNote": "「銀」读ぎん。",
+    "cloze": {
+      "before": "",
+      "answer": "銀",
+      "after": "の指輪を磨きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1595090",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "silver (Ag)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a090",
+    "word": "金",
+    "reading": "きん",
+    "category": "名词",
+    "meaning": "金；黄金",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "指輪",
+        "ゆびわ"
+      ],
+      [
+        "は"
+      ],
+      [
+        "金",
+        "きん"
+      ],
+      [
+        "でできています。"
+      ]
+    ],
+    "translation": "这枚戒指是金做的。",
+    "tip": "本课读きん，区别于「お金」的钱。",
+    "kanjiNote": "作金属名读きん，与かね区分。",
+    "cloze": {
+      "before": "この指輪は",
+      "answer": "金",
+      "after": "でできています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1242600",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "gold (metal)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a091",
+    "word": "炭",
+    "reading": "すみ",
+    "category": "名词",
+    "meaning": "木炭",
+    "example": [
+      [
+        "バーベキューに"
+      ],
+      [
+        "使う",
+        "つかう"
+      ],
+      [
+        "炭",
+        "すみ"
+      ],
+      [
+        "を"
+      ],
+      [
+        "買いました",
+        "かいました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "买了烧烤用的木炭。",
+    "tip": "不要与「石炭」（煤）混淆。",
+    "kanjiNote": "「炭」读すみ。",
+    "cloze": {
+      "before": "バーベキューに使う",
+      "answer": "炭",
+      "after": "を買いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1418480",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "charcoal"
+      ]
+    }
+  },
+  {
+    "id": "w04-a092",
+    "word": "ガラス",
+    "reading": "ガラス",
+    "category": "名词",
+    "meaning": "玻璃",
+    "example": [
+      [
+        "ガラスの"
+      ],
+      [
+        "花瓶",
+        "かびん"
+      ],
+      [
+        "に"
+      ],
+      [
+        "花",
+        "はな"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入れました",
+        "いれました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "把花放进了玻璃花瓶。",
+    "tip": "注意ガ是浊音，与カラス区别。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "",
+      "answer": "ガラス",
+      "after": "の花瓶に花を入れました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1040380",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "glass",
+        "pane"
+      ]
+    }
+  },
+  {
+    "id": "w04-a093",
+    "word": "プラスチック",
+    "reading": "プラスチック",
+    "category": "名词",
+    "meaning": "塑料",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "容器",
+        "ようき"
+      ],
+      [
+        "はプラスチックでできています。"
+      ]
+    ],
+    "translation": "这个容器是塑料做的。",
+    "tip": "日常也常见简称「プラ」。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "この容器は",
+      "answer": "プラスチック",
+      "after": "でできています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1115670",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "plastic"
+      ]
+    }
+  },
+  {
+    "id": "w04-a094",
+    "word": "ゴム",
+    "reading": "ゴム",
+    "category": "名词",
+    "meaning": "橡胶",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "手袋",
+        "てぶくろ"
+      ],
+      [
+        "はゴムでできています。"
+      ]
+    ],
+    "translation": "这副手套是橡胶做的。",
+    "tip": "这里使用材料义，不是其他口语义项。",
+    "kanjiNote": "片假名或假名常用写法，不必改用难认的汉字。",
+    "cloze": {
+      "before": "この手袋は",
+      "answer": "ゴム",
+      "after": "でできています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1054570",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "gum",
+        "rubber"
+      ]
+    }
+  },
+  {
+    "id": "w04-a095",
+    "word": "木材",
+    "reading": "もくざい",
+    "category": "名词",
+    "meaning": "木材",
+    "example": [
+      [
+        "棚",
+        "たな"
+      ],
+      [
+        "を"
+      ],
+      [
+        "作る",
+        "つくる"
+      ],
+      [
+        "ために"
+      ],
+      [
+        "木材",
+        "もくざい"
+      ],
+      [
+        "を"
+      ],
+      [
+        "買いました",
+        "かいました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "为了做架子买了木材。",
+    "tip": "指用于建筑、制作等的木料。",
+    "kanjiNote": "「木材」读もくざい。",
+    "cloze": {
+      "before": "棚を作るために",
+      "answer": "木材",
+      "after": "を買いました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1534660",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "lumber",
+        "timber",
+        "wood"
+      ]
+    }
+  },
+  {
+    "id": "w04-a096",
+    "word": "石油",
+    "reading": "せきゆ",
+    "category": "名词",
+    "meaning": "石油",
+    "example": [
+      [
+        "この"
+      ],
+      [
+        "本",
+        "ほん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "石油",
+        "せきゆ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "使い道",
+        "つかいみち"
+      ],
+      [
+        "を"
+      ],
+      [
+        "調べました",
+        "しらべました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "用这本书查了石油的用途。",
+    "tip": "本课采用石油义，不用作煤油的俗称。",
+    "kanjiNote": "「石油」读せきゆ。",
+    "cloze": {
+      "before": "この本で",
+      "answer": "石油",
+      "after": "の使い道を調べました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1382830",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "oil",
+        "petroleum"
+      ]
+    }
+  },
+  {
+    "id": "w04-a097",
+    "word": "石炭",
+    "reading": "せきたん",
+    "category": "名词",
+    "meaning": "煤；煤炭",
+    "example": [
+      [
+        "博物館",
+        "はくぶつかん"
+      ],
+      [
+        "で"
+      ],
+      [
+        "石炭",
+        "せきたん"
+      ],
+      [
+        "を"
+      ],
+      [
+        "見ました",
+        "みました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在博物馆看到了煤炭。",
+    "tip": "与木炭「炭」相区别。",
+    "kanjiNote": "「石炭」读せきたん。",
+    "cloze": {
+      "before": "博物館で",
+      "answer": "石炭",
+      "after": "を見ました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1382700",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "coal"
+      ]
+    }
+  },
+  {
+    "id": "w04-a098",
+    "word": "天然ガス",
+    "reading": "てんねんガス",
+    "category": "名词",
+    "meaning": "天然气",
+    "example": [
+      [
+        "授業",
+        "じゅぎょう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "天然",
+        "てんねん"
+      ],
+      [
+        "ガスについて"
+      ],
+      [
+        "学びました",
+        "まなびました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在课堂上学习了天然气知识。",
+    "tip": "汉字部分读てんねん。",
+    "kanjiNote": "「天然」读てんねん，后接片假名ガス。",
+    "cloze": {
+      "before": "授業で",
+      "answer": "天然ガス",
+      "after": "について学びました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1998710",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "natural gas"
+      ]
+    }
+  },
+  {
+    "id": "w04-a099",
+    "word": "酸素",
+    "reading": "さんそ",
+    "category": "名词",
+    "meaning": "氧；氧气",
+    "example": [
+      [
+        "理科",
+        "りか"
+      ],
+      [
+        "の"
+      ],
+      [
+        "授業",
+        "じゅぎょう"
+      ],
+      [
+        "で"
+      ],
+      [
+        "酸素",
+        "さんそ"
+      ],
+      [
+        "について"
+      ],
+      [
+        "学びました",
+        "まなびました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "在理科课上学习了氧气知识。",
+    "tip": "表示氧元素或氧气。",
+    "kanjiNote": "「酸素」读さんそ。",
+    "cloze": {
+      "before": "理科の授業で",
+      "answer": "酸素",
+      "after": "について学びました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1304350",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "oxygen (O)"
+      ]
+    }
+  },
+  {
+    "id": "w04-a100",
+    "word": "二酸化炭素",
+    "reading": "にさんかたんそ",
+    "category": "名词",
+    "meaning": "二氧化碳",
+    "example": [
+      [
+        "二酸化炭素",
+        "にさんかたんそ"
+      ],
+      [
+        "の"
+      ],
+      [
+        "量",
+        "りょう"
+      ],
+      [
+        "を"
+      ],
+      [
+        "測ります",
+        "はかります"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "测量二氧化碳的含量。",
+    "tip": "化学式为CO₂，按词块读にさんか・たんそ。",
+    "kanjiNote": "「二酸化炭素」读にさんかたんそ。",
+    "cloze": {
+      "before": "",
+      "answer": "二酸化炭素",
+      "after": "の量を測ります。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1461820",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "carbon dioxide",
+        "CO2"
+      ]
+    }
+  },
+  {
+    "id": "w04-a101",
+    "word": "空気",
+    "reading": "くうき",
+    "category": "名词",
+    "meaning": "空气",
+    "example": [
+      [
+        "窓",
+        "まど"
+      ],
+      [
+        "を"
+      ],
+      [
+        "開けて",
+        "あけて"
+      ],
+      [
+        "、"
+      ],
+      [
+        "空気",
+        "くうき"
+      ],
+      [
+        "を"
+      ],
+      [
+        "入れ替えます",
+        "いれかえます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "打开窗户换换空气。",
+    "tip": "本课指空气，不是气氛的引申义。",
+    "kanjiNote": "「空気」读くうき。",
+    "cloze": {
+      "before": "窓を開けて、",
+      "answer": "空気",
+      "after": "を入れ替えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1245470",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "air",
+        "atmosphere"
+      ]
+    }
+  },
+  {
+    "id": "w04-a102",
+    "word": "蒸気",
+    "reading": "じょうき",
+    "category": "名词",
+    "meaning": "蒸汽；水汽",
+    "example": [
+      [
+        "鍋",
+        "なべ"
+      ],
+      [
+        "から"
+      ],
+      [
+        "蒸気",
+        "じょうき"
+      ],
+      [
+        "が"
+      ],
+      [
+        "出ています",
+        "でています"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "锅里冒着水汽。",
+    "tip": "注意与「煙」（烟）区分。",
+    "kanjiNote": "「蒸気」读じょうき。",
+    "cloze": {
+      "before": "鍋から",
+      "answer": "蒸気",
+      "after": "が出ています。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1356930",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "steam",
+        "vapour",
+        "vapor"
+      ]
+    }
+  },
+  {
+    "id": "w04-a103",
+    "word": "煙",
+    "reading": "けむり",
+    "category": "名词",
+    "meaning": "烟；烟雾",
+    "example": [
+      [
+        "遠く",
+        "とおく"
+      ],
+      [
+        "に"
+      ],
+      [
+        "煙",
+        "けむり"
+      ],
+      [
+        "が"
+      ],
+      [
+        "見えます",
+        "みえます"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "可以看到远处的烟。",
+    "tip": "日常单独使用常读けむり。",
+    "kanjiNote": "「煙」读けむり。",
+    "cloze": {
+      "before": "遠くに",
+      "answer": "煙",
+      "after": "が見えます。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1177180",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "smoke",
+        "fumes"
+      ]
+    }
+  },
+  {
+    "id": "w04-a104",
+    "word": "灰",
+    "reading": "はい",
+    "category": "名词",
+    "meaning": "灰；灰烬",
+    "example": [
+      [
+        "火",
+        "ひ"
+      ],
+      [
+        "が"
+      ],
+      [
+        "消えて",
+        "きえて"
+      ],
+      [
+        "、"
+      ],
+      [
+        "灰",
+        "はい"
+      ],
+      [
+        "が"
+      ],
+      [
+        "残りました",
+        "のこりました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "火灭了，留下了灰烬。",
+    "tip": "本课指燃烧后的灰，不是回答的はい。",
+    "kanjiNote": "「灰」读はい。",
+    "cloze": {
+      "before": "火が消えて、",
+      "answer": "灰",
+      "after": "が残りました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1201860",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "ash",
+        "ashes"
+      ]
+    }
+  },
+  {
+    "id": "w04-a105",
+    "word": "ほこり",
+    "reading": "ほこり",
+    "category": "名词",
+    "meaning": "灰尘；尘土",
+    "example": [
+      [
+        "棚",
+        "たな"
+      ],
+      [
+        "のほこりを"
+      ],
+      [
+        "拭きました",
+        "ふきました"
+      ],
+      [
+        "。"
+      ]
+    ],
+    "translation": "擦掉了架子上的灰尘。",
+    "tip": "也写作「埃」，日常可用假名。",
+    "kanjiNote": "常见假名写法，汉字写作「埃」。",
+    "cloze": {
+      "before": "棚の",
+      "answer": "ほこり",
+      "after": "を拭きました。"
+    },
+    "sourceEvidence": {
+      "jmdictId": "1565750",
+      "senseIndices": [
+        0
+      ],
+      "glosses": [
+        "dust"
+      ]
+    }
+  }
+]

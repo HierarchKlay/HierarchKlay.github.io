@@ -13,3 +13,5 @@ Week 2 rebuild: run `python build_course.py` first. Set `KOTOBA_LESSON` to the a
 If the Python build defaults to a missing clang, compile with `CC=gcc CXX=g++`; extract downloaded archives with `tar --no-same-owner`. Keep python/vendor/mp3/sprites build intermediates ignored. Only the seven added sprites, combined manifest, provenance audit and existing license files are published.
 
 Week 3 uses `source-data/week03-audio-input.json` for both generation and sprite packing, then `python audio-tools/install_week03_audio.py`. It adds day-15 through day-21 only, retains `source-data/week03-audio-audit.json`, and preserves days 1–14. Run `python build_course.py` again after installation. The 2026-10-25 edition was prepared on 2026-10-23 at the user's request.
+
+Week 4 uses `source-data/week04-audio-input.json` for both generation and sprite packing, then `python audio-tools/install_week04_audio.py`. It adds day-22 through day-28 only and retains `source-data/week04-audio-audit.json`. Earlier sprite bytes and offsets must remain unchanged. Run `python build_course.py` again after installation. This is the 2026-11-01 edition, prepared early on 2026-10-28.

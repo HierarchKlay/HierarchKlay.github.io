@@ -14,3 +14,4 @@ kotoba-progress*.json
 .env
 .env.*
 source-data/week03-audio-input.json
+source-data/week04-audio-input.json

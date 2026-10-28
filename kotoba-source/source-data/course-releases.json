@@ -7,7 +7,10 @@
       "scheduledEdition": "2026-10-18",
       "preparedOn": "2026-10-18",
       "status": "published",
-      "lessons": [8, 14],
+      "lessons": [
+        8,
+        14
+      ],
       "coreWords": 245,
       "reserveWords": 70,
       "independentKanji": 35
@@ -18,7 +21,24 @@
       "preparedOn": "2026-10-23",
       "status": "published",
       "reason": "User requested this week's update early.",
-      "lessons": [15, 21],
+      "lessons": [
+        15,
+        21
+      ],
+      "coreWords": 245,
+      "reserveWords": 70,
+      "independentKanji": 35
+    },
+    {
+      "batch": "week04",
+      "scheduledEdition": "2026-11-01",
+      "preparedOn": "2026-10-28",
+      "status": "published",
+      "reason": "User requested this week's update early.",
+      "lessons": [
+        22,
+        28
+      ],
       "coreWords": 245,
       "reserveWords": 70,
       "independentKanji": 35

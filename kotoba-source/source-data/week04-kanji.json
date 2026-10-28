@@ -1,0 +1,3102 @@
+[
+  {
+    "id": "joyo-106",
+    "order": 106,
+    "day": 22,
+    "char": "凹",
+    "on": "オウ",
+    "kun": "—",
+    "meaning": "凹陷",
+    "hook": "从「凹凸（おうとつ）」记住本字。",
+    "note": "从字形记住向里凹；「凹凸」读おうとつ，别与「凸凹（でこぼこ）」的顺序混淆。",
+    "examples": [
+      [
+        "凹凸",
+        "おうとつ",
+        "凹凸不平"
+      ],
+      [
+        "凹面鏡",
+        "おうめんきょう",
+        "凹面镜"
+      ]
+    ],
+    "practice": {
+      "word": "凹凸",
+      "reading": "おうとつ",
+      "meaning": "凹凸不平",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "凹",
+        "オウ",
+        "凹凸，凹面鏡，凹レンズ",
+        "凸凹（でこぼこ）"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "凹凸",
+          "reading": "おうとつ",
+          "jmdictIds": [
+            "1179280"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "unevenness",
+              "bumpiness",
+              "roughness",
+              "ruggedness"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "凹面鏡",
+          "reading": "おうめんきょう",
+          "jmdictIds": [
+            "1179300"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "concave mirror"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-107",
+    "order": 107,
+    "day": 22,
+    "char": "央",
+    "on": "オウ",
+    "kun": "—",
+    "meaning": "中央；中心",
+    "hook": "从「中央（ちゅうおう）」记住本字。",
+    "note": "「央」常见于「中央」及其复合词，不单独当作口语词使用。",
+    "examples": [
+      [
+        "中央",
+        "ちゅうおう",
+        "中央；正中间"
+      ],
+      [
+        "中央銀行",
+        "ちゅうおうぎんこう",
+        "中央银行"
+      ]
+    ],
+    "practice": {
+      "word": "中央",
+      "reading": "ちゅうおう",
+      "meaning": "中央；正中间",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "央",
+        "オウ",
+        "中央",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "中央",
+          "reading": "ちゅうおう",
+          "jmdictIds": [
+            "1423430"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "centre",
+              "center",
+              "middle",
+              "heart"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "中央銀行",
+          "reading": "ちゅうおうぎんこう",
+          "jmdictIds": [
+            "1695600"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "central bank"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-108",
+    "order": 108,
+    "day": 22,
+    "char": "応",
+    "on": "オウ",
+    "kun": "こたえる",
+    "meaning": "回应；适应",
+    "hook": "从「応用（おうよう）」记住本字。",
+    "note": "「反応」通常读はんのう；不要逐字拼成はんおう。",
+    "examples": [
+      [
+        "応用",
+        "おうよう",
+        "应用"
+      ],
+      [
+        "反応",
+        "はんのう",
+        "反应"
+      ]
+    ],
+    "practice": {
+      "word": "応用",
+      "reading": "おうよう",
+      "meaning": "应用",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "応（應）",
+        "オウ　|　|こたえる",
+        "応答，応用，呼応||応える",
+        "「反応」，「順応」などは，「ハンノウ」，「ジュンノウ」。|⇔答える"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "応用",
+          "reading": "おうよう",
+          "jmdictIds": [
+            "1180060"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "(practical) application",
+              "putting to practical use"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "反応",
+          "reading": "はんのう",
+          "jmdictIds": [
+            "1480210"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "reaction",
+              "response"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-109",
+    "order": 109,
+    "day": 22,
+    "char": "往",
+    "on": "オウ",
+    "kun": "—",
+    "meaning": "前往；来往",
+    "hook": "从「往復（おうふく）」记住本字。",
+    "note": "「往復」表示去和回，与「片道（かたみち）」对应。",
+    "examples": [
+      [
+        "往復",
+        "おうふく",
+        "往返"
+      ],
+      [
+        "往来",
+        "おうらい",
+        "来往；往来交通"
+      ]
+    ],
+    "practice": {
+      "word": "往復",
+      "reading": "おうふく",
+      "meaning": "往返",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "往",
+        "オウ",
+        "往復，往来，既往症",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "往復",
+          "reading": "おうふく",
+          "jmdictIds": [
+            "1179760"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "making a round trip",
+              "going and returning",
+              "coming and going"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "往来",
+          "reading": "おうらい",
+          "jmdictIds": [
+            "1179790"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "coming and going",
+              "traffic"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-110",
+    "order": 110,
+    "day": 22,
+    "char": "押",
+    "on": "オウ",
+    "kun": "おす・おさえる",
+    "meaning": "推；按压",
+    "hook": "从「押す（おす）」记住本字。",
+    "note": "按钮用「押す」；「押印」中的押读おう。",
+    "examples": [
+      [
+        "押す",
+        "おす",
+        "推；按"
+      ],
+      [
+        "押印",
+        "おういん",
+        "盖章"
+      ]
+    ],
+    "practice": {
+      "word": "押す",
+      "reading": "おす",
+      "meaning": "推；按",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "押",
+        "オウ　|おす　|おさえる",
+        "押収，押印，押韻|押す，押し|押さえる，押さえ",
+        "|⇔推す|⇔抑える"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "押す",
+          "reading": "おす",
+          "jmdictIds": [
+            "1180470"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0,
+            1
+          ],
+          "glosses": [
+            [
+              "to push",
+              "to thrust",
+              "to shove"
+            ],
+            [
+              "to press (down)",
+              "to push (e.g. a button)",
+              "to exert pressure on"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "押印",
+          "reading": "おういん",
+          "jmdictIds": [
+            "1180480"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "affixing a seal (to)",
+              "putting one's seal (on)"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-111",
+    "order": 111,
+    "day": 23,
+    "char": "旺",
+    "on": "オウ",
+    "kun": "—",
+    "meaning": "旺盛",
+    "hook": "从「旺盛（おうせい）」记住本字。",
+    "note": "常用于「食欲旺盛」「好奇心旺盛」，不要单独把「旺」当口语形容词。",
+    "examples": [
+      [
+        "旺盛",
+        "おうせい",
+        "旺盛；充沛"
+      ],
+      [
+        "食欲旺盛",
+        "しょくよくおうせい",
+        "食欲旺盛"
+      ]
+    ],
+    "practice": {
+      "word": "旺盛",
+      "reading": "おうせい",
+      "meaning": "旺盛；充沛",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "旺",
+        "オウ",
+        "旺盛",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "旺盛",
+          "reading": "おうせい",
+          "jmdictIds": [
+            "1180550"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0,
+            1
+          ],
+          "glosses": [
+            [
+              "lively",
+              "vigorous",
+              "energetic",
+              "healthy",
+              "avid (e.g. desire)",
+              "rich (e.g. imagination)"
+            ],
+            [
+              "full of (energy, appetite, curiosity, etc.)",
+              "brimming with"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "食欲旺盛",
+          "reading": "しょくよくおうせい",
+          "jmdictIds": [
+            "2857966"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "voracious",
+              "having a hearty appetite"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-112",
+    "order": 112,
+    "day": 23,
+    "char": "欧",
+    "on": "オウ",
+    "kun": "—",
+    "meaning": "欧洲",
+    "hook": "从「欧米（おうべい）」记住本字。",
+    "note": "「欧米」通常指欧洲与美国；「西欧」指西欧地区。",
+    "examples": [
+      [
+        "欧米",
+        "おうべい",
+        "欧美"
+      ],
+      [
+        "西欧",
+        "せいおう",
+        "西欧"
+      ]
+    ],
+    "practice": {
+      "word": "欧米",
+      "reading": "おうべい",
+      "meaning": "欧美",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "欧（歐）",
+        "オウ",
+        "欧文，西欧，渡欧",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "欧米",
+          "reading": "おうべい",
+          "jmdictIds": [
+            "1609390"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "Europe and the United States",
+              "Europe and America",
+              "the West"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "西欧",
+          "reading": "せいおう",
+          "jmdictIds": [
+            "1380900"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "Western Europe"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-113",
+    "order": 113,
+    "day": 23,
+    "char": "殴",
+    "on": "オウ",
+    "kun": "なぐる",
+    "meaning": "殴打",
+    "hook": "从「殴る（なぐる）」记住本字。",
+    "note": "「殴る」侧重打人、拳击等动作；中性地敲门通常用「たたく」。",
+    "examples": [
+      [
+        "殴る",
+        "なぐる",
+        "殴打；打"
+      ],
+      [
+        "殴打",
+        "おうだ",
+        "殴打"
+      ]
+    ],
+    "practice": {
+      "word": "殴る",
+      "reading": "なぐる",
+      "meaning": "殴打；打",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "殴（毆）",
+        "オウ　|なぐる",
+        "殴打|殴る",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "殴る",
+          "reading": "なぐる",
+          "jmdictIds": [
+            "1181390"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "to strike",
+              "to hit",
+              "to beat",
+              "to punch"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "殴打",
+          "reading": "おうだ",
+          "jmdictIds": [
+            "1181410"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "hit",
+              "strike",
+              "blow"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-114",
+    "order": 114,
+    "day": 23,
+    "char": "桜",
+    "on": "オウ",
+    "kun": "さくら",
+    "meaning": "樱树；樱花",
+    "hook": "从「桜（さくら）」记住本字。",
+    "note": "日常说「桜（さくら）」；「桜花（おうか）」较书面。",
+    "examples": [
+      [
+        "桜",
+        "さくら",
+        "樱花；樱树"
+      ],
+      [
+        "桜花",
+        "おうか",
+        "樱花"
+      ]
+    ],
+    "practice": {
+      "word": "桜",
+      "reading": "さくら",
+      "meaning": "樱花；樱树",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "桜（櫻）",
+        "オウ　|さくら",
+        "桜花，観桜|桜，桜色，葉桜",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "桜",
+          "reading": "さくら",
+          "jmdictIds": [
+            "1593710"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "cherry tree",
+              "cherry blossom",
+              "sakura"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "桜花",
+          "reading": "おうか",
+          "jmdictIds": [
+            "1579290"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "cherry blossom"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-115",
+    "order": 115,
+    "day": 23,
+    "char": "翁",
+    "on": "オウ",
+    "kun": "—",
+    "meaning": "老翁；老者",
+    "hook": "从「老翁（ろうおう）」记住本字。",
+    "note": "「翁（おきな）」常见于古典、故事，是常用漢字表外的训读；此读音另据JMdict核对。",
+    "examples": [
+      [
+        "老翁",
+        "ろうおう",
+        "老翁"
+      ],
+      [
+        "翁",
+        "おきな",
+        "老者（书面）"
+      ]
+    ],
+    "practice": {
+      "word": "老翁",
+      "reading": "ろうおう",
+      "meaning": "老翁",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "翁",
+        "オウ",
+        "老翁",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "老翁",
+          "reading": "ろうおう",
+          "jmdictIds": [
+            "1561020"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "old man"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13",
+          "usageTags": [
+            "formal or literary term"
+          ]
+        },
+        {
+          "word": "翁",
+          "reading": "おきな",
+          "jmdictIds": [
+            "1576720"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "old man",
+              "venerable gentleman"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13",
+          "readingScope": "常用漢字表外訓（おきな）；JMdict核对"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-116",
+    "order": 116,
+    "day": 24,
+    "char": "奥",
+    "on": "オウ",
+    "kun": "おく",
+    "meaning": "深处；里面",
+    "hook": "从「奥（おく）」记住本字。",
+    "note": "房间里面可说「部屋の奥」；「奥行き」常用于家具尺寸。",
+    "examples": [
+      [
+        "奥",
+        "おく",
+        "深处；里面"
+      ],
+      [
+        "奥行き",
+        "おくゆき",
+        "纵深；深度"
+      ]
+    ],
+    "practice": {
+      "word": "奥",
+      "reading": "おく",
+      "meaning": "深处；里面",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "奥（奧）",
+        "オウ　|おく",
+        "奥義，深奥|奥，奥底，奥さん",
+        "「奥義」は，「おくギ」とも。|"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "奥",
+          "reading": "おく",
+          "jmdictIds": [
+            "1179320"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "inner part",
+              "interior",
+              "back (of a drawer, one's throat, etc.)",
+              "depths (e.g. of a forest)",
+              "recesses (e.g. of a cave)",
+              "heart",
+              "end (of a road, garden, etc.)"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "奥行き",
+          "reading": "おくゆき",
+          "jmdictIds": [
+            "1179480"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "depth",
+              "length"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-117",
+    "order": 117,
+    "day": 24,
+    "char": "横",
+    "on": "オウ",
+    "kun": "よこ",
+    "meaning": "横；侧面",
+    "hook": "从「横断（おうだん）」记住本字。",
+    "note": "「横断歩道」中的横读おう；「横顔」读よこがお。",
+    "examples": [
+      [
+        "横断",
+        "おうだん",
+        "横穿；横渡"
+      ],
+      [
+        "横顔",
+        "よこがお",
+        "侧脸"
+      ]
+    ],
+    "practice": {
+      "word": "横断",
+      "reading": "おうだん",
+      "meaning": "横穿；横渡",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "横（橫）",
+        "オウ　|よこ",
+        "横断，横領，専横|横，横顔，横たわる",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "横断",
+          "reading": "おうだん",
+          "jmdictIds": [
+            "1180900"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "crossing (a road, river, etc.)",
+              "cutting through (e.g. of a river through a town)",
+              "cutting across",
+              "intersecting (e.g. a railway track)"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "横顔",
+          "reading": "よこがお",
+          "jmdictIds": [
+            "1180670"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "profile",
+              "face in profile",
+              "face seen from the side"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-118",
+    "order": 118,
+    "day": 24,
+    "char": "岡",
+    "on": "—",
+    "kun": "おか",
+    "meaning": "山冈；小山",
+    "hook": "从「岡（おか）」记住本字。",
+    "note": "普通“小山”多写「丘」；「岡」常见于地名、姓氏及「岡目八目」。",
+    "examples": [
+      [
+        "岡",
+        "おか",
+        "山冈（同「丘」）"
+      ],
+      [
+        "岡目八目",
+        "おかめはちもく",
+        "旁观者清"
+      ]
+    ],
+    "practice": {
+      "word": "岡",
+      "reading": "おか",
+      "meaning": "山冈（同「丘」）",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "岡",
+        "おか",
+        "|",
+        "岡山県，静岡県，福岡県"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "岡",
+          "reading": "おか",
+          "jmdictIds": [
+            "1588920"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "hill",
+              "height",
+              "knoll",
+              "rising ground"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "岡目八目",
+          "reading": "おかめはちもく",
+          "jmdictIds": [
+            "1588980"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "bystander's vantage point",
+              "outsider's better grasp of the situation"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13",
+          "usageTags": [
+            "yojijukugo"
+          ]
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-119",
+    "order": 119,
+    "day": 24,
+    "char": "屋",
+    "on": "オク",
+    "kun": "や",
+    "meaning": "房屋；店铺",
+    "hook": "从「屋根（やね）」记住本字。",
+    "note": "「屋根」是覆盖房屋的屋顶；「屋上」常指可登上的楼顶空间。",
+    "examples": [
+      [
+        "屋根",
+        "やね",
+        "屋顶"
+      ],
+      [
+        "屋上",
+        "おくじょう",
+        "楼顶；屋顶平台"
+      ]
+    ],
+    "practice": {
+      "word": "屋根",
+      "reading": "やね",
+      "meaning": "屋顶",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "屋",
+        "オク　|や",
+        "屋上，屋外，家屋|屋根，花屋，楽屋",
+        "|母屋（おもや）|部屋（へや）|⇔家"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "屋根",
+          "reading": "やね",
+          "jmdictIds": [
+            "1182700"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "roof"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "屋上",
+          "reading": "おくじょう",
+          "jmdictIds": [
+            "1182710"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "rooftop"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-120",
+    "order": 120,
+    "day": 24,
+    "char": "億",
+    "on": "オク",
+    "kun": "—",
+    "meaning": "亿",
+    "hook": "从「一億（いちおく）」记住本字。",
+    "note": "「一億」是100,000,000；日语数位也按「万」「億」分组。",
+    "examples": [
+      [
+        "一億",
+        "いちおく",
+        "一亿"
+      ],
+      [
+        "億万長者",
+        "おくまんちょうじゃ",
+        "亿万富翁；大富翁"
+      ]
+    ],
+    "practice": {
+      "word": "一億",
+      "reading": "いちおく",
+      "meaning": "一亿",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "億",
+        "オク",
+        "億万，一億",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "一億",
+          "reading": "いちおく",
+          "jmdictIds": [
+            "1161190"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "100,000,000",
+              "one hundred million",
+              "10^8"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "億万長者",
+          "reading": "おくまんちょうじゃ",
+          "jmdictIds": [
+            "1182670"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "billionaire",
+              "multimillionaire",
+              "very rich person"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-121",
+    "order": 121,
+    "day": 25,
+    "char": "憶",
+    "on": "オク",
+    "kun": "—",
+    "meaning": "记忆",
+    "hook": "从「記憶（きおく）」记住本字。",
+    "note": "「記憶」可指人的记忆，也可用于计算机存储；「追憶」较书面。",
+    "examples": [
+      [
+        "記憶",
+        "きおく",
+        "记忆"
+      ],
+      [
+        "追憶",
+        "ついおく",
+        "追忆；回忆"
+      ]
+    ],
+    "practice": {
+      "word": "記憶",
+      "reading": "きおく",
+      "meaning": "记忆",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "憶",
+        "オク",
+        "記憶，追憶",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "記憶",
+          "reading": "きおく",
+          "jmdictIds": [
+            "1223150"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "memory",
+              "recollection",
+              "remembrance"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "追憶",
+          "reading": "ついおく",
+          "jmdictIds": [
+            "1432450"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "recollection",
+              "reminiscence"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-122",
+    "order": 122,
+    "day": 25,
+    "char": "臆",
+    "on": "オク",
+    "kun": "—",
+    "meaning": "胆怯；主观猜测",
+    "hook": "从「臆病（おくびょう）」记住本字。",
+    "note": "「臆病」形容胆小；「臆測」强调缺少确切依据的猜测，也写作「憶測」。",
+    "examples": [
+      [
+        "臆病",
+        "おくびょう",
+        "胆小；怯懦"
+      ],
+      [
+        "臆測",
+        "おくそく",
+        "猜测；推测"
+      ]
+    ],
+    "practice": {
+      "word": "臆病",
+      "reading": "おくびょう",
+      "meaning": "胆小；怯懦",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "臆",
+        "オク",
+        "臆説，臆測，臆病",
+        "「臆説」，「臆測」は，|「憶説」，「憶測」とも書く。"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "臆病",
+          "reading": "おくびょう",
+          "jmdictIds": [
+            "1182790"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "cowardly",
+              "timid",
+              "easily frightened"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "臆測",
+          "reading": "おくそく",
+          "jmdictIds": [
+            "1589020"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "guess",
+              "speculation",
+              "supposition"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13",
+          "spellingTags": [
+            "rarely used kanji form"
+          ]
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-123",
+    "order": 123,
+    "day": 25,
+    "char": "虞",
+    "on": "—",
+    "kun": "おそれ",
+    "meaning": "忧虑；风险",
+    "hook": "从「虞（おそれ）」记住本字。",
+    "note": "日常多写「おそれがある」；「不虞」较少见，其中グ是常用漢字表外读音，另据JMdict核对。",
+    "examples": [
+      [
+        "虞",
+        "おそれ",
+        "危险；可能性（多指不良后果）"
+      ],
+      [
+        "不虞",
+        "ふぐ",
+        "意外之事（书面）"
+      ]
+    ],
+    "practice": {
+      "word": "虞",
+      "reading": "おそれ",
+      "meaning": "危险；可能性（多指不良后果）",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "虞",
+        "おそれ",
+        "虞",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "虞",
+          "reading": "おそれ",
+          "jmdictIds": [
+            "1236660"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            1
+          ],
+          "glosses": [
+            [
+              "risk",
+              "danger",
+              "likelihood",
+              "fear"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13",
+          "usageTags": [
+            "word usually written using kana alone"
+          ],
+          "spellingTags": [
+            "rarely used kanji form"
+          ]
+        },
+        {
+          "word": "不虞",
+          "reading": "ふぐ",
+          "jmdictIds": [
+            "1492050"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "unforeseen (occurrence)",
+              "unexpected (event)",
+              "accident"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13",
+          "usageTags": [
+            "rare term"
+          ],
+          "readingScope": "常用漢字表外音（グ）；JMdict核对"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-124",
+    "order": 124,
+    "day": 25,
+    "char": "乙",
+    "on": "オツ",
+    "kun": "—",
+    "meaning": "乙；第二",
+    "hook": "从「甲乙（こうおつ）」记住本字。",
+    "note": "「甲乙」用于编号或比较优劣；「乙女」整体读おとめ，不逐字套用音读。",
+    "examples": [
+      [
+        "甲乙",
+        "こうおつ",
+        "甲乙；优劣"
+      ],
+      [
+        "乙女",
+        "おとめ",
+        "少女"
+      ]
+    ],
+    "practice": {
+      "word": "甲乙",
+      "reading": "こうおつ",
+      "meaning": "甲乙；优劣",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "乙",
+        "オツ",
+        "乙種，甲乙",
+        "乙女（おとめ）"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "甲乙",
+          "reading": "こうおつ",
+          "jmdictIds": [
+            "1280080"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0,
+            1
+          ],
+          "glosses": [
+            [
+              "first and second",
+              "A and B"
+            ],
+            [
+              "superiority and (or) inferiority",
+              "distinction (in quality)",
+              "discernment",
+              "discrimination"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "乙女",
+          "reading": "おとめ",
+          "jmdictIds": [
+            "2855480"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "(young) girl",
+              "maiden",
+              "young lady"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-125",
+    "order": 125,
+    "day": 25,
+    "char": "俺",
+    "on": "—",
+    "kun": "おれ",
+    "meaning": "我（粗率自称）",
+    "hook": "从「俺（おれ）」记住本字。",
+    "note": "「俺」常用于男性熟人间的随意自称；正式或初次见面的场合宜用「私」。",
+    "examples": [
+      [
+        "俺",
+        "おれ",
+        "我（粗率、偏男性用语）"
+      ],
+      [
+        "俺たち",
+        "おれたち",
+        "我们（粗率、偏男性用语）"
+      ]
+    ],
+    "practice": {
+      "word": "俺",
+      "reading": "おれ",
+      "meaning": "我（粗率、偏男性用语）",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "俺",
+        "おれ",
+        "俺",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "俺",
+          "reading": "おれ",
+          "jmdictIds": [
+            "1576870"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "I",
+              "me"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13",
+          "usageTags": [
+            "male term or language"
+          ]
+        },
+        {
+          "word": "俺たち",
+          "reading": "おれたち",
+          "jmdictIds": [
+            "1863230"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "we",
+              "us"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13",
+          "usageTags": [
+            "male term or language"
+          ]
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-126",
+    "order": 126,
+    "day": 26,
+    "char": "卸",
+    "on": "—",
+    "kun": "おろす・おろし",
+    "meaning": "批发",
+    "hook": "从「卸す（おろす）」记住本字。",
+    "note": "表示“批发”用「卸す」；放下物品通常写「下ろす」，下车通常写「降りる」。",
+    "examples": [
+      [
+        "卸す",
+        "おろす",
+        "批发出售"
+      ],
+      [
+        "卸売",
+        "おろしうり",
+        "批发"
+      ]
+    ],
+    "practice": {
+      "word": "卸す",
+      "reading": "おろす",
+      "meaning": "批发出售",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "卸",
+        "おろす　|おろし",
+        "卸す|卸，卸商",
+        "⇔下ろす，降ろす||"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "卸す",
+          "reading": "おろす",
+          "jmdictIds": [
+            "1183050"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "to sell wholesale"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "卸売",
+          "reading": "おろしうり",
+          "jmdictIds": [
+            "1589540"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "wholesale",
+              "wholesaling"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-127",
+    "order": 127,
+    "day": 26,
+    "char": "音",
+    "on": "オン・イン",
+    "kun": "おと・ね",
+    "meaning": "声音",
+    "hook": "从「音楽（おんがく）」记住本字。",
+    "note": "「音楽」「発音」中的音读おん；表示具体声响时常说「音（おと）」。",
+    "examples": [
+      [
+        "音楽",
+        "おんがく",
+        "音乐"
+      ],
+      [
+        "発音",
+        "はつおん",
+        "发音"
+      ]
+    ],
+    "practice": {
+      "word": "音楽",
+      "reading": "おんがく",
+      "meaning": "音乐",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "音",
+        "オン　|イン　|おと　|ね",
+        "音楽，発音，騒音|福音，母音|音，物音|音，音色",
+        "「観音」は，「カンノン」。"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "音楽",
+          "reading": "おんがく",
+          "jmdictIds": [
+            "1183720"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "music"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "発音",
+          "reading": "はつおん",
+          "jmdictIds": [
+            "1477170"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "pronunciation"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-128",
+    "order": 128,
+    "day": 26,
+    "char": "恩",
+    "on": "オン",
+    "kun": "—",
+    "meaning": "恩情",
+    "hook": "从「恩人（おんじん）」记住本字。",
+    "note": "「恩返し」中的返读がえし；表示报答受到的帮助或恩情。",
+    "examples": [
+      [
+        "恩人",
+        "おんじん",
+        "恩人"
+      ],
+      [
+        "恩返し",
+        "おんがえし",
+        "报恩"
+      ]
+    ],
+    "practice": {
+      "word": "恩人",
+      "reading": "おんじん",
+      "meaning": "恩人",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "恩",
+        "オン",
+        "恩情，恩人，謝恩",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "恩人",
+          "reading": "おんじん",
+          "jmdictIds": [
+            "1183230"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "benefactor",
+              "patron",
+              "person to whom one owes a great deal",
+              "person to whom one is (deeply) indebted"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "恩返し",
+          "reading": "おんがえし",
+          "jmdictIds": [
+            "1183280"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "paying back a favour",
+              "repayment (of an obligation, kindness, etc.)"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-129",
+    "order": 129,
+    "day": 26,
+    "char": "温",
+    "on": "オン",
+    "kun": "あたたか・あたたかい・あたたまる・あたためる",
+    "meaning": "温暖；温度",
+    "hook": "从「温度（おんど）」记住本字。",
+    "note": "热饭、热饮用「温める」；使房间暖和也常写「暖める」。",
+    "examples": [
+      [
+        "温度",
+        "おんど",
+        "温度"
+      ],
+      [
+        "温める",
+        "あたためる",
+        "加热；使变暖"
+      ]
+    ],
+    "practice": {
+      "word": "温度",
+      "reading": "おんど",
+      "meaning": "温度",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "温（溫）",
+        "オン　|あたたか　|あたたかい　|あたたまる　|あたためる",
+        "温暖，温厚，気温|温かだ|温かい|温まる|温める",
+        "|⇔暖か|⇔暖かい|⇔暖まる|⇔暖める"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "温度",
+          "reading": "おんど",
+          "jmdictIds": [
+            "1183510"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "temperature"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "温める",
+          "reading": "あたためる",
+          "jmdictIds": [
+            "1586440"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "to warm (up)",
+              "to heat (up)"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-130",
+    "order": 130,
+    "day": 26,
+    "char": "穏",
+    "on": "オン",
+    "kun": "おだやか",
+    "meaning": "平稳；安宁",
+    "hook": "从「穏やか（おだやか）」记住本字。",
+    "note": "「穏やか」可形容天气、海面或人的性格；作定语用「穏やかな」。",
+    "examples": [
+      [
+        "穏やか",
+        "おだやか",
+        "平静；温和"
+      ],
+      [
+        "平穏",
+        "へいおん",
+        "平稳；安宁"
+      ]
+    ],
+    "practice": {
+      "word": "穏やか",
+      "reading": "おだやか",
+      "meaning": "平静；温和",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "穏（穩）",
+        "オン　|おだやか",
+        "穏和，穏当，平穏|穏やかだ",
+        "「安穏」は，「アンノン」。"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "穏やか",
+          "reading": "おだやか",
+          "jmdictIds": [
+            "1183590"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "calm",
+              "quiet",
+              "gentle",
+              "peaceful",
+              "mild"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "平穏",
+          "reading": "へいおん",
+          "jmdictIds": [
+            "1507070"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "tranquil",
+              "calm",
+              "restful",
+              "peaceful",
+              "quiet"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-131",
+    "order": 131,
+    "day": 27,
+    "char": "下",
+    "on": "カ・ゲ",
+    "kun": "した・しも・もと・さげる・さがる・くだる・くだす・くださる・おろす・おりる",
+    "meaning": "下方；下降",
+    "hook": "从「下車（げしゃ）」记住本字。",
+    "note": "「下げる」是把某物降低；「下がる」表示某物自行降低，两者注意主语与宾语。",
+    "examples": [
+      [
+        "下車",
+        "げしゃ",
+        "下车"
+      ],
+      [
+        "下げる",
+        "さげる",
+        "降低；调低"
+      ]
+    ],
+    "practice": {
+      "word": "下車",
+      "reading": "げしゃ",
+      "meaning": "下车",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "下",
+        "カ　|ゲ　|した　|しも　|もと　|さげる　|さがる　|くだる　|くだす　|くださる　|おろす　|おりる",
+        "下流，下降，落下|下水，下車，上下|下，下見|下，川下|下，足下|下げる|下がる|下る，下り|下す|下さる|下ろす，書き下ろす|下りる",
+        "下手（へた）||||⇔元，本，基|⇔提げる|||||⇔卸す，降ろす|⇔降りる"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "下車",
+          "reading": "げしゃ",
+          "jmdictIds": [
+            "1185170"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "alighting (from a train, bus, etc.)",
+              "getting off",
+              "getting out (of a car)"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "下げる",
+          "reading": "さげる",
+          "jmdictIds": [
+            "1184170"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            1
+          ],
+          "glosses": [
+            [
+              "to lower",
+              "to reduce",
+              "to bring down"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-132",
+    "order": 132,
+    "day": 27,
+    "char": "化",
+    "on": "カ・ケ",
+    "kun": "ばける・ばかす",
+    "meaning": "变化；转化",
+    "hook": "从「化学（かがく）」记住本字。",
+    "note": "「化学」与「科学」都读かがく；需要区分时可明确说明化学还是科学。",
+    "examples": [
+      [
+        "化学",
+        "かがく",
+        "化学"
+      ],
+      [
+        "文化",
+        "ぶんか",
+        "文化"
+      ]
+    ],
+    "practice": {
+      "word": "化学",
+      "reading": "かがく",
+      "meaning": "化学",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "化",
+        "カ　|ケ　|ばける　|ばかす",
+        "化石，化学，文化|化粧，化身，権化|化ける，お化け|化かす",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "化学",
+          "reading": "かがく",
+          "jmdictIds": [
+            "1186760"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "chemistry"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "文化",
+          "reading": "ぶんか",
+          "jmdictIds": [
+            "1505120"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "culture",
+              "civilization",
+              "civilisation"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-133",
+    "order": 133,
+    "day": 27,
+    "char": "火",
+    "on": "カ",
+    "kun": "ひ・ほ",
+    "meaning": "火",
+    "hook": "从「火災（かさい）」记住本字。",
+    "note": "「花火」的火读び；火灾用「火災」，普通的火用「火（ひ）」。",
+    "examples": [
+      [
+        "火災",
+        "かさい",
+        "火灾"
+      ],
+      [
+        "花火",
+        "はなび",
+        "烟花"
+      ]
+    ],
+    "practice": {
+      "word": "火災",
+      "reading": "かさい",
+      "meaning": "火灾",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "火",
+        "カ　|ひ　|　ほ",
+        "火災，灯火，発火|火，火花，炭火|火影",
+        "⇔灯"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "火災",
+          "reading": "かさい",
+          "jmdictIds": [
+            "1193880"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "conflagration",
+              "fire"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "花火",
+          "reading": "はなび",
+          "jmdictIds": [
+            "1194580"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "fireworks"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-134",
+    "order": 134,
+    "day": 27,
+    "char": "加",
+    "on": "カ",
+    "kun": "くわえる・くわわる",
+    "meaning": "增加；加入",
+    "hook": "从「加える（くわえる）」记住本字。",
+    "note": "「加える」表示把东西加入；「加わる」表示加入、增添进来。",
+    "examples": [
+      [
+        "加える",
+        "くわえる",
+        "添加；增加"
+      ],
+      [
+        "参加",
+        "さんか",
+        "参加"
+      ]
+    ],
+    "practice": {
+      "word": "加える",
+      "reading": "くわえる",
+      "meaning": "添加；增加",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "加",
+        "カ　|くわえる　|くわわる",
+        "加入，加減，追加|加える|加わる",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "加える",
+          "reading": "くわえる",
+          "jmdictIds": [
+            "1189960"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "to add",
+              "to add up",
+              "to sum up",
+              "to append",
+              "to annex"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "参加",
+          "reading": "さんか",
+          "jmdictIds": [
+            "1302090"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "participation",
+              "joining",
+              "entry"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-135",
+    "order": 135,
+    "day": 27,
+    "char": "可",
+    "on": "カ",
+    "kun": "—",
+    "meaning": "可以；许可",
+    "hook": "从「可能（かのう）」记住本字。",
+    "note": "「可能」作定语用「可能な」；「許可を得る」表示获得许可。",
+    "examples": [
+      [
+        "可能",
+        "かのう",
+        "可能；可行"
+      ],
+      [
+        "許可",
+        "きょか",
+        "许可"
+      ]
+    ],
+    "practice": {
+      "word": "可能",
+      "reading": "かのう",
+      "meaning": "可能；可行",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "可",
+        "カ",
+        "可否，可能，許可",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "可能",
+          "reading": "かのう",
+          "jmdictIds": [
+            "1191060"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "possible",
+              "potential",
+              "practicable",
+              "feasible"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "許可",
+          "reading": "きょか",
+          "jmdictIds": [
+            "1232880"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "permission",
+              "approval",
+              "authorization",
+              "license"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-136",
+    "order": 136,
+    "day": 28,
+    "char": "仮",
+    "on": "カ・ケ",
+    "kun": "かり",
+    "meaning": "暂时；假设",
+    "hook": "从「仮定（かてい）」记住本字。",
+    "note": "「仮病」读けびょう；「仮」的常见音读か、け要随词记忆。",
+    "examples": [
+      [
+        "仮定",
+        "かてい",
+        "假设"
+      ],
+      [
+        "仮病",
+        "けびょう",
+        "装病"
+      ]
+    ],
+    "practice": {
+      "word": "仮定",
+      "reading": "かてい",
+      "meaning": "假设",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "仮（假）",
+        "カ　|　ケ　|かり",
+        "仮面，仮定，仮装|仮病|仮の住まい，仮に，仮処分",
+        "仮名（かな）"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "仮定",
+          "reading": "かてい",
+          "jmdictIds": [
+            "1187870"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "assumption",
+              "supposition",
+              "hypothesis"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "仮病",
+          "reading": "けびょう",
+          "jmdictIds": [
+            "1188000"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "feigned illness"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-137",
+    "order": 137,
+    "day": 28,
+    "char": "何",
+    "on": "カ",
+    "kun": "なに・なん",
+    "meaning": "什么；多少",
+    "hook": "从「何（なに）」记住本字。",
+    "note": "「何人」问人数时读なんにん；问国籍时读なにじん，先看语境。",
+    "examples": [
+      [
+        "何",
+        "なに",
+        "什么"
+      ],
+      [
+        "何人",
+        "なんにん",
+        "多少人"
+      ]
+    ],
+    "practice": {
+      "word": "何",
+      "reading": "なに",
+      "meaning": "什么",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "何",
+        "カ　|なに　|　なん",
+        "幾何学|何，何者，何事|何本，何十，何点",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "何",
+          "reading": "なに",
+          "jmdictIds": [
+            "1577100"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "what"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "何人",
+          "reading": "なんにん",
+          "jmdictIds": [
+            "1189100"
+          ],
+          "officialExample": false,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "how many people",
+              "a number of people"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-138",
+    "order": 138,
+    "day": 28,
+    "char": "花",
+    "on": "カ",
+    "kun": "はな",
+    "meaning": "花",
+    "hook": "从「花（はな）」记住本字。",
+    "note": "「花」单独用时通常读はな；「花壇」中的花读か。",
+    "examples": [
+      [
+        "花",
+        "はな",
+        "花；花朵"
+      ],
+      [
+        "花壇",
+        "かだん",
+        "花坛"
+      ]
+    ],
+    "practice": {
+      "word": "花",
+      "reading": "はな",
+      "meaning": "花；花朵",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "花",
+        "カ　|はな",
+        "花弁，花壇，落花|花，花火，草花",
+        "|⇔華"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "花",
+          "reading": "はな",
+          "jmdictIds": [
+            "1194500"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "flower",
+              "blossom",
+              "bloom",
+              "petal"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "花壇",
+          "reading": "かだん",
+          "jmdictIds": [
+            "1590460"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "flower bed"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-139",
+    "order": 139,
+    "day": 28,
+    "char": "佳",
+    "on": "カ",
+    "kun": "—",
+    "meaning": "美好；优秀",
+    "hook": "从「佳作（かさく）」记住本字。",
+    "note": "「佳作」也用于比赛中的佳作奖；「佳人」较书面，不是常用口语称呼。",
+    "examples": [
+      [
+        "佳作",
+        "かさく",
+        "佳作；优秀作品"
+      ],
+      [
+        "佳人",
+        "かじん",
+        "美人（书面）"
+      ]
+    ],
+    "practice": {
+      "word": "佳作",
+      "reading": "かさく",
+      "meaning": "佳作；优秀作品",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "佳",
+        "カ",
+        "佳作，佳人，絶佳",
+        ""
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "佳作",
+          "reading": "かさく",
+          "jmdictIds": [
+            "1189760"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0,
+            1
+          ],
+          "glosses": [
+            [
+              "fine (piece of) work",
+              "excellent work"
+            ],
+            [
+              "work that receives an honourable mention"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "佳人",
+          "reading": "かじん",
+          "jmdictIds": [
+            "1189810"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "(female) beauty",
+              "beautiful woman"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  },
+  {
+    "id": "joyo-140",
+    "order": 140,
+    "day": 28,
+    "char": "価",
+    "on": "カ",
+    "kun": "あたい",
+    "meaning": "价值；价格",
+    "hook": "从「価値（かち）」记住本字。",
+    "note": "「価格」偏向金额；「価値」也能表示实际用途、意义或重要程度。",
+    "examples": [
+      [
+        "価値",
+        "かち",
+        "价值"
+      ],
+      [
+        "価格",
+        "かかく",
+        "价格"
+      ]
+    ],
+    "practice": {
+      "word": "価値",
+      "reading": "かち",
+      "meaning": "价值",
+      "source": "JMdict / EDRDG + 文化庁常用漢字表",
+      "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "verified": true
+    },
+    "source": "文化庁《常用漢字表》音訓索引（2010年告示）",
+    "sourceUrl": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+    "referenceUrls": [
+      "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/kanji/joyokanjisakuin/index.html",
+      "https://www.edrdg.org/pub/Nihongo/JMdict_e.gz"
+    ],
+    "verification": {
+      "onKun": "2026-10-28对照文化庁本表，仅表内音训",
+      "officialRow": [
+        "価（價）",
+        "カ　|あたい",
+        "価値，価格，評価|価",
+        "|⇔値"
+      ],
+      "officialPageSha256": "33cb7b99d88d069a5e6e228a71f587285c9fa3cc6937e74022928524569f26f3",
+      "examples": [
+        {
+          "word": "価値",
+          "reading": "かち",
+          "jmdictIds": [
+            "1189600"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "value",
+              "worth",
+              "merit"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        },
+        {
+          "word": "価格",
+          "reading": "かかく",
+          "jmdictIds": [
+            "1189500"
+          ],
+          "officialExample": true,
+          "senseIndices": [
+            0
+          ],
+          "glosses": [
+            [
+              "price",
+              "value",
+              "cost"
+            ]
+          ],
+          "dictionarySnapshot": "2026-10-13"
+        }
+      ],
+      "practiceReading": "已核对"
+    }
+  }
+]
