@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#f5f7f2">
+  <meta name="description" content="日々うた：在 iPhone 上验证 Apple Music 完整歌曲与锁屏播放。">
+  <title>日々うた · 先听一首歌</title>
+  <link rel="stylesheet" href="styles.css?v=4">
+  <script src="app.js?v=4" defer></script>
+</head>
+<body>
+<div class="shell">
+  <header><a class="brand" href="./" aria-label="日々うた首页">日々<span>うた</span><small>HIBI UTA</small></a><span class="edition">播放验证 · 04</span></header>
+  <main>
+    <div class="intro"><span class="eyebrow">いつでも、歌と。</span><h1>先听一首，<br>再慢慢唱会。</h1><p>用你的 Apple Music 会员，先试试整首播放与锁屏听歌。</p></div>
+    <div class="layout">
+      <aside class="library" aria-label="首批练唱歌单">
+        <div class="section-label">这次想唱的歌 <span>03</span></div>
+        <div id="song-list" class="songs"></div>
+        <p class="quiet">切换歌曲会结束当前网页播放器。</p>
+        <div class="settings region-setting">
+          <label for="storefront">歌曲所在地区</label>
+          <select id="storefront"><option value="cn">中国大陆</option><option value="jp">日本</option><option value="hk">香港</option><option value="tw">台湾</option><option value="us">美国</option><option value="gb">英国</option></select>
+          <p class="quiet">已按你的会员设置为中国大陆。这里只选择网页曲库，不会更改 Apple 账户地区。切换会重新载入播放器，并恢复当前歌曲的默认链接。</p>
+        </div>
+        <details class="settings">
+          <summary>替换歌曲链接</summary>
+          <form id="link-form"><label for="song-url">这首歌的 Apple Music 链接</label><input id="song-url" type="url" placeholder="https://music.apple.com/…" autocomplete="off"><button class="secondary" type="submit">使用这个链接</button></form>
+          <p id="link-error" role="alert"></p>
+        </details>
+      </aside>
+      <section class="player-card" aria-label="歌曲播放">
+        <div class="now-label">这次听 <span id="track-number">01 / 03</span></div>
+        <div class="track-heading"><div class="record" aria-hidden="true"><span>うた</span></div><div><h2 id="song-title">Rain</h2><p id="song-artist">秦 基博</p><p class="quiet" id="source-note"></p></div></div>
+        <div class="login-help">
+          <strong id="active-region">当前曲库地区：中国大陆</strong>
+          <p>播放器里的「登录」「在 App 中打开」没反应？请用下面的直接入口。</p>
+          <div class="direct-actions">
+            <a id="official-web-link" class="primary" href="https://music.apple.com/cn/new" target="_top" rel="noreferrer">前往 Apple 官网登录 ↗</a>
+            <a id="apple-link" class="secondary" href="https://music.apple.com/cn/album/1801540012?i=1801540626" target="_top" rel="noreferrer">打开这首歌 ↗</a>
+          </div>
+          <p>这两个入口会离开当前页面。歌曲链接可能由音乐 App 打开，也可能留在浏览器；返回本站后可试一次重新载入。</p>
+          <details class="link-rescue">
+            <summary>仍然没反应？复制链接到 Safari</summary>
+            <p>如果你正在 ChatGPT 或其他 App 的内置页面中查看，请复制本站链接，粘贴到 Safari 地址栏打开。</p>
+            <label for="site-share-url">本站链接</label>
+            <div class="copy-row"><input id="site-share-url" type="text" value="https://hierarchklay.github.io/uta/" readonly spellcheck="false"><button id="copy-site-url" class="secondary" type="button">复制本站链接</button></div>
+            <label for="track-share-url">当前歌曲链接</label>
+            <div class="copy-row"><input id="track-share-url" type="text" value="https://music.apple.com/cn/album/1801540012?i=1801540626" readonly spellcheck="false"><button id="copy-track-url" class="secondary" type="button">复制歌曲链接</button></div>
+            <p id="link-copy-status" role="status">也可以长按文本框中的链接，手动复制。</p>
+          </details>
+        </div>
+        <div id="player-host" class="player-host"></div>
+        <p id="frame-status" class="frame-status" role="status">正在载入 Apple Music 播放器…</p>
+        <div class="player-links"><span class="quiet">下方测试仍需在 iPhone 上完成</span><button id="reload-player" class="text-button" type="button">重新载入</button></div>
+        <p class="helper">Apple 播放器里的按钮由 Apple 提供，本站无法得知它是否成功登录或打开 App。官网可以登录，也不代表本站播放器一定能共享登录状态。</p>
+      </section>
+    </div>
+    <section class="check-panel" aria-labelledby="check-title">
+      <div class="check-intro"><div><span class="eyebrow">在你的 IPHONE 上试一试</span><h2 id="check-title">听得到，也要听得连贯。</h2></div><span class="local-tag">结果仅保存在此浏览器</span></div>
+      <ol class="steps"><li><span>1</span><div><strong>先播放超过 30 秒</strong><p>在 Safari 中打开本页，完成 Apple 登录，确认播放没有停在试听。</p></div></li><li><span>2</span><div><strong>锁屏继续听 1 分钟</strong><p>保持播放后锁屏；再尝试锁屏上的暂停和继续。</p></div></li><li><span>3</span><div><strong>回来记录一下</strong><p>下面记录的是你的观察，不会自动判断播放器是否成功。</p></div></li></ol>
+      <div class="results">
+        <label>当前歌曲的播放情况<select id="result-play"><option value="未测试">未测试</option><option value="无法登录AppleMusic">无法登录 Apple Music</option><option value="可连续播放超过30秒">可连续播放超过 30 秒</option><option value="已听完整首">已听完整首</option><option value="只能试听">只能试听</option><option value="无法播放或歌曲不可用">无法播放／歌曲不可用</option></select></label>
+        <label>锁屏后<select id="result-lock"><option value="未测试">未测试</option><option value="持续播放至少1分钟">持续播放至少 1 分钟</option><option value="锁屏后停止">锁屏后停止</option><option value="过一段时间后停止">过一段时间后停止</option></select></label>
+        <label>锁屏暂停／继续<select id="result-controls"><option value="未测试">未测试</option><option value="都可使用">都可使用</option><option value="有控件但不能继续">有控件但不能继续</option><option value="没有播放控件">没有播放控件</option></select></label>
+      </div>
+      <label class="note-label" for="notes">其他情况 <span>可选</span></label><textarea id="notes" rows="2" placeholder="例如：跳到了音乐 App、提示地区不可用、只有试听…"></textarea>
+      <div class="report-actions"><button id="copy-report" class="primary" type="button">复制测试结果</button><span id="save-status" role="status">选择结果后自动保存</span></div>
+      <textarea id="report-output" rows="9" readonly aria-label="测试结果文本，可手动复制" hidden></textarea>
+    </section>
+    <footer><p>这是音源验证页。逐句同步、假名开关与选段循环尚未接入；嵌入播放器不等于可自定义控制的播放接口。</p><a href="https://artists.apple.com/support/1117-apple-music-marketing-tools" target="_blank" rel="noopener noreferrer">Apple 官方嵌入播放说明 ↗</a></footer>
+  </main>
+</div>
+</body>
+</html>
