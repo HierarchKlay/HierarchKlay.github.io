@@ -6,3 +6,4 @@
 musickit-developer-token*.txt
 .env
 .env.*
+qa/

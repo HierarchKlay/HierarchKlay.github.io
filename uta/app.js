@@ -1,4 +1,4 @@
-'use strict';
+import { initMusicKitPlayer } from './musickit-player.mjs?v=5';
 const SONGS = [
   { key:'rain', title:'Rain', artist:'秦 基博', path:'/album/1801540012?i=1801540626', note:'已核对官方播放器曲目；会员播放与地区可用性待验证' },
   { key:'nanmonee', title:'なんもねえ', artist:'忘れらんねえよ', path:'/album/6781198667', note:'已核对官方播放器曲目；会员播放与地区可用性待验证' },
@@ -6,14 +6,28 @@ const SONGS = [
 ];
 const STORAGE_KEY='hibi-uta-playback-check-v1';
 const $=id=>document.getElementById(id);
-let saved={region:'cn',regionPreferenceVersion:2,selected:'rain',overrides:{},results:{}};
+let saved={region:'cn',regionPreferenceVersion:2,selected:'rain',mode:'musickit',overrides:{},results:{}};
 try{const value=JSON.parse(localStorage.getItem(STORAGE_KEY)||'null');if(value&&typeof value==='object'){saved={...saved,...value,overrides:value.overrides||{},results:value.results||{}};}}catch{}
 // Apply the user's confirmed mainland account region once, keeping earlier reports and custom links.
 try{const previous=JSON.parse(localStorage.getItem(STORAGE_KEY)||'null');if(previous&&!previous.regionPreferenceVersion)saved.region='cn';}catch{}
 saved.regionPreferenceVersion=2;
 if(!['jp','cn','hk','tw','us','gb'].includes(saved.region))saved.region='cn';
 if(!SONGS.some(s=>s.key===saved.selected))saved.selected='rain';
+if(!['musickit','embed'].includes(saved.mode))saved.mode='musickit';
 let frameGeneration=0;
+let playerBusy=false;
+let mk;
+function lockSelection(busy){
+  playerBusy=busy;
+  document.querySelectorAll('.song, input[name="player-mode"], #link-form button, #song-url').forEach(el=>el.disabled=busy);
+  $('storefront').disabled=busy||saved.mode==='musickit';
+}
+async function changeSelection(update){
+  if(playerBusy)return;
+  lockSelection(true);
+  try{if(!await mk.selectionChanged())return;update();save();renderSelection();}
+  finally{lockSelection(false);}
+}
 function song(){return SONGS.find(s=>s.key===saved.selected);}
 function normalizeLink(raw){
   const u=new URL(raw);
@@ -27,14 +41,14 @@ function currentURL(){
   if(saved.overrides[saved.selected]){try{return normalizeLink(saved.overrides[saved.selected]);}catch{delete saved.overrides[saved.selected];}}
   return new URL('https://music.apple.com/'+saved.region+song().path);
 }
-function resultKey(){return saved.selected+'|'+currentURL().href;}
+function resultKey(){return saved.selected+'|'+currentURL().href+(saved.mode==='musickit'?'|musickit':'');}
 function save(message='已保存在此浏览器'){
   try{localStorage.setItem(STORAGE_KEY,JSON.stringify(saved));$('save-status').textContent=message;}
   catch{$('save-status').textContent='当前浏览器无法保存；请复制结果保留。';}
 }
 function loadResult(){
   const r=saved.results[resultKey()]||{};
-  for(const field of ['play','lock','controls']){
+  for(const field of ['play','lock','controls','progress','seek','loop']){
     const select=$('result-'+field);select.value=r[field]||'未测试';if(select.selectedIndex<0)select.selectedIndex=0;
   }
   $('notes').value=r.notes||'';
@@ -46,7 +60,8 @@ function renderPicker(){
     const button=document.createElement('button');button.type='button';button.className='song';button.setAttribute('aria-pressed',String(s.key===saved.selected));
     const number=document.createElement('span');number.className='song-index';number.textContent='0'+(i+1);
     const info=document.createElement('span');info.className='song-info';const title=document.createElement('strong');title.textContent=s.title;const artist=document.createElement('small');artist.textContent=s.artist;info.append(title,artist);button.append(number,info);
-    button.addEventListener('click',()=>{if(saved.selected===s.key)return;saved.selected=s.key;save();renderSelection();});list.append(button);
+    button.disabled=playerBusy;
+    button.addEventListener('click',()=>{if(saved.selected===s.key)return;changeSelection(()=>{saved.selected=s.key;});});list.append(button);
   });
 }
 function mountPlayer(){
@@ -58,6 +73,7 @@ function mountPlayer(){
   $('active-region').textContent='当前曲库地区：'+(regionNames[region]||region.toUpperCase());
   $('official-web-link').href='https://music.apple.com/'+region+'/new';
   $('official-web-link').textContent='前往 Apple 官网登录 ↗';
+  if(saved.mode!=='embed'){$('player-host').replaceChildren();return;}
   $('frame-status').textContent='正在载入 Apple Music 播放器…';
   const frame=document.createElement('iframe');frame.title=song().title+' — Apple Music 官方播放器';frame.allow='autoplay *; encrypted-media *; fullscreen *; clipboard-write';frame.referrerPolicy='strict-origin-when-cross-origin';
   frame.setAttribute('sandbox','allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation');
@@ -70,12 +86,12 @@ function mountPlayer(){
 function renderSelection(){
   const s=song();$('song-title').textContent=s.title;$('song-artist').textContent=s.artist;$('source-note').textContent=saved.overrides[s.key]?'使用你提供的 Apple Music 链接':s.note;
   $('track-number').textContent='0'+(SONGS.indexOf(s)+1)+' / 03';$('song-url').value=saved.overrides[s.key]||'';$('link-error').textContent='';
-  renderPicker();loadResult();mountPlayer();
+  renderPicker();loadResult();mountPlayer();mk?.refresh();
 }
 // Keep the share link on the current deployment, including its subdirectory.
 $('site-share-url').value=new URL('./',location.href).href;
 $('storefront').value=saved.region;
-$('storefront').addEventListener('change',()=>{saved.region=$('storefront').value;delete saved.overrides[saved.selected];save();renderSelection();});
+$('storefront').addEventListener('change',()=>{const region=$('storefront').value;changeSelection(()=>{saved.region=region;delete saved.overrides[saved.selected];});});
 $('reload-player').addEventListener('click',mountPlayer);
 async function copyLink(inputId,label){
   const input=$(inputId);
@@ -85,19 +101,37 @@ async function copyLink(inputId,label){
 $('copy-site-url').addEventListener('click',()=>copyLink('site-share-url','本站链接'));
 $('copy-track-url').addEventListener('click',()=>copyLink('track-share-url','歌曲链接'));
 $('link-form').addEventListener('submit',event=>{
-  event.preventDefault();try{const u=normalizeLink($('song-url').value.trim());saved.overrides[saved.selected]=u.href;save();renderSelection();}catch(error){$('link-error').textContent=error.message;}
+  event.preventDefault();try{const u=normalizeLink($('song-url').value.trim());changeSelection(()=>{saved.overrides[saved.selected]=u.href;});}catch(error){$('link-error').textContent=error.message;}
 });
 function recordResult(){
-  saved.results[resultKey()]={title:song().title,artist:song().artist,url:currentURL().href,play:$('result-play').value,lock:$('result-lock').value,controls:$('result-controls').value,notes:$('notes').value,updatedAt:new Date().toISOString()};save();
+  saved.results[resultKey()]={title:song().title,artist:song().artist,url:currentURL().href,engine:saved.mode,play:$('result-play').value,lock:$('result-lock').value,controls:$('result-controls').value,progress:$('result-progress').value,seek:$('result-seek').value,loop:$('result-loop').value,notes:$('notes').value,updatedAt:new Date().toISOString()};save();
 }
-for(const field of ['play','lock','controls'])$('result-'+field).addEventListener('change',recordResult);
+for(const field of ['play','lock','controls','progress','seek','loop'])$('result-'+field).addEventListener('change',recordResult);
 $('notes').addEventListener('input',recordResult);
 function reportText(){
   const rows=Object.values(saved.results).filter(r=>r&&typeof r==='object');
-  return ['日々うた · Apple Music 播放验证','设备目标：iPhone / iOS 27.0.1','记录来源：用户手动观察，非自动播放检测','生成时间：'+new Date().toLocaleString('zh-CN'),...rows.map(r=>['',r.title+' — '+r.artist,'歌曲链接：'+r.url,'播放：'+r.play,'锁屏：'+r.lock,'锁屏控制：'+r.controls,'备注：'+(r.notes||'无')].join('\n'))].join('\n');
+  return ['日々うた · Apple Music 播放验证 · 05','设备目标：iPhone / iOS 27.0.1','记录来源：用户手动观察，非自动播放检测','生成时间：'+new Date().toLocaleString('zh-CN'),...rows.map(r=>['',r.title+' — '+r.artist,'播放器：'+(r.engine==='musickit'?'MusicKit 练唱播放器':'官方嵌入播放器'),'歌曲链接：'+r.url,'播放：'+r.play,'锁屏：'+r.lock,'锁屏控制：'+r.controls,...(r.engine==='musickit'?['播放进度：'+r.progress,'跳转：'+r.seek,'前台循环：'+r.loop]:[]),'备注：'+(r.notes||'无')].join('\n'))].join('\n');
 }
 $('copy-report').addEventListener('click',async()=>{
   recordResult();const text=reportText();try{await navigator.clipboard.writeText(text);$('save-status').textContent='已复制，可以粘贴回对话。';}catch{$('report-output').value=text;$('report-output').hidden=false;$('report-output').focus();$('report-output').select();$('save-status').textContent='请长按下方文本，选择复制。';}
 });
-renderSelection();
+function renderMode(){
+  $('mk-panel').hidden=saved.mode!=='musickit';$('embed-panel').hidden=saved.mode!=='embed';
+  document.querySelector('.region-setting').hidden=saved.mode==='musickit';
+  $('mk-result-fields').hidden=saved.mode!=='musickit';
+  $('report-engine').textContent='当前记录：'+(saved.mode==='musickit'?'MusicKit 练唱播放器':'官方备用播放器');
+  document.querySelectorAll('input[name="player-mode"]').forEach(el=>el.checked=el.value===saved.mode);
+  lockSelection(playerBusy);
+}
+mk=initMusicKitPlayer({getURL:currentURL,getSong:song,isActive:()=>saved.mode==='musickit',onBusy:lockSelection});
+document.querySelectorAll('input[name="player-mode"]').forEach(el=>el.addEventListener('change',async()=>{
+  if(playerBusy)return;
+  lockSelection(true);
+  try{
+    if(!await mk.suspend()){renderMode();return;}
+    saved.mode=el.value;save();renderMode();renderSelection();
+    if(saved.mode==='musickit')await mk.activate();
+  }finally{lockSelection(false);}
+}));
+renderMode();renderSelection();
 try{localStorage.setItem(STORAGE_KEY,JSON.stringify(saved));}catch{}
