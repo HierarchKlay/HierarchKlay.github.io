@@ -1,0 +1,8 @@
+# MusicKit keys and locally generated credentials must stay outside the repository.
+*.p8
+*.pem
+*.key
+*.jwt
+musickit-developer-token*.txt
+.env
+.env.*

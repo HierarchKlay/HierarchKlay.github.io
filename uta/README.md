@@ -40,6 +40,10 @@ Apple 提供 MusicKit on the Web 用于自定义播放器，其初始化需要�
 
 参考：[Apple 官方嵌入播放器说明](https://artists.apple.com/support/1117-apple-music-marketing-tools)、[MusicKit on the Web 入门](https://js-cdn.music.apple.com/musickit/v3/docs/iframe.html?path=%2Fstory%2Fget-started--page)。
 
+## MusicKit 令牌准备
+
+本地签名工具与 Mac 操作步骤见 [tools/README.md](tools/README.md)。脚本使用 Node.js 自带加密模块，生成有效期 30 天、带本站 Origin 的开发者令牌。私钥与令牌保存在使用者本机，不提交到公开仓库。工具已经使用模拟密钥验证签名、错误输入处理、输出权限和不覆盖行为；真实 Apple 账户授权与播放控制仍待接入验证。
+
 ## 功能边界
 
 这是播放验证阶段。逐句歌词同步、假名开关、单句／选段循环、伴奏尚未接入。播放器页面加载成功不等于歌曲播放或会员登录成功。
