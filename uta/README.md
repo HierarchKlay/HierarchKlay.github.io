@@ -8,13 +8,13 @@
 
 - 此目录就是可直接部署的静态源代码：`index.html`、`styles.css`、`app.js`，无需安装依赖或构建。
 - 修改本目录并提交到 `main`，由仓库现有 Pages 发布流程部署。保留仓库其他目录与发布配置。
-- 版本 05：增加 MusicKit v3 自定义播放器；继续使用 `/uta/` 相对路径部署。后续修改需要同步更新资源版本号。
+- 版本 06：增加网站共享开发者令牌配置，所有设备自动读取；继续使用 `/uta/` 相对路径部署。后续修改需要同步更新资源版本号。
 - 不复制 Sites 的 `.openai/hosting.json`、部署凭据、用户记录或登录信息。
 
 ## 当前功能
 
 - Rain（秦 基博）、なんもねえ（忘れらんねえよ）、猫じゃらし（7co）三个官方音源入口，可选 MusicKit v3 或原有官方嵌入播放器。
-- MusicKit：本机令牌文件导入／粘贴、Apple Music 用户授权、播放／暂停、真实播放时间、进度条与指定秒数跳转。
+- MusicKit：网站共享令牌自动读取、本机令牌文件导入／粘贴备用、Apple Music 用户授权、播放／暂停、真实播放时间、进度条与指定秒数跳转。
 - A/B 选段循环为前台测试功能，进入后台后关闭；不能保证音频采样级精度或锁屏循环。
 - 两种播放器不会同时播放，测试报告按播放器区分；保留此前的嵌入播放记录。
 - 默认中国大陆曲库，可切换地区或填写官方歌曲分享链接。
@@ -39,24 +39,33 @@
 
 版本 05 读取 MusicKit v3 的 `currentPlaybackTime`、`currentPlaybackDuration` 和播放事件，通过 `seekToTime()` 跳转。页面轮询只读取 SDK 的实际位置，不推进独立时钟。曲目通过官方 `setQueue()` 加载，普通播放保留整首能力。
 
-用户在自己浏览器中导入开发者令牌，再通过 Apple 的弹窗授权。网页不读取 `.p8` 私钥，不上传凭据到 GitHub；令牌仅在页面内存或使用者选择的浏览器 localStorage 中保存，并用于 Apple MusicKit。每台设备／浏览器各配置一次。令牌格式、到期时间、Origin 的本地校验不等同于 Apple 的签名验证或会员验证。
+### 一次配置，多端使用
 
-Mac 可在文件选择窗口按 Command + Shift + G，输入 `~/Library/Application Support/Hibi Uta/`，选择生成的令牌 `.txt`。iPhone 可以把这份 `.txt` 传到自己的“文件”App 后导入，或在 Safari 页面粘贴令牌。
+1. 在 Mac 打开 [共享配置编辑页](https://github.com/HierarchKlay/HierarchKlay.github.io/edit/main/uta/musickit-config.json)。
+2. 把已生成的开发者令牌完整粘贴到 `developerToken` 的双引号内，保持 JSON 格式，提交到 `main`。初始配置为空，须完成这一步才会生效。
+3. 等 Pages 发布完成，Mac 和 iPhone 刷新本站，会自动读取同一枚令牌。Apple Music 会员授权仍需每台设备／浏览器分别完成，由 MusicKit 管理，不能把 Music User Token 跨设备共享。
+
+开发者令牌是随网页下发的公开配置，访问者可见。仅在此文件放置为本站生成的开发者令牌，保留 Origin 限制和有限有效期；**不要放入 `.p8` 私钥或 Music User Token**。到期前在同一文件更新，设备刷新后获取新值。当前没有服务端自动签发／续期。
+
+网站每次进入 MusicKit 模式时优先检查共享配置；成功连接后不再使用旧的本地开发者令牌。配置读取使用 `cache: no-store`，最多等待 8 秒；不可用或过期时可退回有效的本机令牌，并显示来源。Pages/CDN 发布仍可能需要时间。手动导入仅影响当前浏览器，不会自动写入 GitHub。共享模式下“重置本机授权”只重置当前设备，再次载入仍使用网站配置。
+
+本机导入备用：在 Mac 的文件选择窗口按 Command + Shift + G，输入 `~/Library/Application Support/Hibi Uta/`，选择生成的令牌 `.txt`。本地校验格式、到期时间及 Origin，不等同于 Apple 的签名验证或会员验证。
 
 先用猫じゃらし验证授权、超过 30 秒播放、进度随播放变化且暂停时停止、前后跳转、前台 A/B 循环，再关闭循环测试锁屏与锁屏控件。之前的嵌入播放通过不代表 MusicKit 已通过。
 
 ### 已完成的软件检查
 
-- Node 测试：签名工具及 token／URL／进度／循环辅助逻辑，共 8 项通过。
+- Node 测试：签名工具、token／URL／进度／循环、共享配置优先级／轮换／错误回退，共 12 项通过。执行 `node --test uta/tools/*.test.mjs`。
 - 浏览器界面：误粘私钥会本地拒绝并清空输入；播放器切换与记录隔离正常；390px 手机宽度布局已检查。
 - 使用无权限模拟令牌和模拟 SDK 测试连接、授权后的 UI、播放、暂停、30 秒跳转、A/B 回跳及切歌重置。模拟页面仅用于本地 QA，不发布。
+- 版本 06 另用隔离的模拟共享配置验证自动连接、重置本机授权后自动重连和 390px 手机布局；默认空配置下手动入口可用。
 - 尚未使用真实开发者令牌或会员账户测试 MusicKit 播放；iPhone Safari、锁屏续播与锁屏控制等待用户实测。
 
 官方参考：[MusicKit v3 实例接口](https://js-cdn.music.apple.com/musickit/v3/docs/iframe.html?path=/story/reference-javascript-musickit-instance--page)、[队列接口](https://js-cdn.music.apple.com/musickit/v3/docs/iframe.html?path=/story/reference-javascript-queue--page)、[官方嵌入播放器](https://artists.apple.com/support/1117-apple-music-marketing-tools)。
 
 ## MusicKit 令牌准备
 
-本地签名工具与 Mac 操作步骤见 [tools/README.md](tools/README.md)。脚本使用 Node.js 自带加密模块，生成有效期 30 天、带本站 Origin 的开发者令牌。私钥与令牌保存在使用者本机，不提交到公开仓库。工具已经使用模拟密钥验证签名、错误输入处理、输出权限和不覆盖行为；真实 Apple 账户授权与播放控制仍待用户实测。
+本地签名工具与 Mac 操作步骤见 [tools/README.md](tools/README.md)。脚本使用 Node.js 自带加密模块，生成有效期 30 天、带本站 Origin 的开发者令牌。私钥始终保存在本机，生成的开发者令牌可由站点所有者填入公开共享配置。工具已经使用模拟密钥验证签名、错误输入处理、输出权限和不覆盖行为；真实 Apple 账户授权与播放控制仍待用户实测。
 
 ## 功能边界
 

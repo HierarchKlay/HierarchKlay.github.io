@@ -1,4 +1,4 @@
-import { initMusicKitPlayer } from './musickit-player.mjs?v=5';
+import { initMusicKitPlayer } from './musickit-player.mjs?v=6';
 const SONGS = [
   { key:'rain', title:'Rain', artist:'秦 基博', path:'/album/1801540012?i=1801540626', note:'已核对官方播放器曲目；会员播放与地区可用性待验证' },
   { key:'nanmonee', title:'なんもねえ', artist:'忘れらんねえよ', path:'/album/6781198667', note:'已核对官方播放器曲目；会员播放与地区可用性待验证' },

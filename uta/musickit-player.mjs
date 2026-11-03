@@ -1,4 +1,5 @@
-import { parseDeveloperToken, queueForURL, formatTime, boundedTime, SegmentLoop } from './player-core.mjs?v=5';
+import { parseDeveloperToken, queueForURL, formatTime, boundedTime, SegmentLoop } from './player-core.mjs?v=6';
+import { resolveDeveloperToken } from './token-config.mjs?v=6';
 
 const TOKEN_KEY = 'hibi-uta-musickit-developer-token-v1';
 const SDK_URL = 'https://js-cdn.music.apple.com/musickit/v3/musickit.js';
@@ -25,6 +26,7 @@ export function initMusicKitPlayer({ getURL, getSong, isActive, onBusy }) {
   const loop = new SegmentLoop();
   let music = null, busy = false, connectedToken = '', expiresAt = 0, queuedURL = '', lastItemId = '';
   let lastSample = null, timeUpdates = 0, seekCount = 0;
+  let tokenSource = '', configChecked = false;
   const status = (message, error = false) => { $('mk-status').textContent = message; $('mk-status').classList.toggle('error', error); };
   const localError = message => Object.assign(new Error(message), { local: true });
   function failure(error) {
@@ -41,8 +43,8 @@ export function initMusicKitPlayer({ getURL, getSong, isActive, onBusy }) {
     const selectedLoaded = !!music && queuedURL === getURL().href;
     const hasTime = selectedLoaded && Number.isFinite(music.currentPlaybackDuration) && music.currentPlaybackDuration > 0;
     const playing = selectedLoaded && !!music.isPlaying;
-    $('mk-connection-state').textContent = !music ? '等待导入令牌' : authorized ? 'Apple Music 已授权' : '已连接 · 等待 Apple 授权';
-    $('mk-token-expiry').textContent = expiresAt ? '令牌到期：' + new Date(expiresAt * 1000).toLocaleDateString('zh-CN') : '选择 Mac 上生成的 .txt 文件。';
+    $('mk-connection-state').textContent = !music ? (configChecked ? '等待连接' : '正在读取网站配置') : authorized ? 'Apple Music 已授权' : '已连接 · 等待 Apple 授权';
+    $('mk-token-expiry').textContent = expiresAt ? (tokenSource === 'site' ? '网站共享' : '本机令牌') + ' · 到期：' + new Date(expiresAt * 1000).toLocaleDateString('zh-CN') : '共享配置会自动读取，也可手动导入 Mac 上生成的 .txt。';
     $('mk-connect').disabled = busy || !!music;
     $('mk-file').disabled = busy || !!music;
     $('mk-token').disabled = busy || !!music;
@@ -50,6 +52,7 @@ export function initMusicKitPlayer({ getURL, getSong, isActive, onBusy }) {
     $('mk-authorize').disabled = busy || !music || authorized;
     $('mk-authorize').textContent = authorized ? '已授权' : '授权 Apple Music';
     $('mk-clear').disabled = busy;
+    $('mk-clear').textContent = tokenSource === 'site' ? '重置本机授权' : '清除本机连接';
     $('mk-play').disabled = busy || !authorized;
     $('mk-play').textContent = playing ? '暂停' : selectedLoaded ? '播放' : '播放这首歌';
     for (const id of ['mk-back','mk-forward','mk-seek','mk-jump','mk-jump-time','mk-mark-a','mk-mark-b']) $(id).disabled = busy || !hasTime;
@@ -80,7 +83,7 @@ export function initMusicKitPlayer({ getURL, getSong, isActive, onBusy }) {
   }
   function ensureFresh() {
     if (!music) throw localError('请先连接 MusicKit。');
-    if (expiresAt <= Date.now() / 1000) throw localError('令牌已过期，请清除连接并导入新令牌。');
+    if (expiresAt <= Date.now() / 1000) throw localError(tokenSource === 'site' ? '共享令牌已过期，请更新网站配置后刷新。' : '令牌已过期，请清除本机连接并导入新令牌。');
   }
   async function seek(time) {
     ensureFresh();
@@ -104,22 +107,35 @@ export function initMusicKitPlayer({ getURL, getSong, isActive, onBusy }) {
     try { parsed = parseDeveloperToken(raw, { origin: location.origin }); }
     catch (e) { status(e.message, true); $('mk-token').value = ''; $('mk-file').value = ''; return; }
     $('mk-token').value = ''; $('mk-file').value = '';
-    await operation(async () => {
+    await operation(() => initialize(parsed, 'local'));
+  }
+  async function initialize(parsed, source) {
       status('正在连接 MusicKit…');
       const kit = await loadSDK();
-      await kit.configure({ developerToken: parsed.token, app: { name: '日々うた', build: '5' }, storefrontId: 'cn' });
+      await kit.configure({ developerToken: parsed.token, app: { name: '日々うた', build: '6' }, storefrontId: 'cn' });
       music = kit.getInstance();
       if (!music) throw localError('MusicKit 初始化未完成，请重新连接。');
-      connectedToken = parsed.token; expiresAt = parsed.expiresAt;
+      connectedToken = parsed.token; expiresAt = parsed.expiresAt; tokenSource = source;
       for (const name of ['playbackTimeDidChange','playbackStateDidChange','playbackDurationDidChange','nowPlayingItemDidChange','authorizationStatusDidChange']) music.addEventListener(name, sample);
       music.addEventListener('mediaPlaybackError', () => { loop.enabled = false; status('Apple 播放出错，请确认歌曲在当前会员地区可用后重试。', true); refresh(); });
       let stored = false;
       try {
-        if ($('mk-remember').checked) { localStorage.setItem(TOKEN_KEY, parsed.token); stored = true; }
+        if (source === 'site') localStorage.removeItem(TOKEN_KEY);
+        else if ($('mk-remember').checked) { localStorage.setItem(TOKEN_KEY, parsed.token); stored = true; }
         else localStorage.removeItem(TOKEN_KEY);
       } catch { /* Continue with a session-only token. */ }
       $('mk-setup').open = false;
-      status((music.isAuthorized ? '已连接，可以播放歌曲。' : '已连接，请点击「授权 Apple Music」。') + (stored ? '' : '令牌仅在本次页面使用。'));
+      if (source === 'local') $('mk-config-status').textContent = '当前使用本机令牌。手动导入不会同步到其他设备。';
+      status((music.isAuthorized ? '已连接，可以播放歌曲。' : '已连接，请点击「授权 Apple Music」。') + (source === 'site' || stored ? '' : '令牌仅在本次页面使用。'));
+  }
+  async function bootstrap() {
+    return operation(async () => {
+      status('正在读取网站共享配置…');
+      const result = await resolveDeveloperToken({ readLocal: () => localStorage.getItem(TOKEN_KEY), origin: location.origin });
+      configChecked = true;
+      $('mk-config-status').textContent = result.notice;
+      if (result.parsed) await initialize(result.parsed, result.source);
+      else { $('mk-setup').open = true; status('请设置网站共享令牌，或在此浏览器导入令牌。'); }
     });
   }
   $('mk-token-form').addEventListener('submit', event => { event.preventDefault(); if (!music && !busy) connect($('mk-token').value); });
@@ -183,9 +199,7 @@ export function initMusicKitPlayer({ getURL, getSong, isActive, onBusy }) {
   // Poll only the SDK's actual position to refresh the visible UI; never advance an independent clock.
   setInterval(() => { if (document.visibilityState === 'visible') sample(); }, 500);
   refresh();
-  let remembered = '';
-  try { remembered = localStorage.getItem(TOKEN_KEY) || ''; } catch {}
-  if (remembered && isActive()) connect(remembered);
+  if (isActive()) bootstrap();
   return {
     async suspend() {
       return operation(async () => {
@@ -203,7 +217,7 @@ export function initMusicKitPlayer({ getURL, getSong, isActive, onBusy }) {
       });
     },
     async activate() {
-      if (!music && remembered) { const token = remembered; remembered = ''; await connect(token); }
+      if (!music) await bootstrap();
       refresh();
     },
     refresh,

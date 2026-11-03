@@ -1,6 +1,6 @@
 # 在 Mac 本地生成 MusicKit 开发者令牌
 
-此工具用于日々うた的 MusicKit 接入准备，使用 Node.js 自带的加密模块，没有 npm 依赖，不发送网络请求。私钥始终保留在本机。网站版本 05 已有 MusicKit 导入入口；生成令牌后需在自己的浏览器中导入并授权 Apple Music。
+此工具用于日々うた的 MusicKit 接入准备，使用 Node.js 自带的加密模块，没有 npm 依赖，不发送网络请求。私钥始终保留在本机。网站版本 06 支持一次配置、多端读取；生成令牌后按下方步骤配置，再在各设备授权 Apple Music。
 
 ## 准备
 
@@ -24,7 +24,19 @@ node generate-musickit-token.mjs --key-file "/完整路径/AuthKey_你的KeyID.p
 
 脚本生成有效期 30 天的 ES256 JWT，包含 `origin: ["https://hierarchklay.github.io"]`。Origin 是协议和域名，不包含 `/uta/` 路径；这也不是替代用户授权的机制。
 
-默认文件位置为 `~/Library/Application Support/Hibi Uta/musickit-developer-token-时间戳.txt`，输出文件权限为仅当前用户读写，且不会覆盖已有文件。终端只显示保存位置与到期时间，不显示令牌正文。私钥和令牌均不要提交到此公开仓库。
+默认文件位置为 `~/Library/Application Support/Hibi Uta/musickit-developer-token-时间戳.txt`，输出文件权限为仅当前用户读写，且不会覆盖已有文件。终端只显示保存位置与到期时间，不显示令牌正文。
+
+## 一次配置到网站
+
+打开 [GitHub 共享配置编辑页](https://github.com/HierarchKlay/HierarchKlay.github.io/edit/main/uta/musickit-config.json)，将生成的开发者令牌填入 `developerToken` 双引号内并提交。Pages 发布后，Mac 与 iPhone 刷新本站即可自动读取；无需各自导入。开发者令牌随网站公开提供，仅限填写这一类令牌，`.p8` 私钥和 Apple Music 用户授权令牌始终不上传。
+
+文件路径有空格时必须加引号。例如复制到 Mac 剪贴板：
+
+```sh
+pbcopy < "$HOME/Library/Application Support/Hibi Uta/实际生成的文件名.txt"
+```
+
+请将示例文件名换成脚本输出的完整文件名。令牌到期后重新生成，在同一配置文件替换一次即可；网站暂不自动续期。手动导入入口仍保留，仅影响当前浏览器。
 
 “本地签名校验通过”只验证签名与所选密钥匹配，不代表 Apple 已认可 Team ID、Key ID、服务权限或用户订阅。接下来需要通过网站配置 MusicKit，并用中国区 Apple Music 账号实测授权、播放进度、跳转和锁屏。开发者令牌不等同于 Music User Token；后者由用户在 Apple 的授权界面同意后，通过 MusicKit 管理。
 

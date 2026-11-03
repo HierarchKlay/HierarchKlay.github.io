@@ -6,12 +6,12 @@
   <meta name="theme-color" content="#f5f7f2">
   <meta name="description" content="日々うた：在 iPhone 上验证 Apple Music 授权、播放进度、跳转与锁屏播放。">
   <title>日々うた · 先听一首歌</title>
-  <link rel="stylesheet" href="styles.css?v=5">
-  <script type="module" src="app.js?v=5"></script>
+  <link rel="stylesheet" href="styles.css?v=6">
+  <script type="module" src="app.js?v=6"></script>
 </head>
 <body>
 <div class="shell">
-  <header><a class="brand" href="./" aria-label="日々うた首页">日々<span>うた</span><small>HIBI UTA</small></a><span class="edition">播放控制 · 05</span></header>
+  <header><a class="brand" href="./" aria-label="日々うた首页">日々<span>うた</span><small>HIBI UTA</small></a><span class="edition">多端连接 · 06</span></header>
   <main>
     <div class="intro"><span class="eyebrow">いつでも、歌と。</span><h1>先听一首，<br>再慢慢唱会。</h1><p>连接你的 Apple Music，让一首歌可以慢慢听、反复练。</p></div>
     <div class="layout">
@@ -36,15 +36,17 @@
         <fieldset class="player-mode"><legend>播放方式</legend><label><input type="radio" name="player-mode" value="musickit" checked> MusicKit 练唱播放器</label><label><input type="radio" name="player-mode" value="embed"> 官方备用播放器</label></fieldset>
         <div id="mk-panel">
           <details id="mk-setup" class="connection" open>
-            <summary>连接 Apple Music <span id="mk-connection-state">等待导入令牌</span></summary>
-            <p class="quiet">导入 Mac 上生成的令牌 .txt，或粘贴令牌。它用于向 Apple 连接服务；无需把 .p8 私钥放进网页。</p>
+            <summary>连接 Apple Music <span id="mk-connection-state">正在读取网站配置</span></summary>
+            <p id="mk-config-status" class="quiet">网站配置一次开发者令牌，Mac 和 iPhone 都会自动读取。</p>
+            <details class="settings"><summary>在所有设备使用同一令牌</summary><p class="quiet">在 GitHub 配置文件的 developerToken 双引号内填入已生成的令牌并提交。发布后刷新本站，所有设备自动连接；到期时在同一处更新。</p><a href="https://github.com/HierarchKlay/HierarchKlay.github.io/edit/main/uta/musickit-config.json" target="_blank" rel="noopener noreferrer">打开网站共享配置 ↗</a><p class="quiet">此配置公开可见，只填写开发者令牌。不要上传 .p8 私钥或 Apple 用户授权令牌。各设备仍需单独授权 Apple Music。</p></details>
+            <p class="quiet">临时在此浏览器使用，也可导入 Mac 上生成的令牌 .txt，或粘贴令牌。</p>
             <label class="file-label" for="mk-file">选择令牌文件<input id="mk-file" type="file" accept=".txt,.jwt,text/plain"></label>
             <form id="mk-token-form"><label for="mk-token">也可以粘贴令牌</label><textarea id="mk-token" rows="2" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="粘贴生成的开发者令牌"></textarea><label class="remember"><input id="mk-remember" type="checkbox" checked> 记住此浏览器的令牌</label><button id="mk-connect" class="secondary" type="submit">连接 MusicKit</button></form>
-            <p class="quiet">仅保存在此浏览器，并提供给 Apple 完成连接；不会提交到 GitHub。Mac 和 iPhone 需要各导入一次。</p>
+            <p class="quiet">手动导入仅保存在此浏览器，不会自动更新网站共享配置。</p>
           </details>
-          <div class="connection-actions"><button id="mk-authorize" class="secondary" type="button" disabled>授权 Apple Music</button><button id="mk-clear" class="text-button" type="button">清除连接 / 更换令牌</button></div>
-          <p id="mk-token-expiry" class="quiet">选择 Mac 上生成的 .txt 文件。</p>
-          <p id="mk-status" class="mk-status" role="status" aria-live="polite">先导入令牌，再授权你的中国区 Apple Music 账号。</p>
+          <div class="connection-actions"><button id="mk-authorize" class="secondary" type="button" disabled>授权 Apple Music</button><button id="mk-clear" class="text-button" type="button">清除本机连接</button></div>
+          <p id="mk-token-expiry" class="quiet">正在读取网站共享配置…</p>
+          <p id="mk-status" class="mk-status" role="status" aria-live="polite">连接后，授权你的中国区 Apple Music 账号。</p>
           <div class="transport">
             <p id="mk-track-detail" class="quiet">选一首歌，再开始播放。</p>
             <div class="time-row"><span id="mk-time">—:—</span><span id="mk-duration">—:—</span></div>
@@ -83,7 +85,7 @@
     </div>
     <section class="check-panel" aria-labelledby="check-title">
       <div class="check-intro"><div><span class="eyebrow">在你的 IPHONE 上试一试</span><h2 id="check-title">听得到，也要听得连贯。</h2></div><span class="local-tag">结果仅保存在此浏览器</span></div>
-      <ol class="steps"><li><span>1</span><div><strong>先播放超过 30 秒</strong><p>在 Safari 中打开本页，导入令牌并授权，确认播放没有停在试听。</p></div></li><li><span>2</span><div><strong>锁屏继续听 1 分钟</strong><p>先测试进度与跳转，再关闭选段循环，锁屏尝试暂停和继续。</p></div></li><li><span>3</span><div><strong>回来记录一下</strong><p>下面记录你的观察。两种播放器的结果会分开保存。</p></div></li></ol>
+      <ol class="steps"><li><span>1</span><div><strong>先播放超过 30 秒</strong><p>在 Safari 中打开本页，连接后授权 Apple Music，确认播放没有停在试听。</p></div></li><li><span>2</span><div><strong>锁屏继续听 1 分钟</strong><p>先测试进度与跳转，再关闭选段循环，锁屏尝试暂停和继续。</p></div></li><li><span>3</span><div><strong>回来记录一下</strong><p>下面记录你的观察。两种播放器的结果会分开保存。</p></div></li></ol>
       <div class="results">
         <label>当前歌曲的播放情况<select id="result-play"><option value="未测试">未测试</option><option value="无法登录AppleMusic">无法登录 Apple Music</option><option value="可连续播放超过30秒">可连续播放超过 30 秒</option><option value="已听完整首">已听完整首</option><option value="只能试听">只能试听</option><option value="无法播放或歌曲不可用">无法播放／歌曲不可用</option></select></label>
         <label>锁屏后<select id="result-lock"><option value="未测试">未测试</option><option value="持续播放至少1分钟">持续播放至少 1 分钟</option><option value="锁屏后停止">锁屏后停止</option><option value="过一段时间后停止">过一段时间后停止</option></select></label>
