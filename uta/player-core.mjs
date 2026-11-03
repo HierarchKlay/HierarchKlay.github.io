@@ -51,7 +51,7 @@ export function boundedTime(value, duration) {
 
 export class SegmentLoop {
   constructor() { this.reset(); }
-  reset() { this.a = null; this.b = null; this.enabled = false; this.seeking = false; this.generation = (this.generation || 0) + 1; }
+  reset() { this.a = null; this.b = null; this.enabled = false; this.seeking = false; this.once = false; this.passes = 0; this.generation = (this.generation || 0) + 1; }
   markA(time) {
     if (!Number.isFinite(time) || time < 0) throw new Error('等待歌曲载入后再标记。');
     this.reset(); this.a = time;
@@ -61,15 +61,20 @@ export class SegmentLoop {
     if (!Number.isFinite(time) || time < this.a + 1) throw new Error('终点 B 至少要比起点 A 晚 1 秒。');
     this.b = time; this.enabled = false;
   }
-  start() {
+  start({ once = false } = {}) {
     if (this.a === null || this.b === null) throw new Error('请先标记 A 和 B。');
-    this.enabled = true;
+    this.enabled = true; this.once = once; this.passes = 0;
   }
-  async tick({ time, playing, visible }, seek) {
+  async tick({ time, playing, visible }, seek, pause) {
     if (!this.enabled || this.seeking || !playing || !visible || !Number.isFinite(time) || time < this.b) return false;
     const generation = this.generation;
     this.seeking = true;
-    try { await seek(this.a); return true; }
+    try {
+      if (this.once) { this.enabled = false; await pause(); }
+      else await seek(this.a);
+      if (generation === this.generation) this.passes += 1;
+      return true;
+    }
     catch (error) { if (generation === this.generation) this.enabled = false; throw error; }
     finally { if (generation === this.generation) this.seeking = false; }
   }

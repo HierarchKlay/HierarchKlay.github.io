@@ -1,8 +1,8 @@
-import { initMusicKitPlayer } from './musickit-player.mjs?v=6';
+import { initMusicKitPlayer } from './musickit-player.mjs?v=7';
 const SONGS = [
-  { key:'rain', title:'Rain', artist:'秦 基博', path:'/album/1801540012?i=1801540626', note:'已核对官方播放器曲目；会员播放与地区可用性待验证' },
-  { key:'nanmonee', title:'なんもねえ', artist:'忘れらんねえよ', path:'/album/6781198667', note:'已核对官方播放器曲目；会员播放与地区可用性待验证' },
-  { key:'nekojarashi', title:'猫じゃらし', artist:'7co', path:'/album/6781555396', note:'已核对官方播放器曲目；会员播放与地区可用性待验证' }
+  { key:'rain', title:'Rain', artist:'秦 基博', path:'/album/1801540012?i=1801540626', note:'Apple Music · 原唱跟唱' },
+  { key:'nanmonee', title:'なんもねえ', artist:'忘れらんねえよ', path:'/album/6781198667', note:'Apple Music · 原唱跟唱' },
+  { key:'nekojarashi', title:'猫じゃらし', artist:'7co', path:'/album/6781555396', note:'Apple Music · 原唱跟唱' }
 ];
 const STORAGE_KEY='hibi-uta-playback-check-v1';
 const $=id=>document.getElementById(id);
@@ -37,10 +37,11 @@ function normalizeLink(raw){
   if(u.searchParams.has('i')&&!/^\d+$/.test(u.searchParams.get('i')))throw Error('链接中的歌曲编号无效。');
   u.hash='';return u;
 }
-function currentURL(){
-  if(saved.overrides[saved.selected]){try{return normalizeLink(saved.overrides[saved.selected]);}catch{delete saved.overrides[saved.selected];}}
-  return new URL('https://music.apple.com/'+saved.region+song().path);
+function songURL(s){
+  if(saved.overrides[s.key]){try{return normalizeLink(saved.overrides[s.key]);}catch{delete saved.overrides[s.key];}}
+  return new URL('https://music.apple.com/'+saved.region+s.path);
 }
+function currentURL(){return songURL(song());}
 function resultKey(){return saved.selected+'|'+currentURL().href+(saved.mode==='musickit'?'|musickit':'');}
 function save(message='已保存在此浏览器'){
   try{localStorage.setItem(STORAGE_KEY,JSON.stringify(saved));$('save-status').textContent=message;}
@@ -110,7 +111,7 @@ for(const field of ['play','lock','controls','progress','seek','loop'])$('result
 $('notes').addEventListener('input',recordResult);
 function reportText(){
   const rows=Object.values(saved.results).filter(r=>r&&typeof r==='object');
-  return ['日々うた · Apple Music 播放验证 · 05','设备目标：iPhone / iOS 27.0.1','记录来源：用户手动观察，非自动播放检测','生成时间：'+new Date().toLocaleString('zh-CN'),...rows.map(r=>['',r.title+' — '+r.artist,'播放器：'+(r.engine==='musickit'?'MusicKit 练唱播放器':'官方嵌入播放器'),'歌曲链接：'+r.url,'播放：'+r.play,'锁屏：'+r.lock,'锁屏控制：'+r.controls,...(r.engine==='musickit'?['播放进度：'+r.progress,'跳转：'+r.seek,'前台循环：'+r.loop]:[]),'备注：'+(r.notes||'无')].join('\n'))].join('\n');
+  return ['日々うた · Apple Music 播放验证 · 07','设备目标：iPhone / iOS 27.0.1','记录来源：用户手动观察，非自动播放检测','生成时间：'+new Date().toLocaleString('zh-CN'),...rows.map(r=>['',r.title+' — '+r.artist,'播放器：'+(r.engine==='musickit'?'MusicKit 练唱播放器':'官方嵌入播放器'),'歌曲链接：'+r.url,'播放：'+r.play,'锁屏：'+r.lock,'锁屏控制：'+r.controls,...(r.engine==='musickit'?['播放进度：'+r.progress,'跳转：'+r.seek,'前台循环：'+r.loop]:[]),'备注：'+(r.notes||'无')].join('\n'))].join('\n');
 }
 $('copy-report').addEventListener('click',async()=>{
   recordResult();const text=reportText();try{await navigator.clipboard.writeText(text);$('save-status').textContent='已复制，可以粘贴回对话。';}catch{$('report-output').value=text;$('report-output').hidden=false;$('report-output').focus();$('report-output').select();$('save-status').textContent='请长按下方文本，选择复制。';}
@@ -123,7 +124,7 @@ function renderMode(){
   document.querySelectorAll('input[name="player-mode"]').forEach(el=>el.checked=el.value===saved.mode);
   lockSelection(playerBusy);
 }
-mk=initMusicKitPlayer({getURL:currentURL,getSong:song,isActive:()=>saved.mode==='musickit',onBusy:lockSelection});
+mk=initMusicKitPlayer({getURL:currentURL,getSong:song,isActive:()=>saved.mode==='musickit',onBusy:lockSelection,getSongs:()=>SONGS.map(s=>({...s,url:songURL(s).href})),onTrackChange:key=>{if(saved.selected!==key){saved.selected=key;save();renderSelection();}}});
 document.querySelectorAll('input[name="player-mode"]').forEach(el=>el.addEventListener('change',async()=>{
   if(playerBusy)return;
   lockSelection(true);
@@ -135,3 +136,10 @@ document.querySelectorAll('input[name="player-mode"]').forEach(el=>el.addEventLi
 }));
 renderMode();renderSelection();
 try{localStorage.setItem(STORAGE_KEY,JSON.stringify(saved));}catch{}
+
+$('focus-toggle').addEventListener('click',()=>{
+  const focus=document.body.classList.toggle('focus-mode');
+  $('focus-toggle').textContent=focus?'退出专注':'专注练唱';
+  $('focus-toggle').setAttribute('aria-pressed',String(focus));
+  if(focus)document.querySelector('.player-card').scrollIntoView({behavior:'smooth',block:'start'});
+});

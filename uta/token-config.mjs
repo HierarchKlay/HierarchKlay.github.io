@@ -1,4 +1,4 @@
-import { parseDeveloperToken } from './player-core.mjs?v=6';
+import { parseDeveloperToken } from './player-core.mjs?v=7';
 
 // Only a public developer token belongs in this file. Never read a private key or user token.
 export async function fetchSiteConfig(fetcher = globalThis.fetch) {

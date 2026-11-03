@@ -4,21 +4,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#f5f7f2">
-  <meta name="description" content="日々うた：在 iPhone 上验证 Apple Music 授权、播放进度、跳转与锁屏播放。">
-  <title>日々うた · 先听一首歌</title>
-  <link rel="stylesheet" href="styles.css?v=6">
-  <script type="module" src="app.js?v=6"></script>
+  <meta name="description" content="日々うた：在 iPhone 上验证 Apple Music 原唱跟唱、整首循环与片段反复练习。">
+  <title>日々うた · 每天唱会一点</title>
+  <link rel="stylesheet" href="styles.css?v=7">
+  <script type="module" src="app.js?v=7"></script>
 </head>
 <body>
 <div class="shell">
-  <header><a class="brand" href="./" aria-label="日々うた首页">日々<span>うた</span><small>HIBI UTA</small></a><span class="edition">多端连接 · 06</span></header>
+  <header><a class="brand" href="./" aria-label="日々うた首页">日々<span>うた</span><small>HIBI UTA</small></a><div class="header-actions"><button id="focus-toggle" class="text-button" type="button" aria-pressed="false">专注练唱</button><span class="edition">练唱手帖 · 07</span></div></header>
   <main>
-    <div class="intro"><span class="eyebrow">いつでも、歌と。</span><h1>先听一首，<br>再慢慢唱会。</h1><p>连接你的 Apple Music，让一首歌可以慢慢听、反复练。</p></div>
+    <div class="intro"><span class="eyebrow">いつでも、歌と。</span><h1>一首歌，<br>慢慢唱进日常。</h1><p>先完整听，再把难唱的几秒，多练几遍。</p></div>
     <div class="layout">
       <aside class="library" aria-label="首批练唱歌单">
         <div class="section-label">这次想唱的歌 <span>03</span></div>
         <div id="song-list" class="songs"></div>
-        <p class="quiet">切换歌曲会停止当前播放。</p>
+        <p class="quiet">选一首练习，或在播放器中选择「歌单连续听」。</p>
         <div class="settings region-setting">
           <label for="storefront">歌曲所在地区</label>
           <select id="storefront"><option value="cn">中国大陆</option><option value="jp">日本</option><option value="hk">香港</option><option value="tw">台湾</option><option value="us">美国</option><option value="gb">英国</option></select>
@@ -42,20 +42,32 @@
             <p class="quiet">临时在此浏览器使用，也可导入 Mac 上生成的令牌 .txt，或粘贴令牌。</p>
             <label class="file-label" for="mk-file">选择令牌文件<input id="mk-file" type="file" accept=".txt,.jwt,text/plain"></label>
             <form id="mk-token-form"><label for="mk-token">也可以粘贴令牌</label><textarea id="mk-token" rows="2" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="粘贴生成的开发者令牌"></textarea><label class="remember"><input id="mk-remember" type="checkbox" checked> 记住此浏览器的令牌</label><button id="mk-connect" class="secondary" type="submit">连接 MusicKit</button></form>
-            <p class="quiet">手动导入仅保存在此浏览器，不会自动更新网站共享配置。</p>
+            <p class="quiet">手动导入仅保存在此浏览器，不会自动更新网站共享配置。</p><p id="mk-token-expiry" class="quiet">正在读取网站共享配置…</p><button id="mk-clear" class="text-button" type="button">清除本机连接</button>
           </details>
-          <div class="connection-actions"><button id="mk-authorize" class="secondary" type="button" disabled>授权 Apple Music</button><button id="mk-clear" class="text-button" type="button">清除本机连接</button></div>
-          <p id="mk-token-expiry" class="quiet">正在读取网站共享配置…</p>
+          <div id="mk-auth-actions" class="connection-actions"><button id="mk-authorize" class="secondary" type="button" disabled>授权 Apple Music</button></div>
           <p id="mk-status" class="mk-status" role="status" aria-live="polite">连接后，授权你的中国区 Apple Music 账号。</p>
+          <div class="listen-setting"><label for="mk-listen-mode">这次怎么听</label><select id="mk-listen-mode"><option value="single">这首听一遍</option><option value="repeat">整首循环</option><option value="playlist">歌单连续听</option></select><p id="mk-queue-note" class="quiet">从当前歌曲开始。</p></div>
           <div class="transport">
             <p id="mk-track-detail" class="quiet">选一首歌，再开始播放。</p>
             <div class="time-row"><span id="mk-time">—:—</span><span id="mk-duration">—:—</span></div>
             <input id="mk-seek" type="range" min="0" max="100" step="0.1" value="0" aria-label="歌曲播放进度" disabled>
             <div class="transport-buttons"><button id="mk-back" class="secondary" type="button" disabled>−5 秒</button><button id="mk-play" class="primary" type="button" disabled>播放这首歌</button><button id="mk-forward" class="secondary" type="button" disabled>＋5 秒</button></div>
-            <form id="mk-jump-form" class="jump-row"><label for="mk-jump-time">跳到第</label><input id="mk-jump-time" type="number" min="0" step="0.1" inputmode="decimal" placeholder="30" disabled><span>秒</span><button id="mk-jump" class="secondary" type="submit" disabled>跳转</button></form>
+            <div class="track-navigation"><button id="mk-previous" class="text-button" type="button" disabled>上一首</button><button id="mk-restart" class="text-button" type="button" disabled>从头听</button><button id="mk-next" class="text-button" type="button" disabled>下一首</button></div><form id="mk-jump-form" class="jump-row"><label for="mk-jump-time">跳到第</label><input id="mk-jump-time" type="number" min="0" step="0.1" inputmode="decimal" placeholder="30" disabled><span>秒</span><button id="mk-jump" class="secondary" type="submit" disabled>跳转</button></form>
           </div>
-          <details class="segment-settings"><summary>选段循环 <span>前台测试</span></summary><p class="quiet">在想反复练的片段开头标记 A，结尾标记 B，再开启循环。至少间隔 1 秒；锁屏或切到后台会关闭此循环。</p><div class="segment-marks"><button id="mk-mark-a" class="secondary" type="button" disabled>标记 A <small id="mk-a">未标记</small></button><button id="mk-mark-b" class="secondary" type="button" disabled>标记 B <small id="mk-b">未标记</small></button></div><div class="connection-actions"><button id="mk-loop" class="primary" type="button" aria-pressed="false" disabled>开始循环</button><button id="mk-reset-loop" class="text-button" type="button" disabled>清除标记</button></div></details>
-          <p id="mk-telemetry" class="quiet">读取到 0 次进度变化 · 已完成 0 次跳转</p>
+          <section class="practice-panel" aria-labelledby="practice-title">
+            <div class="practice-heading"><h3 id="practice-title">把难唱的几秒，留下来。</h3><span class="local-tag">片段练习 · 保持前台</span></div>
+            <p class="quiet">听到开头点 A，听到结尾点 B。可以听一遍、循环练，或保存下来。</p>
+            <div class="segment-marks"><button id="mk-mark-a" class="secondary" type="button" disabled>标记起点 A <small id="mk-a">未标记</small></button><button id="mk-mark-b" class="secondary" type="button" disabled>标记终点 B <small id="mk-b">未标记</small></button></div>
+            <form id="mk-range-form" class="range-editor"><label>起点<input id="mk-range-a" type="text" inputmode="decimal" placeholder="0:30" autocomplete="off" disabled></label><label>终点<input id="mk-range-b" type="text" inputmode="decimal" placeholder="0:38" autocomplete="off" disabled></label><button id="mk-apply-range" class="secondary" type="submit" disabled>调整</button></form>
+            <div class="practice-actions"><button id="mk-once" class="secondary" type="button" disabled>听一遍</button><button id="mk-loop" class="primary" type="button" aria-pressed="false" disabled>循环练</button><button id="mk-reset-loop" class="text-button" type="button" disabled>清除标记</button></div>
+            <p id="mk-practice-state" class="practice-state" role="status">还没有选定片段。</p>
+            <form id="mk-save-clip-form" class="save-clip-row"><label class="sr-only" for="mk-clip-name">片段名称</label><input id="mk-clip-name" type="text" maxlength="60" placeholder="起个名字，例如「副歌换气」" autocomplete="off"><button id="mk-save-clip" class="secondary" type="submit" disabled>保存片段</button></form>
+            <div class="saved-clips-heading"><h3>我的练习片段 <span id="mk-clip-count">0</span></h3><span class="local-tag">仅存于此浏览器</span></div>
+            <p id="mk-clips-empty" class="quiet">保存后会出现在这里，下次打开也能继续练。</p><div id="mk-clips" class="saved-clips"></div>
+            <button id="mk-undo-delete" class="text-button" type="button" hidden>撤销删除片段</button>
+            <p class="quiet practice-boundary">锁屏或切到后台会结束片段练习，音频可继续整首播放。逐句歌词与假名还在接入准备中。</p>
+          </section>
+          <details class="player-diagnostics"><summary>连接详情与播放诊断</summary><p id="mk-telemetry" class="quiet">读取到 0 次进度变化 · 已完成 0 次跳转</p></details>
         </div>
         <div id="embed-panel" hidden>
         <div class="login-help">
@@ -83,7 +95,7 @@
         </div>
       </section>
     </div>
-    <section class="check-panel" aria-labelledby="check-title">
+    <details class="check-panel"><summary>播放遇到问题？记录测试结果</summary><div aria-labelledby="check-title">
       <div class="check-intro"><div><span class="eyebrow">在你的 IPHONE 上试一试</span><h2 id="check-title">听得到，也要听得连贯。</h2></div><span class="local-tag">结果仅保存在此浏览器</span></div>
       <ol class="steps"><li><span>1</span><div><strong>先播放超过 30 秒</strong><p>在 Safari 中打开本页，连接后授权 Apple Music，确认播放没有停在试听。</p></div></li><li><span>2</span><div><strong>锁屏继续听 1 分钟</strong><p>先测试进度与跳转，再关闭选段循环，锁屏尝试暂停和继续。</p></div></li><li><span>3</span><div><strong>回来记录一下</strong><p>下面记录你的观察。两种播放器的结果会分开保存。</p></div></li></ol>
       <div class="results">
@@ -96,9 +108,10 @@
       <label class="note-label" for="notes">其他情况 <span>可选</span></label><textarea id="notes" rows="2" placeholder="例如：跳到了音乐 App、提示地区不可用、只有试听…"></textarea>
       <div class="report-actions"><button id="copy-report" class="primary" type="button">复制测试结果</button><span id="save-status" role="status">选择结果后自动保存</span></div>
       <textarea id="report-output" rows="9" readonly aria-label="测试结果文本，可手动复制" hidden></textarea>
-    </section>
-    <footer><p>当前验证 MusicKit 授权、播放进度、跳转和前台选段循环。逐句歌词与假名尚未接入；锁屏表现需在你的 iPhone 上实测。</p><a href="https://artists.apple.com/support/1117-apple-music-marketing-tools" target="_blank" rel="noopener noreferrer">Apple 官方嵌入播放说明 ↗</a></footer>
+    </div></details>
+    <footer><p>原唱来自 Apple Music。整首循环与连续听交给播放器；片段练习需保持页面在前台。</p><a href="https://artists.apple.com/support/1117-apple-music-marketing-tools" target="_blank" rel="noopener noreferrer">Apple 官方嵌入播放说明 ↗</a></footer>
   </main>
+  <div id="mini-player" class="mini-player" hidden><div class="mini-info"><strong id="mini-title">Rain</strong><span id="mini-state">等待播放</span></div><button id="mini-back" class="secondary" type="button" aria-label="后退五秒" disabled>−5 秒</button><button id="mini-play" class="primary" type="button" disabled>播放</button></div>
 </div>
 </body>
 </html>
