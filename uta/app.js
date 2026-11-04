@@ -1,4 +1,4 @@
-import { initMusicKitPlayer } from './musickit-player.mjs?v=7';
+import { initMusicKitPlayer } from './musickit-player.mjs?v=8';
 const SONGS = [
   { key:'rain', title:'Rain', artist:'秦 基博', path:'/album/1801540012?i=1801540626', note:'Apple Music · 原唱跟唱' },
   { key:'nanmonee', title:'なんもねえ', artist:'忘れらんねえよ', path:'/album/6781198667', note:'Apple Music · 原唱跟唱' },
@@ -111,7 +111,7 @@ for(const field of ['play','lock','controls','progress','seek','loop'])$('result
 $('notes').addEventListener('input',recordResult);
 function reportText(){
   const rows=Object.values(saved.results).filter(r=>r&&typeof r==='object');
-  return ['日々うた · Apple Music 播放验证 · 07','设备目标：iPhone / iOS 27.0.1','记录来源：用户手动观察，非自动播放检测','生成时间：'+new Date().toLocaleString('zh-CN'),...rows.map(r=>['',r.title+' — '+r.artist,'播放器：'+(r.engine==='musickit'?'MusicKit 练唱播放器':'官方嵌入播放器'),'歌曲链接：'+r.url,'播放：'+r.play,'锁屏：'+r.lock,'锁屏控制：'+r.controls,...(r.engine==='musickit'?['播放进度：'+r.progress,'跳转：'+r.seek,'前台循环：'+r.loop]:[]),'备注：'+(r.notes||'无')].join('\n'))].join('\n');
+  return ['日々うた · Apple Music 播放验证 · 08','设备目标：iPhone / iOS 27.0.1','记录来源：用户手动观察，非自动播放检测','生成时间：'+new Date().toLocaleString('zh-CN'),...rows.map(r=>['',r.title+' — '+r.artist,'播放器：'+(r.engine==='musickit'?'MusicKit 练唱播放器':'官方嵌入播放器'),'歌曲链接：'+r.url,'播放：'+r.play,'锁屏：'+r.lock,'锁屏控制：'+r.controls,...(r.engine==='musickit'?['播放进度：'+r.progress,'跳转：'+r.seek,'前台循环：'+r.loop]:[]),'备注：'+(r.notes||'无')].join('\n'))].join('\n');
 }
 $('copy-report').addEventListener('click',async()=>{
   recordResult();const text=reportText();try{await navigator.clipboard.writeText(text);$('save-status').textContent='已复制，可以粘贴回对话。';}catch{$('report-output').value=text;$('report-output').hidden=false;$('report-output').focus();$('report-output').select();$('save-status').textContent='请长按下方文本，选择复制。';}

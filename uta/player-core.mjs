@@ -65,13 +65,17 @@ export class SegmentLoop {
     if (this.a === null || this.b === null) throw new Error('请先标记 A 和 B。');
     this.enabled = true; this.once = once; this.passes = 0;
   }
-  async tick({ time, playing, visible }, seek, pause) {
-    if (!this.enabled || this.seeking || !playing || !visible || !Number.isFinite(time) || time < this.b) return false;
+  async tick({ time, playing, visible, ended = false }, seek, pause) {
+    // A verified natural-end event may arrive after isPlaying becomes false or
+    // before the SDK publishes its final timestamp. Ordinary pauses never count.
+    const naturalEnd = ended === true;
+    if (!this.enabled || this.seeking || !visible || (!playing && !naturalEnd) ||
+        (!naturalEnd && (!Number.isFinite(time) || time < this.b))) return false;
     const generation = this.generation;
     this.seeking = true;
     try {
       if (this.once) { this.enabled = false; await pause(); }
-      else await seek(this.a);
+      else await seek(this.a, { ended: naturalEnd });
       if (generation === this.generation) this.passes += 1;
       return true;
     }

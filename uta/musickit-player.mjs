@@ -1,6 +1,7 @@
-import { parseDeveloperToken, formatTime, boundedTime, SegmentLoop } from './player-core.mjs?v=7';
-import { resolveDeveloperToken } from './token-config.mjs?v=7';
-import { parseTime, validateRange, chooseAlbumSong, buildQueuePlan, sanitizePractice, upsertClip } from './practice-core.mjs?v=7';
+import { initLyricsPanel } from './lyrics-panel.mjs?v=8';
+import { parseDeveloperToken, formatTime, boundedTime, SegmentLoop } from './player-core.mjs?v=8';
+import { resolveDeveloperToken } from './token-config.mjs?v=8';
+import { parseTime, validateRange, chooseAlbumSong, buildQueuePlan, sanitizePractice, upsertClip } from './practice-core.mjs?v=8';
 
 const TOKEN_KEY = 'hibi-uta-musickit-developer-token-v1';
 const SDK_URL = 'https://js-cdn.music.apple.com/musickit/v3/musickit.js';
@@ -44,6 +45,22 @@ export function initMusicKitPlayer({ getURL, getSong, getSongs, onTrackChange, i
     if (code === 'AUTHORIZATION_ERROR') return 'Apple 授权未完成，请在 Safari 中重新点击授权。';
     return '操作未完成。请检查网络、令牌对应的 MusicKit 服务与中国区会员状态，再重试。';
   }
+  const lyrics = initLyricsPanel({
+    playLine: ({ mode, a, b, trackId, url }) => operation(async () => {
+      ensureFresh();
+      if (!music.isAuthorized || queuedURL !== url || getURL().href !== url || String(music.nowPlayingItem?.id || '') !== trackId) throw localError('歌曲已改变，请等待当前歌曲的歌词载入。');
+      stopSegment();
+      if (mode === 'continue') {
+        loop.reset(); updateRangeFields(); await seek(a); await music.play();
+        status('从这一句继续跟唱。');
+      } else {
+        try { validateRange(a, b, music.currentPlaybackDuration); } catch (e) { throw localError(e.message); }
+        loop.markA(a); loop.markB(b); updateRangeFields(); await startSegment(mode === 'once');
+      }
+      sample();
+    }),
+    stopLine: () => { if (!busy && !loop.seeking) { stopSegment(); refresh(); } },
+  });
   function resetMeasurements() { lastSample = null; timeUpdates = 0; seekCount = 0; }
   function refresh() {
     const locked = busy || loop.seeking;
@@ -95,6 +112,12 @@ export function initMusicKitPlayer({ getURL, getSong, getSongs, onTrackChange, i
     $('mk-telemetry').textContent = `读取到 ${timeUpdates} 次进度变化 · 已完成 ${seekCount} 次跳转`;
     const item = selectedLoaded ? music.nowPlayingItem : null;
     $('mk-track-detail').textContent = item?.attributes?.name ? `正在播放的曲目：${item.attributes.name} — ${item.attributes.artistName || ''}` : '选一首歌，再开始播放。';
+    lyrics.update({
+      active: isActive(), loaded: selectedLoaded && !settingQueue, authorized, busy: locked,
+      url: getURL().href, trackId: selectedLoaded ? String(item?.id || '') : '', time, duration,
+      catalogDuration: Number(item?.attributes?.durationInMillis) > 0 ? Number(item.attributes.durationInMillis) / 1000 : 0,
+      title: item?.attributes?.name || '', artist: item?.attributes?.artistName || '', album: item?.attributes?.albumName || '',
+    });
   }
   async function operation(task) {
     if (busy || loop.seeking) return;
@@ -134,7 +157,12 @@ export function initMusicKitPlayer({ getURL, getSong, getSongs, onTrackChange, i
     const time = music.currentPlaybackTime;
     if (queuedURL === getURL().href && Number.isFinite(time) && time !== lastSample) { lastSample = time; timeUpdates += 1; }
     refresh();
-    if (!busy) loop.tick({ time, playing: music.isPlaying, visible: document.visibilityState === 'visible' }, seek, async () => {
+    const states = window.MusicKit.PlaybackStates;
+    const ended = !!states && ((states.ended !== undefined && music.playbackState === states.ended) || (states.completed !== undefined && music.playbackState === states.completed)) && queuedURL === getURL().href && id === lastItemId;
+    if (!busy) loop.tick({ time, playing: music.isPlaying, ended, visible: document.visibilityState === 'visible' }, async (target, details) => {
+      await seek(target);
+      if (details.ended) await music.play();
+    }, async () => {
       await music.pause(); status('这一遍听完了。准备好后，再听一次。');
     }).then(completed => { if (completed) { syncRepeatMode(); refresh(); } })
       .catch(error => { syncRepeatMode(); status('片段练习已停止。' + failure(error), true); refresh(); });
@@ -211,9 +239,19 @@ export function initMusicKitPlayer({ getURL, getSong, getSongs, onTrackChange, i
     sample();
   }
   async function startSegment(once) {
+    // A native playlist can advance before a foreground timer observes the end.
+    // At that boundary, constrain the queue before starting the segment.
+    let isolatedEnd = false;
+    if (plan.length > 1 && loop.b >= music.currentPlaybackDuration - 0.05) {
+      const a = loop.a, b = loop.b, previous = practice.mode;
+      practice.mode = 'single';
+      try { await loadQueue(); loop.markA(a); loop.markB(b); updateRangeFields(); isolatedEnd = true; savePractice(); }
+      catch (error) { practice.mode = previous; syncRepeatMode(); throw error; }
+      $('mk-listen-mode').value = practice.mode;
+    }
     try { loop.start({ once }); } catch (e) { throw localError(e.message); }
     syncRepeatMode();
-    try { await seek(loop.a); await music.play(); status(once ? '听完选段后暂停。请保持页面在前台。' : '正在循环这个片段，请保持页面在前台。'); }
+    try { await seek(loop.a); await music.play(); status((isolatedEnd ? '末句练习已切回单曲播放。' : '') + (once ? '听完选段后暂停。请保持页面在前台。' : '正在循环这个片段，请保持页面在前台。')); }
     catch (e) { stopSegment(); throw e; }
   }
   async function connect(raw) {
@@ -226,7 +264,7 @@ export function initMusicKitPlayer({ getURL, getSong, getSongs, onTrackChange, i
   async function initialize(parsed, source) {
       status('正在连接 MusicKit…');
       const kit = await loadSDK();
-      await kit.configure({ developerToken: parsed.token, app: { name: '日々うた', build: '7' }, storefrontId: 'cn' });
+      await kit.configure({ developerToken: parsed.token, app: { name: '日々うた', build: '8' }, storefrontId: 'cn' });
       music = kit.getInstance();
       if (!music) throw localError('MusicKit 初始化未完成，请重新连接。');
       connectedToken = parsed.token; expiresAt = parsed.expiresAt; tokenSource = source; syncRepeatMode();

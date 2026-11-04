@@ -57,3 +57,37 @@ test('failed automatic seek disables the loop',async()=>{
   await assert.rejects(loop.tick({time:10,playing:true,visible:true},async()=>{throw Error('network');}));
   assert.equal(loop.enabled,false);assert.equal(loop.seeking,false);
 });
+
+test('final segment restarts only on verified natural end, never an ordinary pause', async () => {
+  const loop = new SegmentLoop(); loop.markA(110); loop.markB(120); loop.start();
+  const calls = [];
+  const seek = async (time, options) => { calls.push({ time, ...options }); };
+  // The SDK can pause at the last reported timestamp without reaching B.
+  assert.equal(await loop.tick({ time: 119.9, playing: false, visible: true }, seek), false);
+  assert.equal(await loop.tick({ time: 120, playing: false, visible: true }, seek), false);
+  assert.equal(await loop.tick({ time: 119.9, playing: false, visible: true, ended: 'ended' }, seek), false);
+  assert.equal(await loop.tick({ time: 119.9, playing: false, visible: false, ended: true }, seek), false);
+  // The caller supplies the actual natural-end state for this track and resumes
+  // inside the awaited seek callback; overlapping end events cannot start twice.
+  let finish;
+  const pending = loop.tick({ time: 119.9, playing: false, visible: true, ended: true }, async (time, options) => {
+    calls.push({ time, ...options });
+    await new Promise(resolve => { finish = resolve; });
+  });
+  assert.equal(await loop.tick({ time: 120, playing: false, visible: true, ended: true }, seek), false);
+  assert.deepEqual(calls, [{ time: 110, ended: true }]);
+  assert.equal(loop.passes, 0);
+  finish(); assert.equal(await pending, true); assert.equal(loop.passes, 1);
+  assert.equal(await loop.tick({ time: 110, playing: true, visible: true }, seek), false);
+});
+
+test('final one-pass segment completes once on natural end and cannot restart', async () => {
+  const loop = new SegmentLoop(); loop.markA(110); loop.markB(120); loop.start({ once: true });
+  let pauses = 0;
+  const seek = async () => assert.fail('one-pass segment must not seek');
+  const pause = async () => { pauses += 1; };
+  assert.equal(await loop.tick({ time: 119.9, playing: false, visible: true, ended: true }, seek, pause), true);
+  assert.equal(loop.enabled, false); assert.equal(loop.passes, 1); assert.equal(pauses, 1);
+  assert.equal(await loop.tick({ time: 120, playing: false, visible: true, ended: true }, seek, pause), false);
+  assert.equal(pauses, 1);
+});

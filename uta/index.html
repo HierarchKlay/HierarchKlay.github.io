@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#f5f7f2">
-  <meta name="description" content="日々うた：在 iPhone 上验证 Apple Music 原唱跟唱、整首循环与片段反复练习。">
+  <meta name="description" content="日々うた：在 iPhone 上跟着原唱练日语歌：逐句歌词、假名读音、连续跟唱与片段循环。">
   <title>日々うた · 每天唱会一点</title>
-  <link rel="stylesheet" href="styles.css?v=7">
-  <script type="module" src="app.js?v=7"></script>
+  <link rel="stylesheet" href="styles.css?v=8">
+  <script type="module" src="app.js?v=8"></script>
 </head>
 <body>
 <div class="shell">
-  <header><a class="brand" href="./" aria-label="日々うた首页">日々<span>うた</span><small>HIBI UTA</small></a><div class="header-actions"><button id="focus-toggle" class="text-button" type="button" aria-pressed="false">专注练唱</button><span class="edition">练唱手帖 · 07</span></div></header>
+  <header><a class="brand" href="./" aria-label="日々うた首页">日々<span>うた</span><small>HIBI UTA</small></a><div class="header-actions"><button id="focus-toggle" class="text-button" type="button" aria-pressed="false">专注练唱</button><span class="edition">练唱手帖 · 08</span></div></header>
   <main>
     <div class="intro"><span class="eyebrow">いつでも、歌と。</span><h1>一首歌，<br>慢慢唱进日常。</h1><p>先完整听，再把难唱的几秒，多练几遍。</p></div>
     <div class="layout">
@@ -54,6 +54,19 @@
             <div class="transport-buttons"><button id="mk-back" class="secondary" type="button" disabled>−5 秒</button><button id="mk-play" class="primary" type="button" disabled>播放这首歌</button><button id="mk-forward" class="secondary" type="button" disabled>＋5 秒</button></div>
             <div class="track-navigation"><button id="mk-previous" class="text-button" type="button" disabled>上一首</button><button id="mk-restart" class="text-button" type="button" disabled>从头听</button><button id="mk-next" class="text-button" type="button" disabled>下一首</button></div><form id="mk-jump-form" class="jump-row"><label for="mk-jump-time">跳到第</label><input id="mk-jump-time" type="number" min="0" step="0.1" inputmode="decimal" placeholder="30" disabled><span>秒</span><button id="mk-jump" class="secondary" type="submit" disabled>跳转</button></form>
           </div>
+          <section class="lyrics-panel" aria-labelledby="lyrics-title">
+            <div class="lyrics-heading"><div><span class="eyebrow">歌いながら、少しずつ。</span><h3 id="lyrics-title">跟着这一句，唱。</h3></div><label class="furigana-switch"><input id="lyrics-furigana" type="checkbox"> 汉字注假名</label></div>
+            <p id="lyrics-status" class="quiet" role="status">播放这首歌后，自动寻找对应版本的歌词。</p>
+            <button id="lyrics-retry" class="secondary" type="button" hidden>重新查找歌词</button>
+            <div id="lyrics-content" hidden>
+              <div class="lyrics-toolbar"><span id="lyrics-choice">随原唱慢慢进入</span><button id="lyrics-follow" class="text-button" type="button" aria-pressed="true">正在跟随</button></div>
+              <div id="lyrics-lines" class="lyrics-lines" role="region" aria-label="逐句歌词" tabindex="0"></div>
+              <div id="lyrics-actions" class="lyrics-actions"><button id="lyrics-once" class="secondary" type="button" disabled>只听这句</button><button id="lyrics-loop" class="secondary" type="button" disabled>循环这句</button><button id="lyrics-continue" class="primary" type="button" disabled>从这句连唱</button></div>
+              <details id="lyrics-timing" class="lyrics-timing"><summary>歌词快慢微调 <span id="lyrics-offset">原始时间</span></summary><p class="quiet">如果歌词比歌声慢，就点「提前」；反之点「延后」。设置仅保存在此浏览器。</p><div class="offset-actions"><button id="lyrics-earlier" class="secondary" type="button">提前 0.2 秒</button><button id="lyrics-later" class="secondary" type="button">延后 0.2 秒</button><button id="lyrics-offset-reset" class="text-button" type="button">重置</button></div></details>
+            </div>
+            <p id="lyrics-reading-status" class="quiet">开启假名可帮助读出汉字；首次需下载约 18 MB 词典。</p>
+            <details class="lyrics-about"><summary>歌词与读音来源</summary><p class="quiet"><a id="lyrics-source" href="https://lrclib.net/" target="_blank" rel="noopener noreferrer" hidden>歌词来源：LRCLIB</a></p><p class="quiet">歌词与时间轴来自 LRCLIB 社区，按歌曲名称、歌手与时长匹配，可能有遗漏或偏差。假名由 Kuromoji 自动生成，特殊唱法以原唱为准。歌词只在本次页面显示；不会写入网站仓库或你的练习记录。</p><p class="quiet">歌词权利归原权利人所有；API 开放访问不等于歌词已获再发布授权。<a href="https://lrclib.net/developers/terms" target="_blank" rel="noopener noreferrer">来源条款 ↗</a></p></details>
+          </section>
           <section class="practice-panel" aria-labelledby="practice-title">
             <div class="practice-heading"><h3 id="practice-title">把难唱的几秒，留下来。</h3><span class="local-tag">片段练习 · 保持前台</span></div>
             <p class="quiet">听到开头点 A，听到结尾点 B。可以听一遍、循环练，或保存下来。</p>
@@ -65,7 +78,7 @@
             <div class="saved-clips-heading"><h3>我的练习片段 <span id="mk-clip-count">0</span></h3><span class="local-tag">仅存于此浏览器</span></div>
             <p id="mk-clips-empty" class="quiet">保存后会出现在这里，下次打开也能继续练。</p><div id="mk-clips" class="saved-clips"></div>
             <button id="mk-undo-delete" class="text-button" type="button" hidden>撤销删除片段</button>
-            <p class="quiet practice-boundary">锁屏或切到后台会结束片段练习，音频可继续整首播放。逐句歌词与假名还在接入准备中。</p>
+            <p class="quiet practice-boundary">锁屏或切到后台会结束片段练习，音频可继续整首播放。歌词高亮与单句练习需保持页面在前台。</p>
           </section>
           <details class="player-diagnostics"><summary>连接详情与播放诊断</summary><p id="mk-telemetry" class="quiet">读取到 0 次进度变化 · 已完成 0 次跳转</p></details>
         </div>
